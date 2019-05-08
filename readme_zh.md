@@ -5,6 +5,7 @@
 
 - [codepen](https://codepen.io/) - 前端在线编辑器
 - [ideone](https://ideone.com/) - 支持c++，java等多种语言的在线编辑器
+- [try-freemarker](https://try.freemarker.apache.org/) - freemarker语言校验器
 - [pdf2doc](https://pdf2doc.com/) - pdf文件转doc文件
 - [cssspritegenerator](https://spritegen.website-performance.org/) - css雪碧图生成器
 - [base64](http://tool.oschina.net/encrypt?type=3) - base64转码
@@ -23,7 +24,7 @@
 - [vultr](https://www.vultr.com/) - VPS服务器
 - []() - 
 
-# Apis
+# APIs
 
 - [devdocs](https://devdocs.io/) - 非常好用的免费API搜索工具
 - [overapi](http://overapi.com/) - API大全导航
