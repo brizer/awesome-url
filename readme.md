@@ -1,7 +1,7 @@
 # Introduction
-Some urls for more powerful sites
+Some powerful sites
 
-[Chinese documentation] (./readme_zh.md)
+[中文文档] (./readme_zh.md)
 
 # Tools
 
