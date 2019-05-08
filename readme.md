@@ -38,3 +38,9 @@ Some powerful sites
 - [miniprogram](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html) -Miniprogram Development Manual
 - [mongoose](https://mongoosejs.com/) - mongo corresponds to the DAL layer tool
 - []() -
+
+
+# Node Modules
+
+Some powerful node modules，[details](./docs/node_modules.md)
+

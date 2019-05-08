@@ -37,3 +37,7 @@
 - [mongoose](https://mongoosejs.com/) - mongo对应DAL层工具
 - []() -
 
+# Node Modules
+
+比较好用的node模块，[独立展示](./docs/node_modules_zh.md)
+
