@@ -1,0 +1,6 @@
+- [Vue](https://github.com/vuejs/vue) - Vue本身
+- [vuex](https://github.com/vuejs/vuex) - Vue状态管理
+- [vue-class-component](https://github.com/vuejs/vue-class-component) - 用于编写class风格的vue组件的装饰器
+- [vue-cli](https://github.com/vuejs/vue-cli) - Vue的官方脚手架工具
+- [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator) - Vue的属性装饰器
+- [vue-router](https://github.com/vuejs/vue-router) - Vue的路由器

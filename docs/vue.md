@@ -1,0 +1,6 @@
+- [Vue](https://github.com/vuejs/vue) - Vue itself
+- [vuex](https://github.com/vuejs/vuex) - State management for Vue
+- [vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components
+- [vue-cli](https://github.com/vuejs/vue-cli) - Official scaffolding tool of Vue
+- [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator) - Props decorator for Vue
+- [vue-router](https://github.com/vuejs/vue-router) - Router for Vue
