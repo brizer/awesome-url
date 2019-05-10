@@ -1,0 +1,1 @@
+- [SwaggerUIExpress](https://www.npmjs.com/package/swagger-ui-express) - A middleware to add swagger document ui to express

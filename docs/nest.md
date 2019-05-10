@@ -1,0 +1,3 @@
+- [@nestjs/swagger](https://www.npmjs.com/package/@nestjs/swagger) - API management tool swagger for nest
+- [@nestjs/typeorm](https://www.npmjs.com/package/@nestjs/typeorm) - The TypeORM module for Nest
+- [nest](https://github.com/nestjs/nest) - Nest itself
