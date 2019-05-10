@@ -1,3 +1,7 @@
+[中文文档](./vue_zh.md)
+
+
+- [element](https://github.com/ElemeFE/element) - ElementUI Toolkit
 - [Vue](https://github.com/vuejs/vue) - Vue itself
 - [vuex](https://github.com/vuejs/vuex) - State management for Vue
 - [vue-18n](https://github.com/kazupon/vue-i18n) - Internationalization for Vue
