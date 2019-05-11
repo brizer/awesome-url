@@ -5,6 +5,7 @@
 - [Vue](https://github.com/vuejs/vue) - Vue itself
 - [vuex](https://github.com/vuejs/vuex) - State management for Vue
 - [vue-18n](https://github.com/kazupon/vue-i18n) - Internationalization for Vue
+- [vue-axios](https://www.npmjs.com/package/vue-axios) - Wragger for intergating axios to vue
 - [vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components
 - [vue-cli](https://github.com/vuejs/vue-cli) - Official scaffolding tool of Vue
 - [vue-instantsearch](https://github.com/algolia/vue-instantsearch) - Algolia components for building search UIs with Vue

@@ -3,6 +3,7 @@
 - [Vue](https://github.com/vuejs/vue) - Vue本身
 - [vuex](https://github.com/vuejs/vuex) - Vue状态管理
 - [vue-18n](https://github.com/kazupon/vue-i18n) - Vue国际化
+- [vue-axios](https://www.npmjs.com/package/vue-axios) - 将axios集成到vue的包装器
 - [vue-class-component](https://github.com/vuejs/vue-class-component) - 用于编写class风格的vue组件的装饰器
 - [vue-cli](https://github.com/vuejs/vue-cli) - Vue的官方脚手架工具
 - [vue-instantsearch](https://github.com/algolia/vue-instantsearch) - 构建Vue的搜索组件
