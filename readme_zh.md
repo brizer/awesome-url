@@ -33,6 +33,7 @@
 - [overapi](http://overapi.com/) - API大全导航
 - [w3school-css](http://www.w3school.com.cn/cssref/index.asp) - css属性大全
 - [node](https://nodejs.org/api/index.html) - nodejs的API
+- [PM2](https://pm2.io/doc/en/runtime/overview/) - PM2，node进程管理
 - [sass](http://sass.bootcss.com/docs/sass-reference/) - sass的API
 - [less](https://less.bootcss.com/features/) - less的API
 - [wechat](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432) - 微信开发手册

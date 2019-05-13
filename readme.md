@@ -35,6 +35,7 @@ Some powerful sites
 - [overapi](http://overapi.com/) - API Daquan Navigation
 - [w3school-css](http://www.w3school.com.cn/cssref/index.asp) - css attribute Daquan
 - [node](https://nodejs.org/api/index.html) - nodejs API
+- [PM2](https://pm2.io/doc/en/runtime/overview/) - node process management 
 - [sass](http://sass.bootcss.com/docs/sass-reference/) - sass API
 - [less](https://less.bootcss.com/features/) - less API
 - [wechat](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432) - WeChat Development Manual
