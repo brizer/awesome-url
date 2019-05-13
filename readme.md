@@ -24,11 +24,13 @@ Some powerful sites
 - [astexplorer](https://astexplorer.net/) - AST syntax tree parsing
 - [npmtrends](https://www.npmtrends.com/) - npm module comparator
 - [vultr](https://www.vultr.com/) - VPS Server
+- [web.dev](https://web.dev/measure) - see how well your website performs, launched by Google
 - []() -
 
 # APIs
 
 - [devdocs](https://devdocs.io/) - A free API search tool
+- [docker](https://docs.docker.com/engine/reference/commandline/docker/) - Docker CLI
 - [elementUI](https://element.eleme.cn/#/zh-CN/component/installation) - Vue-based UI library developed by ELE
 - [overapi](http://overapi.com/) - API Daquan Navigation
 - [w3school-css](http://www.w3school.com.cn/cssref/index.asp) - css attribute Daquan
