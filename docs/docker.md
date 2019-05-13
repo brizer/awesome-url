@@ -1,0 +1,1 @@
+- [awesome-docker](https://github.com/veggiemonk/awesome-docker) - some useful resource for docker
