@@ -54,3 +54,6 @@
 
 比较好用的node模块，[独立展示](./docs/node_modules_zh.md)
 
+# 信息流
+
+一些接收知识的地方 [独立展示](./docs/information_flow_zh.md)

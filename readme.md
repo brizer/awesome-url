@@ -54,3 +54,6 @@ Some powerful sites
 
 Some powerful node modules，[details](./docs/node_modules.md)
 
+# Information Flow
+
+Some places to receive knowledge [details](./docs/information_flow.md)
