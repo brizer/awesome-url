@@ -9,6 +9,7 @@
 - [medium](https://medium.com/) - quality technical articles in world
 - [stackoverflow](https://stackoverflow.com/) - Problem solving platform
 - [v2ex](https://www.v2ex.com/) - Geek community
+- [zhihu](https://www.zhihu.com/) - Knowledge question and answer platform in China
 
 
 # Algorithm

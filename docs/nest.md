@@ -1,3 +1,5 @@
+- [@nestjs/cli](https://www.npmjs.com/package/@nestjs/cli) - nest cli tool
+- [@nestjs/schematics](https://www.npmjs.com/package/@nestjs/schematics) - nest template for cli
 - [@nestjs/swagger](https://www.npmjs.com/package/@nestjs/swagger) - API management tool swagger for nest
 - [@nestjs/terminus](https://www.npmjs.com/package/@nestjs/terminus) - healthchecks for nest
 - [@nestjs/typeorm](https://www.npmjs.com/package/@nestjs/typeorm) - The TypeORM module for Nest

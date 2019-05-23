@@ -7,6 +7,7 @@
 - [medium](https://medium.com/) - 世界的优质技术文章
 - [stackoverflow](https://stackoverflow.com/) - 问题解答平台
 - [v2ex](https://www.v2ex.com/) - 极客社区
+- [zhihu](https://www.zhihu.com/) - 中国在线知识问答平台
 
 # 算法
 

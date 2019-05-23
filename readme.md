@@ -25,6 +25,7 @@ Some powerful sites
 - [npmtrends](https://www.npmtrends.com/) - npm module comparator
 - [vultr](https://www.vultr.com/) - VPS Server
 - [web.dev](https://web.dev/measure) - see how well your website performs, launched by Google
+- [typescript-playground](https://www.typescriptlang.org/play/index.html) - Typescript Compare pure javascript online
 - []() -
 
 # APIs
