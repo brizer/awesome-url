@@ -4,10 +4,13 @@
 - [vuex](https://github.com/vuejs/vuex) - Vue状态管理
 - [vue-18n](https://github.com/kazupon/vue-i18n) - Vue国际化
 - [vue-axios](https://www.npmjs.com/package/vue-axios) - 将axios集成到vue的包装器
+- [vue-bus](https://www.npmjs.com/package/vue-bus) - 一个Event bus
 - [vue-class-component](https://github.com/vuejs/vue-class-component) - 用于编写class风格的vue组件的装饰器
 - [vue-cli](https://github.com/vuejs/vue-cli) - Vue的官方脚手架工具
 - [vue-instantsearch](https://github.com/algolia/vue-instantsearch) - 构建Vue的搜索组件
+- [vue-lazyload](https://www.npmjs.com/package/vue-lazyload) - 懒加载图片
 - [vue-meta](https://github.com/nuxt/vue-meta) - 管理页面meta信息
+- [vue-moment](https://www.npmjs.com/package/vue-moment) - 简便 Moment.js 过滤器
 - [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility) - 检测一个元素是否在视窗内
 - [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator) - Vue的属性装饰器
 - [vue-responsive](https://github.com/reinerBa/Vue-Responsive) - 一个响应式处理插件
