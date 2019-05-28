@@ -26,10 +26,12 @@ Some powerful sites
 - [vultr](https://www.vultr.com/) - VPS Server
 - [web.dev](https://web.dev/measure) - see how well your website performs, launched by Google
 - [typescript-playground](https://www.typescriptlang.org/play/index.html) - Typescript Compare pure javascript online
+- [vpn-classb](http://cloud.netease.com/vpn) - vpn for work
 - []() -
 
 # APIs
 
+- [AntTask](https://ant.apache.org/manual/) - Apache Ant Task API
 - [devdocs](https://devdocs.io/) - A free API search tool
 - [docker](https://docs.docker.com/engine/reference/commandline/docker/) - Docker CLI
 - [elementUI](https://element.eleme.cn/#/zh-CN/component/installation) - Vue-based UI library developed by ELE
@@ -42,6 +44,8 @@ Some powerful sites
 - [wechat](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432) - WeChat Development Manual
 - [miniprogram](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html) -Miniprogram Development Manual
 - [mongoose](https://mongoosejs.com/) - mongo corresponds to the DAL layer tool
+- [Vue](https://vuejs.org/v2/api/index.html) - Vue view
+- [webpack](https://webpack.js.org/api) - webpack API
 - []() -
 
 # Framework and its related ecology
