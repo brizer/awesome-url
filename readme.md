@@ -35,12 +35,15 @@ Some powerful sites
 - [devdocs](https://devdocs.io/) - A free API search tool
 - [docker](https://docs.docker.com/engine/reference/commandline/docker/) - Docker CLI
 - [elementUI](https://element.eleme.cn/#/zh-CN/component/installation) - Vue-based UI library developed by ELE
+- [express](https://expressjs.com/en/4x/api.html) - express API
 - [overapi](http://overapi.com/) - API Daquan Navigation
 - [w3school-css](http://www.w3school.com.cn/cssref/index.asp) - css attribute Daquan
+- [jsdoc](https://jsdoc.app/) - jsdoc API
 - [node](https://nodejs.org/api/index.html) - nodejs API
 - [PM2](https://pm2.io/doc/en/runtime/overview/) - node process management 
 - [sass](http://sass.bootcss.com/docs/sass-reference/) - sass API
 - [less](https://less.bootcss.com/features/) - less API
+- [lodash](https://lodash.com/docs/4.17.11) - lodash API
 - [wechat](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432) - WeChat Development Manual
 - [miniprogram](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html) -Miniprogram Development Manual
 - [mongoose](https://mongoosejs.com/) - mongo corresponds to the DAL layer tool
