@@ -54,7 +54,8 @@
 
 - [Docker](./docs/docker_zh.md) - 容器
 - [Express](./docs/express_zh.md) - Node的web框架
-- [Nest](./docs/nest_zh.md) - 基于express的后端框架
+- [Nest](./docs/nest_zh.md) - 基于express的后端框
+- [Typescript](./docs/typescript_zh.md)  - javascript的超集
 - [Vue](./docs/vue_zh.md) - 前端响应式视图层框架
 
 
@@ -65,3 +66,8 @@
 # 信息流
 
 一些接收知识的地方 [独立展示](./docs/information_flow_zh.md)
+
+
+# Mac工具类应用
+
+Mac中的一些强力工具 [独立展示](./docs/mac_zh.md)
