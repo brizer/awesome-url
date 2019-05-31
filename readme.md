@@ -5,6 +5,7 @@ Some powerful sites
 
 # Tools
 
+- [codebeautify](https://codebeautify.org/) - Formatiing tools for all language
 - [codepen](https://codepen.io/) - Front End Online Editor
 - [ideone](https://ideone.com/) - Supports online editors for multiple languages ​​such as c++ and java
 - [try-freemarker](https://try.freemarker.apache.org/) - freemarker language checker
@@ -14,6 +15,7 @@ Some powerful sites
 - [processon](https://www.processon.com/) - Drawing tools (architecture, flow chart)
 - [cssanimate](http://cssanimate.com/) - css3 animation generation tool
 - [Device Metrics](https://material.io/tools/devices/) - Mobile device size
+- [sass](https://www.sassmeister.com/) - Sass online editor
 - [sequencediagram](https://sequencediagram.org/index.html?initialData=FABwhgTgLglgxjcA7KACAgqSsHLQIS2nkTBVQGEidTyARYdAWgD58AuGJAMwHtgwcWADcwUAKapC+VhU49+gkWMlUKrFnXl8BQmKImoG+ADxMmcrjoAm4pfpWVGZphyv9b9g5OlmtcMAAbQIAjQQBrYE89byNdZUNCdBMXNwUouxjHQnBiXDICahI8OK9HY1Ytd3iHRIyyiTBuCQgpYDpK7UUswwYAZ3A4cXqeyTogA) - generate Sequencediagram chart by the specific syntax
 - [ideaLanyus](http://idea.lanyus.com/) - Intellij crack
 - [regexper](https://regexper.com/) - Regular Expression Flowchart
@@ -36,6 +38,7 @@ Some powerful sites
 - [docker](https://docs.docker.com/engine/reference/commandline/docker/) - Docker CLI
 - [elementUI](https://element.eleme.cn/#/zh-CN/component/installation) - Vue-based UI library developed by ELE
 - [express](https://expressjs.com/en/4x/api.html) - express API
+- [git-scm](https://git-scm.com/docs) - git documentation
 - [overapi](http://overapi.com/) - API Daquan Navigation
 - [w3school-css](http://www.w3school.com.cn/cssref/index.asp) - css attribute Daquan
 - [jsdoc](https://jsdoc.app/) - jsdoc API
@@ -47,6 +50,7 @@ Some powerful sites
 - [wechat](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432) - WeChat Development Manual
 - [miniprogram](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html) -Miniprogram Development Manual
 - [mongoose](https://mongoosejs.com/) - mongo corresponds to the DAL layer tool
+- [typescript-config](https://www.typescriptlang.org/docs/handbook/compiler-options.html) - Compiler options for typescript
 - [Vue](https://vuejs.org/v2/api/index.html) - Vue view
 - [webpack](https://webpack.js.org/api) - webpack API
 - []() -
