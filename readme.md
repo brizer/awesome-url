@@ -39,6 +39,7 @@ Some powerful sites
 - [elementUI](https://element.eleme.cn/#/zh-CN/component/installation) - Vue-based UI library developed by ELE
 - [express](https://expressjs.com/en/4x/api.html) - express API
 - [git-scm](https://git-scm.com/docs) - git documentation
+- [jquery](https://www.html.cn/jqapi-1.9/) - dom operaition
 - [overapi](http://overapi.com/) - API Daquan Navigation
 - [w3school-css](http://www.w3school.com.cn/cssref/index.asp) - css attribute Daquan
 - [jsdoc](https://jsdoc.app/) - jsdoc API
@@ -57,6 +58,7 @@ Some powerful sites
 
 # Framework and its related ecology
 
+- [Babel](./docs/babel.md) - Js parser
 - [Docker](./docs/docker.md) - Container
 - [Express](./docs/express.md) - Node Web framework 
 - [Nest](./docs/nest.md) - Backend framework based on express

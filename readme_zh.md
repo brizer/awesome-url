@@ -35,6 +35,7 @@
 - [devdocs](https://devdocs.io/) - 非常好用的免费API搜索工具
 - [docker](https://docs.docker.com/engine/reference/commandline/docker/) - Docker的命令行工具
 - [elementUI](https://element.eleme.cn/#/zh-CN/component/installation) - 饿了么基于Vue的UI库
+- [jquery](https://www.html.cn/jqapi-1.9/) - dom操作
 - [git-scm](https://git-scm.com/docs) - git文档
 - [express](https://expressjs.com/en/4x/api.html) - express API
 - [overapi](http://overapi.com/) - API大全导航
@@ -56,6 +57,7 @@
 
 # 框架和其相关生态
 
+- [Babel](./docs/babel_zh.md) - Js 解析器
 - [Docker](./docs/docker_zh.md) - 容器
 - [Express](./docs/express_zh.md) - Node的web框架
 - [Nest](./docs/nest_zh.md) - 基于express的后端框
