@@ -1,5 +1,7 @@
 
 - [antd](https://www.npmjs.com/package/antd) - UI Components
+- [react-redux](https://www.npmjs.com/package/react-redux) - redux connection for react
+    - [Use it in realworld](https://github.com/FunnyLiu/react-redux-realworld-example-app/blob/master/src/index.js#L2)
 - [react-tippy](https://www.npmjs.com/package/react-tippy) - a tippy component
 - [styled-components](https://www.npmjs.com/package/styled-components) - css in js resolution for React and React Native
     - [Use it in a small React project](https://github.com/FunnyLiu/majestic/blob/master/ui/container.tsx#L14)

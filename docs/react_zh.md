@@ -1,5 +1,7 @@
 
 - [antd](https://www.npmjs.com/package/antd) - UI组件
+- [react-redux](https://www.npmjs.com/package/react-redux) - redux针对react的连接
+    - [在realworld项目中使用之](https://github.com/FunnyLiu/react-redux-realworld-example-app/blob/master/src/index.js#L2)
 - [react-tippy](https://www.npmjs.com/package/react-tippy) - 一个提示组件
 - [styled-components](https://www.npmjs.com/package/styled-components) - React和React Native的css in js解决方案
     - [在一个小型React项目中使用它](https://github.com/FunnyLiu/majestic/blob/master/ui/container.tsx#L14)
