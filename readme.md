@@ -3,7 +3,7 @@ Some powerful sites
 
 [中文文档](./readme_zh.md)
 
-# Tools
+# Online Tools
 
 - [codebeautify](https://codebeautify.org/) - Formatiing tools for all language
 - [codepen](https://codepen.io/) - Front End Online Editor
@@ -64,8 +64,10 @@ Some powerful sites
 - [Express](./docs/express.md) - Node Web framework 
 - [Nest](./docs/nest.md) - Backend framework based on express
 - [React](./docs/react.md) - Frontend component framework
+- [Redux](./docs/redux.md) - data state management
 - [Typescript](./docs/typescript.md) - The superset of javascript
 - [Vue](./docs/vue.md) - Frontend responsive view layer framework
+- [Webpack](./docs/webpack.md) - pack tools for front-end
 
 # Node Modules
 
@@ -77,4 +79,8 @@ Some places to receive knowledge [details](./docs/information_flow.md)
 
 # Mac Tools App
 
-Some powerful tools for Mac OS, [detauls](./docs/mac.md)
+Some powerful tools for Mac OS, [details](./docs/mac.md)
+
+# Dev Tools
+
+Some powerful tools during developing [details](./docs/dev.md)

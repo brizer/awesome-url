@@ -1,5 +1,7 @@
 
 - [antd](https://www.npmjs.com/package/antd) - UI Components
+- [react](https://www.npmjs.com/package/react) - React is a JavaScript library for creating user interfaces
+- [react-dom](https://www.npmjs.com/package/react-dom) - This package serves as the entry point to the DOM and server renderers for React
 - [react-redux](https://www.npmjs.com/package/react-redux) - redux connection for react
     - [Use it in realworld](https://github.com/FunnyLiu/react-redux-realworld-example-app/blob/master/src/index.js#L2)
 - [react-tippy](https://www.npmjs.com/package/react-tippy) - a tippy component

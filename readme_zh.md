@@ -1,7 +1,7 @@
 # 简介
 一些比较给力的网站的url
 
-# Tools
+# 在线工具
 
 - [codebeautify](https://codebeautify.org/) - 全语言格式化工具
 - [codepen](https://codepen.io/) - 前端在线编辑器
@@ -62,9 +62,11 @@
 - [Docker](./docs/docker_zh.md) - 容器
 - [Express](./docs/express_zh.md) - Node的web框架
 - [Nest](./docs/nest_zh.md) - 基于express的后端框
-- [React](./docs/react_zh.md) = 前端组件框架
+- [React](./docs/react_zh.md) - 前端组件框架
+- [Redux](./docs/redux_zh.md) - 数据状态管理
 - [Typescript](./docs/typescript_zh.md)  - javascript的超集
 - [Vue](./docs/vue_zh.md) - 前端响应式视图层框架
+- [webpack](./docs/webpack_zh.md) - 前端打包工具
 
 
 # Node模块
@@ -79,3 +81,7 @@
 # Mac工具类应用
 
 Mac中的一些强力工具 [独立展示](./docs/mac_zh.md)
+
+# 开发工具
+
+开发过程中强有力的工具 [独立展示](./docs/dev_zh.md)

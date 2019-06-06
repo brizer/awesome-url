@@ -1,5 +1,7 @@
 
 - [antd](https://www.npmjs.com/package/antd) - UI组件
+- [react](https://www.npmjs.com/package/react) - React是一个用于创建用户界面的JavaScript库
+- [react-dom](https://www.npmjs.com/package/react-dom) - 此包用作React的DOM和服务器呈现器的入口点
 - [react-redux](https://www.npmjs.com/package/react-redux) - redux针对react的连接
     - [在realworld项目中使用之](https://github.com/FunnyLiu/react-redux-realworld-example-app/blob/master/src/index.js#L2)
 - [react-tippy](https://www.npmjs.com/package/react-tippy) - 一个提示组件
