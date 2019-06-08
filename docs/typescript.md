@@ -1,1 +1,2 @@
 - [ts-node](https://www.npmjs.com/package/ts-node) - Typescript execution
+- [typescript-book](https://github.com/basarat/typescript-book) - best typescript book

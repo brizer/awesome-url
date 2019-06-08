@@ -10,3 +10,4 @@
     - [在一个小型React项目中使用它](https://github.com/FunnyLiu/majestic/blob/master/ui/container.tsx#L14)
 - [styled-normalize](https://www.npmjs.com/package/styled-normalize) - 将normalize用于styled-components   
     - [配合styled-components使用](https://github.com/brizer/http-mocker/blob/dev/packages/editor/ui/App.tsx#L4)
+- [umi](https://www.npmjs.com/package/umi) - 来自阿里巴巴的react企业级应用框架

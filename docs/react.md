@@ -10,3 +10,4 @@
     - [Use it in a small React project](https://github.com/FunnyLiu/majestic/blob/master/ui/container.tsx#L14)
 - [styled-normalize](https://www.npmjs.com/package/styled-normalize) -  use normalize with styled-components
     - [Use it with styled-components](https://github.com/brizer/http-mocker/blob/dev/packages/editor/ui/App.tsx#L4)
+- [umi](https://www.npmjs.com/package/umi) - enterprise-level react application framework from alibaba
