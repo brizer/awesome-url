@@ -25,6 +25,7 @@
 - [npmtrends](https://www.npmtrends.com/) - npm模块比较器
 - [vultr](https://www.vultr.com/) - VPS服务器
 - [web.dev](https://web.dev/measure) - 由谷歌推出的检测网站性能和体验的测试工具
+- [Timestamp tool](https://tool.chinaz.com/Tools/unixtime.aspx) - 时间戳转换工具
 - [typescript-playground](https://www.typescriptlang.org/play/index.html) - Typescript和原生js对比，在线
 - [vpn-classb](http://cloud.netease.com/vpn) - 工作需要vpn
 - []() - 
@@ -50,6 +51,8 @@
 - [wechat](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432) - 微信开发手册
 - [miniprogram](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html) - 小程序开发手册
 - [mongoose](https://mongoosejs.com/) - mongo对应DAL层工具
+- [nestjs](https://docs.nestjs.com/) - 服务端架构
+- [typeorm](https://typeorm.io/#/) - 最好的node的orm框架
 - [typescript-config](https://www.typescriptlang.org/docs/handbook/compiler-options.html) - typescript的编译参数
 - [Vue](https://cn.vuejs.org/v2/api/) - Vue view 
 - [webpack](https://webpack.js.org/api) - webpack API

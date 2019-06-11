@@ -27,6 +27,7 @@ Some powerful sites
 - [npmtrends](https://www.npmtrends.com/) - npm module comparator
 - [vultr](https://www.vultr.com/) - VPS Server
 - [web.dev](https://web.dev/measure) - see how well your website performs, launched by Google
+- [Timestamp tool](https://tool.chinaz.com/Tools/unixtime.aspx) - timestamp transform tool
 - [typescript-playground](https://www.typescriptlang.org/play/index.html) - Typescript Compare pure javascript online
 - [vpn-classb](http://cloud.netease.com/vpn) - vpn for work
 - []() -
@@ -52,6 +53,8 @@ Some powerful sites
 - [wechat](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432) - WeChat Development Manual
 - [miniprogram](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html) -Miniprogram Development Manual
 - [mongoose](https://mongoosejs.com/) - mongo corresponds to the DAL layer tool
+- [nestjs](https://docs.nestjs.com/) - server side architecture
+- [typeorm](https://typeorm.io/#/) - best orm for nodejs
 - [typescript-config](https://www.typescriptlang.org/docs/handbook/compiler-options.html) - Compiler options for typescript
 - [Vue](https://vuejs.org/v2/api/index.html) - Vue view
 - [webpack](https://webpack.js.org/api) - webpack API
