@@ -55,6 +55,7 @@ Some powerful sites
 - [miniprogram](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html) -Miniprogram Development Manual
 - [mongoose](https://mongoosejs.com/) - mongo corresponds to the DAL layer tool
 - [nestjs](https://docs.nestjs.com/) - server side architecture
+- [rollup-config](https://rollupjs.org/guide/en#big-list-of-options) - rollup configuration
 - [typeorm](https://typeorm.io/#/) - best orm for nodejs
 - [typescript-config](https://www.typescriptlang.org/docs/handbook/compiler-options.html) - Compiler options for typescript
 - [Vue](https://vuejs.org/v2/api/index.html) - Vue view
@@ -69,6 +70,7 @@ Some powerful sites
 - [Nest](./docs/nest.md) - Backend framework based on express
 - [React](./docs/react.md) - Frontend component framework
 - [Redux](./docs/redux.md) - data state management
+- [Rollup](./docs/rollup.md) - pack tools for library
 - [Typescript](./docs/typescript.md) - The superset of javascript
 - [Vue](./docs/vue.md) - Frontend responsive view layer framework
 - [Webpack](./docs/webpack.md) - pack tools for front-end

@@ -53,6 +53,7 @@
 - [miniprogram](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html) - 小程序开发手册
 - [mongoose](https://mongoosejs.com/) - mongo对应DAL层工具
 - [nestjs](https://docs.nestjs.com/) - 服务端架构
+- [rollup-config](https://rollupjs.org/guide/en#big-list-of-options) - rollup配置文件
 - [typeorm](https://typeorm.io/#/) - 最好的node的orm框架
 - [typescript-config](https://www.typescriptlang.org/docs/handbook/compiler-options.html) - typescript的编译参数
 - [Vue](https://cn.vuejs.org/v2/api/) - Vue view 
@@ -68,6 +69,7 @@
 - [Nest](./docs/nest_zh.md) - 基于express的后端框
 - [React](./docs/react_zh.md) - 前端组件框架
 - [Redux](./docs/redux_zh.md) - 数据状态管理
+- [Rollup](./docs/rollup_zh.md) - 针对库的打包工具
 - [Typescript](./docs/typescript_zh.md)  - javascript的超集
 - [Vue](./docs/vue_zh.md) - 前端响应式视图层框架
 - [webpack](./docs/webpack_zh.md) - 前端打包工具
