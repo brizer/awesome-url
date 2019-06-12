@@ -2,5 +2,12 @@
 - [rollup](https://www.npmjs.com/package/rollup) - rollup itself
 - [rollup-plugin-babel](https://www.npmjs.com/package/rollup-plugin-babel) - use babel with rollup
 - [rollup-plugin-commonjs](https://www.npmjs.com/package/rollup-plugin-commonjs) - convert commonjs modules to es6
+- [rollup-plugin-license](https://github.com/mjeanroy/rollup-plugin-license) - add license banner
+    - [used by sentry-js-sdk](https://github.com/FunnyLiu/sentry-javascript/blob/master/packages/browser/rollup.config.js#L62)
+- [rollup-plugin-node-resolve](https://www.npmjs.com/package/rollup-plugin-node-resolve) - locate modules using node resolution algorithm, for using third party modules in node_modules
+    - [used by vue ui](https://github.com/brizer/ui/blob/master/build/rollup.config.base.js#L19)
+- [rollup-plugin-replace](https://www.npmjs.com/package/rollup-plugin-replace) - replace strings in files
+    - [used by vue ui](https://github.com/brizer/ui/blob/master/build/rollup.config.base.js#L44)
+- [rollup-plugin-terser](https://www.npmjs.com/package/rollup-plugin-terser) - minify generated es bundle
 - [rollup-plugin-typescript](https://www.npmjs.com/package/rollup-plugin-typescript) - typescript plugin for rollup
 - [rollup-plugin-typescript2](https://www.npmjs.com/package/rollup-plugin-typescript2) - typescript plugin for rollup with compiler error
