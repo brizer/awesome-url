@@ -3,6 +3,8 @@
 
 - [element](https://github.com/ElemeFE/element) - ElementUI Toolkit
 - [Vue](https://github.com/vuejs/vue) - Vue itself
+- [vuepress](https://github.com/vuejs/vuepress) - minimalistic static site generator
+    - [Introduction at the vue conference](https://zhuanlan.zhihu.com/p/68669412)
 - [vuex](https://github.com/vuejs/vuex) - State management for Vue
 - [vue-18n](https://github.com/kazupon/vue-i18n) - Internationalization for Vue
 - [vue-axios](https://www.npmjs.com/package/vue-axios) - Wragger for intergating axios to vue

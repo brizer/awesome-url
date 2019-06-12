@@ -23,3 +23,7 @@
 
 - [ecma](http://www.ecma-international.org/) - ECMA official website
 - [freecodecamp](https://www.freecodecamp.org/) - FED learning platform
+
+
+# PPT
+- [from-coder-to-expert](https://github.com/FunnyLiu/from_coder_to_expert) - Many ppt examples of technical architecture, learn to make a speech ppt

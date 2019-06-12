@@ -1,6 +1,8 @@
 
 - [element](https://github.com/ElemeFE/element) - ElementUI 组件库
 - [Vue](https://github.com/vuejs/vue) - Vue本身
+- [vuepress](https://github.com/vuejs/vuepress) - 极简的静态网站生成器
+    - [Vue大会上的介绍文章](https://zhuanlan.zhihu.com/p/68669412)
 - [vuex](https://github.com/vuejs/vuex) - Vue状态管理
 - [vue-18n](https://github.com/kazupon/vue-i18n) - Vue国际化
 - [vue-axios](https://www.npmjs.com/package/vue-axios) - 将axios集成到vue的包装器

@@ -20,3 +20,7 @@
 
 - [ecma](http://www.ecma-international.org/) - ECMA 官网
 - [freecodecamp](https://www.freecodecamp.org/) - 前端学习平台
+
+
+# PPT
+- [from-coder-to-expert](https://github.com/FunnyLiu/from_coder_to_expert) - 非常多技术架构的例子，学习制作演讲型的ppt
