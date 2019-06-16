@@ -1,17 +1,23 @@
 [中文文档](./vue_zh.md)
 
-
+- [better-scroll](https://github.com/ustbhuangyi/better-scroll) - tool for improving performance of scroll, build by didi
+- [cube-ui](https://github.com/didi/cube-ui) - Mobile ui framework developed by Didi
+    - [Technical secret of cube-ui](https://github.com/DDFE/DDFE-blog/issues/31)
 - [element](https://github.com/ElemeFE/element) - ElementUI Toolkit
 - [Vue](https://github.com/vuejs/vue) - Vue itself
 - [vuepress](https://github.com/vuejs/vuepress) - minimalistic static site generator
     - [Introduction at the vue conference](https://zhuanlan.zhihu.com/p/68669412)
 - [vuex](https://github.com/vuejs/vuex) - State management for Vue
+    - [Source code analysis](https://github.com/DDFE/DDFE-blog/issues/8)
 - [vue-18n](https://github.com/kazupon/vue-i18n) - Internationalization for Vue
+    - [Technical secret of vue-18n](https://github.com/DDFE/DDFE-blog/issues/14)
+- [vue-analysis](https://github.com/ustbhuangyi/vue-analysis) - Technical secret of vue
 - [vue-axios](https://www.npmjs.com/package/vue-axios) - Wragger for intergating axios to vue
 - [vue-bus](https://www.npmjs.com/package/vue-bus) - An event bus for Vue
 - [vue-calendar-component](https://www.npmjs.com/package/vue-calendar-component) - A Calendar component
 - [vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components
 - [vue-cli](https://github.com/vuejs/vue-cli) - Official scaffolding tool of Vue
+- [vue-form-generator](https://github.com/vue-generators/vue-form-generator) - Generate a form via schema
 - [vue-instantsearch](https://github.com/algolia/vue-instantsearch) - Algolia components for building search UIs with Vue
 - [vue-lazyload](https://www.npmjs.com/package/vue-lazyload) - lazyloading images
 - [vue-meta](https://github.com/nuxt/vue-meta) - Manage page meta info
@@ -20,3 +26,5 @@
 - [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator) - Props decorator for Vue
 - [vue-responsive](https://github.com/reinerBa/Vue-Responsive) - A plugin for responsive handling
 - [vue-router](https://github.com/vuejs/vue-router) - Router for Vue
+    - [Source code analysis of overall process](https://github.com/DDFE/DDFE-blog/issues/9)
+    - [Source code analysis of history](https://github.com/DDFE/DDFE-blog/issues/11)
