@@ -46,6 +46,7 @@
 - [jsdoc](https://jsdoc.app/) - jsdoc API
 - [node](https://nodejs.org/api/index.html) - nodejs的API
 - [PM2](https://pm2.io/doc/en/runtime/overview/) - PM2，node进程管理
+- [package.json](https://docs.npmjs.com/files/package.json) - package.json各参数含义
 - [sass](http://sass.bootcss.com/docs/sass-reference/) - sass的API
 - [lodash](https://lodash.com/docs/4.17.11) - lodash API
 - [less](https://less.bootcss.com/features/) - less的API

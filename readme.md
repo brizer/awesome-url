@@ -47,12 +47,13 @@ Some powerful sites
 - [w3school-css](http://www.w3school.com.cn/cssref/index.asp) - css attribute Daquan
 - [jsdoc](https://jsdoc.app/) - jsdoc API
 - [node](https://nodejs.org/api/index.html) - nodejs API
+- [package.json](https://docs.npmjs.com/files/package.json) - The meaning of each parameter of the package.json
 - [PM2](https://pm2.io/doc/en/runtime/overview/) - node process management 
 - [sass](http://sass.bootcss.com/docs/sass-reference/) - sass API
 - [less](https://less.bootcss.com/features/) - less API
 - [lodash](https://lodash.com/docs/4.17.11) - lodash API
 - [wechat](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432) - WeChat Development Manual
-- [miniprogram](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html) -Miniprogram Development Manual
+- [miniprogram](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html) - Miniprogram Development Manual
 - [mongoose](https://mongoosejs.com/) - mongo corresponds to the DAL layer tool
 - [nestjs](https://docs.nestjs.com/) - server side architecture
 - [rollup-config](https://rollupjs.org/guide/en#big-list-of-options) - rollup configuration
