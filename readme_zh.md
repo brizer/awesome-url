@@ -38,6 +38,7 @@
 - [devdocs](https://devdocs.io/) - 非常好用的免费API搜索工具
 - [docker](https://docs.docker.com/engine/reference/commandline/docker/) - Docker的命令行工具
 - [elementUI](https://element.eleme.cn/#/zh-CN/component/installation) - 饿了么基于Vue的UI库
+- [elasticSearch](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/5.x/client-usage.html) - ES 搜索引擎数据库
 - [jquery](https://www.html.cn/jqapi-1.9/) - dom操作
 - [git-scm](https://git-scm.com/docs) - git文档
 - [express](https://expressjs.com/en/4x/api.html) - express API
