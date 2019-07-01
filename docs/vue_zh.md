@@ -6,6 +6,7 @@
 - [Vue](https://github.com/vuejs/vue) - Vue本身
 - [vuepress](https://github.com/vuejs/vuepress) - 极简的静态网站生成器
     - [Vue大会上的介绍文章](https://zhuanlan.zhihu.com/p/68669412)
+    - [自己搭建的面试题库](https://github.com/omnipotent-front-end/Interview)
 - [vuex](https://github.com/vuejs/vuex) - Vue状态管理
     - [源码解析](https://github.com/DDFE/DDFE-blog/issues/8)
 - [vue-18n](https://github.com/kazupon/vue-i18n) - Vue国际化

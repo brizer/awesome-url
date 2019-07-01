@@ -7,6 +7,7 @@
 - [Vue](https://github.com/vuejs/vue) - Vue itself
 - [vuepress](https://github.com/vuejs/vuepress) - minimalistic static site generator
     - [Introduction at the vue conference](https://zhuanlan.zhihu.com/p/68669412)
+    - [Self-built interview question bank](https://github.com/omnipotent-front-end/Interview)
 - [vuex](https://github.com/vuejs/vuex) - State management for Vue
     - [Source code analysis](https://github.com/DDFE/DDFE-blog/issues/8)
 - [vue-18n](https://github.com/kazupon/vue-i18n) - Internationalization for Vue
