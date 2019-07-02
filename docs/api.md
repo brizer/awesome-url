@@ -26,5 +26,6 @@
 - [typeorm](https://typeorm.io/#/) - best orm for nodejs
 - [typescript-config](https://www.typescriptlang.org/docs/handbook/compiler-options.html) - Compiler options for typescript
 - [Vue](https://vuejs.org/v2/api/index.html) - Vue view
+- [vuecli](https://cli.vuejs.org/config/) - cli for vue
 - [vuepress](https://vuepress.vuejs.org/config/) - static site generator
 - [webpack](https://webpack.js.org/api) - webpack API

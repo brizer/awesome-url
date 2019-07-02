@@ -14,6 +14,10 @@ module.exports = {
     }
   },
   themeConfig: {
+    algolia:{
+      apiKey:'60ba0be7ab4084ad1306fe8615ed0ed4',
+      indexName:'brizer-awesome-url'
+    },
     locales: {
       "/": {
         sidebar: {

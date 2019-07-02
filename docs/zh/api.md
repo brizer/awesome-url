@@ -25,6 +25,7 @@
 - [rollup-config](https://rollupjs.org/guide/en#big-list-of-options) - rollup配置文件
 - [typeorm](https://typeorm.io/#/) - 最好的node的orm框架
 - [typescript-config](https://www.typescriptlang.org/docs/handbook/compiler-options.html) - typescript的编译参数
-- [Vue](https://cn.vuejs.org/v2/api/) - Vue view 
+- [Vue](https://cn.vuejs.org/v2/api/) - Vue view
+- [vuecli](https://cli.vuejs.org/zh/config/) - vue脚手架工具
 - [vuepress](https://vuepress.vuejs.org/zh/config/) - 静态网站生成器
 - [webpack](https://webpack.js.org/api) - webpack API
