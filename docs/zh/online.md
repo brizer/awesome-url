@@ -1,0 +1,28 @@
+# 在线工具
+
+- [codebeautify](https://codebeautify.org/) - 全语言格式化工具
+- [codepen](https://codepen.io/) - 前端在线编辑器
+- [codeshandbox](https://codesandbox.io/s/) - 可以包含模块的前端在线编辑工具
+- [ideone](https://ideone.com/) - 支持c++，java等多种语言的在线编辑器
+- [try-freemarker](https://try.freemarker.apache.org/) - freemarker语言校验器
+- [pdf2doc](https://pdf2doc.com/) - pdf文件转doc文件
+- [cssspritegenerator](https://spritegen.website-performance.org/) - css雪碧图生成器
+- [base64](http://tool.oschina.net/encrypt?type=3) - base64转码
+- [processon](https://www.processon.com/) - 画图工具（架构图、流程图）
+- [cssanimate](http://cssanimate.com/) - css3动画生成工具
+- [Device Metrics](https://material.io/tools/devices/) - 移动设备尺寸大全
+- [sass](https://www.sassmeister.com/) - Sass在线编辑器
+- [sequencediagram](https://sequencediagram.org/index.html?initialData=FABwhgTgLglgxjcA7KACAgqSsHLQIS2nkTBVQGEidTyARYdAWgD58AuGJAMwHtgwcWADcwUAKapC+VhU49+gkWMlUKrFnXl8BQmKImoG+ADxMmcrjoAm4pfpWVGZphyv9b9g5OlmtcMAAbQIAjQQBrYE89byNdZUNCdBMXNwUouxjHQnBiXDICahI8OK9HY1Ytd3iHRIyyiTBuCQgpYDpK7UUswwYAZ3A4cXqeyTogA) - 通过特定语法生成时序图
+- [ideaLanyus](http://idea.lanyus.com/) - Intellij 破解
+- [regexper](https://regexper.com/) - 正则表达式流程图
+- [javascripting](https://www.javascripting.com/) - 查看前端框架
+- [pagespeed](https://developers.google.com/speed/pagespeed/insights/) - Web性能检测工具
+- [jsonplaceholder](https://jsonplaceholder.typicode.com/) - 在线mock接口平台
+- [babel](https://babeljs.io/repl) - babel转化器
+- [astexplorer](https://astexplorer.net/) - AST语法树解析
+- [npmtrends](https://www.npmtrends.com/) - npm模块比较器
+- [vultr](https://www.vultr.com/) - VPS服务器
+- [web.dev](https://web.dev/measure) - 由谷歌推出的检测网站性能和体验的测试工具
+- [Timestamp tool](https://tool.chinaz.com/Tools/unixtime.aspx) - 时间戳转换工具
+- [typescript-playground](https://www.typescriptlang.org/play/index.html) - Typescript和原生js对比，在线
+- [vpn-classb](http://cloud.netease.com/vpn) - 工作需要vpn

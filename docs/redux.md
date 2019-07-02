@@ -1,3 +1,4 @@
+# Redux
 
 - [redux](https://www.npmjs.com/package/redux) - Redux is a predictable state container for JavaScript apps
 - [redux-logger](https://www.npmjs.com/package/redux-logger) - A logger middleware for redux
