@@ -8,6 +8,7 @@
     - [基于Hook和context API的todoMVC](https://github.com/FunnyLiu/reactDemo/blob/master/todomvc_hook/index.jsx)
 - [react-dnd](https://github.com/react-dnd/react-dnd) - react的拖放组件
 - [react-dom](https://www.npmjs.com/package/react-dom) - 此包用作React的DOM和服务器呈现器的入口点
+- [react-final-form](https://www.npmjs.com/package/react-final-form) - 迷你表单
 - [react-i18next](https://www.npmjs.com/package/react-i18next) - 在react中使用i18next
 - [react-redux](https://www.npmjs.com/package/react-redux) - redux针对react的连接
     - [在realworld项目中使用之](https://github.com/FunnyLiu/react-redux-realworld-example-app/blob/master/src/index.js#L2)
