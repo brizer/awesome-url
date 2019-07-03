@@ -1,20 +1,29 @@
 # React
 
 - [antd](https://www.npmjs.com/package/antd) - UI组件
+- [bizcharts](https://github.com/alibaba/BizCharts) - 阿里巴巴开源的React图表组件
+- [dva](https://github.com/dvajs/dva) - 基于redux,redux-sage,react-router的前端框架。
 - [ink](https://github.com/vadimdemedes/ink) - 在命令行中使用react
     - [原理](https://omnipotent-front-end.github.io/library/react.html#%E4%BD%BF%E7%94%A8react%E6%93%8D%E4%BD%9Ccli%E7%9A%84%E5%B7%A5%E5%85%B7ink%E7%9A%84%E5%8E%9F%E7%90%86%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
     - [changelog-view](https://github.com/jdeniau/changelog-view) - 在命令行中查看修改日志
     - [emma-cli](https://github.com/maticzav/emma-cli) - 使用ink开发的在命令行中寻找node模块
     - [emoj](https://github.com/sindresorhus/emoj) - 使用ink开发的在命令行中找表情
+- [prop-types](https://github.com/facebook/prop-types) - 检查React的props的类型
+- [rc-animate](https://github.com/react-component/animate) - react元素动画
 - [react](https://www.npmjs.com/package/react) - React是一个用于创建用户界面的JavaScript库
     - [基于Hook和context API的todoMVC](https://github.com/FunnyLiu/reactDemo/blob/master/todomvc_hook/index.jsx)
+- [react-copy-to-clipborad](https://github.com/nkbt/react-copy-to-clipboard) - 基于copy-to-clipboard的复制组件
 - [react-dnd](https://github.com/react-dnd/react-dnd) - react的拖放组件
 - [react-dom](https://www.npmjs.com/package/react-dom) - 此包用作React的DOM和服务器呈现器的入口点
 - [react-final-form](https://www.npmjs.com/package/react-final-form) - 迷你表单
 - [react-i18next](https://www.npmjs.com/package/react-i18next) - 在react中使用i18next
+- [react-infinite-scroller](https://github.com/CassetteRocks/react-infinite-scroller) - 无限滑动组件
+- [react-media](https://github.com/ReactTraining/react-media) - css媒介查询
 - [react-redux](https://www.npmjs.com/package/react-redux) - redux针对react的连接
     - [在realworld项目中使用之](https://github.com/FunnyLiu/react-redux-realworld-example-app/blob/master/src/index.js#L2)
 - [react-rdn](https://github.com/bokuweb/react-rnd) - 可调整大小和可拖动的组件,使用hooks api
+- [react-router](https://github.com/ReactTraining/react-router) - react的路由组件
+- [react-router-dom](https://github.com/ReactTraining/react-router) - react-router的dom绑定
 - [react-static](https://github.com/nozzle/react-static) - 基于React的静态网站生成器
 - [react-tippy](https://www.npmjs.com/package/react-tippy) - 一个提示组件
 - [styled-components](https://www.npmjs.com/package/styled-components) - React和React Native的css in js解决方案

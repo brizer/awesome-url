@@ -7,6 +7,7 @@
 - [elementUI](https://element.eleme.cn/#/zh-CN/component/installation) - Vue-based UI library developed by ELE
 - [elasticSearch](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/5.x/client-usage.html) - ES Search engine database
 - [express](https://expressjs.com/en/4x/api.html) - express API
+- [http-status](https://devdocs.io/http-status/) - status code of http
 - [git-scm](https://git-scm.com/docs) - git documentation
 - [jquery](https://www.html.cn/jqapi-1.9/) - dom operaition
 - [overapi](http://overapi.com/) - API Daquan Navigation
