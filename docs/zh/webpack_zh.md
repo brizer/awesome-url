@@ -11,3 +11,4 @@
 - [webpack-cli](https://www.npmjs.com/package/webpack-cli) - 在命令行中使用webpack
     - [整体执行流程](https://github.com/DDFE/DDFE-blog/issues/12)
 - [webpack-dev-server](https://www.npmjs.com/package/webpack-dev-server) - webpack的专属开发环境服务器
+- [webpack-subresource-integrity](https://github.com/waysact/webpack-subresource-integrity) - 使用Subresource Integrity的webbpack插件

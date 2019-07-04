@@ -11,6 +11,7 @@
 - [webpack-cli](https://www.npmjs.com/package/webpack-cli) - use webpack in cli
     - [Overall execution process](https://github.com/DDFE/DDFE-blog/issues/12)
 - [webpack-dev-server](https://www.npmjs.com/package/webpack-dev-server) - development server for webpack
+- [webpack-subresource-integrity](https://github.com/waysact/webpack-subresource-integrity) - Webpack plugin for enabling Subresource Integrity.
 
 
 
