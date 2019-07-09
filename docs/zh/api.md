@@ -6,6 +6,7 @@
 - [docker](https://docs.docker.com/engine/reference/commandline/docker/) - Docker的命令行工具
 - [elementUI](https://element.eleme.cn/#/zh-CN/component/installation) - 饿了么基于Vue的UI库
 - [elasticSearch](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/5.x/client-usage.html) - ES 搜索引擎数据库
+- [html](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element) - Html element
 - [http-status](https://devdocs.io/http-status/) - http状态码
 - [jquery](https://www.html.cn/jqapi-1.9/) - dom操作
 - [git-scm](https://git-scm.com/docs) - git文档
@@ -23,6 +24,7 @@
 - [miniprogram](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html) - 小程序开发手册
 - [mongoose](https://mongoosejs.com/) - mongo对应DAL层工具
 - [nestjs](https://docs.nestjs.com/) - 服务端架构
+- [npm-cli](https://docs.npmjs.com/cli-documentation/) - npm命令行文档
 - [rollup-config](https://rollupjs.org/guide/en#big-list-of-options) - rollup配置文件
 - [typeorm](https://typeorm.io/#/) - 最好的node的orm框架
 - [typescript-config](https://www.typescriptlang.org/docs/handbook/compiler-options.html) - typescript的编译参数

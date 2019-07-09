@@ -15,14 +15,18 @@
 - [bizcharts](https://github.com/alibaba/BizCharts) - React chart component, build by Alibaba
 - [dva](https://github.com/dvajs/dva) - Lightweight front-end framework based on redux, redux-saga and react-router. 
 - [ink](https://github.com/vadimdemedes/ink) - use react in CLI
+    - [Use experience](https://omnipotent-front-end.github.io/library/react.html#react%E5%8F%AF%E4%BB%A5%E5%86%99%E5%91%BD%E4%BB%A4%E8%A1%8C%EF%BC%9F%E4%BD%93%E9%AA%8C%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F)
     - [principle](https://omnipotent-front-end.github.io/library/react.html#%E4%BD%BF%E7%94%A8react%E6%93%8D%E4%BD%9Ccli%E7%9A%84%E5%B7%A5%E5%85%B7ink%E7%9A%84%E5%8E%9F%E7%90%86%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
     - [changelog-view](https://github.com/jdeniau/changelog-view) - view changelog on cli
     - [emma-cli](https://github.com/maticzav/emma-cli) - find node modules on cli build in ink
     - [emoj](https://github.com/sindresorhus/emoj) - find emoji on cli build in ink
+    - [ink-text-input](https://github.com/vadimdemedes/ink-text-input) - The input for ink
 - [prop-types](https://github.com/facebook/prop-types) - check React prop's type
 - [rc-animate](https://github.com/react-component/animate) - react element animate
 - [react](https://www.npmjs.com/package/react) - React is a JavaScript library for creating user interfaces
+    - [skills of JSX](https://omnipotent-front-end.github.io/library/react.html#%E4%BD%BF%E7%94%A8jsx%E6%97%B6%E6%9C%89%E9%82%A3%E4%BA%9B%E5%9F%BA%E6%9C%AC%E6%8A%80%E5%B7%A7%EF%BC%9F)
     - [todoMVC based on Hook and Context API](https://github.com/FunnyLiu/reactDemo/blob/master/todomvc_hook/index.jsx)
+    - [fetch data in hooks](https://github.com/FunnyLiu/reactDemo/blob/master/readme.md#fetch_hook)
 - [react-copy-to-clipborad](https://github.com/nkbt/react-copy-to-clipboard) - copy component based on copy-to-clipboard
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and drop for react
 - [react-dom](https://www.npmjs.com/package/react-dom) - This package serves as the entry point to the DOM and server renderers for React

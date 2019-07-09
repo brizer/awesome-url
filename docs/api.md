@@ -7,6 +7,7 @@
 - [elementUI](https://element.eleme.cn/#/zh-CN/component/installation) - Vue-based UI library developed by ELE
 - [elasticSearch](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/5.x/client-usage.html) - ES Search engine database
 - [express](https://expressjs.com/en/4x/api.html) - express API
+- [html](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - Html element
 - [http-status](https://devdocs.io/http-status/) - status code of http
 - [git-scm](https://git-scm.com/docs) - git documentation
 - [jquery](https://www.html.cn/jqapi-1.9/) - dom operaition
@@ -23,6 +24,7 @@
 - [miniprogram](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html) - Miniprogram Development Manual
 - [mongoose](https://mongoosejs.com/) - mongo corresponds to the DAL layer tool
 - [nestjs](https://docs.nestjs.com/) - server side architecture
+- [npm-cli](https://docs.npmjs.com/cli-documentation/) - npm cli document
 - [rollup-config](https://rollupjs.org/guide/en#big-list-of-options) - rollup configuration
 - [typeorm](https://typeorm.io/#/) - best orm for nodejs
 - [typescript-config](https://www.typescriptlang.org/docs/handbook/compiler-options.html) - Compiler options for typescript
