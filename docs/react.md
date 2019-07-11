@@ -9,6 +9,10 @@
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - Electron + React + MobX + JSS NeteaseMusic desktop app
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - Zhihu Daily App based on React-Native
 
+## State manage
+
+- [mobx-react-lite](https://github.com/mobxjs/mobx-react-lite) - MobX based on React Hooks
+
 ## Others
 
 - [antd](https://www.npmjs.com/package/antd) - UI Components
@@ -36,6 +40,7 @@
 - [react-media](https://github.com/ReactTraining/react-media) - css media queries
 - [react-redux](https://www.npmjs.com/package/react-redux) - redux connection for react
     - [Use it in realworld](https://github.com/FunnyLiu/react-redux-realworld-example-app/blob/master/src/index.js#L2)
+    - [A todolist](https://github.com/FunnyLiu/reduxDemo/blob/master/todolist/app.js)
 - [react-rdn](https://github.com/bokuweb/react-rnd) - resizable and draggable component, use hooks api
 - [react-router](https://github.com/ReactTraining/react-router) - router for react
 - [react-router-dom](https://github.com/ReactTraining/react-router) - dom for react-router

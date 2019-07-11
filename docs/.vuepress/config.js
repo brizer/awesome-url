@@ -36,6 +36,7 @@ module.exports = {
               children: [
                 "/babel",
                 "/docker",
+                '/electron',
                 "/express",
                 '/lint',
                 "/nest",
@@ -82,6 +83,7 @@ module.exports = {
               children: [
                 "/zh/babel_zh",
                 "/zh/docker_zh",
+                '/electron_zh',
                 "/zh/express_zh",
                 '/zh/lint_zh',
                 "/zh/nest_zh",

@@ -10,6 +10,10 @@
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - Electron + React + MobX + JSS 网易云音乐桌面APP
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - 基于React-Native的知乎日报
 
+## 状态管理
+
+- [mobx-react-lite](https://github.com/mobxjs/mobx-react-lite) - 基于React Hooks的MobX
+
 ## 其他
 
 - [antd](https://www.npmjs.com/package/antd) - UI组件
