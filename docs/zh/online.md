@@ -18,6 +18,7 @@
 - [regex101](https://regex101.com/) - 正则在线匹配测试
 - [regexper](https://regexper.com/) - 正则表达式流程图
 - [javascripting](https://www.javascripting.com/) - 查看前端框架
+- [jsbench](https://github.com/jsbench/jsbench.github.io) - 测试js代码片段性能
 - [pagespeed](https://developers.google.com/speed/pagespeed/insights/) - Web性能检测工具
 - [jsonplaceholder](https://jsonplaceholder.typicode.com/) - 在线mock接口平台
 - [babel](https://babeljs.io/repl) - babel转化器
