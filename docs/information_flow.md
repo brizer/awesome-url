@@ -21,9 +21,11 @@
 
 # FED
 
+- [aliued](http://www.aliued.com/) - Ali international UED
 - [CNode](https://cnodejs.org/) - NodeJS Chinese community
 - [ecma](http://www.ecma-international.org/) - ECMA official website
 - [freecodecamp](https://www.freecodecamp.org/) - FED learning platform
+- [taobaofed](http://taobaofed.org/) - taobao FED
 
 
 # PPT
