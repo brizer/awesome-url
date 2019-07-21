@@ -35,6 +35,7 @@
     - [skills of JSX](https://omnipotent-front-end.github.io/library/react.html#%E4%BD%BF%E7%94%A8jsx%E6%97%B6%E6%9C%89%E9%82%A3%E4%BA%9B%E5%9F%BA%E6%9C%AC%E6%8A%80%E5%B7%A7%EF%BC%9F)
     - [todoMVC based on Hook and Context API](https://github.com/FunnyLiu/reactDemo/blob/master/todomvc_hook/index.jsx)
     - [fetch data in hooks](https://github.com/FunnyLiu/reactDemo/blob/master/readme.md#fetch_hook)
+    - [a chrome extension based on react hooks and typescript, the ui part of it is worth to learning](https://github.com/darkreader/darkreader)
 - [react-copy-to-clipborad](https://github.com/nkbt/react-copy-to-clipboard) - copy component based on copy-to-clipboard
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and drop for react
 - [react-dom](https://www.npmjs.com/package/react-dom) - This package serves as the entry point to the DOM and server renderers for React

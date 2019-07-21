@@ -2,6 +2,7 @@
 
 - [AntDesign](https://ant.design/docs/react/introduce-cn) - React UI
 - [AntTask](https://ant.apache.org/manual/) - Apache Ant Task API
+- [chrome-extension-manifest](https://developer.chrome.com/extensions/manifest) - manifest of Chrome extension
 - [devdocs](https://devdocs.io/) - A free API search tool
 - [docker](https://docs.docker.com/engine/reference/commandline/docker/) - Docker CLI
 - [elementUI](https://element.eleme.cn/#/zh-CN/component/installation) - Vue-based UI library developed by ELE

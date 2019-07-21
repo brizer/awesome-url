@@ -36,6 +36,7 @@
     - [JSX使用技巧](https://omnipotent-front-end.github.io/library/react.html#%E4%BD%BF%E7%94%A8jsx%E6%97%B6%E6%9C%89%E9%82%A3%E4%BA%9B%E5%9F%BA%E6%9C%AC%E6%8A%80%E5%B7%A7%EF%BC%9F)
     - [基于Hook和context API的todoMVC](https://github.com/FunnyLiu/reactDemo/blob/master/todomvc_hook/index.jsx)
     - [在hooks中请求数据](https://github.com/FunnyLiu/reactDemo/blob/master/readme.md#fetch_hook)
+    - [基于reacthooks和ts构建的浏览器扩展，部分ui可参考](https://github.com/darkreader/darkreader)
 - [react-copy-to-clipborad](https://github.com/nkbt/react-copy-to-clipboard) - 基于copy-to-clipboard的复制组件
 - [react-dnd](https://github.com/react-dnd/react-dnd) - react的拖放组件
 - [react-dom](https://www.npmjs.com/package/react-dom) - 此包用作React的DOM和服务器呈现器的入口点

@@ -9,6 +9,7 @@
 - [eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat) - 检查浏览器兼容性
 - [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import) - 检查正确的imports
 - [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - JSX检测器
+- [eslint-plugin-local](https://github.com/taskworld/eslint-plugin-local) - 引入本地的插件
 - [eslint-plugin-markdown](https://github.com/eslint/eslint-plugin-markdown) - 检查md文件中的js
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - 检查react
 
