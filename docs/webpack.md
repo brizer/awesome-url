@@ -4,6 +4,9 @@
 - [css-loader](https://www.npmjs.com/package/css-loader) - support import css
 - [copy-webpack-plugin](https://www.npmjs.com/package/copy-webpack-plugin) - Copy files to build directory
 - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin) - Plugin that simplifies creation of HTML files to serve your bundles
+- [less-loader](https://github.com/webpack-contrib/less-loader) - loader for less
+    - [use less simply](https://github.com/FunnyLiu/webpackDemo#%E4%BD%BF%E7%94%A8less%E6%9D%A5%E7%AE%A1%E7%90%86%E9%A1%B5%E9%9D%A2%E6%A0%B7%E5%BC%8F-by-demo22_less)
+    - [use it with css module and react](https://github.com/FunnyLiu/webpackDemo#%E4%BD%BF%E7%94%A8less%E9%80%9A%E8%BF%87css-module%E6%9D%A5%E7%AE%A1%E7%90%86react%E7%BB%84%E4%BB%B6-by-demo23_less_cssmodule)
 - [style-loader](https://www.npmjs.com/package/style-loader) - Add css to dom by style tag
 - [ts-loader](https://github.com/TypeStrong/ts-loader) - ts loader for webpack
 - [webpack](https://www.npmjs.com/package/webpack) - webpack is a module bundler

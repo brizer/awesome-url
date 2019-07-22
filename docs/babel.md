@@ -1,5 +1,6 @@
 # Babel
 - [@babel/core](https://www.npmjs.com/package/@babel/core) - Babel compiler core
+- [@babel/plugin-proposal-class-properties](https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-class-properties) - use properties in class
 - [@babel/plugin-transform-function-name](https://www.npmjs.com/package/@babel/plugin-transform-function-name) - Apply ES2015 function.name semantics to all functions 
 - [@babel/polyfill](https://www.npmjs.com/package/@babel/polyfill) - Browser compatibility
 - [@babel/preset-env](https://www.npmjs.com/package/@babel/preset-env) - preset of each environment
