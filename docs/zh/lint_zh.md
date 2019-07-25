@@ -12,6 +12,7 @@
 - [eslint-plugin-local](https://github.com/taskworld/eslint-plugin-local) - 引入本地的插件
 - [eslint-plugin-markdown](https://github.com/eslint/eslint-plugin-markdown) - 检查md文件中的js
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - 检查react
+- [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - 检查vue
 
 
 ## StyleLint

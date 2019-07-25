@@ -12,6 +12,8 @@
 - [eslint-plugin-local](https://github.com/taskworld/eslint-plugin-local) - import local plugins
 - [eslint-plugin-markdown](https://github.com/eslint/eslint-plugin-markdown) - lint js in md
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - lint for react
+- [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - lint for vue
+
 
 ## StyleLint
 

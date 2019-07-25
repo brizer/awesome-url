@@ -7,6 +7,7 @@
 - [docker](https://docs.docker.com/engine/reference/commandline/docker/) - Docker的命令行工具
 - [elementUI](https://element.eleme.cn/#/zh-CN/component/installation) - 饿了么基于Vue的UI库
 - [elasticSearch](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/5.x/client-usage.html) - ES 搜索引擎数据库
+- [eslint](http://eslint.cn/docs/user-guide/configuring) - eslint配置
 - [express](https://expressjs.com/en/4x/api.html) - express API
 - [html](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element) - Html element
 - [http-status](https://devdocs.io/http-status/) - http状态码

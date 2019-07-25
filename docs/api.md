@@ -7,6 +7,7 @@
 - [docker](https://docs.docker.com/engine/reference/commandline/docker/) - Docker CLI
 - [elementUI](https://element.eleme.cn/#/zh-CN/component/installation) - Vue-based UI library developed by ELE
 - [elasticSearch](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/5.x/client-usage.html) - ES Search engine database
+- [eslint](https://eslint.org/docs/user-guide/configuring) - configuration of eslint
 - [express](https://expressjs.com/en/4x/api.html) - express API
 - [html](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - Html element
 - [http-status](https://devdocs.io/http-status/) - status code of http
