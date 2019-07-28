@@ -1,6 +1,7 @@
 # Webpack
 
 - [babel-loader](https://www.npmjs.com/package/babel-loader) - babel的loader
+    - [简单使用babel和jsx](https://github.com/FunnyLiu/webpackDemo#babel-loader-%E5%BC%95%E5%85%A5-jsx-demo03_babelloader)
 - [css-loader](https://www.npmjs.com/package/css-loader) - 支持引入css
 - [copy-webpack-plugin](https://www.npmjs.com/package/copy-webpack-plugin) - 复制文件到生成目录
 - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin) - 简化html创建和启动服务的插件
