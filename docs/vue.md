@@ -7,6 +7,12 @@
 - [NeteaseClounWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - vue NeteaseCloud
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - Vue 2.0 admin management system template based on elementui
 
+## Unit test
+
+- [jest-serializer-vue](https://github.com/eddyerburgh/jest-serializer-vue) - Jest Serializer for Vue components
+- [vue-test-utils](https://github.com/vuejs/vue-test-utils) - official utils for testing Vue components
+- [vue-test-utils-jest-example](https://github.com/vuejs/vue-test-utils-jest-example) - Example project using Jest + vue-test-utils together
+
 ## Others
 
 - [better-scroll](https://github.com/ustbhuangyi/better-scroll) - tool for improving performance of scroll, build by didi
@@ -38,4 +44,4 @@
 - [vue-router](https://github.com/vuejs/vue-router) - Router for Vue
     - [Source code analysis of overall process](https://github.com/DDFE/DDFE-blog/issues/9)
     - [Source code analysis of history](https://github.com/DDFE/DDFE-blog/issues/11)
-
+- [vue-template-compiler](https://www.npmjs.com/package/vue-template-compiler) - compile vue2.0 templates into render functions

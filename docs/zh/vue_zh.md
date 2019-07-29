@@ -7,6 +7,12 @@
 - [NeteaseClounWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - 基于vue的云音乐
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - 基于elementui和vue2.0的后台系统
 
+## 单元测试
+
+- [jest-serializer-vue](https://github.com/eddyerburgh/jest-serializer-vue) - Jest针对vue的快照序列化工具
+- [vue-test-utils](https://github.com/vuejs/vue-test-utils) - 测试Vue组件的官方工具
+- [vue-test-utils-jest-example](https://github.com/vuejs/vue-test-utils-jest-example) - 使用jest+vue-test-utils的例子
+
 ## 其他
 
 - [better-scroll](https://github.com/ustbhuangyi/better-scroll) - 滴滴开发的提升scroll性能的插件
@@ -38,3 +44,4 @@
 - [vue-router](https://github.com/vuejs/vue-router) - Vue的路由器
     - [整体流程源码解析](https://github.com/DDFE/DDFE-blog/issues/9)
     - [history源码解析](https://github.com/DDFE/DDFE-blog/issues/11)
+- [vue-template-compiler](https://www.npmjs.com/package/vue-template-compiler) - 编译vue2.0的模板为render函数
