@@ -12,6 +12,7 @@
 - [html](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - Html element
 - [http-status](https://devdocs.io/http-status/) - status code of http
 - [git-scm](https://git-scm.com/docs) - git documentation
+- [jest-config](https://jestjs.io/docs/en/configuration) - config of jest
 - [jquery](https://www.html.cn/jqapi-1.9/) - dom operaition
 - [koa](https://koajs.com/#context) - koa
 - [overapi](http://overapi.com/) - API Daquan Navigation
