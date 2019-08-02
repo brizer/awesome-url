@@ -34,6 +34,7 @@ module.exports = {
             {
               title: "Frameworks",
               children: [
+                "/angular",
                 "/babel",
                 "/docker",
                 "/egg",
@@ -83,6 +84,7 @@ module.exports = {
             {
               title: "框架和库",
               children: [
+                "/zh/angular_zh",
                 "/zh/babel_zh",
                 "/zh/docker_zh",
                 "/zh/egg_zh",

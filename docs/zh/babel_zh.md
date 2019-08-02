@@ -1,6 +1,7 @@
 # Babel
 
 - [@babel/core](https://www.npmjs.com/package/@babel/core) - Babel编译核心
+- [@babel/node](https://www.npmjs.com/package/@babel/node) - Babel的node命令行工具，使用babel的配置来执行nodejs文件
 - [@babel/plugin-proposal-class-properties](https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-class-properties) - 使用class的属性语法
 - [@babel/plugin-transform-function-name](https://www.npmjs.com/package/@babel/plugin-transform-function-name) - 使用function.name语法的插件
 - [@babel/polyfill](https://www.npmjs.com/package/@babel/polyfill) - 浏览器的兼容性
