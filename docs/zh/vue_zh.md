@@ -13,6 +13,7 @@
 - [vue-test-utils](https://github.com/vuejs/vue-test-utils) - 测试Vue组件的官方工具
     - [vue-test-utils-jest-example](https://github.com/vuejs/vue-test-utils-jest-example) - 使用jest+vue-test-utils的例子
     - [vue-unit-test-with-jest](https://github.com/FunnyLiu/vue-unit-test-with-jest) - 吃透本仓库，变身vue项目单体测试大神
+    - [vuex-units-test-jest](https://github.com/brizer/vuex-utils-test-jest)
 
 ## 其他
 

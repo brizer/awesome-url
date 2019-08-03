@@ -13,6 +13,7 @@
 - [vue-test-utils](https://github.com/vuejs/vue-test-utils) - official utils for testing Vue components
     - [vue-test-utils-jest-example](https://github.com/vuejs/vue-test-utils-jest-example) - Example project using Jest + vue-test-utils together
     - [vue-unit-test-with-jest](https://github.com/FunnyLiu/vue-unit-test-with-jest) - vue unit test demo, good quality
+    - [vuex-units-test-jest](https://github.com/brizer/vuex-utils-test-jest)
 
 ## Others
 
