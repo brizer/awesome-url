@@ -18,6 +18,7 @@
 - [fulr](https://github.com/Chalarangelo/furl) - React basic components based on Hooks and js
 - [react-final-form](https://www.npmjs.com/package/react-final-form) - mini form
 - [react-final-form-hooks](https://github.com/final-form/react-final-form-hooks) - mini form with hooks
+- [react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 
 ## Others
 

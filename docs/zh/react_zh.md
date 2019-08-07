@@ -19,6 +19,7 @@
 - [fulr](https://github.com/Chalarangelo/furl) - 基于Hooks和js的React基础组件库
 - [react-final-form](https://www.npmjs.com/package/react-final-form) - 迷你表单
 - [react-final-form-hooks](https://github.com/final-form/react-final-form-hooks) - 迷你表单hooks版
+- [react-helmet](https://github.com/nfl/react-helmet) - 文档head管理
 
 ## 其他
 
