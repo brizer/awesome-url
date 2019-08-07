@@ -1,7 +1,13 @@
 # Egg
 
 - [egg](https://github.com/eggjs/egg) - egg itself
+- [egg-bin](https://github.com/eggjs/egg-bin) - egg developer tool
+- [egg-ci](https://github.com/eggjs/egg-ci) - Auto gen ci config file
+- [egg-logger](https://github.com/eggjs/egg-logger) - Egg logger
+- [egg-mock](https://github.com/eggjs/egg-mock) - Mock library for egg testing.
 - [egg-react-ssr](https://github.com/ykfe/egg-react-ssr) - The smallest and beautiful Egg + React + SSR server rendering application skeleton
+- [egg-scripts](https://github.com/eggjs/egg-scripts) - deploy tool for egg projects
+- [egg-ts-helper](https://github.com/whxaxes/egg-ts-helper) - <g-emoji class="g-emoji" alias="fried_egg" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f373.png">🍳</g-emoji> Generate TypeScript definition files(d.ts) for Egg
 
 
 ## Plugins
