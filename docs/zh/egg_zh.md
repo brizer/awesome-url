@@ -3,6 +3,7 @@
 - [egg](https://github.com/eggjs/egg) - egg本身
 - [egg-bin](https://github.com/eggjs/egg-bin) - egg开发者工具
 - [egg-ci](https://github.com/eggjs/egg-ci) - 自动生成ci配置文件
+- [egg-init](https://github.com/eggjs/egg-init) - 初始化egg工具
 - [egg-logger](https://github.com/eggjs/egg-logger) - Egg日志
 - [egg-mock](https://github.com/eggjs/egg-mock) - egg测试的mock库
 - [egg-react-ssr](https://github.com/ykfe/egg-react-ssr) - Egg+React+SSR服务端渲染应用骨架

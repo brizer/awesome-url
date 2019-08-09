@@ -3,6 +3,7 @@
 - [egg](https://github.com/eggjs/egg) - egg itself
 - [egg-bin](https://github.com/eggjs/egg-bin) - egg developer tool
 - [egg-ci](https://github.com/eggjs/egg-ci) - Auto gen ci config file
+- [egg-init](https://github.com/eggjs/egg-init) - Init egg app helper tools
 - [egg-logger](https://github.com/eggjs/egg-logger) - Egg logger
 - [egg-mock](https://github.com/eggjs/egg-mock) - Mock library for egg testing.
 - [egg-react-ssr](https://github.com/ykfe/egg-react-ssr) - The smallest and beautiful Egg + React + SSR server rendering application skeleton
