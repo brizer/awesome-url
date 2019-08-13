@@ -12,6 +12,7 @@
 - [html](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element) - Html element
 - [http-status](https://devdocs.io/http-status/) - http状态码
 - [git-scm](https://git-scm.com/docs) - git文档
+- [GitLab API](https://docs.gitlab.com/ee/api/README.html) - gitlab的api
 - [jest-config](https://jestjs.io/docs/zh-Hans/configuration) - jest的配置项
 - [jquery](https://www.html.cn/jqapi-1.9/) - dom操作
 - [koa](https://koajs.com/#context) - koa
