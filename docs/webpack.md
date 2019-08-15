@@ -21,7 +21,9 @@
 ## others
 
 - [webpack](https://www.npmjs.com/package/webpack) - webpack is a module bundler
-    - [Overall process](https://github.com/DDFE/DDFE-blog/issues/36)
+    - [Overall workflow](http://omnipotent-front-end.github.io/library/webpack.html#%E6%95%B4%E4%BD%93%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90%E7%9A%84%EF%BC%9F)
+    - [diff between loader and plugin](http://omnipotent-front-end.github.io/library/webpack.html#loader%E5%92%8Cplugin%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%EF%BC%9F%E5%85%B7%E4%BD%93%E4%B8%BE%E4%B8%80%E4%BA%9B%E5%B8%B8%E7%94%A8%E7%9A%84%E5%92%8C%E5%85%B6%E4%BD%9C%E7%94%A8%E3%80%82)
+    - [The principle of webpack hot update](http://omnipotent-front-end.github.io/library/webpack.html#webpack%E7%83%AD%E6%9B%BF%E6%8D%A2%E7%9A%84%E5%8E%9F%E7%90%86%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
 - [webpack-chain](https://github.com/neutrinojs/webpack-chain) - chaining API to generate Webpack configuration.
 - [webpack-cli](https://www.npmjs.com/package/webpack-cli) - use webpack in cli
     - [Overall execution process](https://github.com/DDFE/DDFE-blog/issues/12)
