@@ -15,6 +15,7 @@
 
 - [copy-webpack-plugin](https://www.npmjs.com/package/copy-webpack-plugin) - 复制文件到生成目录
 - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin) - 简化html创建和启动服务的插件
+- [sentry-webpack-plugin](https://github.com/getsentry/sentry-webpack-plugin) - Sentry官方的webpack插件 <a href="https://sentry.io" rel="nofollow">https://sentry.io</a>
 - [webpack-subresource-integrity](https://github.com/waysact/webpack-subresource-integrity) - 使用Subresource Integrity的webbpack插件
 
 

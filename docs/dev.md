@@ -12,3 +12,10 @@
 ## Test
 
 - [Apache bench](https://httpd.apache.org/docs/2.4/programs/ab.html) - Stress test tool Apache bench
+
+
+## Architecture
+
+- [matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps &amp; the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
+- [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - Sitespeed.io is an open source tool that helps you monitor, analyze and optimize your website speed and performance, based on performance best practices advices from the coach and collecting browser metrics using the Navigation Timing API, User Timings and Visual Metrics (FirstVisualChange, SpeedIndex &amp; LastVisualChange).

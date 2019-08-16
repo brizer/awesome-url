@@ -15,6 +15,7 @@
 
 - [copy-webpack-plugin](https://www.npmjs.com/package/copy-webpack-plugin) - Copy files to build directory
 - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin) - Plugin that simplifies creation of HTML files to serve your bundles
+- [sentry-webpack-plugin](https://github.com/getsentry/sentry-webpack-plugin) - Official webpack plugin for Sentry <a href="https://sentry.io" rel="nofollow">https://sentry.io</a>
 - [webpack-subresource-integrity](https://github.com/waysact/webpack-subresource-integrity) - Webpack plugin for enabling Subresource Integrity.
 
 
