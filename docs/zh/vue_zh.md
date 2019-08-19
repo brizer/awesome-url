@@ -15,6 +15,10 @@
     - [vue-unit-test-with-jest](https://github.com/FunnyLiu/vue-unit-test-with-jest) - 吃透本仓库，变身vue项目单体测试大神
     - [vuex-units-test-jest](https://github.com/brizer/vuex-utils-test-jest)
 
+## 组件
+
+- [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue拖拽组件，基于Sortable.js
+
 ## 其他
 
 - [better-scroll](https://github.com/ustbhuangyi/better-scroll) - 滴滴开发的提升scroll性能的插件

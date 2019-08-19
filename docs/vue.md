@@ -15,6 +15,12 @@
     - [vue-unit-test-with-jest](https://github.com/FunnyLiu/vue-unit-test-with-jest) - vue unit test demo, good quality
     - [vuex-units-test-jest](https://github.com/brizer/vuex-utils-test-jest)
 
+
+## Components
+
+- [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
+
+
 ## Others
 
 - [better-scroll](https://github.com/ustbhuangyi/better-scroll) - tool for improving performance of scroll, build by didi
