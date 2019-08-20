@@ -24,6 +24,8 @@
 - [jsonplaceholder](https://jsonplaceholder.typicode.com/) - Online mock interface platform
 - [babel](https://babeljs.io/repl) - babel converter
 - [astexplorer](https://astexplorer.net/) - AST syntax tree parsing
+- [npm-module-dependence](http://npm.broofa.com/) - npm module dependence by map
+- [npm-module-dependence-map](http://npm.anvaka.com/#/) - npm module dependence by brain map
 - [npmtrends](https://www.npmtrends.com/) - npm module comparator
 - [vultr](https://www.vultr.com/) - VPS Server
 - [web.dev](https://web.dev/measure) - see how well your website performs, launched by Google
