@@ -4,6 +4,17 @@
 
 - [CNode](https://github.com/cnodejs/nodeclub) - CNode 源码
 
+## 中间件
+
+- [body-parser](https://github.com/expressjs/body-parser) - 解析body的中间件
+    - [在一个简单crud项目中使用](https://github.com/FunnyLiu/expressDemo/blob/master/myapp/app.js#L18)
+- [cookie-parser](https://github.com/expressjs/cookie-parser) - 解析http请求的cookies
+    - [在一个简单crud项目中使用](https://github.com/FunnyLiu/expressDemo/blob/master/myapp/app.js#L21)
+- [morgan](https://github.com/expressjs/morgan) - http请求日志中间件
+- [serve-favicon](https://github.com/expressjs/serve-favicon) - favicon图标处理中间件
+    - [在一个简单crud项目中使用](https://github.com/FunnyLiu/expressDemo/blob/master/myapp/app.js#L16)
+
+
 ## 其他
 - [express-rate-limit](https://www.npmjs.com/package/express-rate-limit) - 速率限制中间件
 - [SwaggerUIExpress](https://www.npmjs.com/package/swagger-ui-express) - 一个express中间件，将swagger文档ui加入
