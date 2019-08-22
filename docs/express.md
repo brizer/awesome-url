@@ -10,6 +10,7 @@
     - [use it in a simple CRUD project](https://github.com/FunnyLiu/expressDemo/blob/master/myapp/app.js#L18)
 - [cookie-parser](https://github.com/expressjs/cookie-parser) - Parse HTTP request cookies
     - [use it in a simple CRUD project](https://github.com/FunnyLiu/expressDemo/blob/master/myapp/app.js#L21)
+- [cookie-session](https://github.com/expressjs/cookie-session) - Simple cookie-based session middleware
 - [morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
 - [serve-favicon](https://github.com/expressjs/serve-favicon) - favicon serving middleware
     - [use it in a simple CRUD project](https://github.com/FunnyLiu/expressDemo/blob/master/myapp/app.js#L16)
