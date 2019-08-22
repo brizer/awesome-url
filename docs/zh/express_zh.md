@@ -13,7 +13,8 @@
 - [morgan](https://github.com/expressjs/morgan) - http请求日志中间件
 - [serve-favicon](https://github.com/expressjs/serve-favicon) - favicon图标处理中间件
     - [在一个简单crud项目中使用](https://github.com/FunnyLiu/expressDemo/blob/master/myapp/app.js#L16)
-
+- [serve-static](https://github.com/expressjs/serve-static) - 静态文件服务中间件
+- [session](https://github.com/expressjs/session) - session中间件
 
 ## 其他
 - [express-rate-limit](https://www.npmjs.com/package/express-rate-limit) - 速率限制中间件

@@ -13,6 +13,8 @@
 - [morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
 - [serve-favicon](https://github.com/expressjs/serve-favicon) - favicon serving middleware
     - [use it in a simple CRUD project](https://github.com/FunnyLiu/expressDemo/blob/master/myapp/app.js#L16)
+- [serve-static](https://github.com/expressjs/serve-static) - Serve static files
+- [session](https://github.com/expressjs/session) - Simple session middleware for Express
 
 ## Others
 - [express-rate-limit](https://www.npmjs.com/package/express-rate-limit) - rate-limiting middleware for Express

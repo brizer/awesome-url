@@ -1,5 +1,8 @@
 # 开发工具
 
+
+- [Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/) - github CI 工具
+    - [可以参考express的配置](https://github.com/FunnyLiu/express/blob/master/.travis.yml)
 - [git-history](https://github.com/pomber/git-history/) - 动画展示文件修改记录
 - [icons8](https://icons8.cn/icons) - 免费的SVG和PNG图标制作
 - [katacoda](https://www.katacoda.com/learn) - 学习部署相关的云主机操作学习平台
