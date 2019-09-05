@@ -11,6 +11,8 @@
 - [cookie-parser](https://github.com/expressjs/cookie-parser) - Parse HTTP request cookies
     - [use it in a simple CRUD project](https://github.com/FunnyLiu/expressDemo/blob/master/myapp/app.js#L21)
 - [cookie-session](https://github.com/expressjs/cookie-session) - Simple cookie-based session middleware
+- [helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
+    - [article to descripte it](https://juejin.im/post/5a24fd8f51882509e5438247)
 - [method-override](https://github.com/expressjs/method-override) - Override HTTP verbs.
 - [morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
 - [serve-favicon](https://github.com/expressjs/serve-favicon) - favicon serving middleware

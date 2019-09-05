@@ -11,6 +11,8 @@
 - [cookie-parser](https://github.com/expressjs/cookie-parser) - 解析http请求的cookies
     - [在一个简单crud项目中使用](https://github.com/FunnyLiu/expressDemo/blob/master/myapp/app.js#L21)
 - [cookie-session](https://github.com/expressjs/cookie-session) - 简单的 基于cookie的 session 中间件
+- [helmet](https://github.com/helmetjs/helmet) - 通过各种http头保护express应用
+    - [描述它的文章](https://juejin.im/post/5a24fd8f51882509e5438247)
 - [method-override](https://github.com/expressjs/method-override) - 复写客户端不支持的http的method如put/delete等，中间件
 - [morgan](https://github.com/expressjs/morgan) - http请求日志中间件
 - [serve-favicon](https://github.com/expressjs/serve-favicon) - favicon图标处理中间件
