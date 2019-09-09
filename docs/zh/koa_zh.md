@@ -18,11 +18,13 @@
 - [koa-helmet](https://github.com/venables/koa-helmet) - 为koa应用引入安全的http头
 - [koa-router](https://github.com/ZijianHe/koa-router) - koa的路由中间件
 - [koa-views](https://github.com/queckezz/koa-views) - koa的模板渲染中间件(hbs, swig, pug, anything! <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>)
+    - [源码分析](https://github.com/FunnyLiu/koa-views/tree/readsource)
 - [logger](https://github.com/koajs/logger) - 开发风格日志中间件
     - [源码分析](https://github.com/FunnyLiu/logger/tree/readsource)
 - [response-time](https://github.com/koajs/response-time) - 设置http头之X-Response-Time的中间件
 - [session](https://github.com/koajs/session) - koa的session中间件
 - [static](https://github.com/koajs/static) - 静态文件资源中间件
+    - [源码分析](https://github.com/FunnyLiu/static/tree/readsource)
 - [x-request-id](https://github.com/koa-modules/x-request-id) - 为每一个进入的http请求生成唯一的请求ID
 
 
