@@ -5,6 +5,7 @@
 - [chrome-extension-manifest](https://developer.chrome.com/extensions/manifest) - manifest of Chrome extension
 - [devdocs](https://devdocs.io/) - A free API search tool
 - [docker](https://docs.docker.com/engine/reference/commandline/docker/) - Docker CLI
+- [egg](https://eggjs.org/zh-cn/intro/) - egg api
 - [elementUI](https://element.eleme.cn/#/zh-CN/component/installation) - Vue-based UI library developed by ELE
 - [elasticSearch](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/5.x/client-usage.html) - ES Search engine database
 - [eslint](https://eslint.org/docs/user-guide/configuring) - configuration of eslint
@@ -20,10 +21,13 @@
 - [prettier-config](https://prettier.io/docs/en/configuration.html) - prettier beautify code
 - [w3school-css](http://www.w3school.com.cn/cssref/index.asp) - css attribute Daquan
 - [jsdoc](https://jsdoc.app/) - jsdoc API
+- [mathjs-functions](https://mathjs.org/docs/reference/functions.html) - mathjs function api
 - [node](https://nodejs.org/api/index.html) - nodejs API
 - [package.json](https://docs.npmjs.com/files/package.json) - The meaning of each parameter of the package.json
 - [PM2](https://pm2.io/doc/en/runtime/overview/) - node process management 
 - [sass](http://sass.bootcss.com/docs/sass-reference/) - sass API
+- [sequelize](https://sequelize.org/master/) - sequelize orm api
+- [SQL](https://www.runoob.com/sql/sql-tutorial.html) - SQL api
 - [less](https://less.bootcss.com/features/) - less API
 - [lodash](https://lodash.com/docs/4.17.11) - lodash API
 - [wechat](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432) - WeChat Development Manual

@@ -5,6 +5,7 @@
 - [chrome-extension-manifest](https://developer.chrome.com/extensions/manifest) - chrome扩展的manifest文件配置
 - [devdocs](https://devdocs.io/) - 非常好用的免费API搜索工具
 - [docker](https://docs.docker.com/engine/reference/commandline/docker/) - Docker的命令行工具
+- [egg](https://eggjs.org/zh-cn/intro/) - egg api
 - [elementUI](https://element.eleme.cn/#/zh-CN/component/installation) - 饿了么基于Vue的UI库
 - [elasticSearch](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/5.x/client-usage.html) - ES 搜索引擎数据库
 - [eslint](http://eslint.cn/docs/user-guide/configuring) - eslint配置
@@ -20,12 +21,15 @@
 - [prettier-config](https://prettier.io/docs/en/configuration.html) - prettier代码美化
 - [w3school-css](http://www.w3school.com.cn/cssref/index.asp) - css属性大全
 - [jsdoc](https://jsdoc.app/) - jsdoc API
+- [mathjs-functions](https://mathjs.org/docs/reference/functions.html) - mathjs 函数api
 - [node](https://nodejs.org/api/index.html) - nodejs的API
 - [package.json](https://docs.npmjs.com/files/package.json) - package.json各参数含义
 - [PM2](https://pm2.io/doc/en/runtime/overview/) - PM2，node进程管理
 - [sass](http://sass.bootcss.com/docs/sass-reference/) - sass的API
-- [lodash](https://lodash.com/docs/4.17.11) - lodash API
+- [sequelize](https://sequelize.org/master/) - sequelize orm api
+- [SQL](https://www.runoob.com/sql/sql-tutorial.html) - SQL api
 - [less](https://less.bootcss.com/features/) - less的API
+- [lodash](https://lodash.com/docs/4.17.11) - lodash API
 - [wechat](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432) - 微信开发手册
 - [miniprogram](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html) - 小程序开发手册
 - [mongoose](https://mongoosejs.com/) - mongo对应DAL层工具
