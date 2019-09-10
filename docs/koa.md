@@ -8,6 +8,7 @@
 
 - [basic-auth](https://github.com/koajs/basic-auth) - blanket basic auth middleware
 - [bodyparser](https://github.com/koajs/bodyparser) - a body parser for koa
+    - [source analysis](https://github.com/FunnyLiu/bodyparser/tree/readsource)
 - [compose](https://github.com/koajs/compose) - Middleware composition utility
     - [official example](https://github.com/koajs/examples/blob/master/compose/app.js#L15)
     - [source analysis](https://github.com/FunnyLiu/compose/tree/readsource)

@@ -8,6 +8,7 @@
 
 - [basic-auth](https://github.com/koajs/basic-auth) - 基本权限中间件
 - [bodyparser](https://github.com/koajs/bodyparser) - koa的body解析中间件
+    - [源码解读](https://github.com/FunnyLiu/bodyparser/tree/readsource)
 - [compose](https://github.com/koajs/compose) - 中间件合并方法
     - [官方例子](https://github.com/koajs/examples/blob/master/compose/app.js#L15)
     - [源码分析](https://github.com/FunnyLiu/compose/tree/readsource)
