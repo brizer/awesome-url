@@ -7,6 +7,7 @@
 - [blog-react-admin](https://github.com/biaochenxuying/blog-react-admin) - react + ant design blog backend
 - [elm-react-native](https://github.com/stoneWeb/elm-react-native) - React Native eleme app
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - Electron + React + MobX + JSS NeteaseMusic desktop app
+- [react-cloud-music](https://github.com/sanyuan0704/react-cloud-music) - Netease Music WebAPP based on React hooks + redux + immutable
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - Zhihu Daily App based on React-Native
 
 ## State manage

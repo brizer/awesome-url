@@ -8,6 +8,7 @@
 - [blog-react-admin](https://github.com/biaochenxuying/blog-react-admin) - react + ant design 博客后台
 - [elm-react-native](https://github.com/stoneWeb/elm-react-native) - React Native 饿了么APP
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - Electron + React + MobX + JSS 网易云音乐桌面APP
+- [react-cloud-music](https://github.com/sanyuan0704/react-cloud-music) - React hooks + redux + immutable打造精美音乐WebApp
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - 基于React-Native的知乎日报
 
 ## 状态管理
