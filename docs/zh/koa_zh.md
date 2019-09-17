@@ -17,6 +17,7 @@
 - [jwt](https://github.com/koajs/jwt) - 校验json web token的koa中间件
 - [koa-body](https://github.com/dlau/koa-body) - koa的body解析中间件
 - [koa-helmet](https://github.com/venables/koa-helmet) - 为koa应用引入安全的http头
+- [koa-override](https://github.com/node-modules/koa-override) - 方法覆盖中间件。让您在客户端不支持它的地方使用HTTP动词，如PUT或DELETE。
 - [koa-router](https://github.com/ZijianHe/koa-router) - koa的路由中间件
     - [源码分析](https://github.com/FunnyLiu/koa-router/tree/readsource)
 - [koa-views](https://github.com/queckezz/koa-views) - koa的模板渲染中间件(hbs, swig, pug, anything! <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>)
@@ -33,6 +34,6 @@
 
 
 ## 其他
-
+- [is-json](https://github.com/koajs/is-json) - 检查koa的body是不是json，被egg引用
 - [koa](https://github.com/koajs/koa) - koa本身
     - [源码分析](https://github.com/FunnyLiu/koa/tree/readSource)
