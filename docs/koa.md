@@ -14,6 +14,8 @@
     - [source analysis](https://github.com/FunnyLiu/compose/tree/readsource)
 - [csrf](https://github.com/koajs/csrf) - CSRF tokens for koa
     - [official example](https://github.com/koajs/examples/blob/master/csrf/app.js#L4)
+- [error](https://github.com/koajs/error) - Error response middleware (text, json, html)
+    - [source analysis](https://github.com/FunnyLiu/error/tree/readsource)
 - [jwt](https://github.com/koajs/jwt) - Koa middleware for validating JSON Web Tokens
 - [koa-body](https://github.com/dlau/koa-body) - koa body parser middleware
 - [koa-helmet](https://github.com/venables/koa-helmet) - Important security headers for koa

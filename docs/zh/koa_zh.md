@@ -14,6 +14,8 @@
     - [源码分析](https://github.com/FunnyLiu/compose/tree/readsource)
 - [csrf](https://github.com/koajs/csrf) - koa的CSRF Tokens中间件
     - [官方例子](https://github.com/koajs/examples/blob/master/csrf/app.js#L4)
+- [error](https://github.com/koajs/error) - 异常处理中间件 (text, json, html)
+    - [源码分析](https://github.com/FunnyLiu/error/tree/readsource)
 - [jwt](https://github.com/koajs/jwt) - 校验json web token的koa中间件
 - [koa-body](https://github.com/dlau/koa-body) - koa的body解析中间件
 - [koa-helmet](https://github.com/venables/koa-helmet) - 为koa应用引入安全的http头
