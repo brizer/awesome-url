@@ -22,6 +22,7 @@
 - [egg-jsonp](https://github.com/eggjs/egg-jsonp) - jsonp support for egg, with security check inside
 - [egg-multipart](https://github.com/eggjs/egg-multipart) - multipart plugin for egg
 - [egg-onerror](https://github.com/eggjs/egg-onerror) - error handler for egg
+    - [source analysis](https://github.com/FunnyLiu/egg-onerror/tree/readsource)
 - [egg-schedule](https://github.com/eggjs/egg-schedule) - Schedule plugin for egg
 - [egg-security](https://github.com/eggjs/egg-security) - Security plugin for egg, force performance too.
 - [egg-sequelize](https://github.com/eggjs/egg-sequelize) - ORM plugin for egg, based on sequelize

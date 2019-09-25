@@ -23,6 +23,7 @@
 - [egg-jsonp](https://github.com/eggjs/egg-jsonp) - egg的jsonp插件，egg内部集成
 - [egg-multipart](https://github.com/eggjs/egg-multipart) - egg的multipart插件，egg内部集成
 - [egg-onerror](https://github.com/eggjs/egg-onerror) - egg的错误处理，egg内部集成
+    - [源码分析](https://github.com/FunnyLiu/egg-onerror/tree/readsource)
 - [egg-schedule](https://github.com/eggjs/egg-schedule) - egg的定时任务插件，egg内部集成
 - [egg-security](https://github.com/eggjs/egg-security) - egg的安全插件，内置集成
 - [egg-sequelize](https://github.com/eggjs/egg-sequelize) - egg的ORM插件，基于sequelize

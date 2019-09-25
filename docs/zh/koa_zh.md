@@ -26,6 +26,8 @@
     - [源码分析](https://github.com/FunnyLiu/koa-views/tree/readsource)
 - [logger](https://github.com/koajs/logger) - 开发风格日志中间件
     - [源码分析](https://github.com/FunnyLiu/logger/tree/readsource)
+- [onerror](https://github.com/koajs/onerror) - 一个koa的错误处理中间件，方式是hack ctx.onerror。
+    - [源码分析](https://github.com/FunnyLiu/onerror/tree/readsource)
 - [response-time](https://github.com/koajs/response-time) - 设置http头之X-Response-Time的中间件
 - [send](https://github.com/koajs/send) - 转换静态资源
     - [源码分析](https://github.com/FunnyLiu/send/tree/readsource)

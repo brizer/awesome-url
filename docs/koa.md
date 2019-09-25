@@ -26,6 +26,8 @@
     - [source analysis](https://github.com/FunnyLiu/koa-views/tree/readsource)
 - [logger](https://github.com/koajs/logger) - Development style logging middleware
     - [source analysis](https://github.com/FunnyLiu/logger/tree/readsource)
+- [onerror](https://github.com/koajs/onerror) - an error handler for koa, hack ctx.onerror
+    - [source analysis](https://github.com/FunnyLiu/onerror/tree/readsource)
 - [response-time](https://github.com/koajs/response-time) - X-Response-Time middleware
 - [send](https://github.com/koajs/send) - Transfer static files
     - [source analysis](https://github.com/FunnyLiu/send/tree/readsource)
