@@ -14,6 +14,8 @@
 ## 测试
 
 - [Apache bench](https://httpd.apache.org/docs/2.4/programs/ab.html) - 压力测试工具Apache bench
+- [cnwml](https://www.cnwml.com/free-sms-online/12055094535.html) - 美国电话用于验证码测试
+- [pdflibr](https://pdflibr.com) - 中国电话用于验证码测试
 
 ## 架构
 

@@ -21,13 +21,15 @@
 - [egg-grpc](https://github.com/eggjs/egg-grpc) - gRPC通信插件
 - [egg-i18n](https://github.com/eggjs/egg-i18n) - egg的国际化插件，egg内部集成
 - [egg-jsonp](https://github.com/eggjs/egg-jsonp) - egg的jsonp插件，egg内部集成
-- [egg-multipart](https://github.com/eggjs/egg-multipart) - egg的multipart插件，egg内部集成
+- [egg-multipart](https://github.com/eggjs/egg-multipart) - egg的multipart插件，处理文件上传，egg内部集成
+    - [源码分析](https://github.com/FunnyLiu/egg-multipart/tree/readsource)
 - [egg-onerror](https://github.com/eggjs/egg-onerror) - egg的错误处理，egg内部集成
     - [源码分析](https://github.com/FunnyLiu/egg-onerror/tree/readsource)
 - [egg-schedule](https://github.com/eggjs/egg-schedule) - egg的定时任务插件，egg内部集成
 - [egg-security](https://github.com/eggjs/egg-security) - egg的安全插件，内置集成
 - [egg-sequelize](https://github.com/eggjs/egg-sequelize) - egg的ORM插件，基于sequelize
 - [egg-session](https://github.com/eggjs/egg-session) - egg的session插件，egg内部集成
+    - [源码分析](https://github.com/FunnyLiu/egg-session/tree/readsource)
 - [egg-sofa-rpc](https://github.com/eggjs/egg-sofa-rpc) - SOFARPC插件
 - [egg-static](https://github.com/eggjs/egg-static) - egg的静态服务插件，egg内部集成
 - [egg-swagger-doc](https://github.com/Ysj291823/egg-swagger-doc) - egg的swagger-ui插件
@@ -35,6 +37,7 @@
 - [egg-view](https://github.com/eggjs/egg-view) - egg的模板插件，egg内部集成
 - [egg-view-react-ssr](https://github.com/easy-team/egg-view-react-ssr) - React服务端渲染插件 
 - [egg-watcher](https://github.com/eggjs/egg-watcher) - egg的文件watch插件，egg内部集成
+    - [源码分析](https://github.com/FunnyLiu/egg-watcher/tree/readsource)
 
 
 ## 其他

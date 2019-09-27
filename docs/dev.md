@@ -14,6 +14,8 @@
 ## Test
 
 - [Apache bench](https://httpd.apache.org/docs/2.4/programs/ab.html) - Stress test tool Apache bench
+- [cnwml](https://www.cnwml.com/free-sms-online/12055094535.html) - phone validate in us
+- [pdflibr](https://pdflibr.com) - phone validate in chinese
 
 
 ## Architecture
