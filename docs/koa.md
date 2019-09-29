@@ -3,6 +3,7 @@
 ## Project Examples
 
 - [koa-knex-realworld-example](https://github.com/gothinkster/koa-knex-realworld-example) - real-world build by koa
+- [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
 
 ## Middleware
 

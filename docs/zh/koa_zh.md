@@ -3,6 +3,7 @@
 ## 项目实例
 
 - [koa-knex-realworld-example](https://github.com/gothinkster/koa-knex-realworld-example) - koa构建的real-world项目
+- [outline](https://github.com/outline/outline) - 文档和知识管理，服务端基于koa。
 
 ## 中间件
 

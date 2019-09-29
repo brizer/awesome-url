@@ -59,6 +59,7 @@
 - [egg-react-ssr](https://github.com/ykfe/egg-react-ssr) - Egg+React+SSR服务端渲染应用骨架
 - [egg-scripts](https://github.com/eggjs/egg-scripts) - egg项目部署工具
 - [egg-shell-decorators](https://github.com/super2god/egg-shell-decorators) - egg的装饰器，封装swagger，router等
+    - [源码分析](https://github.com/FunnyLiu/egg-shell-decorators/tree/readsource)
 - [egg-ts-helper](https://github.com/whxaxes/egg-ts-helper) - <g-emoji class="g-emoji" alias="fried_egg" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f373.png">🍳</g-emoji> 针对egg生成ts声明(d.ts)
 - [vscode-eggjs](https://github.com/eggjs/vscode-eggjs) - egg的vscode插件
 
