@@ -18,6 +18,7 @@
 ## 插件
 
 - [egg-development](https://github.com/eggjs/egg-development) - egg的开发插件，egg内部集成
+    - [源码分析](https://github.com/FunnyLiu/egg-development/tree/readsource)
 - [egg-grpc](https://github.com/eggjs/egg-grpc) - gRPC通信插件
 - [egg-i18n](https://github.com/eggjs/egg-i18n) - egg的国际化插件，egg内部集成
 - [egg-jsonp](https://github.com/eggjs/egg-jsonp) - egg的jsonp插件，egg内部集成
@@ -27,6 +28,7 @@
     - [源码分析](https://github.com/FunnyLiu/egg-onerror/tree/readsource)
 - [egg-schedule](https://github.com/eggjs/egg-schedule) - egg的定时任务插件，egg内部集成
 - [egg-security](https://github.com/eggjs/egg-security) - egg的安全插件，内置集成
+    - [源码分析](https://github.com/FunnyLiu/egg-security/tree/readsource)
 - [egg-sequelize](https://github.com/eggjs/egg-sequelize) - egg的ORM插件，基于sequelize
 - [egg-session](https://github.com/eggjs/egg-session) - egg的session插件，egg内部集成
     - [源码分析](https://github.com/FunnyLiu/egg-session/tree/readsource)
@@ -34,6 +36,7 @@
 - [egg-static](https://github.com/eggjs/egg-static) - egg的静态服务插件，egg内部集成
 - [egg-swagger-doc](https://github.com/Ysj291823/egg-swagger-doc) - egg的swagger-ui插件
 - [egg-validate](https://github.com/eggjs/egg-validate) - egg的校验插件
+    - [源码分析](https://github.com/FunnyLiu/egg-validate/tree/readsource)
 - [egg-view](https://github.com/eggjs/egg-view) - egg的模板插件，egg内部集成
 - [egg-view-react-ssr](https://github.com/easy-team/egg-view-react-ssr) - React服务端渲染插件 
 - [egg-watcher](https://github.com/eggjs/egg-watcher) - egg的文件watch插件，egg内部集成
@@ -55,7 +58,7 @@
 - [egg-mock](https://github.com/eggjs/egg-mock) - egg测试的mock库
 - [egg-react-ssr](https://github.com/ykfe/egg-react-ssr) - Egg+React+SSR服务端渲染应用骨架
 - [egg-scripts](https://github.com/eggjs/egg-scripts) - egg项目部署工具
-- [egg-shell-decorators](https://github.com/super2god/egg-shell-decorators) - 给你的<g-emoji class="g-emoji" alias="egg" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f95a.png">🥚</g-emoji>加个壳
+- [egg-shell-decorators](https://github.com/super2god/egg-shell-decorators) - egg的装饰器，封装swagger，router等
 - [egg-ts-helper](https://github.com/whxaxes/egg-ts-helper) - <g-emoji class="g-emoji" alias="fried_egg" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f373.png">🍳</g-emoji> 针对egg生成ts声明(d.ts)
 - [vscode-eggjs](https://github.com/eggjs/vscode-eggjs) - egg的vscode插件
 

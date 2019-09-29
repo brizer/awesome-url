@@ -17,6 +17,7 @@
 ## Plugins
 
 - [egg-development](https://github.com/eggjs/egg-development) - egg plugin for development
+    - [source analysis](https://github.com/FunnyLiu/egg-development/tree/readsource)
 - [egg-grpc](https://github.com/eggjs/egg-grpc) - communicate plugin by gRPC
 - [egg-i18n](https://github.com/eggjs/egg-i18n) - i18n plugin for egg
 - [egg-jsonp](https://github.com/eggjs/egg-jsonp) - jsonp support for egg, with security check inside
@@ -26,6 +27,7 @@
     - [source analysis](https://github.com/FunnyLiu/egg-onerror/tree/readsource)
 - [egg-schedule](https://github.com/eggjs/egg-schedule) - Schedule plugin for egg
 - [egg-security](https://github.com/eggjs/egg-security) - Security plugin for egg, force performance too.
+    - [source analysis](https://github.com/FunnyLiu/egg-security/tree/readsource)
 - [egg-sequelize](https://github.com/eggjs/egg-sequelize) - ORM plugin for egg, based on sequelize
 - [egg-session](https://github.com/eggjs/egg-session) - session plugin for egg
     - [source analysis](https://github.com/FunnyLiu/egg-session/tree/readsource)
@@ -33,6 +35,7 @@
 - [egg-static](https://github.com/eggjs/egg-static) - static server plugin for egg
 - [egg-swagger-doc](https://github.com/Ysj291823/egg-swagger-doc) - swagger-ui for egg
 - [egg-validate](https://github.com/eggjs/egg-validate) - validate plugin for egg
+    - [source analysis](https://github.com/FunnyLiu/egg-validate/tree/readsource)
 - [egg-view](https://github.com/eggjs/egg-view) - view plugin for egg
 - [egg-view-react-ssr](https://github.com/easy-team/egg-view-react-ssr) - React SSR plugin for egg
 - [egg-watcher](https://github.com/eggjs/egg-watcher) - Watcher plugin for egg
