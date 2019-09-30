@@ -28,6 +28,7 @@
 - [sass](http://sass.bootcss.com/docs/sass-reference/) - sass API
 - [sequelize](https://sequelize.org/master/) - sequelize orm api
 - [SQL](https://www.runoob.com/sql/sql-tutorial.html) - SQL api
+- [swagger-json](https://swagger.io/specification/) - configuration of swagger
 - [less](https://less.bootcss.com/features/) - less API
 - [lodash](https://lodash.com/docs/4.17.11) - lodash API
 - [wechat](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432) - WeChat Development Manual

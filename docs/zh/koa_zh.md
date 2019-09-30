@@ -4,6 +4,7 @@
 
 - [koa-knex-realworld-example](https://github.com/gothinkster/koa-knex-realworld-example) - koa构建的real-world项目
 - [outline](https://github.com/outline/outline) - 文档和知识管理，服务端基于koa。
+- [strapi](https://github.com/strapi/strapi/) - <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> 开源cms系统，构建node应用和api
 
 ## 中间件
 

@@ -4,6 +4,7 @@
 
 - [koa-knex-realworld-example](https://github.com/gothinkster/koa-knex-realworld-example) - real-world build by koa
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
+- [strapi](https://github.com/strapi/strapi/) - <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Open source Node.js Headless CMS to easily build customisable APIs
 
 ## Middleware
 
