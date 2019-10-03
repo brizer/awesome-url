@@ -1,3 +1,7 @@
+# Deploy
+
+- [zeit](https://zeit.co/dashboard) - 基于github或gitlab内容，免费提供服务器和域名部署静态文件
+
 # 开发工具
 
 - [CodeHub](https://github.com/CodeHubApp/CodeHub) - github的IOS客户端
