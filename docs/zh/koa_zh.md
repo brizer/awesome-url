@@ -14,6 +14,7 @@
 - [compose](https://github.com/koajs/compose) - 中间件合并方法
     - [官方例子](https://github.com/koajs/examples/blob/master/compose/app.js#L15)
     - [源码分析](https://github.com/FunnyLiu/compose/tree/readsource)
+- [cors](https://github.com/koajs/cors) - CORS跨域中间件
 - [csrf](https://github.com/koajs/csrf) - koa的CSRF Tokens中间件
     - [官方例子](https://github.com/koajs/examples/blob/master/csrf/app.js#L4)
 - [error](https://github.com/koajs/error) - 异常处理中间件 (text, json, html)

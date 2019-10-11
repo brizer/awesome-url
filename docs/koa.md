@@ -14,6 +14,7 @@
 - [compose](https://github.com/koajs/compose) - Middleware composition utility
     - [official example](https://github.com/koajs/examples/blob/master/compose/app.js#L15)
     - [source analysis](https://github.com/FunnyLiu/compose/tree/readsource)
+- [cors](https://github.com/koajs/cors) - Cross-Origin Resource Sharing(CORS) for koa
 - [csrf](https://github.com/koajs/csrf) - CSRF tokens for koa
     - [official example](https://github.com/koajs/examples/blob/master/csrf/app.js#L4)
 - [error](https://github.com/koajs/error) - Error response middleware (text, json, html)
