@@ -63,5 +63,6 @@
 - [egg-shell-decorators](https://github.com/super2god/egg-shell-decorators) - 给你的<g-emoji class="g-emoji" alias="egg" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f95a.png">🥚</g-emoji>加个壳
     - [source analysis](https://github.com/FunnyLiu/egg-shell-decorators/tree/readsource)
 - [egg-ts-helper](https://github.com/whxaxes/egg-ts-helper) - <g-emoji class="g-emoji" alias="fried_egg" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f373.png">🍳</g-emoji> Generate TypeScript definition files(d.ts) for Egg
+- [egg-utils](https://github.com/eggjs/egg-utils) - Utils for all egg projects.
 - [vscode-eggjs](https://github.com/eggjs/vscode-eggjs) - vscode extension for <a href="https://eggjs.org/" rel="nofollow">https://eggjs.org/</a>
 
