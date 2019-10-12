@@ -5,7 +5,6 @@
 
 - [api-mocker](https://github.com/DXY-F2E/api-mocker) - API管理系统，服务端基于eggjs
 - [egg-cnode](https://github.com/cnodejs/egg-cnode) - CNode 社区 Egg 版本
-- [egg-cookies](https://github.com/eggjs/egg-cookies) - egg的cookie模块，egg内部集成
 - [egg-example-api](https://github.com/FunnyLiu/egg-example-api) - 使用egg-swagger-doc的例子demo
 - [eggjs-realworld-example-app](https://github.com/eggjs-community/eggjs-realworld-example-app) - Real World Egg.js + Mysql 后台项目
 - [egg-seed](https://github.com/ErikJiang/egg-seed) - <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> egg.ts 种子框架
@@ -17,6 +16,7 @@
 
 ## 插件
 
+- [egg-cookies](https://github.com/eggjs/egg-cookies) - egg的cookie模块，egg内部集成
 - [egg-development](https://github.com/eggjs/egg-development) - egg的开发插件，egg内部集成
     - [源码分析](https://github.com/FunnyLiu/egg-development/tree/readsource)
 - [egg-grpc](https://github.com/eggjs/egg-grpc) - gRPC通信插件
@@ -50,6 +50,7 @@
 - [egg](https://github.com/eggjs/egg) - egg本身
     - [源码分析](https://github.com/FunnyLiu/egg/tree/readsource)
 - [egg-bin](https://github.com/eggjs/egg-bin) - egg开发者工具
+    - [源码分析](https://github.com/FunnyLiu/egg-bin/tree/readsource)
 - [egg-ci](https://github.com/eggjs/egg-ci) - 自动生成ci配置文件
 - [egg-cluster](https://github.com/eggjs/egg-cluster) - egg多进程管理
 - [egg-core](https://github.com/eggjs/egg-core) - 基于koa的可插件化框架

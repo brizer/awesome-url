@@ -16,6 +16,7 @@
 
 ## Plugins
 
+- [egg-cookies](https://github.com/eggjs/egg-cookies) - cookies module for egg, base on pillarjs/cookies
 - [egg-development](https://github.com/eggjs/egg-development) - egg plugin for development
     - [source analysis](https://github.com/FunnyLiu/egg-development/tree/readsource)
 - [egg-grpc](https://github.com/eggjs/egg-grpc) - communicate plugin by gRPC
@@ -49,11 +50,11 @@
 - [egg](https://github.com/eggjs/egg) - egg itself
     - [source analysis](https://github.com/FunnyLiu/egg/tree/readsource)
 - [egg-bin](https://github.com/eggjs/egg-bin) - egg developer tool
+    - [source analysis](https://github.com/FunnyLiu/egg-bin/tree/readsource)
 - [egg-ci](https://github.com/eggjs/egg-ci) - Auto gen ci config file
 - [egg-cluster](https://github.com/eggjs/egg-cluster) - cluster manager for egg
 - [egg-core](https://github.com/eggjs/egg-core) - A core Pluggable framework based on koa.
     - [source analysis](https://github.com/FunnyLiu/egg-core/tree/readsource)
-- [egg-cookies](https://github.com/eggjs/egg-cookies) - cookies module for egg, base on pillarjs/cookies
 - [egg-init](https://github.com/eggjs/egg-init) - Init egg app helper tools
 - [egg-logger](https://github.com/eggjs/egg-logger) - Egg logger
     - [source analysis](https://github.com/FunnyLiu/egg-logger/tree/readsource)
