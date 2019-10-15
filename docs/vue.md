@@ -27,6 +27,7 @@
 - [cube-ui](https://github.com/didi/cube-ui) - Mobile ui framework developed by Didi
     - [Technical secret of cube-ui](https://github.com/DDFE/DDFE-blog/issues/31)
 - [element](https://github.com/ElemeFE/element) - ElementUI Toolkit
+- [vmark](https://github.com/egoist/vmark) - Convert markdown to Vue component.
 - [Vue](https://github.com/vuejs/vue) - Vue itself
 - [vuepress](https://github.com/vuejs/vuepress) - minimalistic static site generator
     - [Introduction at the vue conference](https://zhuanlan.zhihu.com/p/68669412)
