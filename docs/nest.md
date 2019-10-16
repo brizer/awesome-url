@@ -1,5 +1,6 @@
 # NestJS
 - [@nestjs/cli](https://www.npmjs.com/package/@nestjs/cli) - nest cli tool
+    - [source analysis](https://github.com/FunnyLiu/nest-cli/tree/readsource)
 - [@nestjs/schematics](https://www.npmjs.com/package/@nestjs/schematics) - nest template for cli
 - [awesome-nestjs](https://github.com/juliandavidmr/awesome-nestjs) - Many Nest examples
 - [nest](https://github.com/nestjs/nest) - Nest itself

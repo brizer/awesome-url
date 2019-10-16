@@ -1,6 +1,7 @@
 # NestJS
 
 - [@nestjs/cli](https://www.npmjs.com/package/@nestjs/cli) - nest脚手架工具
+    - [源码分析](https://github.com/FunnyLiu/nest-cli/tree/readsource)
 - [@nestjs/schematics](https://www.npmjs.com/package/@nestjs/schematics) - nest脚手架的模板文件
 - [awesome-nestjs](https://github.com/juliandavidmr/awesome-nestjs) - 很多Nest的例子
 - [nest](https://github.com/nestjs/nest) - Nest本身
