@@ -10,6 +10,7 @@
     - [和cssmodule,react一起使用](https://github.com/FunnyLiu/webpackDemo#%E4%BD%BF%E7%94%A8less%E9%80%9A%E8%BF%87css-module%E6%9D%A5%E7%AE%A1%E7%90%86react%E7%BB%84%E4%BB%B6-by-demo23_less_cssmodule)
 - [style-loader](https://www.npmjs.com/package/style-loader) - 通过style标签将css加到dom中去
 - [ts-loader](https://github.com/TypeStrong/ts-loader) - typescript的loader
+- [url-loader](https://github.com/webpack-contrib/url-loader) - 转换文件到base64
 
 ## plugins
 
@@ -17,7 +18,6 @@
 - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin) - 简化html创建和启动服务的插件
 - [sentry-webpack-plugin](https://github.com/getsentry/sentry-webpack-plugin) - Sentry官方的webpack插件 <a href="https://sentry.io" rel="nofollow">https://sentry.io</a>
 - [webpack-subresource-integrity](https://github.com/waysact/webpack-subresource-integrity) - 使用Subresource Integrity的webbpack插件
-- [url-loader](https://github.com/webpack-contrib/url-loader) - 转换文件到base64
 
 
 ## others
