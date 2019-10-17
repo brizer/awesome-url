@@ -10,6 +10,7 @@
     - [use it with css module and react](https://github.com/FunnyLiu/webpackDemo#%E4%BD%BF%E7%94%A8less%E9%80%9A%E8%BF%87css-module%E6%9D%A5%E7%AE%A1%E7%90%86react%E7%BB%84%E4%BB%B6-by-demo23_less_cssmodule)
 - [style-loader](https://www.npmjs.com/package/style-loader) - Add css to dom by style tag
 - [ts-loader](https://github.com/TypeStrong/ts-loader) - ts loader for webpack
+- [url-loader](https://github.com/webpack-contrib/url-loader) - A loader for webpack which transforms files into base64 URIs
 
 ## plugins
 
