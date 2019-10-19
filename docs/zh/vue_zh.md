@@ -17,6 +17,7 @@
 
 ## 组件
 
+- [vue-json-csv](https://github.com/Belphemur/vue-json-csv) - json变csv文件下载。
 - [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue拖拽组件，基于Sortable.js
 
 ## 其他
