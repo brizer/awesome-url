@@ -17,15 +17,34 @@
 
 ## 组件
 
+
+- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - Bootstrap和Vue的结合。
+- [element](https://github.com/ElemeFE/element) - ElementUI 组件库
+- [vue-clipboard2](https://github.com/Inndy/vue-clipboard2) - 剪切板组件
+- [vue-color](https://github.com/xiaokaike/vue-color) - 颜色选择组件
+- [vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders) - 骨架屏组件
+- [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - 拖拽组件
 - [vue-json-csv](https://github.com/Belphemur/vue-json-csv) - json变csv文件下载。
+- [vue-notification](https://github.com/euvl/vue-notification) - 通知条组件
+- [vue-slider-component](https://github.com/NightCatSama/vue-slider-component) - 滑动条组件
+- [vue-trend](https://github.com/QingWei-Li/vue-trend) - 趋势图组件
+- [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - 无限滚动组件
 - [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue拖拽组件，基于Sortable.js
+- [vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - 暗黑风格组件库
+- [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker) - 日期选择器组件
+- [vuetable-2](https://github.com/ratiw/vuetable-2) - 表格组件
+
+## 插件
+
+- [vue-moment](https://www.npmjs.com/package/vue-moment) - 简便 Moment.js 过滤器
+- [vuelidate](https://github.com/vuelidate/vuelidate) - 基于数据模型校验表单
 
 ## 其他
 
 - [better-scroll](https://github.com/ustbhuangyi/better-scroll) - 滴滴开发的提升scroll性能的插件
 - [cube-ui](https://github.com/didi/cube-ui) - 由滴滴开发的移动端ui框架
     - [cube-ui的技术揭秘](https://github.com/DDFE/DDFE-blog/issues/31)
-- [element](https://github.com/ElemeFE/element) - ElementUI 组件库
+- [nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) - 使用vue和nativeScript构建app
 - [vmark](https://github.com/egoist/vmark) - 将markdown转为vue组件
 - [Vue](https://github.com/vuejs/vue) - Vue本身
 - [vuepress](https://github.com/vuejs/vuepress) - 极简的静态网站生成器
@@ -45,7 +64,7 @@
 - [vue-instantsearch](https://github.com/algolia/vue-instantsearch) - 构建Vue的搜索组件
 - [vue-lazyload](https://www.npmjs.com/package/vue-lazyload) - 懒加载图片
 - [vue-meta](https://github.com/nuxt/vue-meta) - 管理页面meta信息
-- [vue-moment](https://www.npmjs.com/package/vue-moment) - 简便 Moment.js 过滤器
+- [vue-native-core](https://github.com/GeekyAnts/vue-native-core) - 基于vue，构建跨端app
 - [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility) - 检测一个元素是否在视窗内
 - [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator) - Vue的属性装饰器
 - [vue-responsive](https://github.com/reinerBa/Vue-Responsive) - 一个响应式处理插件

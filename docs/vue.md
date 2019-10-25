@@ -18,16 +18,34 @@
 
 ## Components
 
-- [vue-json-csv](https://github.com/Belphemur/vue-json-csv) - VueJS component to export Json Data into CSV file and download the resulting file.
-- [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
 
+- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue, with over 40 plugins and more than 80 custom components, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
+- [element](https://github.com/ElemeFE/element) - ElementUI Toolkit
+- [vue-clipboard2](https://github.com/Inndy/vue-clipboard2) - A simple vue2 binding to clipboard.js
+- [vue-color](https://github.com/xiaokaike/vue-color) - <g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">🎨</g-emoji> Vue Color Pickers for Sketch, Photoshop, Chrome &amp; more <a href="http://vue-color.surge.sh" rel="nofollow">http://vue-color.surge.sh</a>
+- [vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders) - Composable components for rendering fake (progressive) content like facebook in vue
+- [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - Vue2 Component for draggable and resizable elements.
+- [vue-json-csv](https://github.com/Belphemur/vue-json-csv) - VueJS component to export Json Data into CSV file and download the resulting file.
+- [vue-notification](https://github.com/euvl/vue-notification) - <g-emoji class="g-emoji" alias="icecream" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f366.png">🍦</g-emoji> Vue.js 2 library for showing notifications
+- [vue-slider-component](https://github.com/NightCatSama/vue-slider-component) - <g-emoji class="g-emoji" alias="thermometer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f321.png">🌡</g-emoji> A highly customized slider component
+- [vue-trend](https://github.com/QingWei-Li/vue-trend) - <g-emoji class="g-emoji" alias="rainbow" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f308.png">🌈</g-emoji> Simple, elegant spark lines for Vue.js
+- [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji> Blazing fast scrolling for any amount of data
+- [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
+- [vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - <g-emoji class="g-emoji" alias="woman_artist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f3a8.png">👩‍🎨</g-emoji><g-emoji class="g-emoji" alias="man_artist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3a8.png">👨‍🎨</g-emoji> A minimalist dark design system for Vue.js. Based components designed for the insomniacs who enjoy dark interfaces as much as we do.
+- [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker) - A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations
+- [vuetable-2](https://github.com/ratiw/vuetable-2) - data table simplify! -- datatable component for Vue 2.x. See documentation at
+
+## Plugins
+
+- [vue-moment](https://www.npmjs.com/package/vue-moment) - Handy Moment.js filters
+- [vuelidate](https://github.com/vuelidate/vuelidate) - Simple, lightweight model-based validation for Vue.js
 
 ## Others
 
 - [better-scroll](https://github.com/ustbhuangyi/better-scroll) - tool for improving performance of scroll, build by didi
 - [cube-ui](https://github.com/didi/cube-ui) - Mobile ui framework developed by Didi
     - [Technical secret of cube-ui](https://github.com/DDFE/DDFE-blog/issues/31)
-- [element](https://github.com/ElemeFE/element) - ElementUI Toolkit
+- [nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using Vue and NativeScript.
 - [vmark](https://github.com/egoist/vmark) - Convert markdown to Vue component.
 - [Vue](https://github.com/vuejs/vue) - Vue itself
 - [vuepress](https://github.com/vuejs/vuepress) - minimalistic static site generator
@@ -47,7 +65,7 @@
 - [vue-instantsearch](https://github.com/algolia/vue-instantsearch) - Algolia components for building search UIs with Vue
 - [vue-lazyload](https://www.npmjs.com/package/vue-lazyload) - lazyloading images
 - [vue-meta](https://github.com/nuxt/vue-meta) - Manage page meta info
-- [vue-moment](https://www.npmjs.com/package/vue-moment) - Handy Moment.js filters
+- [vue-native-core](https://github.com/GeekyAnts/vue-native-core) - Vue Native is a framework to build cross platform native mobile apps using JavaScript
 - [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility) - Detect when an element is becoming visible or hidden on the page
 - [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator) - Props decorator for Vue
 - [vue-responsive](https://github.com/reinerBa/Vue-Responsive) - A plugin for responsive handling
