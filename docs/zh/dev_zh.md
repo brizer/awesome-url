@@ -29,6 +29,6 @@
 - [sentry](https://github.com/getsentry/sentry) - Sentry是跨平台语言的性能监控平台。开源可独立部署。
 - [sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - Sitespeed.io是一个开源工具，可以帮助您监控，分析和优化您的网站速度和性能，基于来自教练的性能最佳实践建议以及使用Navigation Timing API，用户计时和可视指标收集浏览器指标（FirstVisualChange，SpeedIndex） ＆amp; LastVisualChange）。
 
-## 学习
 
-- [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 像游戏一样学习git
+
+

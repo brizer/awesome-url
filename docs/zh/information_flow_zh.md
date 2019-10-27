@@ -21,9 +21,16 @@
 - [aliued](http://www.aliued.com/) - 阿里国际UED
 - [CNode](https://cnodejs.org/) - NodeJS 中文社区
 - [ecma](http://www.ecma-international.org/) - ECMA 官网
-- [freecodecamp](https://www.freecodecamp.org/) - 前端学习平台
+- [ECMAScript262](https://tc39.es/ecma262/) - 最新的js规范草案
+- [ECMAScript262-standard](http://www.ecma-international.org/publications/standards/Ecma-262.htm) - 当前的标准js规范
+- [proposals](https://github.com/tc39/proposals) - 即将标准化的js功能
 - [taobaofed](http://taobaofed.org/) - 淘宝FED
 
+# 学习资源
+
+- [freecodecamp](https://www.freecodecamp.org/) - 前端学习平台，github霸榜项目
+- [javascript.info](https://zh.javascript.info/) - 一个很好的学习现代js基础的免费教程
+- [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 像游戏一样学习git
 
 
 # PPT

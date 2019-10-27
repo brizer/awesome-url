@@ -24,8 +24,17 @@
 - [aliued](http://www.aliued.com/) - Ali international UED
 - [CNode](https://cnodejs.org/) - NodeJS Chinese community
 - [ecma](http://www.ecma-international.org/) - ECMA official website
-- [freecodecamp](https://www.freecodecamp.org/) - FED learning platform
+- [ECMAScript262](https://tc39.es/ecma262/) - Latest draft js specification
+- [ECMAScript262-standard](http://www.ecma-international.org/publications/standards/Ecma-262.htm) - standard js specification
+- [proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [taobaofed](http://taobaofed.org/) - taobao FED
+
+
+# Learning resource
+
+- [freecodecamp](https://www.freecodecamp.org/) - FED learning platform
+- [javascript.info](https://zh.javascript.info/) - A free website to learning modern javascript.
+- [learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization to challenge and educate!
 
 
 # PPT

@@ -25,6 +25,7 @@
 - [vue-color](https://github.com/xiaokaike/vue-color) - <g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">🎨</g-emoji> Vue Color Pickers for Sketch, Photoshop, Chrome &amp; more <a href="http://vue-color.surge.sh" rel="nofollow">http://vue-color.surge.sh</a>
 - [vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders) - Composable components for rendering fake (progressive) content like facebook in vue
 - [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - Vue2 Component for draggable and resizable elements.
+- [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - An infinite scroll plugin for Vue.js.
 - [vue-json-csv](https://github.com/Belphemur/vue-json-csv) - VueJS component to export Json Data into CSV file and download the resulting file.
 - [vue-notification](https://github.com/euvl/vue-notification) - <g-emoji class="g-emoji" alias="icecream" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f366.png">🍦</g-emoji> Vue.js 2 library for showing notifications
 - [vue-slider-component](https://github.com/NightCatSama/vue-slider-component) - <g-emoji class="g-emoji" alias="thermometer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f321.png">🌡</g-emoji> A highly customized slider component
@@ -34,6 +35,10 @@
 - [vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - <g-emoji class="g-emoji" alias="woman_artist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f3a8.png">👩‍🎨</g-emoji><g-emoji class="g-emoji" alias="man_artist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3a8.png">👨‍🎨</g-emoji> A minimalist dark design system for Vue.js. Based components designed for the insomniacs who enjoy dark interfaces as much as we do.
 - [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker) - A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations
 - [vuetable-2](https://github.com/ratiw/vuetable-2) - data table simplify! -- datatable component for Vue 2.x. See documentation at
+
+## Directive
+
+- [vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll) - An infinite scroll directive for vue.js
 
 ## Plugins
 

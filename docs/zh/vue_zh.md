@@ -24,6 +24,7 @@
 - [vue-color](https://github.com/xiaokaike/vue-color) - 颜色选择组件
 - [vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders) - 骨架屏组件
 - [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - 拖拽组件
+- [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - 无限滚动加载组件
 - [vue-json-csv](https://github.com/Belphemur/vue-json-csv) - json变csv文件下载。
 - [vue-notification](https://github.com/euvl/vue-notification) - 通知条组件
 - [vue-slider-component](https://github.com/NightCatSama/vue-slider-component) - 滑动条组件
@@ -33,6 +34,11 @@
 - [vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - 暗黑风格组件库
 - [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker) - 日期选择器组件
 - [vuetable-2](https://github.com/ratiw/vuetable-2) - 表格组件
+
+
+## 指令
+
+- [vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll) - 无限滚动指令，饿了么出品。
 
 ## 插件
 
