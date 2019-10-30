@@ -4,6 +4,7 @@
 
 # 开发工具
 
+- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - 百度网盘客户端 - Go语言编写，亲测可以用
 - [CodeHub](https://github.com/CodeHubApp/CodeHub) - github的IOS客户端
 - [Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/) - github CI 工具
     - [可以参考express的配置](https://github.com/FunnyLiu/express/blob/master/.travis.yml)

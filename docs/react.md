@@ -2,6 +2,7 @@
 
 ## Project examples
 
+- [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [antd-admin](https://github.com/zuiidea/antd-admin) - React + Ant Design + UmiJS admin
 - [blog-react](https://github.com/biaochenxuying/blog-react) - react + Ant Design blog front end
 - [blog-react-admin](https://github.com/biaochenxuying/blog-react-admin) - react + ant design blog backend

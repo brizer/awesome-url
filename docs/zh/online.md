@@ -19,6 +19,7 @@
 - [ideaLanyus](http://idea.lanyus.com/) - Intellij 破解
 - [regex101](https://regex101.com/) - 正则在线匹配测试
 - [regexper](https://regexper.com/) - 正则表达式流程图
+- [resource-search](https://www.dalipan.com/) - 云盘中搜索资源
 - [javascripting](https://www.javascripting.com/) - 查看前端框架
 - [js-code-to-svg-flowchart](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/docs/live-editor/index.html) - js源码转流程图
 - [jsbench](https://github.com/jsbench/jsbench.github.io) - 测试js代码片段性能

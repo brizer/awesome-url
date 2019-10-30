@@ -3,6 +3,7 @@
 ## 项目实例
 
 - [koa-knex-realworld-example](https://github.com/gothinkster/koa-knex-realworld-example) - koa构建的real-world项目
+- [nodejs-koa-blog](https://github.com/liangfengbo/nodejs-koa-blog) - Node.js + Koa2 + MySQL + Vue.js 实战开发一套完整个人博客项目网站
 - [outline](https://github.com/outline/outline) - 文档和知识管理，服务端基于koa。
 - [strapi](https://github.com/strapi/strapi/) - <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> 开源cms系统，构建node应用和api
 
