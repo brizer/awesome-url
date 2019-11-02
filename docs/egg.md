@@ -53,6 +53,7 @@
     - [source analysis](https://github.com/FunnyLiu/egg-bin/tree/readsource)
 - [egg-ci](https://github.com/eggjs/egg-ci) - Auto gen ci config file
 - [egg-cluster](https://github.com/eggjs/egg-cluster) - cluster manager for egg
+    - [source analysis](https://github.com/FunnyLiu/egg-cluster/tree/readsource)
 - [egg-core](https://github.com/eggjs/egg-core) - A core Pluggable framework based on koa.
     - [source analysis](https://github.com/FunnyLiu/egg-core/tree/readsource)
 - [egg-init](https://github.com/eggjs/egg-init) - Init egg app helper tools

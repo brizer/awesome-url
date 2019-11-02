@@ -53,6 +53,7 @@
     - [源码分析](https://github.com/FunnyLiu/egg-bin/tree/readsource)
 - [egg-ci](https://github.com/eggjs/egg-ci) - 自动生成ci配置文件
 - [egg-cluster](https://github.com/eggjs/egg-cluster) - egg多进程管理
+    - [源码分析](https://github.com/FunnyLiu/egg-cluster/tree/readsource)
 - [egg-core](https://github.com/eggjs/egg-core) - 基于koa的可插件化框架
     - [源码分析](https://github.com/FunnyLiu/egg-core/tree/readsource)
 - [egg-init](https://github.com/eggjs/egg-init) - 初始化egg工具
