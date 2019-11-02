@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/brizer/awesome-url#readme",
   "devDependencies": {
-    "vuepress": "^1.0.0-rc.1"
+    "vuepress": "^1.2.0"
   }
 }
