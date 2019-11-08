@@ -5,6 +5,7 @@
 - [blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) - vue + typescript + element-ui 博客前台
 - [iview-admin](https://github.com/iview/iview-admin) - 基于iview和vue2.0的后台系统
 - [NeteaseClounWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - 基于vue的云音乐
+- [vue-fallowFish](https://github.com/LLZUPUP/vue-fallowFish) - <g-emoji class="g-emoji" alias="tropical_fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f420.png">🐠</g-emoji>vue全家桶仿闲鱼部分布局以及功能实现
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - 基于elementui和vue2.0的后台系统
 
 ## 单元测试
