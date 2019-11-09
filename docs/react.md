@@ -6,6 +6,7 @@
 - [antd-admin](https://github.com/zuiidea/antd-admin) - React + Ant Design + UmiJS admin
 - [blog-react](https://github.com/biaochenxuying/blog-react) - react + Ant Design blog front end
 - [blog-react-admin](https://github.com/biaochenxuying/blog-react-admin) - react + ant design blog backend
+- [darkreader](https://github.com/darkreader/darkreader) - a tab tool chrome extension, ui based on react hooks and ts.
 - [elm-react-native](https://github.com/stoneWeb/elm-react-native) - React Native eleme app
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - Electron + React + MobX + JSS NeteaseMusic desktop app
 - [react-cloud-music](https://github.com/sanyuan0704/react-cloud-music) - Netease Music WebAPP based on React hooks + redux + immutable
