@@ -1,10 +1,11 @@
 # NestJS
 
-- [@nestjs/cli](https://www.npmjs.com/package/@nestjs/cli) - nest脚手架工具
-    - [源码分析](https://github.com/FunnyLiu/nest-cli/tree/readsource)
-- [@nestjs/schematics](https://www.npmjs.com/package/@nestjs/schematics) - nest脚手架的模板文件
-- [awesome-nestjs](https://github.com/juliandavidmr/awesome-nestjs) - 很多Nest的例子
-- [nest](https://github.com/nestjs/nest) - Nest本身
+## 项目实例
+
+- [ever](https://github.com/ever-co/ever) - 开源商务平台，由nest构建
+- [nodepress](https://github.com/surmon-china/nodepress) - nest开发的中型cms，blog，类似掘金
+
+
 
 ## 模块
 
@@ -13,3 +14,13 @@
 - [@nestjs/terminus](https://www.npmjs.com/package/@nestjs/terminus) - 针对nest的健康检查
 - [@nestjs/typeorm](https://www.npmjs.com/package/@nestjs/typeorm) - TypeORM的Nest模块
 - [nest-next](https://github.com/kyle-mccarthy/nest-next) - 渲染模块为Nestjs添加Nextjs支持
+
+## 其他
+
+
+- [@nestjs/cli](https://www.npmjs.com/package/@nestjs/cli) - nest脚手架工具
+    - [源码分析](https://github.com/FunnyLiu/nest-cli/tree/readsource)
+- [@nestjs/schematics](https://www.npmjs.com/package/@nestjs/schematics) - nest脚手架的模板文件
+- [awesome-nestjs](https://github.com/juliandavidmr/awesome-nestjs) - 很多Nest的例子
+- [nest](https://github.com/nestjs/nest) - Nest本身
+- [nest-amazing-cn](https://docs.nestjs.cn/6/awesome) - nest的amazing相关资源，中文版
