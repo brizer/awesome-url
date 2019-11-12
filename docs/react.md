@@ -20,6 +20,7 @@
     - [Use it in realworld](https://github.com/FunnyLiu/react-redux-realworld-example-app/blob/master/src/index.js#L2)
     - [A todolist](https://github.com/FunnyLiu/reduxDemo/blob/master/todolist/app.js)
 - [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+- [swr](https://github.com/zeit/swr) - React Hooks library for remote data fetching
 
 ## UI Components
 

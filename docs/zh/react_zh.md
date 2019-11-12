@@ -20,6 +20,7 @@
 - [react-redux](https://www.npmjs.com/package/react-redux) - redux针对react的连接
     - [在realworld项目中使用之](https://github.com/FunnyLiu/react-redux-realworld-example-app/blob/master/src/index.js#L2)
 - [relay](https://github.com/facebook/relay) - 构建数据驱动react应用的框架
+- [swr](https://github.com/zeit/swr) - 发送请求的hooks方式库
 
 ## UI组件
 
