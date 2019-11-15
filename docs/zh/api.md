@@ -2,6 +2,7 @@
 
 - [AntDesign](https://ant.design/docs/react/introduce-cn) - React UI
 - [AntTask](https://ant.apache.org/manual/) - Apache Ant 任务 API
+- [babel](https://babeljs.io/docs/en/) - babal 的 API
 - [chrome-extension-manifest](https://developer.chrome.com/extensions/manifest) - chrome扩展的manifest文件配置
 - [devdocs](https://devdocs.io/) - 非常好用的免费API搜索工具
 - [docker](https://docs.docker.com/engine/reference/commandline/docker/) - Docker的命令行工具
