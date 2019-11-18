@@ -8,6 +8,7 @@
 - [quark-h5](https://github.com/huangwei9527/quark-h5) - 基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具
 - [vue-fallowFish](https://github.com/LLZUPUP/vue-fallowFish) - <g-emoji class="g-emoji" alias="tropical_fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f420.png">🐠</g-emoji>vue全家桶仿闲鱼部分布局以及功能实现
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - 基于elementui和vue2.0的后台系统
+- [vue-mobx-todolist](https://github.com/FunnyLiu/vue-mobx-todolist) - 基于vue/mobx/mobx-vue 来完成todolist，由brizer开发，所有数据交由store管理。
 - [vue-todolist](https://github.com/FunnyLiu/vue-todolist) - vue的todolist，比官方版靠谱，由brizer开发完成，完全按照单向数据流和事件通信
 - [X-WebDesktop-Vue](https://github.com/OXOYO/X-WebDesktop-Vue) - 基于 Vue &amp; Koa 的 WebDesktop 视窗系统
 
@@ -49,6 +50,13 @@
 
 - [vue-moment](https://www.npmjs.com/package/vue-moment) - 简便 Moment.js 过滤器
 - [vuelidate](https://github.com/vuelidate/vuelidate) - 基于数据模型校验表单
+
+
+## 状态管理
+
+
+- [mobx-vue](https://github.com/mobxjs/mobx-vue) - 连接vue和mobx
+    - [自己基于此实现todolist](https://github.com/FunnyLiu/vue-todolist)
 
 ## 其他
 

@@ -8,6 +8,7 @@
 - [quark-h5](https://github.com/huangwei9527/quark-h5) - h5 page builder build by koa2 + vue2 + vuex
 - [vue-fallowFish](https://github.com/LLZUPUP/vue-fallowFish) - <g-emoji class="g-emoji" alias="tropical_fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f420.png">🐠</g-emoji>make fallowFish webapp by vue
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - Vue 2.0 admin management system template based on elementui
+- [vue-mobx-todolist](https://github.com/FunnyLiu/vue-mobx-todolist) - todolist build by vue and mobx
 - [vue-todolist](https://github.com/FunnyLiu/vue-todolist) - todolist of vue, with the one-way data flow and event.
 - [X-WebDesktop-Vue](https://github.com/OXOYO/X-WebDesktop-Vue) - The WebDesktop system based on Vue
 
@@ -49,6 +50,12 @@
 
 - [vue-moment](https://www.npmjs.com/package/vue-moment) - Handy Moment.js filters
 - [vuelidate](https://github.com/vuelidate/vuelidate) - Simple, lightweight model-based validation for Vue.js
+
+## State Manage
+
+- [mobx-vue](https://github.com/mobxjs/mobx-vue) - <g-emoji class="g-emoji" alias="dragon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f409.png">🐉</g-emoji> Vue bindings for MobX
+    - [todolist build by id, created by brizer](https://github.com/FunnyLiu/vue-todolist)
+
 
 ## Others
 
