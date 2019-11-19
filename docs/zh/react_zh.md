@@ -28,6 +28,7 @@
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile/) - 移动端组件库
 - [bizcharts](https://github.com/alibaba/BizCharts) - 阿里巴巴开源的React图表组件
 - [draft-js](https://github.com/facebook/draft-js) - 文本编辑器，由facebook出品
+- [element-react](https://github.com/ElemeFE/element-react) - Element组件的react版本，class风格。
 - [fulr](https://github.com/Chalarangelo/furl) - 基于Hooks和js的React基础组件库
 - [material-ui](https://github.com/mui-org/material-ui) - React组件库，遵循google的Material设计
 - [react-copy-to-clipborad](https://github.com/nkbt/react-copy-to-clipboard) - 基于copy-to-clipboard的复制组件

@@ -55,7 +55,7 @@
 
 - [mobx-vue](https://github.com/mobxjs/mobx-vue) - <g-emoji class="g-emoji" alias="dragon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f409.png">🐉</g-emoji> Vue bindings for MobX
     - [todolist build by id, created by brizer](https://github.com/FunnyLiu/vue-todolist)
-
+    - [source analysis](https://github.com/FunnyLiu/mobx-vue/tree/readsource)
 
 ## Others
 
@@ -89,4 +89,5 @@
 - [vue-router](https://github.com/vuejs/vue-router) - Router for Vue
     - [Source code analysis of overall process](https://github.com/DDFE/DDFE-blog/issues/9)
     - [Source code analysis of history](https://github.com/DDFE/DDFE-blog/issues/11)
+- [vue-runtime-helpers](https://github.com/znck/vue-runtime-helpers) - Reusable helpers to inject styles and normalize component.
 - [vue-template-compiler](https://www.npmjs.com/package/vue-template-compiler) - compile vue2.0 templates into render functions

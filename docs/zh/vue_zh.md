@@ -57,6 +57,7 @@
 
 - [mobx-vue](https://github.com/mobxjs/mobx-vue) - 连接vue和mobx
     - [自己基于此实现todolist](https://github.com/FunnyLiu/vue-todolist)
+    - [源码分析](https://github.com/FunnyLiu/mobx-vue/tree/readsource)
 
 ## 其他
 
@@ -90,4 +91,5 @@
 - [vue-router](https://github.com/vuejs/vue-router) - Vue的路由器
     - [整体流程源码解析](https://github.com/DDFE/DDFE-blog/issues/9)
     - [history源码解析](https://github.com/DDFE/DDFE-blog/issues/11)
+- [vue-runtime-helpers](https://github.com/znck/vue-runtime-helpers) - 注入样式和组件的帮助函数
 - [vue-template-compiler](https://www.npmjs.com/package/vue-template-compiler) - 编译vue2.0的模板为render函数

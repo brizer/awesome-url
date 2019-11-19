@@ -28,6 +28,7 @@
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile/) - A configurable Mobile UI
 - [bizcharts](https://github.com/alibaba/BizCharts) - React chart component, build by Alibaba
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
+- [element-react](https://github.com/ElemeFE/element-react) - Element UI
 - [fulr](https://github.com/Chalarangelo/furl) - React basic components based on Hooks and js
 - [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development. Build your own design system, or start with Material Design.
 - [react-copy-to-clipborad](https://github.com/nkbt/react-copy-to-clipboard) - copy component based on copy-to-clipboard
