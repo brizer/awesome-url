@@ -4,8 +4,9 @@
 
 ## Project
 
+- [furl](https://github.com/Chalarangelo/furl) - Functional react.js components.
 - [rollup-vue-nej](https://github.com/FunnyLiu/rollup-vue-nej) - transform *.vue to *.js with nej define
-- [vue-runtime-helper，from src to dist](https://github.com/znck/vue-runtime-helpers/blob/master/rollup.config.js)
+- [vue-runtime-helper](https://github.com/znck/vue-runtime-helpers/blob/master/rollup.config.js) - 从src文件内所有编译为dist下
 
 ## Others
 

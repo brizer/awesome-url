@@ -4,6 +4,7 @@
 
 ## 项目实例
 
+- [furl](https://github.com/Chalarangelo/furl) - 将多个react组件打包到一个输出
 - [rollup-vue-nej](https://github.com/FunnyLiu/rollup-vue-nej) - 将.vue文件转为amd风格的.js文件，并使得nej调用成功。
 - [vue-runtime-helpers](https://github.com/znck/vue-runtime-helpers/blob/master/rollup.config.js) - 从src文件内所有编译为dist下
 
