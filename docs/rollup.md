@@ -5,6 +5,7 @@
 ## Project
 
 - [furl](https://github.com/Chalarangelo/furl) - Functional react.js components.
+- [rollup-react-nej](https://github.com/FunnyLiu/rollup-react-nej) - transform *.jsx to *.js with nej define
 - [rollup-vue-nej](https://github.com/FunnyLiu/rollup-vue-nej) - transform *.vue to *.js with nej define
 - [vue-runtime-helper](https://github.com/znck/vue-runtime-helpers/blob/master/rollup.config.js) - 从src文件内所有编译为dist下
 
@@ -23,6 +24,7 @@
 - [rollup-plugin-livereload](https://github.com/thgh/rollup-plugin-livereload) - LiveReload your Rollup bundle!
 - [rollup-plugin-node-resolve](https://www.npmjs.com/package/rollup-plugin-node-resolve) - locate modules using node resolution algorithm, for using third party modules in node_modules
     - [used by vue ui](https://github.com/brizer/ui/blob/master/build/rollup.config.base.js#L19)
+- [rollup-plugin-postcss](https://github.com/egoist/rollup-plugin-postcss) - Seamless integration between Rollup and PostCSS.
 - [rollup-plugin-replace](https://www.npmjs.com/package/rollup-plugin-replace) - replace strings in files
     - [used by vue ui](https://github.com/brizer/ui/blob/master/build/rollup.config.base.js#L44)
 - [rollup-plugin-serve](https://github.com/thgh/rollup-plugin-serve) - Serve your rolled up bundle like webpack-dev-server

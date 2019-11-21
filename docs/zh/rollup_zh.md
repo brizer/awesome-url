@@ -5,6 +5,7 @@
 ## 项目实例
 
 - [furl](https://github.com/Chalarangelo/furl) - 将多个react组件打包到一个输出
+- [rollup-react-nej](https://github.com/FunnyLiu/rollup-react-nej) - 将.jsx文件转为amd风格的.js文件，并使得nej调用成功。
 - [rollup-vue-nej](https://github.com/FunnyLiu/rollup-vue-nej) - 将.vue文件转为amd风格的.js文件，并使得nej调用成功。
 - [vue-runtime-helpers](https://github.com/znck/vue-runtime-helpers/blob/master/rollup.config.js) - 从src文件内所有编译为dist下
 
@@ -23,6 +24,7 @@
 - [rollup-plugin-livereload](https://github.com/thgh/rollup-plugin-livereload) - 热重载打包文件
 - [rollup-plugin-node-resolve](https://www.npmjs.com/package/rollup-plugin-node-resolve) - 通过node找模块算法来找模块，用于加载处于node_modules中的第三方模块
     - [被vue ui使用](https://github.com/brizer/ui/blob/master/build/rollup.config.base.js#L19)
+- [rollup-plugin-postcss](https://github.com/egoist/rollup-plugin-postcss) - 加载css，less，scss的插件
 - [rollup-plugin-replace](https://www.npmjs.com/package/rollup-plugin-replace) - 替换文件中的字符串
     - [被vue ui使用](https://github.com/brizer/ui/blob/master/build/rollup.config.base.js#L44)
 - [rollup-plugin-serve](https://github.com/thgh/rollup-plugin-serve) - 类似webpack-dev-server一样的启动rollup打包文件
