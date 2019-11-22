@@ -17,6 +17,7 @@
 ## Plugins
 
 - [egg-cookies](https://github.com/eggjs/egg-cookies) - cookies module for egg, base on pillarjs/cookies
+    - [source analysis](https://github.com/FunnyLiu/egg-cookies/tree/readsource)
 - [egg-development](https://github.com/eggjs/egg-development) - egg plugin for development
     - [source analysis](https://github.com/FunnyLiu/egg-development/tree/readsource)
 - [egg-grpc](https://github.com/eggjs/egg-grpc) - communicate plugin by gRPC

@@ -17,6 +17,7 @@
 ## 插件
 
 - [egg-cookies](https://github.com/eggjs/egg-cookies) - egg的cookie模块，egg内部集成
+    - [源码分析](https://github.com/FunnyLiu/egg-cookies/tree/readsource)
 - [egg-development](https://github.com/eggjs/egg-development) - egg的开发插件，egg内部集成
     - [源码分析](https://github.com/FunnyLiu/egg-development/tree/readsource)
 - [egg-grpc](https://github.com/eggjs/egg-grpc) - gRPC通信插件
