@@ -5,15 +5,18 @@
 ## Project
 
 - [furl](https://github.com/Chalarangelo/furl) - Functional react.js components.
+- [rollup-plugin-babel](https://github.com/rollup/rollup-plugin-babel/blob/master/rollup.config.js) - a plugin build by rollup to cjs and esm
 - [rollup-react-nej](https://github.com/FunnyLiu/rollup-react-nej) - transform *.jsx to *.js with nej define
 - [rollup-vue-nej](https://github.com/FunnyLiu/rollup-vue-nej) - transform *.vue to *.js with nej define
-- [vue-runtime-helper](https://github.com/znck/vue-runtime-helpers/blob/master/rollup.config.js) - 从src文件内所有编译为dist下
+- [vue-runtime-helper](https://github.com/znck/vue-runtime-helpers/blob/master/rollup.config.js) - from dist to src
 
 ## Others
 
 - [@rollup/plugin-alias](https://github.com/rollup/plugins/tree/master/packages/alias) - A Rollup plugin for defining aliases when bundling packages.
 - [@rollup/plugin-json](https://github.com/rollup/plugins/tree/master/packages/json) - A Rollup plugin which Converts .json files to ES6 modules.
 - [rollup](https://www.npmjs.com/package/rollup) - rollup itself
+    - [source analysis](https://github.com/FunnyLiu/rollup/tree/readsource)
+- [rollup-plugin-amd](https://github.com/piuccio/rollup-plugin-amd) - Convert AMD files to ES2016 modules
 - [rollup-plugin-auto-external](https://github.com/stevenbenisek/rollup-plugin-auto-external) - Rollup plugin to automatically exclude package.json dependencies and peerDependencies from your bundle
 - [rollup-plugin-babel](https://www.npmjs.com/package/rollup-plugin-babel) - use babel with rollup
 - [rollup-plugin-cleanup](https://github.com/aMarCruz/rollup-plugin-cleanup) - Rollup plugin to remove comments, trim trailing spaces, compact empty lines, and normalize line endings

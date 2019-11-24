@@ -15,6 +15,7 @@
 - [@babel/plugin-transform-function-name](https://www.npmjs.com/package/@babel/plugin-transform-function-name) - 使用function.name语法的插件
 - [@babel/plugin-transform-modules-commonjs](https://www.npmjs.com/package/@babel/plugin-transform-modules-commonjs) - 将ES2015的模块转为commonjs模块
 - [babel-plugin-import](https://www.npmjs.com/package/babel-plugin-import) - 动态加载antd
+- [babel-plugin-minify-replace](https://github.com/babel/minify/tree/master/packages/babel-plugin-minify-replace) - 转换某些字符串
 - [babel-plugin-transform-class-properties](https://www.npmjs.com/package/babel-plugin-transform-class-properties) - 支持class的属性类似属性初始化语法
 - [babel-plugin-transform-vue-jsx](https://github.com/vuejs/babel-plugin-transform-vue-jsx) - 启用vue的jsx语法
 

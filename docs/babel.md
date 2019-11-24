@@ -16,6 +16,7 @@
 - [@babel/plugin-transform-function-name](https://www.npmjs.com/package/@babel/plugin-transform-function-name) - Apply ES2015 function.name semantics to all functions 
 - [@babel/plugin-transform-modules-commonjs](https://www.npmjs.com/package/@babel/plugin-transform-modules-commonjs) - This plugin transforms ES2015 modules to CommonJS.
 - [babel-plugin-import](https://www.npmjs.com/package/babel-plugin-import) - import antd dynamic
+- [babel-plugin-minify-replace](https://github.com/babel/minify/tree/master/packages/babel-plugin-minify-replace) - replace some string
 - [babel-plugin-transform-class-properties](https://www.npmjs.com/package/babel-plugin-transform-class-properties) - support class properties as well as property initializer
 - [babel-plugin-transform-vue-jsx](https://github.com/vuejs/babel-plugin-transform-vue-jsx) - babel plugin for vue 2.0 jsx
 

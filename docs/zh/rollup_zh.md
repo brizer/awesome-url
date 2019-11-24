@@ -5,6 +5,7 @@
 ## 项目实例
 
 - [furl](https://github.com/Chalarangelo/furl) - 将多个react组件打包到一个输出
+- [rollup-plugin-babel](https://github.com/rollup/rollup-plugin-babel/blob/master/rollup.config.js) - 一个rollup插件，打包ts为cjs和esm文件。
 - [rollup-react-nej](https://github.com/FunnyLiu/rollup-react-nej) - 将.jsx文件转为amd风格的.js文件，并使得nej调用成功。
 - [rollup-vue-nej](https://github.com/FunnyLiu/rollup-vue-nej) - 将.vue文件转为amd风格的.js文件，并使得nej调用成功。
 - [vue-runtime-helpers](https://github.com/znck/vue-runtime-helpers/blob/master/rollup.config.js) - 从src文件内所有编译为dist下
@@ -14,6 +15,8 @@
 - [@rollup/plugin-alias](https://github.com/rollup/plugins/tree/master/packages/alias) - 一个定义别名aliases的rollup插件
 - [@rollup/plugin-json](https://github.com/rollup/plugins/tree/master/packages/json) - 将json文件转为es6的模块
 - [rollup](https://www.npmjs.com/package/rollup) - rollup本体
+    - [源码分析](https://github.com/FunnyLiu/rollup/tree/readsource)
+- [rollup-plugin-amd](https://github.com/piuccio/rollup-plugin-amd) - 将amd转换为es6模块
 - [rollup-plugin-auto-external](https://github.com/stevenbenisek/rollup-plugin-auto-external) - 打包时自动排除package.json中的依赖
 - [rollup-plugin-babel](https://www.npmjs.com/package/rollup-plugin-babel) - 在rollup中使用babel
 - [rollup-plugin-cleanup](https://github.com/aMarCruz/rollup-plugin-cleanup) - 移除注释、空行、空格缩进等

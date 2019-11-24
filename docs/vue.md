@@ -26,6 +26,7 @@
 
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue, with over 40 plugins and more than 80 custom components, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
 - [element](https://github.com/ElemeFE/element) - ElementUI Toolkit
+    - [source analysis](https://github.com/FunnyLiu/element/tree/readsource)
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - <g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> Swiper component for <a class="user-mention" data-hovercard-type="organization" data-hovercard-url="/orgs/vuejs/hovercard" href="https://github.com/vuejs">@vuejs</a>
 - [vue-clipboard2](https://github.com/Inndy/vue-clipboard2) - A simple vue2 binding to clipboard.js
 - [vue-color](https://github.com/xiaokaike/vue-color) - <g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">🎨</g-emoji> Vue Color Pickers for Sketch, Photoshop, Chrome &amp; more <a href="http://vue-color.surge.sh" rel="nofollow">http://vue-color.surge.sh</a>
