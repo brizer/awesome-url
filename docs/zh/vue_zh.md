@@ -3,6 +3,7 @@
 ## 项目实例
 
 - [blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) - vue + typescript + element-ui 博客前台
+- [element-pro](https://github.com/qidaizhe11/element-pro) - Vue 版 Ant Design Pro（基于 Element-ui 实现）
 - [iview-admin](https://github.com/iview/iview-admin) - 基于iview和vue2.0的后台系统
 - [NeteaseClounWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - 基于vue的云音乐
 - [quark-h5](https://github.com/huangwei9527/quark-h5) - 基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具

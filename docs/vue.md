@@ -3,6 +3,7 @@
 ## Project Examples
 
 - [blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) - vue + typescript + element-ui blog frontend
+- [element-pro](https://github.com/qidaizhe11/element-pro) - Ant Design Pro based on Vue and Element UI
 - [iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
 - [NeteaseClounWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - vue NeteaseCloud
 - [quark-h5](https://github.com/huangwei9527/quark-h5) - h5 page builder build by koa2 + vue2 + vuex

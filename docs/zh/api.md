@@ -18,6 +18,7 @@
 - [jest-config](https://jestjs.io/docs/zh-Hans/configuration) - jest的配置项
 - [jquery](https://www.html.cn/jqapi-1.9/) - dom操作
 - [koa](https://koajs.com/#context) - koa
+- [lerna](https://lerna.js.org/) - lerna api
 - [overapi](http://overapi.com/) - API大全导航
 - [prettier-config](https://prettier.io/docs/en/configuration.html) - prettier代码美化
 - [w3school-css](http://www.w3school.com.cn/cssref/index.asp) - css属性大全

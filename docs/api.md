@@ -18,6 +18,7 @@
 - [jest-config](https://jestjs.io/docs/en/configuration) - config of jest
 - [jquery](https://www.html.cn/jqapi-1.9/) - dom operaition
 - [koa](https://koajs.com/#context) - koa
+- [lerna](https://lerna.js.org/) - lerna api
 - [overapi](http://overapi.com/) - API Daquan Navigation
 - [prettier-config](https://prettier.io/docs/en/configuration.html) - prettier beautify code
 - [w3school-css](http://www.w3school.com.cn/cssref/index.asp) - css attribute Daquan
