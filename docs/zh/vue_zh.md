@@ -10,6 +10,7 @@
 - [vue-fallowFish](https://github.com/LLZUPUP/vue-fallowFish) - <g-emoji class="g-emoji" alias="tropical_fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f420.png">🐠</g-emoji>vue全家桶仿闲鱼部分布局以及功能实现
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - 基于elementui和vue2.0的后台系统
 - [vue-mobx-todolist](https://github.com/FunnyLiu/vue-mobx-todolist) - 基于vue/mobx/mobx-vue 来完成todolist，由brizer开发，所有数据交由store管理。
+- [vue-qqmusic](https://github.com/Panda-Hope/vue-qqmusic) - Vue全家桶+Mint-Ui打造高仿QQMusic，搭配详细说明
 - [vue-todolist](https://github.com/FunnyLiu/vue-todolist) - vue的todolist，比官方版靠谱，由brizer开发完成，完全按照单向数据流和事件通信
 - [X-WebDesktop-Vue](https://github.com/OXOYO/X-WebDesktop-Vue) - 基于 Vue &amp; Koa 的 WebDesktop 视窗系统
 

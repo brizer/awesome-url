@@ -7,4 +7,5 @@
 - [typed-css-module](https://github.com/Quramy/typed-css-modules) - 为css生成 .d.ts文件，方便css module
 - [types-publisher](https://github.com/microsoft/types-publisher) - 将DefinitelyTyped的内容推到npm的服务
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript是javascript的超级，编译纯净的js输出。
+    - [源码分析](https://github.com/FunnyLiu/TypeScript/tree/readsource)
 - [typescript-book](https://github.com/basarat/typescript-book) - 关于typescript最好的书

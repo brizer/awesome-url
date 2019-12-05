@@ -37,4 +37,4 @@
 - [Timestamp tool](https://tool.chinaz.com/Tools/unixtime.aspx) - timestamp transform tool
 - [typescript-playground](https://www.typescriptlang.org/play/index.html) - Typescript Compare pure javascript online
 - [unpkg](https://unpkg.com/) - unpkg is a fast, global content delivery network for everything on npm
-- [vpn-classb](http://cloud.netease.com/vpn) - vpn for work
+- [zlib](https://b-ok.cc/) - book  of pdf download

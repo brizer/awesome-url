@@ -10,6 +10,7 @@
 - [vue-fallowFish](https://github.com/LLZUPUP/vue-fallowFish) - <g-emoji class="g-emoji" alias="tropical_fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f420.png">🐠</g-emoji>make fallowFish webapp by vue
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - Vue 2.0 admin management system template based on elementui
 - [vue-mobx-todolist](https://github.com/FunnyLiu/vue-mobx-todolist) - todolist build by vue and mobx
+- [vue-qqmusic](https://github.com/Panda-Hope/vue-qqmusic) - QQMusic web app build by Vue+Mint-Ui
 - [vue-todolist](https://github.com/FunnyLiu/vue-todolist) - todolist of vue, with the one-way data flow and event.
 - [X-WebDesktop-Vue](https://github.com/OXOYO/X-WebDesktop-Vue) - The WebDesktop system based on Vue
 
