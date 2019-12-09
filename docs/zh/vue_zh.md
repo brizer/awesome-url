@@ -28,6 +28,7 @@
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - Bootstrap和Vue的结合。
 - [element](https://github.com/ElemeFE/element) - ElementUI 组件库
     - [源码分析](https://github.com/FunnyLiu/element/tree/readsource)
+    - [使用webpack打包组件库]
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - swiper轮播图组件的vue版本
 - [vue-clipboard2](https://github.com/Inndy/vue-clipboard2) - 剪切板组件
 - [vue-color](https://github.com/xiaokaike/vue-color) - 颜色选择组件

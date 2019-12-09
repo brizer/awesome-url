@@ -37,6 +37,7 @@
 - [react-final-form-hooks](https://github.com/final-form/react-final-form-hooks) - mini form with hooks
 - [react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 - [react-infinite-scroller](https://github.com/CassetteRocks/react-infinite-scroller) - infinite scroll component
+- [react-json-view](https://github.com/mac-s-g/react-json-view) - JSON viewer for react
 - [react-tippy](https://www.npmjs.com/package/react-tippy) - a tippy component
 - [uiw](https://github.com/uiwjs/uiw) - <g-emoji class="g-emoji" alias="atom_symbol" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/269b.png">⚛️</g-emoji><a class="user-mention" data-hovercard-type="organization" data-hovercard-url="/orgs/uiwjs/hovercard" href="https://github.com/uiwjs">@uiwjs</a> A high quality UI Toolkit, A Component Library for React 16+.
 

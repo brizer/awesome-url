@@ -34,6 +34,7 @@
     - [整体工作流程](http://omnipotent-front-end.github.io/library/webpack.html#%E6%95%B4%E4%BD%93%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90%E7%9A%84%EF%BC%9F)
     - [loader和plugin之间的区别是什么？](http://omnipotent-front-end.github.io/library/webpack.html#loader%E5%92%8Cplugin%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%EF%BC%9F%E5%85%B7%E4%BD%93%E4%B8%BE%E4%B8%80%E4%BA%9B%E5%B8%B8%E7%94%A8%E7%9A%84%E5%92%8C%E5%85%B6%E4%BD%9C%E7%94%A8%E3%80%82)
     - [webpack热更新的原理](http://omnipotent-front-end.github.io/library/webpack.html#webpack%E7%83%AD%E6%9B%BF%E6%8D%A2%E7%9A%84%E5%8E%9F%E7%90%86%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
+    - [打包前端组件库如elementui](https://github.com/FunnyLiu/element/tree/readsource)
 - [webpack-chain](https://github.com/neutrinojs/webpack-chain) - 链式API生成webpack配置文件
 - [webpack-cli](https://www.npmjs.com/package/webpack-cli) - 在命令行中使用webpack
     - [整体执行流程](https://github.com/DDFE/DDFE-blog/issues/12)
