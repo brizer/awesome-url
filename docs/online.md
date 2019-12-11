@@ -21,6 +21,7 @@
 - [regexper](https://regexper.com/) - Regular Expression Flowchart
 - [resource-search](https://www.dalipan.com/) - search resource in yun
 - [javascripting](https://www.javascripting.com/) - Find front end frame
+- [jiumodiray](https://www.jiumodiary.com/) - pdf book download free
 - [js-code-to-svg-flowchart](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/docs/live-editor/index.html) - js code to svg flowchart
 - [jsbench](https://github.com/jsbench/jsbench.github.io) - test js code snippet performance
 - [pagespeed](https://developers.google.com/speed/pagespeed/insights/) - Web Performance Detection Tool

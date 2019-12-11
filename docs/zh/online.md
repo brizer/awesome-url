@@ -21,6 +21,7 @@
 - [regexper](https://regexper.com/) - 正则表达式流程图
 - [resource-search](https://www.dalipan.com/) - 云盘中搜索资源
 - [javascripting](https://www.javascripting.com/) - 查看前端框架
+- [jiumodiray](https://www.jiumodiary.com/) - pdf电子书免费下载
 - [js-code-to-svg-flowchart](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/docs/live-editor/index.html) - js源码转流程图
 - [jsbench](https://github.com/jsbench/jsbench.github.io) - 测试js代码片段性能
 - [pagespeed](https://developers.google.com/speed/pagespeed/insights/) - Web性能检测工具
