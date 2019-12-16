@@ -11,14 +11,15 @@
 - [elasticSearch](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/5.x/client-usage.html) - ES Search engine database
 - [eslint](https://eslint.org/docs/user-guide/configuring) - configuration of eslint
 - [express](https://expressjs.com/en/4x/api.html) - express API
-- [html](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - Html element
-- [http-status](https://devdocs.io/http-status/) - status code of http
 - [git-scm](https://git-scm.com/docs) - git documentation
 - [GitLab API](https://docs.gitlab.com/ee/api/README.html) - api of gitlab
+- [html](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - Html element
+- [http-status](https://devdocs.io/http-status/) - status code of http
 - [jest-config](https://jestjs.io/docs/en/configuration) - config of jest
 - [jquery](https://www.html.cn/jqapi-1.9/) - dom operaition
 - [koa](https://koajs.com/#context) - koa
 - [lerna](https://lerna.js.org/) - lerna api
+- [linux command](https://www.runoob.com/linux/linux-command-manual.html) - linux command api
 - [overapi](http://overapi.com/) - API Daquan Navigation
 - [prettier-config](https://prettier.io/docs/en/configuration.html) - prettier beautify code
 - [w3school-css](http://www.w3school.com.cn/cssref/index.asp) - css attribute Daquan

@@ -11,14 +11,15 @@
 - [elasticSearch](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/5.x/client-usage.html) - ES 搜索引擎数据库
 - [eslint](http://eslint.cn/docs/user-guide/configuring) - eslint配置
 - [express](https://expressjs.com/en/4x/api.html) - express API
-- [html](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element) - Html element
-- [http-status](https://devdocs.io/http-status/) - http状态码
 - [git-scm](https://git-scm.com/docs) - git文档
 - [GitLab API](https://docs.gitlab.com/ee/api/README.html) - gitlab的api
+- [html](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element) - Html 元素
+- [http-status](https://devdocs.io/http-status/) - http状态码
 - [jest-config](https://jestjs.io/docs/zh-Hans/configuration) - jest的配置项
 - [jquery](https://www.html.cn/jqapi-1.9/) - dom操作
 - [koa](https://koajs.com/#context) - koa
 - [lerna](https://lerna.js.org/) - lerna api
+- [linux command](https://www.runoob.com/linux/linux-command-manual.html) - linux命令大全
 - [overapi](http://overapi.com/) - API大全导航
 - [prettier-config](https://prettier.io/docs/en/configuration.html) - prettier代码美化
 - [w3school-css](http://www.w3school.com.cn/cssref/index.asp) - css属性大全
