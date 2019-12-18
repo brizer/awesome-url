@@ -45,4 +45,5 @@
 - [Vue](https://vuejs.org/v2/api/index.html) - Vue view
 - [vuecli](https://cli.vuejs.org/config/) - cli for vue
 - [vuepress](https://vuepress.vuejs.org/config/) - static site generator
+- [vueRouter](https://router.vuejs.org/zh/api/) - vue router
 - [webpack](https://webpack.js.org/api) - webpack API

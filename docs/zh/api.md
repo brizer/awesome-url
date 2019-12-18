@@ -45,4 +45,5 @@
 - [Vue](https://cn.vuejs.org/v2/api/) - Vue view
 - [vuecli](https://cli.vuejs.org/zh/config/) - vue脚手架工具
 - [vuepress](https://vuepress.vuejs.org/zh/config/) - 静态网站生成器
+- [vueRouter](https://router.vuejs.org/zh/api/) - vue router
 - [webpack](https://webpack.js.org/api) - webpack API

@@ -16,6 +16,11 @@
 - [sourcegraph](https://about.sourcegraph.com/) - github源码阅读可视化界面
 - [whatismyipaddress](https://whatismyipaddress.com/) - 查看我的ip地址
 
+## 知识库
+
+- [Boostnote](https://github.com/BoostIO/Boostnote/) - 一款mac，windows，linux均可用的markdown编辑器，转为开发者而生，开源的
+- [outline](https://github.com/outline/outline) - 开源的wiki建设工具，支持私有化部署
+
 ## 测试
 
 - [Apache bench](https://httpd.apache.org/docs/2.4/programs/ab.html) - 压力测试工具Apache bench

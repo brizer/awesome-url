@@ -16,6 +16,9 @@
 - [sourcegraph](https://about.sourcegraph.com/) - GUI for github source
 - [whatismyipaddress](https://whatismyipaddress.com/) - find my ip address
 
+## Knowledge
+- [Boostnote](https://github.com/BoostIO/Boostnote/) - A markdown editor for developers on Mac, Windows and Linux.
+- [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
 
 ## Test
 
