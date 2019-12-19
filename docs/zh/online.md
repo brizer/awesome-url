@@ -38,4 +38,5 @@
 - [Timestamp tool](https://tool.chinaz.com/Tools/unixtime.aspx) - 时间戳转换工具
 - [typescript-playground](https://www.typescriptlang.org/play/index.html) - Typescript和原生js对比，在线
 - [unpkg](https://unpkg.com/) - 所有前端资源所有版本的在线cdn
+- [user agent parser](https://developers.whatismybrowser.com/useragents/parse/) - 解析user-agent，在线网站
 - [zlib](https://b-ok.cc/) - pdf电子书随便下载
