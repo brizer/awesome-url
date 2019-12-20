@@ -1,5 +1,12 @@
 # Typescript
 
+## 例子
+
+- [zan-proxy](https://github.com/youzan/zan-proxy) - 有赞请求代理工具，客户端由electron/ts
+
+
+## 其他
+
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - 针对第三方库的typescript类型定义
 - [ts-morph](https://github.com/dsherret/ts-morph) - 解析ts为抽象语法树
 - [ts-node](https://www.npmjs.com/package/ts-node) - Typescript 执行器
