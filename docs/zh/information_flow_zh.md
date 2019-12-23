@@ -25,6 +25,8 @@
 - [ECMAScript262-standard](http://www.ecma-international.org/publications/standards/Ecma-262.htm) - 当前的标准js规范
 - [proposals](https://github.com/tc39/proposals) - 即将标准化的js功能
 - [taobaofed](http://taobaofed.org/) - 淘宝FED
+- [v8](https://v8.dev/docs) - v8引擎的官方文档
+
 
 # 学习资源
 

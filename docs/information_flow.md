@@ -28,7 +28,7 @@
 - [ECMAScript262-standard](http://www.ecma-international.org/publications/standards/Ecma-262.htm) - standard js specification
 - [proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [taobaofed](http://taobaofed.org/) - taobao FED
-
+- [v8](https://v8.dev/docs) - official document of  v8
 
 # Learning resource
 
