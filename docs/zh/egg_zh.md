@@ -61,7 +61,7 @@
 - [egg-logger](https://github.com/eggjs/egg-logger) - Egg日志
     - [源码分析](https://github.com/FunnyLiu/egg-logger/tree/readsource)
 - [egg-mock](https://github.com/eggjs/egg-mock) - egg测试的mock库
-- [egg-react-ssr](https://github.com/ykfe/egg-react-ssr) - Egg+React+SSR服务端渲染应用骨架
+- [egg-react-ssr](https://github.com/ykfe/egg-react-ssr) - Egg+React+SSR服务端渲染应用骨架，狼叔维护，优酷出品
 - [egg-scripts](https://github.com/eggjs/egg-scripts) - egg项目部署工具
     - [源码分析](https://github.com/FunnyLiu/egg-scripts/tree/readsource)
 - [egg-shell-decorators](https://github.com/super2god/egg-shell-decorators) - egg的装饰器，封装swagger，router等

@@ -26,6 +26,7 @@
 - [jsbench](https://github.com/jsbench/jsbench.github.io) - test js code snippet performance
 - [pagespeed](https://developers.google.com/speed/pagespeed/insights/) - Web Performance Detection Tool
 - [jsonplaceholder](https://jsonplaceholder.typicode.com/) - Online mock interface platform
+- [JSON Schema Tool](https://jsonschema.net/) - Online json schema generator
 - [babel](https://babeljs.io/repl) - babel converter
 - [astexplorer](https://astexplorer.net/) - AST syntax tree parsing
 - [node-green](https://node.green/) - can i use for node

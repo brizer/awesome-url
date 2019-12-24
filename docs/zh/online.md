@@ -26,6 +26,7 @@
 - [jsbench](https://github.com/jsbench/jsbench.github.io) - 测试js代码片段性能
 - [pagespeed](https://developers.google.com/speed/pagespeed/insights/) - Web性能检测工具
 - [jsonplaceholder](https://jsonplaceholder.typicode.com/) - 在线mock接口平台
+- [JSON Schema Tool](https://jsonschema.net/) - 从json生成json schema
 - [babel](https://babeljs.io/repl) - babel转化器
 - [astexplorer](https://astexplorer.net/) - AST语法树解析
 - [node-green](https://node.green/) - node的兼容性查询

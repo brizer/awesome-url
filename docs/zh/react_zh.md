@@ -7,6 +7,7 @@
 - [antd-admin](https://github.com/zuiidea/antd-admin) - React + Ant Design + UmiJS 管理后台
 - [blog-react](https://github.com/biaochenxuying/blog-react) - react + Ant Design 博客前台
 - [blog-react-admin](https://github.com/biaochenxuying/blog-react-admin) - react + ant design 博客后台
+- [client.creatorsdaily.com](https://github.com/creatorsdaily/client.creatorsdaily.com) - 基于react hooks的前端项目 创造者日报
 - [darkreader](https://github.com/darkreader/darkreader) - 基于reacthooks和ts构建的浏览器扩展，部分ui可参考
 - [elm-react-native](https://github.com/stoneWeb/elm-react-native) - React Native 饿了么APP
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - Electron + React + MobX + JSS 网易云音乐桌面APP
