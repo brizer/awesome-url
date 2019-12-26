@@ -3,6 +3,7 @@
 ## 项目实例
 
 - [CNode](https://github.com/cnodejs/nodeclub) - CNode 源码
+- [kite](https://github.com/maoxiaoquan/kite) - <g-emoji class="g-emoji" alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji> Kite 前台页面是vue ssr服务端渲染、后台页面是react spa、服务层nodejs、mysql编写的一套多权限内容管理系统
 
 ## 中间件
 

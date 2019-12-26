@@ -5,6 +5,7 @@
 - [blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) - vue + typescript + element-ui blog frontend
 - [element-pro](https://github.com/qidaizhe11/element-pro) - Ant Design Pro based on Vue and Element UI
 - [iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
+- [kite](https://github.com/maoxiaoquan/kite) - <g-emoji class="g-emoji" alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji> front end use vue ssr, admin backend use react spa and node, mysql.
 - [NeteaseClounWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - vue NeteaseCloud
 - [quark-h5](https://github.com/huangwei9527/quark-h5) - h5 page builder build by koa2 + vue2 + vuex
 - [vue-fallowFish](https://github.com/LLZUPUP/vue-fallowFish) - <g-emoji class="g-emoji" alias="tropical_fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f420.png">🐠</g-emoji>make fallowFish webapp by vue

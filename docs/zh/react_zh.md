@@ -11,6 +11,7 @@
 - [darkreader](https://github.com/darkreader/darkreader) - 基于reacthooks和ts构建的浏览器扩展，部分ui可参考
 - [elm-react-native](https://github.com/stoneWeb/elm-react-native) - React Native 饿了么APP
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - Electron + React + MobX + JSS 网易云音乐桌面APP
+- [kite](https://github.com/maoxiaoquan/kite) - <g-emoji class="g-emoji" alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji> Kite 前台页面是vue ssr服务端渲染、后台页面是react spa、服务层nodejs、mysql编写的一套多权限内容管理系统
 - [react-cloud-music](https://github.com/sanyuan0704/react-cloud-music) - React hooks + redux + immutable打造精美音乐WebApp
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - 基于React-Native的知乎日报
 
@@ -30,6 +31,7 @@
 - [bizcharts](https://github.com/alibaba/BizCharts) - 阿里巴巴开源的React图表组件
 - [draft-js](https://github.com/facebook/draft-js) - 文本编辑器，由facebook出品
 - [element-react](https://github.com/ElemeFE/element-react) - Element组件的react版本，class风格。
+- [form-render](https://github.com/alibaba/form-render) - <g-emoji class="g-emoji" alias="surfing_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4.png">🏄</g-emoji> 通过json schema生成antdesign
 - [fulr](https://github.com/Chalarangelo/furl) - 基于Hooks和js的React基础组件库
 - [material-ui](https://github.com/mui-org/material-ui) - React组件库，遵循google的Material设计
 - [react-copy-to-clipborad](https://github.com/nkbt/react-copy-to-clipboard) - 基于copy-to-clipboard的复制组件

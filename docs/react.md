@@ -10,6 +10,7 @@
 - [darkreader](https://github.com/darkreader/darkreader) - a tab tool chrome extension, ui based on react hooks and ts.
 - [elm-react-native](https://github.com/stoneWeb/elm-react-native) - React Native eleme app
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - Electron + React + MobX + JSS NeteaseMusic desktop app
+- [kite](https://github.com/maoxiaoquan/kite) - <g-emoji class="g-emoji" alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji> front end use vue ssr, admin backend use react spa and node, mysql.
 - [react-cloud-music](https://github.com/sanyuan0704/react-cloud-music) - Netease Music WebAPP based on React hooks + redux + immutable
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - Zhihu Daily App based on React-Native
 
@@ -30,6 +31,7 @@
 - [bizcharts](https://github.com/alibaba/BizCharts) - React chart component, build by Alibaba
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [element-react](https://github.com/ElemeFE/element-react) - Element UI
+- [form-render](https://github.com/alibaba/form-render) - <g-emoji class="g-emoji" alias="surfing_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4.png">🏄</g-emoji> generate antdesign by json schema
 - [fulr](https://github.com/Chalarangelo/furl) - React basic components based on Hooks and js
 - [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development. Build your own design system, or start with Material Design.
 - [react-copy-to-clipborad](https://github.com/nkbt/react-copy-to-clipboard) - copy component based on copy-to-clipboard

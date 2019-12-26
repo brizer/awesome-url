@@ -3,6 +3,7 @@
 ## Project Examples
 
 - [CNode](https://github.com/cnodejs/nodeclub) - CNode source
+- [kite](https://github.com/maoxiaoquan/kite) - <g-emoji class="g-emoji" alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji> front end use vue ssr, admin backend use react spa and node, mysql.
 
 ## Middleware
 
