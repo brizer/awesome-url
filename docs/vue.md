@@ -26,6 +26,7 @@
 ## Components
 
 - [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue. <g-emoji class="g-emoji" alias="ant" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f41c.png">🐜</g-emoji>
+    - [source analysis](https://github.com/FunnyLiu/ant-design-vue/tree/readsource)
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue, with over 40 plugins and more than 80 custom components, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
 - [element](https://github.com/ElemeFE/element) - ElementUI Toolkit
     - [source analysis](https://github.com/FunnyLiu/element/tree/readsource)
