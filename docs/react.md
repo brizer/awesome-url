@@ -11,6 +11,7 @@
 - [elm-react-native](https://github.com/stoneWeb/elm-react-native) - React Native eleme app
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - Electron + React + MobX + JSS NeteaseMusic desktop app
 - [kite](https://github.com/maoxiaoquan/kite) - <g-emoji class="g-emoji" alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji> front end use vue ssr, admin backend use react spa and node, mysql.
+- [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener, FED is build by React/Redux/Styled-components
 - [react-cloud-music](https://github.com/sanyuan0704/react-cloud-music) - Netease Music WebAPP based on React hooks + redux + immutable
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - Zhihu Daily App based on React-Native
 
@@ -51,6 +52,10 @@
 
 - [aframe](https://github.com/aframevr/aframe) - <g-emoji class="g-emoji" alias="a" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f170.png">🅰️</g-emoji> web framework for building virtual reality experiences.
 - [react-360](https://github.com/facebook/react-360) - Create amazing 360 and VR content using React
+
+## Hooks
+
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form) - <g-emoji class="g-emoji" alias="clipboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png">📋</g-emoji> React hooks for forms validation without the hassle，written by typescript
 
 ## Others
 
