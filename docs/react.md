@@ -43,7 +43,9 @@
 - [react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 - [react-infinite-scroller](https://github.com/CassetteRocks/react-infinite-scroller) - infinite scroll component
 - [react-json-view](https://github.com/mac-s-g/react-json-view) - JSON viewer for react
+- [react-keep-alive](https://github.com/StructureBuilder/react-keep-alive) - A component that maintains component state and avoids repeated re-rendering.
 - [react-tippy](https://www.npmjs.com/package/react-tippy) - a tippy component
+- [uform](https://github.com/alibaba/uform) - ⚡React High Performance Form (JSON Schema Form) Solution For Enterprise.
 - [uiw](https://github.com/uiwjs/uiw) - <g-emoji class="g-emoji" alias="atom_symbol" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/269b.png">⚛️</g-emoji><a class="user-mention" data-hovercard-type="organization" data-hovercard-url="/orgs/uiwjs/hovercard" href="https://github.com/uiwjs">@uiwjs</a> A high quality UI Toolkit, A Component Library for React 16+.
 
 ## SSR
@@ -57,6 +59,7 @@
 ## Hooks
 
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - <g-emoji class="g-emoji" alias="clipboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png">📋</g-emoji> React hooks for forms validation without the hassle，written by typescript
+- [react-use](https://github.com/streamich/react-use) - React Hooks — <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>
 
 ## Others
 
