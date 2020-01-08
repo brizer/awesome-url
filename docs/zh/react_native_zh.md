@@ -9,3 +9,7 @@
 - [expo-cli](https://github.com/expo/expo-cli) - 方便的查看工具，react-native默认cli，简介方便
 - [react-native-cli](https://www.npmjs.com/package/react-native-cli) - react-native官方cli，需要xcode和android studios.
 - [react-native-web](https://github.com/necolas/react-native-web) - 将react-native组件转为web运行
+
+## 组件
+
+- [react-native-lightbox](https://github.com/oblador/react-native-lightbox) - 全屏蒙层查看器，适合图片查看详情
