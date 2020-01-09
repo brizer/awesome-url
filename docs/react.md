@@ -84,6 +84,7 @@
 - [react-router](https://github.com/ReactTraining/react-router) - router for react
 - [react-router-dom](https://github.com/ReactTraining/react-router) - dom for react-router
 - [react-static](https://github.com/nozzle/react-static) - static site generator for React
+- [remax](https://github.com/remaxjs/remax) - build mini program by react/typescript
 - [styled-components](https://www.npmjs.com/package/styled-components) - css in js resolution for React and React Native
     - [Use it in a small React project](https://github.com/FunnyLiu/majestic/blob/master/ui/container.tsx#L14)
 - [styled-normalize](https://www.npmjs.com/package/styled-normalize) -  use normalize with styled-components

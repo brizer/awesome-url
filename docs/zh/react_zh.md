@@ -85,6 +85,7 @@
 - [react-router](https://github.com/ReactTraining/react-router) - react的路由组件
 - [react-router-dom](https://github.com/ReactTraining/react-router) - react-router的dom绑定
 - [react-static](https://github.com/nozzle/react-static) - 基于React的静态网站生成器
+- [remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建小程序
 - [styled-components](https://www.npmjs.com/package/styled-components) - React和React Native的css in js解决方案
     - [在一个小型React项目中使用它](https://github.com/FunnyLiu/majestic/blob/master/ui/container.tsx#L14)
 - [styled-normalize](https://www.npmjs.com/package/styled-normalize) - 将normalize用于styled-components   

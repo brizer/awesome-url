@@ -1,5 +1,6 @@
 # 在线工具
 
+- [AES online](http://tool.chacuo.net/cryptaes?__cf_chl_jschl_tk__=209af92e151d0accd71f986052d0dde9c9b78b70-1578482669-0-AadGdR5oD3s1jOi6Z0e4gpuPjcIgW2qqdKI1CsG9kf9ZX0wBgceWiSgR7HFF0gIs-_l47dLZprxXp-NaTY9UotiFj__a2tpvgyN4k4cKMmps10cp74FNbDBsL0cIQ5M7dZw7i_vSzs8DLpR3dGU1-mdoLrZ9P_gRbhwA1OnvL4sWt25ZfD9VYd5rT_PpVf_Smx8DD2auorJA5QYaAcOIoCoXJ7OV58gdxpomkMSGWhcRmXbBk5tSjDdEAS2y5GP9G5ro6exLqgqfzf1TIUrvoto) - AES在线加解密
 - [ASCIIFlow Infinity](http://asciiflow.com/) - 在bash和md中的流程图
 - [codebeautify](https://codebeautify.org/) - 全语言格式化工具
 - [codepen](https://codepen.io/) - 前端在线编辑器
@@ -35,6 +36,7 @@
 - [npm-module-dependence-map](http://npm.anvaka.com/#/) - 通过脑图分析npm模块依赖
 - [npmtrends](https://www.npmtrends.com/) - npm模块比较器
 - [vultr](https://www.vultr.com/) - VPS服务器
+- [wappalyzer](https://github.com/AliasIO/wappalyzer) - 判断一个web网站用了什么技术栈的在线查询工具
 - [web.dev](https://web.dev/measure) - 由谷歌推出的检测网站性能和体验的测试工具
 - [Timestamp tool](https://tool.chinaz.com/Tools/unixtime.aspx) - 时间戳转换工具
 - [typescript-playground](https://www.typescriptlang.org/play/index.html) - Typescript和原生js对比，在线

@@ -1,5 +1,6 @@
 # Online Tools
 
+- [AES online](http://tool.chacuo.net/cryptaes?__cf_chl_jschl_tk__=209af92e151d0accd71f986052d0dde9c9b78b70-1578482669-0-AadGdR5oD3s1jOi6Z0e4gpuPjcIgW2qqdKI1CsG9kf9ZX0wBgceWiSgR7HFF0gIs-_l47dLZprxXp-NaTY9UotiFj__a2tpvgyN4k4cKMmps10cp74FNbDBsL0cIQ5M7dZw7i_vSzs8DLpR3dGU1-mdoLrZ9P_gRbhwA1OnvL4sWt25ZfD9VYd5rT_PpVf_Smx8DD2auorJA5QYaAcOIoCoXJ7OV58gdxpomkMSGWhcRmXbBk5tSjDdEAS2y5GP9G5ro6exLqgqfzf1TIUrvoto) - AES online
 - [ASCIIFlow Infinity](http://asciiflow.com/) - Flow in bash and md
 - [codebeautify](https://codebeautify.org/) - Formatiing tools for all language
 - [codepen](https://codepen.io/) - Front End Online Editor
@@ -35,6 +36,7 @@
 - [npm-module-dependence-map](http://npm.anvaka.com/#/) - npm module dependence by brain map
 - [npmtrends](https://www.npmtrends.com/) - npm module comparator
 - [vultr](https://www.vultr.com/) - VPS Server
+- [wappalyzer](https://github.com/AliasIO/wappalyzer) - Cross-platform utility that uncovers the technologies used on websites.
 - [web.dev](https://web.dev/measure) - see how well your website performs, launched by Google
 - [Timestamp tool](https://tool.chinaz.com/Tools/unixtime.aspx) - timestamp transform tool
 - [typescript-playground](https://www.typescriptlang.org/play/index.html) - Typescript Compare pure javascript online
