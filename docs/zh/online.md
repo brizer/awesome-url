@@ -1,6 +1,6 @@
 # 在线工具
 
-- [AES online](http://tool.chacuo.net/cryptaes?__cf_chl_jschl_tk__=209af92e151d0accd71f986052d0dde9c9b78b70-1578482669-0-AadGdR5oD3s1jOi6Z0e4gpuPjcIgW2qqdKI1CsG9kf9ZX0wBgceWiSgR7HFF0gIs-_l47dLZprxXp-NaTY9UotiFj__a2tpvgyN4k4cKMmps10cp74FNbDBsL0cIQ5M7dZw7i_vSzs8DLpR3dGU1-mdoLrZ9P_gRbhwA1OnvL4sWt25ZfD9VYd5rT_PpVf_Smx8DD2auorJA5QYaAcOIoCoXJ7OV58gdxpomkMSGWhcRmXbBk5tSjDdEAS2y5GP9G5ro6exLqgqfzf1TIUrvoto) - AES在线加解密
+- [AES online](https://tool.lami.fun/jiami/aes) - AES在线加解密
 - [ASCIIFlow Infinity](http://asciiflow.com/) - 在bash和md中的流程图
 - [codebeautify](https://codebeautify.org/) - 全语言格式化工具
 - [codepen](https://codepen.io/) - 前端在线编辑器

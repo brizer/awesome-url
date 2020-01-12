@@ -61,6 +61,7 @@
 
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - 表单相关hooks，由typescript书写
 - [react-use](https://github.com/streamich/react-use) - 一大把react hooks的最佳实践和demo，基于typescript
+- [beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 大量hooks的最佳实践和封装
 
 ## 其他
 

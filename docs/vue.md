@@ -74,6 +74,7 @@
 - [nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using Vue and NativeScript.
 - [vmark](https://github.com/egoist/vmark) - Convert markdown to Vue component.
 - [Vue](https://github.com/vuejs/vue) - Vue itself
+    - [Learn-Vue-Source-Code](https://github.com/NLRX-WJC/Learn-Vue-Source-Code) - The source reader of Vue
 - [vuepress](https://github.com/vuejs/vuepress) - minimalistic static site generator
     - [Introduction at the vue conference](https://zhuanlan.zhihu.com/p/68669412)
     - [Self-built interview question bank](https://github.com/omnipotent-front-end/Interview)

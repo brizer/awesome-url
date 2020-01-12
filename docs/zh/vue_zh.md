@@ -75,6 +75,7 @@
 - [nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) - 使用vue和nativeScript构建app
 - [vmark](https://github.com/egoist/vmark) - 将markdown转为vue组件
 - [Vue](https://github.com/vuejs/vue) - Vue本身
+    - [Learn-Vue-Source-Code](https://github.com/NLRX-WJC/Learn-Vue-Source-Code) - 逐行剖析Vue.js源码 
 - [vuepress](https://github.com/vuejs/vuepress) - 极简的静态网站生成器
     - [Vue大会上的介绍文章](https://zhuanlan.zhihu.com/p/68669412)
     - [自己搭建的面试题库](https://github.com/omnipotent-front-end/Interview)

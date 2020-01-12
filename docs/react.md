@@ -60,6 +60,7 @@
 
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - <g-emoji class="g-emoji" alias="clipboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png">📋</g-emoji> React hooks for forms validation without the hassle，written by typescript
 - [react-use](https://github.com/streamich/react-use) - React Hooks — <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>
+- [beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>
 
 ## Others
 
