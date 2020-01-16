@@ -27,7 +27,7 @@
 
 - [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - UI库，都是jsx组件的方式，由阿里巴巴开发
     - [源码分析](https://github.com/FunnyLiu/ant-design-vue/tree/readsource)
-- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - Bootstrap和Vue的结合。
+- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - Bootstrap和Vue的结合，通过render函数，但是不是jsx。
 - [element](https://github.com/ElemeFE/element) - ElementUI 组件库
     - [源码分析](https://github.com/FunnyLiu/element/tree/readsource)
     - [使用webpack打包组件库]
@@ -37,6 +37,7 @@
 - [vue-color](https://github.com/xiaokaike/vue-color) - 颜色选择组件
 - [vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders) - 骨架屏组件
 - [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - 拖拽组件
+- [vue-chartjs](https://github.com/apertureless/vue-chartjs) - echart的vue包装图表组件
 - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - 无限滚动加载组件
 - [vue-json-csv](https://github.com/Belphemur/vue-json-csv) - json变csv文件下载。
 - [vue-notification](https://github.com/euvl/vue-notification) - 通知条组件

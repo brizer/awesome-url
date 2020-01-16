@@ -38,6 +38,7 @@
 - [vue-color](https://github.com/xiaokaike/vue-color) - <g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">🎨</g-emoji> Vue Color Pickers for Sketch, Photoshop, Chrome &amp; more <a href="http://vue-color.surge.sh" rel="nofollow">http://vue-color.surge.sh</a>
 - [vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders) - Composable components for rendering fake (progressive) content like facebook in vue
 - [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - Vue2 Component for draggable and resizable elements.
+- [vue-chartjs](https://github.com/apertureless/vue-chartjs) - <g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> Vue.js wrapper for Chart.js
 - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - An infinite scroll plugin for Vue.js.
 - [vue-json-csv](https://github.com/Belphemur/vue-json-csv) - VueJS component to export Json Data into CSV file and download the resulting file.
 - [vue-notification](https://github.com/euvl/vue-notification) - <g-emoji class="g-emoji" alias="icecream" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f366.png">🍦</g-emoji> Vue.js 2 library for showing notifications
