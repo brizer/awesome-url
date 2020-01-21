@@ -3,3 +3,7 @@
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - 一些对docker有用的资源
 - [docker-hub](https://hub.docker.com/) - 类似node的npm
 - [docker_practice](https://github.com/yeasy/docker_practice) - Docker的gitbook电纸书
+
+## 私服
+
+- [harbor](https://github.com/goharbor/harbor) - 开源docker私有服方案，网易严选采用
