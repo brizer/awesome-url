@@ -35,6 +35,7 @@
 - [onerror](https://github.com/koajs/onerror) - an error handler for koa, hack ctx.onerror
     - [source analysis](https://github.com/FunnyLiu/onerror/tree/readsource)
 - [response-time](https://github.com/koajs/response-time) - X-Response-Time middleware
+- [rewrite](https://github.com/koajs/rewrite) - URL rewriting middleware
 - [send](https://github.com/koajs/send) - Transfer static files
     - [source analysis](https://github.com/FunnyLiu/send/tree/readsource)
 - [session](https://github.com/koajs/session) - Simple session middleware for koa

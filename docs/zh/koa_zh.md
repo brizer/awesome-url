@@ -35,6 +35,7 @@
 - [onerror](https://github.com/koajs/onerror) - 一个koa的错误处理中间件，方式是hack ctx.onerror。
     - [源码分析](https://github.com/FunnyLiu/onerror/tree/readsource)
 - [response-time](https://github.com/koajs/response-time) - 设置http头之X-Response-Time的中间件
+- [rewrite](https://github.com/koajs/rewrite) - URL 重写中间件
 - [send](https://github.com/koajs/send) - 转换静态资源
     - [源码分析](https://github.com/FunnyLiu/send/tree/readsource)
 - [session](https://github.com/koajs/session) - koa的session中间件
