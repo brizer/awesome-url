@@ -1,6 +1,6 @@
 module.exports = {
   title: "Awesome-url",
-  base:'/urls/',
+  base: "/urls/",
   locales: {
     "/": {
       lang: "en-US",
@@ -14,10 +14,10 @@ module.exports = {
     }
   },
   themeConfig: {
-    repo: 'brizer/awesome-url',
-    algolia:{
-      apiKey:'60ba0be7ab4084ad1306fe8615ed0ed4',
-      indexName:'brizer-awesome-url'
+    repo: "brizer/awesome-url",
+    algolia: {
+      apiKey: "60ba0be7ab4084ad1306fe8615ed0ed4",
+      indexName: "brizer-awesome-url"
     },
     locales: {
       "/": {
@@ -38,7 +38,7 @@ module.exports = {
                 "/babel",
                 "/docker",
                 "/egg",
-                '/electron',
+                "/electron",
                 "/express",
                 "/flutter",
                 "/gulp",
@@ -46,7 +46,7 @@ module.exports = {
                 "/jquery",
                 "/koa",
                 "/kubernetes",
-                '/lint',
+                "/lint",
                 "/nest",
                 "/nuxt",
                 "/react_native",
@@ -59,8 +59,8 @@ module.exports = {
               ]
             },
             {
-              title: "Node Modules",
-              children: ["/node_modules"]
+              title: "Language",
+              children: ["/node_modules", "/go"]
             },
             {
               title: "Information Flow",
@@ -95,7 +95,7 @@ module.exports = {
                 "/zh/babel_zh",
                 "/zh/docker_zh",
                 "/zh/egg_zh",
-                '/zh/electron_zh',
+                "/zh/electron_zh",
                 "/zh/express_zh",
                 "/zh/flutter_zh",
                 "/zh/gulp_zh",
@@ -103,7 +103,7 @@ module.exports = {
                 "/zh/jquery_zh",
                 "/zh/koa_zh",
                 "/zh/kubernetes_zh",
-                '/zh/lint_zh',
+                "/zh/lint_zh",
                 "/zh/nest_zh",
                 "/zh/nuxt_zh",
                 "/zh/react_native_zh",
@@ -117,7 +117,7 @@ module.exports = {
             },
             {
               title: "Node模块",
-              children: ["/zh/node_modules_zh"]
+              children: ["/zh/node_modules_zh", "/zh/go_zh"]
             },
             {
               title: "信息流",
