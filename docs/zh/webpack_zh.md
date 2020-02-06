@@ -9,12 +9,18 @@
 - [babel-loader](https://www.npmjs.com/package/babel-loader) - babel的loader
     - [简单使用babel和jsx](https://github.com/FunnyLiu/webpackDemo#babel-loader-%E5%BC%95%E5%85%A5-jsx-demo03_babelloader)
 - [css-loader](https://www.npmjs.com/package/css-loader) - 支持引入css
+- [ejs-loader](https://github.com/difelice/ejs-loader) - .ejs文件的loader
+- [eslint-loader](https://github.com/webpack-contrib/eslint-loader) - eslint的loader
+- [file-loader](https://github.com/webpack-contrib/file-loader) - png等图片文件的loader
+- [html-loader](https://github.com/webpack-contrib/html-loader) - HTML文件的loader
 - [less-loader](https://github.com/webpack-contrib/less-loader) - 针对less的loader
     - [简单的使用less](https://github.com/FunnyLiu/webpackDemo#%E4%BD%BF%E7%94%A8less%E6%9D%A5%E7%AE%A1%E7%90%86%E9%A1%B5%E9%9D%A2%E6%A0%B7%E5%BC%8F-by-demo22_less)
     - [和cssmodule,react一起使用](https://github.com/FunnyLiu/webpackDemo#%E4%BD%BF%E7%94%A8less%E9%80%9A%E8%BF%87css-module%E6%9D%A5%E7%AE%A1%E7%90%86react%E7%BB%84%E4%BB%B6-by-demo23_less_cssmodule)
+- [raw-loader](https://github.com/webpack-contrib/raw-loader) - txt文件转为字符串的loader
 - [style-loader](https://www.npmjs.com/package/style-loader) - 通过style标签将css加到dom中去
 - [ts-loader](https://github.com/TypeStrong/ts-loader) - typescript的loader
-- [url-loader](https://github.com/webpack-contrib/url-loader) - 转换文件到base64
+- [url-loader](https://github.com/webpack-contrib/url-loader) - 转换图片文件到base64
+- [vue-loader](https://github.com/vuejs/vue-loader) - vue文件的loader
 
 ## plugins
 
@@ -22,6 +28,7 @@
 - [create-file-webpack](https://github.com/Appius/create-file-webpack) - 在webpack打包过程中创建文件内容
     - [可用于生成网站地图sitemap]
 - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin) - 简化html创建和启动服务的插件
+- [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - css分离插件
 - [sentry-webpack-plugin](https://github.com/getsentry/sentry-webpack-plugin) - Sentry官方的webpack插件 <a href="https://sentry.io" rel="nofollow">https://sentry.io</a>
 - [webpack-subresource-integrity](https://github.com/waysact/webpack-subresource-integrity) - 使用Subresource Integrity的webbpack插件
 - [write-file-webpack-plugin](https://github.com/gajus/write-file-webpack-plugin) - 使得webpack-dev-server将打包文件写到文件系统中
