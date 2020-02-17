@@ -3,6 +3,7 @@
 ## 项目实例
 
 - [ever](https://github.com/ever-co/ever) - 开源商务平台，由nest构建
+- [mili](https://github.com/shen100/mili) - mili 是一个开源的社区系统，前端基于vue/iview，后端基于node/typescript/nest/typeorm
 - [nodepress](https://github.com/surmon-china/nodepress) - nest开发的中型cms，blog，类似掘金
 
 

@@ -6,6 +6,7 @@
 
 ## CMD
 
+- [cli](https://github.com/cli/cli) - The GitHub CLI
 - [gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
 
 ## Files

@@ -32,6 +32,7 @@
 - [ant-design](https://github.com/ant-design/ant-design) - <g-emoji class="g-emoji" alias="rainbow" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f308.png">🌈</g-emoji> 组件库
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile/) - 移动端组件库
 - [bizcharts](https://github.com/alibaba/BizCharts) - 阿里巴巴开源的React图表组件
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui) - 基于javascript/hooks/react/lerna的ui组件库
 - [draft-js](https://github.com/facebook/draft-js) - 文本编辑器，由facebook出品
 - [element-react](https://github.com/ElemeFE/element-react) - Element组件的react版本，class风格。
 - [form-render](https://github.com/alibaba/form-render) - <g-emoji class="g-emoji" alias="surfing_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4.png">🏄</g-emoji> 通过json schema生成antdesign

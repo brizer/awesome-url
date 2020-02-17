@@ -3,6 +3,7 @@
 ## Projects
 
 - [ever](https://github.com/ever-co/ever) - Ever® - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
+- [mili](https://github.com/shen100/mili) - mili is a blog system based on vue/iview/node/typescript/nest/typeorm
 - [nodepress](https://github.com/surmon-china/nodepress) - <g-emoji class="g-emoji" alias="sunglasses" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png">😎</g-emoji> RESTful API service for Blog/CMS, powered by <a class="user-mention" data-hovercard-type="organization" data-hovercard-url="/orgs/nestjs/hovercard" href="https://github.com/nestjs">@nestjs</a>
 
 

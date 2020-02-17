@@ -32,6 +32,7 @@
 - [ant-design](https://github.com/ant-design/ant-design) - <g-emoji class="g-emoji" alias="rainbow" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f308.png">🌈</g-emoji> A UI Design Language
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile/) - A configurable Mobile UI
 - [bizcharts](https://github.com/alibaba/BizCharts) - React chart component, build by Alibaba
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui) - <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji>Simple, Modular &amp; Accessible UI Components for your React Applications
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [element-react](https://github.com/ElemeFE/element-react) - Element UI
 - [form-render](https://github.com/alibaba/form-render) - <g-emoji class="g-emoji" alias="surfing_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4.png">🏄</g-emoji> generate antdesign by json schema

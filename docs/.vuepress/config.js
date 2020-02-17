@@ -116,7 +116,7 @@ module.exports = {
               ]
             },
             {
-              title: "Node模块",
+              title: "模块包",
               children: ["/zh/node_modules_zh", "/zh/go_zh"]
             },
             {

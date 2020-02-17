@@ -6,6 +6,7 @@
 
 ## 命令行工具
 
+- [cli](https://github.com/cli/cli) - Github官方命令行cli工具
 - [gosu](https://github.com/tianon/gosu) - 替代sudo的go命令gosu
 
 ## 文件处理
