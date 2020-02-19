@@ -5,6 +5,7 @@
 - [CNode](https://github.com/cnodejs/nodeclub) - CNode source
 - [kite](https://github.com/maoxiaoquan/kite) - <g-emoji class="g-emoji" alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji> front end use vue ssr, admin backend use react spa and node, mysql.
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener, Backend is build by Node/Express/Typescript/PostgreSQL
+- [vueMusic](https://github.com/xieyezi/vueMusic) - music h5 build on vue/docker/docker-compose/express
 
 ## Middleware
 

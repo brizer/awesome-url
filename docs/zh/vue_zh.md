@@ -9,6 +9,7 @@
 - [mili](https://github.com/shen100/mili) - mili 是一个开源的社区系统，前端基于vue/iview，后端基于node/typescript/nest/typeorm
 - [NeteaseClounWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - 基于vue的云音乐
 - [quark-h5](https://github.com/huangwei9527/quark-h5) - 基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具
+- [vueMusic](https://github.com/xieyezi/vueMusic) - vue做的web音乐App，基于vue/docker/docker-compose/express
 - [vue-fallowFish](https://github.com/LLZUPUP/vue-fallowFish) - <g-emoji class="g-emoji" alias="tropical_fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f420.png">🐠</g-emoji>vue全家桶仿闲鱼部分布局以及功能实现
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - 基于elementui和vue2.0的后台系统
 - [vue-mobx-todolist](https://github.com/FunnyLiu/vue-mobx-todolist) - 基于vue/mobx/mobx-vue 来完成todolist，由brizer开发，所有数据交由store管理。
