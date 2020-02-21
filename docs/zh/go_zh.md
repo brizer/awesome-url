@@ -24,6 +24,11 @@
 - [gitea](https://github.com/go-gitea/gitea) - 私有git服务器
 - [helm](https://github.com/helm/helm) - The Kubernetes包管理器
 
+
+## 测试
+
+- [goreplay](https://github.com/buger/goreplay) - http请求压力测试工具，基于go
+
 ## 优秀书籍和教程
 
 - [docker_practice](https://github.com/yeasy/docker_practice) - Docker从入门到实践
