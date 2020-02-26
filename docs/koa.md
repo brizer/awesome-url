@@ -2,6 +2,7 @@
 
 ## Project Examples
 
+- [examples](https://github.com/koajs/examples) - Example Koa apps
 - [koa-knex-realworld-example](https://github.com/gothinkster/koa-knex-realworld-example) - real-world build by koa
 - [nodejs-koa-blog](https://github.com/liangfengbo/nodejs-koa-blog) - Node.js + Koa2 + MySQL + Vue.js blog system
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
