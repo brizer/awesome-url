@@ -9,6 +9,7 @@
 - [blog-react-admin](https://github.com/biaochenxuying/blog-react-admin) - react + ant design 博客后台
 - [client.creatorsdaily.com](https://github.com/creatorsdaily/client.creatorsdaily.com) - 基于react hooks的前端项目 创造者日报
 - [darkreader](https://github.com/darkreader/darkreader) - 基于reacthooks和ts构建的浏览器扩展，部分ui可参考
+- [dejavu](https://github.com/appbaseio/dejavu) - 针对es的ui查询页面，基于class风格react/docker/docker-compose/elasticsearch
 - [elm-react-native](https://github.com/stoneWeb/elm-react-native) - React Native 饿了么APP
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - Electron + React + MobX + JSS 网易云音乐桌面APP
 - [kite](https://github.com/maoxiaoquan/kite) - <g-emoji class="g-emoji" alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji> Kite 前台页面是vue ssr服务端渲染、后台页面是react spa、服务层nodejs、mysql编写的一套多权限内容管理系统

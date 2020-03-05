@@ -29,6 +29,11 @@
 
 - [goreplay](https://github.com/buger/goreplay) - http请求压力测试工具，基于go
 
+
+## UI
+
+- [vugu](https://github.com/vugu/vugu) - UI库基于Go+WebAssembly
+
 ## 优秀书籍和教程
 
 - [docker_practice](https://github.com/yeasy/docker_practice) - Docker从入门到实践

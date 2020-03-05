@@ -8,6 +8,7 @@
 - [blog-react-admin](https://github.com/biaochenxuying/blog-react-admin) - react + ant design blog backend
 - [client.creatorsdaily.com](https://github.com/creatorsdaily/client.creatorsdaily.com) - A front-end project build by react hooks
 - [darkreader](https://github.com/darkreader/darkreader) - a tab tool chrome extension, ui based on react hooks and ts.
+- [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [elm-react-native](https://github.com/stoneWeb/elm-react-native) - React Native eleme app
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - Electron + React + MobX + JSS NeteaseMusic desktop app
 - [kite](https://github.com/maoxiaoquan/kite) - <g-emoji class="g-emoji" alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji> front end use vue ssr, admin backend use react spa and node, mysql.
