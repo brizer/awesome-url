@@ -4,6 +4,10 @@
 
 - [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - 百度网盘客户端 - Go语言编写
 
+## 集群部署
+
+- [rancher](https://github.com/rancher/rancher) - 容器管理平台
+
 ## 命令行工具
 
 - [cli](https://github.com/cli/cli) - Github官方命令行cli工具
