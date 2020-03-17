@@ -41,6 +41,7 @@
 - [vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders) - 骨架屏组件
 - [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - 拖拽组件
 - [vue-chartjs](https://github.com/apertureless/vue-chartjs) - echart的vue包装图表组件
+- [vue-form-making](https://github.com/GavinZhuLei/vue-form-making) - 基于Vue的表单设计器，依赖组件，但是json格式可以参考
 - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - 无限滚动加载组件
 - [vue-json-csv](https://github.com/Belphemur/vue-json-csv) - json变csv文件下载。
 - [vue-notification](https://github.com/euvl/vue-notification) - 通知条组件
@@ -53,6 +54,7 @@
 - [vuetable-2](https://github.com/ratiw/vuetable-2) - 表格组件
 - [vuetify](https://github.com/vuetifyjs/vuetify) - vue的组件库，基于typscript/webpack开发的
     - [源码分析](https://github.com/FunnyLiu/vuetify/tree/readsource)
+- [vxe-table](https://github.com/xuliangzhan/vxe-table) - <g-emoji class="g-emoji" alias="dolphin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f42c.png">🐬</g-emoji> 表格解决方案
 
 ## 指令
 

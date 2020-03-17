@@ -42,6 +42,7 @@
 - [vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders) - Composable components for rendering fake (progressive) content like facebook in vue
 - [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - Vue2 Component for draggable and resizable elements.
 - [vue-chartjs](https://github.com/apertureless/vue-chartjs) - <g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> Vue.js wrapper for Chart.js
+- [vue-form-making](https://github.com/GavinZhuLei/vue-form-making) - A designer and generator of form base on Vue.js, make form development simple and efficient.
 - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - An infinite scroll plugin for Vue.js.
 - [vue-json-csv](https://github.com/Belphemur/vue-json-csv) - VueJS component to export Json Data into CSV file and download the resulting file.
 - [vue-notification](https://github.com/euvl/vue-notification) - <g-emoji class="g-emoji" alias="icecream" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f366.png">🍦</g-emoji> Vue.js 2 library for showing notifications
@@ -54,6 +55,7 @@
 - [vuetable-2](https://github.com/ratiw/vuetable-2) - data table simplify! -- datatable component for Vue 2.x. See documentation at
 - [vuetify](https://github.com/vuetifyjs/vuetify) - <g-emoji class="g-emoji" alias="dragon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f409.png">🐉</g-emoji> Material Component Framework for Vue
     - [source analysis](https://github.com/FunnyLiu/vuetify/tree/readsource)
+- [vxe-table](https://github.com/xuliangzhan/vxe-table) - <g-emoji class="g-emoji" alias="dolphin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f42c.png">🐬</g-emoji> vxe-table vue 
 
 ## Directive
 
