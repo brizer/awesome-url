@@ -8,12 +8,13 @@
 
 - [dejavu](https://github.com/appbaseio/dejavu) - 针对es的ui查询页面，基于class风格react/docker/docker-compose/elasticsearch
 - [docker-laravel-vuejs](https://github.com/gliterd/docker-laravel-vuejs) - docker/docker-compose/vue/php/mysql项目实例
+- [nextjs-graphql-auth](https://github.com/nreoch25/nextjs-graphql-auth) - next/graphql/nginx/mongo/docker/docker-compose/apollo/Kubernetes/k8s，一个项目全部搞定
 - [node-docker-good-defaults](https://github.com/BretFisher/node-docker-good-defaults) - node/docker/docker-compose基本应用
 - [node-express-mongoose-demo](https://github.com/madhums/node-express-mongoose-demo) - node/mongo/docker/docker-compose基本项目
 - [node-react-docker-compose](https://github.com/mrcoles/node-react-docker-compose) - node/docker/docker-compose/react前后端分离项目
 - [onpremise](https://github.com/getsentry/onpremise) - Sentry 私有化部署工具，基于docker/docker-compose
 - [VENoM-Docker](https://github.com/jamesaud/VENoM-Docker) -vue/node/express/docker/docker-compose项目实例
-- [vueMusic](https://github.com/xieyezi/vueMusic) - h5音乐软件基于vue/docker/docker-compose/express
+- [vueMusic](https://github.com/xieyezi/vueMusic) - h5音乐软件基于vue/docker/docker-compose/express/nginx
 
 ## Dockerfile
 

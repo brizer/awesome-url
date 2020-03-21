@@ -2,7 +2,7 @@
 
 ## 项目实例
 
-- [blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) - vue + typescript + element-ui 博客前台
+- [blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) - vue + typescript + element-ui + 装饰器 博客前台
 - [element-pro](https://github.com/qidaizhe11/element-pro) - Vue 版 Ant Design Pro（基于 Element-ui 实现）
 - [iview-admin](https://github.com/iview/iview-admin) - 基于iview和vue2.0的后台系统
 - [kite](https://github.com/maoxiaoquan/kite) - <g-emoji class="g-emoji" alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji> Kite 前台页面是vue ssr服务端渲染、后台页面是react spa、服务层nodejs、mysql编写的一套多权限内容管理系统
