@@ -47,6 +47,7 @@
 - [react-infinite-scroller](https://github.com/CassetteRocks/react-infinite-scroller) - 无限滑动组件
 - [react-json-view](https://github.com/mac-s-g/react-json-view) - json查看和编辑组件，找了好久唯一一个通用性和设计强点的存储json编辑
 - [react-keep-alive](https://github.com/StructureBuilder/react-keep-alive) - keep-alive的react实现，基于React.createPortal API
+- [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - vscode编辑器组件monaco的react版
 - [react-tippy](https://www.npmjs.com/package/react-tippy) - 一个提示组件
 - [uform](https://github.com/alibaba/uform) - React表单方案，配合antdesign
 - [uiw](https://github.com/uiwjs/uiw) - <g-emoji class="g-emoji" alias="atom_symbol" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/269b.png">⚛️</g-emoji><a class="user-mention" data-hovercard-type="organization" data-hovercard-url="/orgs/uiwjs/hovercard" href="https://github.com/uiwjs">@uiwjs</a> 组件库，基于React 16+，Class 风格.
