@@ -16,6 +16,7 @@
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [react-antd-admin](https://github.com/liuguanhua/react-antd-admin) - admin based on react hooks/typescript/antd/dva
 - [react-cloud-music](https://github.com/sanyuan0704/react-cloud-music) - Netease Music WebAPP based on React hooks + redux + immutable
+- [react-eshop](https://github.com/layverns/react-eshop) - shop website based on react
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - Zhihu Daily App based on React-Native
 
 ## State manage

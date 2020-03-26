@@ -8,6 +8,7 @@
 - [eggjs-realworld-example-app](https://github.com/eggjs-community/eggjs-realworld-example-app) - Real World Egg.js + Mysql backend implementations
 - [egg-seed](https://github.com/ErikJiang/egg-seed) - <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> egg typescript 
 - [egg-vue-webpack-boilerplate](https://github.com/easy-team/egg-vue-webpack-boilerplate) - Egg Vue Server Side Render
+- [eshop-server](https://github.com/layverns/eshop-server) - shop website api baseon egg
 - [examples](https://github.com/eggjs/examples) - Store all egg examples in one place
 - [zanePerfor](https://github.com/wangweianger/zanePerfor) - web analysis system, build by egg
 

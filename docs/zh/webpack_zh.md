@@ -30,6 +30,8 @@
 - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin) - 简化html创建和启动服务的插件
 - [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - css分离插件
 - [sentry-webpack-plugin](https://github.com/getsentry/sentry-webpack-plugin) - Sentry官方的webpack插件 <a href="https://sentry.io" rel="nofollow">https://sentry.io</a>
+- [speed-measure-webpack-plugin#readme](https://github.com/stephencookdev/speed-measure-webpack-plugin#readme) - 记录各个loader和插件的耗时，方便排查构建速度
+- [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - 可视化分析webpack依赖模块大小
 - [webpack-subresource-integrity](https://github.com/waysact/webpack-subresource-integrity) - 使用Subresource Integrity的webbpack插件
 - [write-file-webpack-plugin](https://github.com/gajus/write-file-webpack-plugin) - 使得webpack-dev-server将打包文件写到文件系统中
 
@@ -42,6 +44,7 @@
     - [loader和plugin之间的区别是什么？](http://omnipotent-front-end.github.io/library/webpack.html#loader%E5%92%8Cplugin%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%EF%BC%9F%E5%85%B7%E4%BD%93%E4%B8%BE%E4%B8%80%E4%BA%9B%E5%B8%B8%E7%94%A8%E7%9A%84%E5%92%8C%E5%85%B6%E4%BD%9C%E7%94%A8%E3%80%82)
     - [webpack热更新的原理](http://omnipotent-front-end.github.io/library/webpack.html#webpack%E7%83%AD%E6%9B%BF%E6%8D%A2%E7%9A%84%E5%8E%9F%E7%90%86%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
     - [打包前端组件库如elementui](https://github.com/FunnyLiu/element/tree/readsource)
+    - [可视化方案分析 webpack 打包性能瓶颈](https://brizer.github.io/static/html/webpack-opt.html)
 - [webpack-chain](https://github.com/neutrinojs/webpack-chain) - 链式API生成webpack配置文件
 - [webpack-cli](https://www.npmjs.com/package/webpack-cli) - 在命令行中使用webpack
     - [整体执行流程](https://github.com/DDFE/DDFE-blog/issues/12)

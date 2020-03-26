@@ -9,6 +9,7 @@
 - [eggjs-realworld-example-app](https://github.com/eggjs-community/eggjs-realworld-example-app) - Real World Egg.js + Mysql 后台项目
 - [egg-seed](https://github.com/ErikJiang/egg-seed) - <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> egg.ts 种子框架
 - [egg-vue-webpack-boilerplate](https://github.com/easy-team/egg-vue-webpack-boilerplate) - Egg Vue 服务端渲染
+- [eshop-server](https://github.com/layverns/eshop-server) - 网易严选桌面端网页应用的相关restful api服务器接口，基于egg/mysql/sequelize
 - [examples](https://github.com/eggjs/examples) - 官方各个examples
 - [zanePerfor](https://github.com/wangweianger/zanePerfor) - 前端性能监控系统,消息队列,高可用,集群等相关架构
 
