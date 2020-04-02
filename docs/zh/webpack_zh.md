@@ -8,6 +8,7 @@
 
 - [babel-loader](https://www.npmjs.com/package/babel-loader) - babel的loader
     - [简单使用babel和jsx](https://github.com/FunnyLiu/webpackDemo#babel-loader-%E5%BC%95%E5%85%A5-jsx-demo03_babelloader)
+- [cache-loader](https://github.com/webpack-contrib/cache-loader) - 可以在一些性能开销较大的 Loader 之前添加，目的是将结果缓存到磁盘里
 - [css-loader](https://www.npmjs.com/package/css-loader) - 支持引入css
 - [ejs-loader](https://github.com/difelice/ejs-loader) - .ejs文件的loader
 - [eslint-loader](https://github.com/webpack-contrib/eslint-loader) - eslint的loader
@@ -24,12 +25,14 @@
 
 ## plugins
 
+- [clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin) - 目录清理
 - [copy-webpack-plugin](https://www.npmjs.com/package/copy-webpack-plugin) - 复制文件到生成目录
 - [create-file-webpack](https://github.com/Appius/create-file-webpack) - 在webpack打包过程中创建文件内容
     - [可用于生成网站地图sitemap]
 - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin) - 简化html创建和启动服务的插件
-- [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - css分离插件
+- [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - 分离样式文件，CSS 提取为独立文件，css分离插件
 - [sentry-webpack-plugin](https://github.com/getsentry/sentry-webpack-plugin) - Sentry官方的webpack插件 <a href="https://sentry.io" rel="nofollow">https://sentry.io</a>
+- [size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - ：监控资源体积变化，尽早发现问题
 - [speed-measure-webpack-plugin#readme](https://github.com/stephencookdev/speed-measure-webpack-plugin#readme) - 记录各个loader和插件的耗时，方便排查构建速度
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - 可视化分析webpack依赖模块大小
 - [webpack-subresource-integrity](https://github.com/waysact/webpack-subresource-integrity) - 使用Subresource Integrity的webbpack插件
@@ -48,6 +51,7 @@
 - [webpack-chain](https://github.com/neutrinojs/webpack-chain) - 链式API生成webpack配置文件
 - [webpack-cli](https://www.npmjs.com/package/webpack-cli) - 在命令行中使用webpack
     - [整体执行流程](https://github.com/DDFE/DDFE-blog/issues/12)
+- [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - 可以更友好的展示相关打包信息，配合webpack-dev-server使用
 - [webpack-dev-server](https://www.npmjs.com/package/webpack-dev-server) - webpack的专属开发环境服务器
 - [webpack-merge](https://github.com/survivejs/webpack-merge) - 合并webpack配置，方便多文件场景
     - [vue-cli2搭建的vue项目，基于多个webpack配置文件管理](https://github.com/FunnyLiu/vueDemo/blob/master/vueCliDemo/vueCli2/old/build/webpack.dev.conf.js#L5)

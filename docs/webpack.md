@@ -8,6 +8,7 @@
 
 - [babel-loader](https://www.npmjs.com/package/babel-loader) - loader for babel
     - [use babel and jsx simply](https://github.com/FunnyLiu/webpackDemo#babel-loader-%E5%BC%95%E5%85%A5-jsx-demo03_babelloader)
+- [cache-loader](https://github.com/webpack-contrib/cache-loader) - Caches the result of following loaders on disk
 - [css-loader](https://www.npmjs.com/package/css-loader) - support import css
 - [ejs-loader](https://github.com/difelice/ejs-loader) - EJS (Underscore/LoDash Templates) loader for webpack
 - [eslint-loader](https://github.com/webpack-contrib/eslint-loader) - A ESlint loader for webpack
@@ -24,13 +25,14 @@
 
 ## plugins
 
-
+- [clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin) - A webpack plugin to remove your build folder(s) before building
 - [copy-webpack-plugin](https://www.npmjs.com/package/copy-webpack-plugin) - Copy files to build directory
 - [create-file-webpack](https://github.com/Appius/create-file-webpack) - The simple webpack plugin to create a file with the particular content at the end of the build process
     - [can be used for generate sitemap]
 - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin) - Plugin that simplifies creation of HTML files to serve your bundles
 - [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - Lightweight CSS extraction plugin
 - [sentry-webpack-plugin](https://github.com/getsentry/sentry-webpack-plugin) - Official webpack plugin for Sentry <a href="https://sentry.io" rel="nofollow">https://sentry.io</a>
+- [size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
 - [speed-measure-webpack-plugin#readme](https://github.com/stephencookdev/speed-measure-webpack-plugin#readme) - <g-emoji class="g-emoji" alias="stopwatch" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f1.png">⏱</g-emoji> See how fast (or not) your plugins and loaders are, so you can optimise your builds
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 - [webpack-subresource-integrity](https://github.com/waysact/webpack-subresource-integrity) - Webpack plugin for enabling Subresource Integrity.
@@ -48,6 +50,7 @@
 - [webpack-chain](https://github.com/neutrinojs/webpack-chain) - chaining API to generate Webpack configuration.
 - [webpack-cli](https://www.npmjs.com/package/webpack-cli) - use webpack in cli
     - [Overall execution process](https://github.com/DDFE/DDFE-blog/issues/12)
+- [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server
 - [webpack-dev-server](https://www.npmjs.com/package/webpack-dev-server) - development server for webpack
 - [webpack-merge](https://github.com/survivejs/webpack-merge) - merge webpack config, for multi config file
     - [a vue project created by vue-cli2, use multi config file to build](https://github.com/FunnyLiu/vueDemo/blob/master/vueCliDemo/vueCli2/old/build/webpack.dev.conf.js#L5)
