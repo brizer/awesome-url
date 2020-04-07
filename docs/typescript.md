@@ -25,3 +25,7 @@
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
     - [source analysis](https://github.com/FunnyLiu/TypeScript/tree/readsource)
 - [typescript-book](https://github.com/basarat/typescript-book) - best typescript book
+
+## Types
+
+- [utility-types](https://github.com/piotrwitek/utility-types) - Collection of utility types, complementing TypeScript built-in mapped types and aliases (think "lodash" for static types).

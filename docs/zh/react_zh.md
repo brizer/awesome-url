@@ -18,6 +18,7 @@
 - [react-antd-admin](https://github.com/liuguanhua/react-antd-admin) - 后台前端管理系统，基于react hooks、typescript、antd、dva及一些特别优秀的开源库实现
 - [react-cloud-music](https://github.com/sanyuan0704/react-cloud-music) - React hooks + redux + immutable打造精美音乐WebApp
 - [react-eshop](https://github.com/layverns/react-eshop) - 基于 react 的仿网易严选桌面端网页应用、基于react/redux/redux-saga/reacthooks
+- [webiny-js](https://github.com/webiny/webiny-js) - Serverless CMS系统，基于GraphQL/React/Node.js/AWS Lambda)
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - 基于React-Native的知乎日报
 
 ## 状态管理

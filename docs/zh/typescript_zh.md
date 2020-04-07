@@ -25,3 +25,7 @@
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript是javascript的超级，编译纯净的js输出。
     - [源码分析](https://github.com/FunnyLiu/TypeScript/tree/readsource)
 - [typescript-book](https://github.com/basarat/typescript-book) - 关于typescript最好的书
+
+## 类型
+
+- [utility-types](https://github.com/piotrwitek/utility-types) - 一些有用的types的util
