@@ -6,6 +6,7 @@
 
 ## Docker-compose
 
+- [awesome-compose](https://github.com/docker/awesome-compose) - 官方推荐的各种docker-compose的最佳实践案例
 - [dejavu](https://github.com/appbaseio/dejavu) - 针对es的ui查询页面，基于class风格react/docker/docker-compose/elasticsearch
 - [docker-laravel-vuejs](https://github.com/gliterd/docker-laravel-vuejs) - docker/docker-compose/vue/php/mysql项目实例
 - [nextjs-graphql-auth](https://github.com/nreoch25/nextjs-graphql-auth) - next/graphql/nginx/mongo/docker/docker-compose/apollo/Kubernetes/k8s，一个项目全部搞定

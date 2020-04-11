@@ -38,6 +38,7 @@
 - [vultr](https://www.vultr.com/) - VPS Server
 - [wappalyzer](https://github.com/AliasIO/wappalyzer) - Cross-platform utility that uncovers the technologies used on websites.
 - [web.dev](https://web.dev/measure) - see how well your website performs, launched by Google
+- [text2ascii](http://patorjk.com/software/taag) - text to ascii
 - [Timestamp tool](https://tool.chinaz.com/Tools/unixtime.aspx) - timestamp transform tool
 - [typescript-playground](https://www.typescriptlang.org/play/index.html) - Typescript Compare pure javascript online
 - [unpkg](https://unpkg.com/) - unpkg is a fast, global content delivery network for everything on npm

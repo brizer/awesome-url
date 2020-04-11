@@ -38,6 +38,7 @@
 - [vultr](https://www.vultr.com/) - VPS服务器
 - [wappalyzer](https://github.com/AliasIO/wappalyzer) - 判断一个web网站用了什么技术栈的在线查询工具
 - [web.dev](https://web.dev/measure) - 由谷歌推出的检测网站性能和体验的测试工具
+- [text2ascii](http://patorjk.com/software/taag) - 字符串转ASCII码，控制台输出专用
 - [Timestamp tool](https://tool.chinaz.com/Tools/unixtime.aspx) - 时间戳转换工具
 - [typescript-playground](https://www.typescriptlang.org/play/index.html) - Typescript和原生js对比，在线
 - [unpkg](https://unpkg.com/) - 所有前端资源所有版本的在线cdn
