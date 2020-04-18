@@ -51,6 +51,7 @@
 - [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue拖拽组件，基于Sortable.js
 - [vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - 暗黑风格组件库，基于rollup
 - [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker) - 日期选择器组件
+- [vuescroll](https://github.com/YvesCoding/vuescroll) - 自定义滑动条组件
 - [vuetable-2](https://github.com/ratiw/vuetable-2) - 表格组件
 - [vuetify](https://github.com/vuetifyjs/vuetify) - vue的组件库，基于typscript/webpack开发的
     - [源码分析](https://github.com/FunnyLiu/vuetify/tree/readsource)

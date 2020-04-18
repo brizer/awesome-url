@@ -14,6 +14,7 @@
 
 # Algorithm
 
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - English version supported! Crack LeetCode, not only how, but also why.
 - [leetcode](https://leetcode.com/) - Algorithm learning platform
 - [leetcode-cn](https://leetcode-cn.com/) - Chinese site of leetcode
 - [lintcode](https://www.lintcode.com/) - Algorithm learning platform
@@ -21,7 +22,7 @@
 
 # FED
 
-- [aliued](http://www.aliued.com/) - Ali international UED
+- [chrome dev blog](https://web.dev/blog/) - google developer blog
 - [CNode](https://cnodejs.org/) - NodeJS Chinese community
 - [ecma](http://www.ecma-international.org/) - ECMA official website
 - [ECMAScript262](https://tc39.es/ecma262/) - Latest draft js specification
@@ -35,7 +36,7 @@
 - [freecodecamp](https://www.freecodecamp.org/) - FED learning platform
 - [javascript.info](https://zh.javascript.info/) - A free website to learning modern javascript.
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization to challenge and educate!
-
+- [web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 
 # PPT
 - [from-coder-to-expert](https://github.com/FunnyLiu/from_coder_to_expert) - Many ppt examples of technical architecture, learn to make a speech ppt

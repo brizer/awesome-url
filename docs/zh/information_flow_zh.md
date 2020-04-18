@@ -11,6 +11,7 @@
 
 # 算法
 
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
 - [leetcode](https://leetcode.com/) - 算法学习平台
 - [leetcode-cn](https://leetcode-cn.com/) - leetcode的中文站点
 - [lintcode](https://www.lintcode.com/) - 算法学习平台
@@ -18,7 +19,7 @@
 
 # 前端
 
-- [aliued](http://www.aliued.com/) - 阿里国际UED
+- [chrome dev blog](https://web.dev/blog/) - 谷歌开发者团队博客
 - [CNode](https://cnodejs.org/) - NodeJS 中文社区
 - [ecma](http://www.ecma-international.org/) - ECMA 官网
 - [ECMAScript262](https://tc39.es/ecma262/) - 最新的js规范草案
@@ -33,6 +34,7 @@
 - [freecodecamp](https://www.freecodecamp.org/) - 前端学习平台，github霸榜项目
 - [javascript.info](https://zh.javascript.info/) - 一个很好的学习现代js基础的免费教程
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 像游戏一样学习git
+- [web-skills](https://github.com/andreasbm/web-skills) - web开发者学习路线及相应资源链接，所有知识点
 
 
 # PPT
