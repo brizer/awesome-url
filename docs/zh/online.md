@@ -30,11 +30,13 @@
 - [JSON Schema Tool](https://jsonschema.net/) - 从json生成json schema
 - [babel](https://babeljs.io/repl) - babel转化器
 - [astexplorer](https://astexplorer.net/) - AST语法树解析
+- [markdownonline](https://stackedit.io/app#)  - markdown在线编辑器
 - [node-green](https://node.green/) - node的兼容性查询
 - [node-online-editor](https://runkit.com/home) - node在线编辑器
 - [npm-module-dependence](http://npm.broofa.com/) - 通过图分析npm模块依赖
 - [npm-module-dependence-map](http://npm.anvaka.com/#/) - 通过脑图分析npm模块依赖
 - [npmtrends](https://www.npmtrends.com/) - npm模块比较器
+- [Shields.io](https://shields.io/) - 开源库各种图标集合
 - [vultr](https://www.vultr.com/) - VPS服务器
 - [wappalyzer](https://github.com/AliasIO/wappalyzer) - 判断一个web网站用了什么技术栈的在线查询工具
 - [web.dev](https://web.dev/measure) - 由谷歌推出的检测网站性能和体验的测试工具

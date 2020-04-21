@@ -30,11 +30,13 @@
 - [JSON Schema Tool](https://jsonschema.net/) - Online json schema generator
 - [babel](https://babeljs.io/repl) - babel converter
 - [astexplorer](https://astexplorer.net/) - AST syntax tree parsing
+- [markdownonline](https://stackedit.io/app#)  - markdown online editor
 - [node-green](https://node.green/) - can i use for node
 - [node-online-editor](https://runkit.com/home) - node online editor
 - [npm-module-dependence](http://npm.broofa.com/) - npm module dependence by map
 - [npm-module-dependence-map](http://npm.anvaka.com/#/) - npm module dependence by brain map
 - [npmtrends](https://www.npmtrends.com/) - npm module comparator
+- [Shields.io](https://shields.io/) - open source svg
 - [vultr](https://www.vultr.com/) - VPS Server
 - [wappalyzer](https://github.com/AliasIO/wappalyzer) - Cross-platform utility that uncovers the technologies used on websites.
 - [web.dev](https://web.dev/measure) - see how well your website performs, launched by Google
