@@ -34,8 +34,11 @@
 # Learning resource
 
 - [freecodecamp](https://www.freecodecamp.org/) - FED learning platform
+- [design-patterns-JS](https://github.com/fbeline/design-patterns-JS) - All the 23 (GoF) design patterns implemented in Javascript ![img](https://img.shields.io/github/stars/fbeline/design-patterns-JS)
+- [design-patterns-typescript](https://github.com/RefactoringGuru/design-patterns-typescript) - Design Pattern Examples in TypeScript ![img](https://img.shields.io/github/stars/RefactoringGuru/design-patterns-typescript)
 - [javascript.info](https://zh.javascript.info/) - A free website to learning modern javascript.
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization to challenge and educate!
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. ![img](https://img.shields.io/github/stars/donnemartin/system-design-primer)
 - [web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 
 # PPT
