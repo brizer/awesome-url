@@ -87,6 +87,7 @@
     - [Self-built interview question bank](https://github.com/omnipotent-front-end/Interview)
 - [vuex](https://github.com/vuejs/vuex) - State management for Vue
     - [Source code analysis](https://github.com/DDFE/DDFE-blog/issues/8)
+    
 - [vue-18n](https://github.com/kazupon/vue-i18n) - Internationalization for Vue
     - [Technical secret of vue-18n](https://github.com/DDFE/DDFE-blog/issues/14)
 - [vue-analysis](https://github.com/ustbhuangyi/vue-analysis) - Technical secret of vue

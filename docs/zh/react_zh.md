@@ -21,6 +21,10 @@
 - [webiny-js](https://github.com/webiny/webiny-js) - Serverless CMS系统，基于GraphQL/React/Node.js/AWS Lambda)
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - 基于React-Native的知乎日报
 
+## 高阶组件
+
+- [recompose](https://github.com/acdlite/recompose) - 高阶组件最佳实践 ![img](https://img.shields.io/github/stars/acdlite/recompose)
+
 ## 状态管理
 
 - [dva](https://github.com/dvajs/dva) - 基于redux,redux-sage,react-router的前端框架。

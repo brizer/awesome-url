@@ -1,5 +1,6 @@
 # React
 
+
 ## Project examples
 
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
@@ -19,6 +20,10 @@
 - [react-eshop](https://github.com/layverns/react-eshop) - shop website based on react
 - [webiny-js](https://github.com/webiny/webiny-js) - Serverless CMS (GraphQL + React + Node.js + AWS Lambda)
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - Zhihu Daily App based on React-Native
+
+## HOC
+
+- [recompose](https://github.com/acdlite/recompose) - A React utility belt for function components and higher-order components. ![img](https://img.shields.io/github/stars/acdlite/recompose)
 
 ## State manage
 
