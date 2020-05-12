@@ -47,6 +47,7 @@
 - [vue-notification](https://github.com/euvl/vue-notification) - 通知条组件
 - [vue-slider-component](https://github.com/NightCatSama/vue-slider-component) - 滑动条组件
 - [vue-trend](https://github.com/QingWei-Li/vue-trend) - 趋势图组件
+- [vue-video-player](https://github.com/surmon-china/vue-video-player) - 播放器组件，基于videojs ![img](https://img.shields.io/github/stars/surmon-china/vue-video-player)
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - 无限滚动组件
 - [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue拖拽组件，基于Sortable.js
 - [vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - 暗黑风格组件库，基于rollup

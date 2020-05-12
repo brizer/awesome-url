@@ -10,6 +10,7 @@
 - [ideone](https://ideone.com/) - 支持c++，java等多种语言的在线编辑器
 - [try-freemarker](https://try.freemarker.apache.org/) - freemarker语言校验器
 - [pdf2doc](https://pdf2doc.com/) - pdf文件转doc文件
+- [plantuml](https://plantuml.com/zh/sequence-diagram) - plantUML的例子和语法
 - [cssspritegenerator](https://spritegen.website-performance.org/) - css雪碧图生成器
 - [base64](http://tool.oschina.net/encrypt?type=3) - base64转码
 - [processon](https://www.processon.com/) - 画图工具（架构图、流程图）
