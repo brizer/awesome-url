@@ -56,7 +56,8 @@ module.exports = {
                 "/rollup",
                 "/typescript",
                 "/vue",
-                "/webpack"
+                "/webpack",
+                "/wechat",
               ]
             },
             {
@@ -114,7 +115,8 @@ module.exports = {
                 "/zh/rollup_zh",
                 "/zh/typescript_zh",
                 "/zh/vue_zh",
-                "/zh/webpack_zh"
+                "/zh/webpack_zh",
+                "/zh/wechat_zh",
               ]
             },
             {
