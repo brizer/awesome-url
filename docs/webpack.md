@@ -34,6 +34,7 @@
 - [sentry-webpack-plugin](https://github.com/getsentry/sentry-webpack-plugin) - Official webpack plugin for Sentry <a href="https://sentry.io" rel="nofollow">https://sentry.io</a>
 - [size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
 - [speed-measure-webpack-plugin#readme](https://github.com/stephencookdev/speed-measure-webpack-plugin#readme) - <g-emoji class="g-emoji" alias="stopwatch" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f1.png">⏱</g-emoji> See how fast (or not) your plugins and loaders are, so you can optimise your builds
+- [terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) - Terser Plugin ![img](https://img.shields.io/github/stars/webpack-contrib/terser-webpack-plugin)
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 - [webpack-subresource-integrity](https://github.com/waysact/webpack-subresource-integrity) - Webpack plugin for enabling Subresource Integrity.
 - [write-file-webpack-plugin](https://github.com/gajus/write-file-webpack-plugin) - Forces webpack-dev-server to write bundle files to the file system.

@@ -18,6 +18,7 @@
 - [react-antd-admin](https://github.com/liuguanhua/react-antd-admin) - 后台前端管理系统，基于react hooks、typescript、antd、dva及一些特别优秀的开源库实现
 - [react-cloud-music](https://github.com/sanyuan0704/react-cloud-music) - React hooks + redux + immutable打造精美音乐WebApp
 - [react-eshop](https://github.com/layverns/react-eshop) - 基于 react 的仿网易严选桌面端网页应用、基于react/redux/redux-saga/reacthooks
+- [react-hooks-typescript-realworld](https://github.com/chagweyh/react-hooks-typescript-realworld) - real world项目，基于react/hooks/typescript ![img](https://img.shields.io/github/stars/chagweyh/react-hooks-typescript-realworld)
 - [webiny-js](https://github.com/webiny/webiny-js) - Serverless CMS系统，基于GraphQL/React/Node.js/AWS Lambda)
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - 基于React-Native的知乎日报
 
@@ -29,17 +30,19 @@
 
 - [dva](https://github.com/dvajs/dva) - 基于redux,redux-sage,react-router的前端框架。
 - [mobx-react-lite](https://github.com/mobxjs/mobx-react-lite) - 基于React Hooks的MobX
+- [react-query](https://github.com/tannerlinsley/react-query) - 请求数据的hooks，配合其他请求库使用 ![img](https://img.shields.io/github/stars/tannerlinsley/react-query)
 - [react-redux](https://www.npmjs.com/package/react-redux) - redux针对react的连接
     - [在realworld项目中使用之](https://github.com/FunnyLiu/react-redux-realworld-example-app/blob/master/src/index.js#L2)
 - [relay](https://github.com/facebook/relay) - 构建数据驱动react应用的框架
-- [swr](https://github.com/zeit/swr) - 发送请求的hooks方式库
+- [swr](https://github.com/zeit/swr) - 发送请求的hooks方式库，非常重型和创意
 
 ## UI组件
 
 - [ant-design](https://github.com/ant-design/ant-design) - <g-emoji class="g-emoji" alias="rainbow" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f308.png">🌈</g-emoji> 组件库
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile/) - 移动端组件库
 - [bizcharts](https://github.com/alibaba/BizCharts) - 阿里巴巴开源的React图表组件
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) - 基于javascript/hooks/react/lerna的ui组件库
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui) - 基于javascript/hooks/react/lerna/storybook的ui组件库
+    - [源码分析](https://github.com/FunnyLiu/chakra-ui/tree/readsource)
 - [draft-js](https://github.com/facebook/draft-js) - 文本编辑器，由facebook出品
 - [element-react](https://github.com/ElemeFE/element-react) - Element组件的react版本，class风格。
 - [form-render](https://github.com/alibaba/form-render) - <g-emoji class="g-emoji" alias="surfing_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4.png">🏄</g-emoji> 通过json schema生成antdesign

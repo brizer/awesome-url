@@ -18,6 +18,7 @@
 - [react-antd-admin](https://github.com/liuguanhua/react-antd-admin) - admin based on react hooks/typescript/antd/dva
 - [react-cloud-music](https://github.com/sanyuan0704/react-cloud-music) - Netease Music WebAPP based on React hooks + redux + immutable
 - [react-eshop](https://github.com/layverns/react-eshop) - shop website based on react
+- [react-hooks-typescript-realworld](https://github.com/chagweyh/react-hooks-typescript-realworld) - Exemplary real world application built with React Hooks + Typescript ![img](https://img.shields.io/github/stars/chagweyh/react-hooks-typescript-realworld)
 - [webiny-js](https://github.com/webiny/webiny-js) - Serverless CMS (GraphQL + React + Node.js + AWS Lambda)
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - Zhihu Daily App based on React-Native
 
@@ -29,6 +30,7 @@
 
 - [dva](https://github.com/dvajs/dva) - Lightweight front-end framework based on redux, redux-saga and react-router. 
 - [mobx-react-lite](https://github.com/mobxjs/mobx-react-lite) - MobX based on React Hooks
+- [react-query](https://github.com/tannerlinsley/react-query) -  Hooks for fetching, caching and updating asynchronous data in React ![img](https://img.shields.io/github/stars/tannerlinsley/react-query)
 - [react-redux](https://www.npmjs.com/package/react-redux) - redux connection for react
     - [Use it in realworld](https://github.com/FunnyLiu/react-redux-realworld-example-app/blob/master/src/index.js#L2)
     - [A todolist](https://github.com/FunnyLiu/reduxDemo/blob/master/todolist/app.js)
@@ -40,7 +42,8 @@
 - [ant-design](https://github.com/ant-design/ant-design) - <g-emoji class="g-emoji" alias="rainbow" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f308.png">🌈</g-emoji> A UI Design Language
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile/) - A configurable Mobile UI
 - [bizcharts](https://github.com/alibaba/BizCharts) - React chart component, build by Alibaba
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) - <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji>Simple, Modular &amp; Accessible UI Components for your React Applications
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui) - Simple, Modular &amp; Accessible UI Components for your React Applications
+    - [source analysis](https://github.com/FunnyLiu/chakra-ui/tree/readsource)
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [element-react](https://github.com/ElemeFE/element-react) - Element UI
 - [form-render](https://github.com/alibaba/form-render) - <g-emoji class="g-emoji" alias="surfing_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4.png">🏄</g-emoji> generate antdesign by json schema
