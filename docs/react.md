@@ -46,6 +46,7 @@
     - [source analysis](https://github.com/FunnyLiu/chakra-ui/tree/readsource)
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [element-react](https://github.com/ElemeFE/element-react) - Element UI
+- [fluentui](https://github.com/microsoft/fluentui) - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences. ![img](https://img.shields.io/github/stars/microsoft/fluentui)
 - [form-render](https://github.com/alibaba/form-render) - <g-emoji class="g-emoji" alias="surfing_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4.png">🏄</g-emoji> generate antdesign by json schema
 - [fulr](https://github.com/Chalarangelo/furl) - React basic components based on Hooks and js
 - [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development. Build your own design system, or start with Material Design.
