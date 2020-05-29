@@ -13,3 +13,4 @@
 ## miniprogram
 
 - [wepy](https://github.com/Tencent/wepy) - ui components by tencent ![img](https://img.shields.io/github/stars/Tencent/wepy)
+- [weui-wxss](https://github.com/Tencent/weui-wxss/) - A UI library by WeChat official design team, includes the most useful widgets/modules. ![img](https://img.shields.io/github/stars/Tencent/weui-wxss/)

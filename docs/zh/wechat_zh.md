@@ -12,4 +12,5 @@
 
 ## 小程序
 
-- [wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架，腾讯官方出品 ![img](https://img.shields.io/github/stars/Tencent/wepy)
+- [wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架，不再紧紧是一个组件维度了，腾讯官方出品 ![img](https://img.shields.io/github/stars/Tencent/wepy)
+- [weui-wxss](https://github.com/Tencent/weui-wxss/) - 微信小程序组件库 ![img](https://img.shields.io/github/stars/Tencent/weui-wxss/)
