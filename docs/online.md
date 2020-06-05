@@ -5,6 +5,7 @@
 - [codebeautify](https://codebeautify.org/) - Formatiing tools for all language
 - [codepen](https://codepen.io/) - Front End Online Editor
 - [codeshandbox](https://codesandbox.io/s/) - Front-end online editing tool that can include modules
+- [colorhunt](https://colorhunt.co/) - color
 - [graphviz-online](http://viz-js.com/) - online graphviz parser
 - [hashonline](https://emn178.github.io/online-tools/index.html) - hash transform（sha256 and so on）
 - [ideone](https://ideone.com/) - Supports online editors for multiple languages ​​such as c++ and java

@@ -21,6 +21,7 @@
 
 - [chrome dev blog](https://web.dev/blog/) - 谷歌开发者团队博客
 - [CNode](https://cnodejs.org/) - NodeJS 中文社区
+- [deno](https://deno.js.cn/) - Deno中文社区
 - [ecma](http://www.ecma-international.org/) - ECMA 官网
 - [ECMAScript262](https://tc39.es/ecma262/) - 最新的js规范草案
 - [ECMAScript262-standard](http://www.ecma-international.org/publications/standards/Ecma-262.htm) - 当前的标准js规范

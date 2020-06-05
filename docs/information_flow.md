@@ -24,6 +24,7 @@
 
 - [chrome dev blog](https://web.dev/blog/) - google developer blog
 - [CNode](https://cnodejs.org/) - NodeJS Chinese community
+- [deno](https://deno.js.cn/) - deno chinese community
 - [ecma](http://www.ecma-international.org/) - ECMA official website
 - [ECMAScript262](https://tc39.es/ecma262/) - Latest draft js specification
 - [ECMAScript262-standard](http://www.ecma-international.org/publications/standards/Ecma-262.htm) - standard js specification
