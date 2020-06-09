@@ -7,6 +7,7 @@
 - [antd-admin](https://github.com/zuiidea/antd-admin) - React + Ant Design + UmiJS admin
 - [blog-react](https://github.com/biaochenxuying/blog-react) - react + Ant Design blog front end
 - [blog-react-admin](https://github.com/biaochenxuying/blog-react-admin) - react + ant design blog backend
+- [blog-web](https://github.com/immisso/blog-web) - blog based on react/hooks/ant/umi/dva ![img](https://img.shields.io/github/stars/immisso/blog-web)
 - [client.creatorsdaily.com](https://github.com/creatorsdaily/client.creatorsdaily.com) - A front-end project build by react hooks
 - [darkreader](https://github.com/darkreader/darkreader) - a tab tool chrome extension, ui based on react hooks and ts.
 - [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.

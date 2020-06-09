@@ -5,6 +5,10 @@
 
 - [arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba
 
+## SDK
+
+- [JustAuth](https://github.com/justauth/JustAuth) -  Login, so easy! ![img](https://img.shields.io/github/stars/justauth/JustAuth)
+
 ## Service
 
 - [nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.

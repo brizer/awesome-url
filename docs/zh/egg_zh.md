@@ -4,6 +4,7 @@
 ## 项目实例
 
 - [api-mocker](https://github.com/DXY-F2E/api-mocker) - API管理系统，服务端基于eggjs
+- [blog-server](https://github.com/immisso/blog-server) - 这是博客网站服务端egg/koa2 ![img](https://img.shields.io/github/stars/immisso/blog-server)
 - [egg-cnode](https://github.com/cnodejs/egg-cnode) - CNode 社区 Egg 版本
 - [egg-example-api](https://github.com/FunnyLiu/egg-example-api) - 使用egg-swagger-doc的例子demo
 - [eggjs-realworld-example-app](https://github.com/eggjs-community/eggjs-realworld-example-app) - Real World Egg.js + Mysql 后台项目
