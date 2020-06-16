@@ -25,6 +25,10 @@
     - [vue-unit-test-with-jest](https://github.com/FunnyLiu/vue-unit-test-with-jest) - vue unit test demo, good quality
     - [vuex-units-test-jest](https://github.com/brizer/vuex-utils-test-jest)
 
+## Cli Plugin
+
+- [vue-cli-plugin-apollo](https://github.com/Akryum/vue-cli-plugin-apollo) - @vue/cli plugin for Vue Apollo/graphql ![img](https://img.shields.io/github/stars/Akryum/vue-cli-plugin-apollo)
+    - [my demo: vue-apollo-demo](https://github.com/FunnyLiu/vue-apollo-demo)
 
 ## Components
 

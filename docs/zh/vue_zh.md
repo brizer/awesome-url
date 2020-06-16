@@ -25,6 +25,12 @@
     - [vue-unit-test-with-jest](https://github.com/FunnyLiu/vue-unit-test-with-jest) - 吃透本仓库，变身vue项目单体测试大神
     - [vuex-units-test-jest](https://github.com/brizer/vuex-utils-test-jest)
 
+## Cli插件
+
+- [vue-cli-plugin-apollo](https://github.com/Akryum/vue-cli-plugin-apollo) - vue的apollo/graphql插件 ![img](https://img.shields.io/github/stars/Akryum/vue-cli-plugin-apollo)
+    - [自己初始化的相关demo：vue-apollo-demo](https://github.com/FunnyLiu/vue-apollo-demo)
+
+
 ## 组件
 
 - [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - UI库，都是jsx组件的方式，由阿里巴巴开发
