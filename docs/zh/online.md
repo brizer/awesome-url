@@ -28,6 +28,7 @@
 - [jiumodiray](https://www.jiumodiary.com/) - pdf电子书免费下载
 - [js-code-to-svg-flowchart](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/docs/live-editor/index.html) - js源码转流程图
 - [jsbench](https://github.com/jsbench/jsbench.github.io) - 测试js代码片段性能
+- [json2ts](http://json2ts.com/) - 将json转为typescript中的类型
 - [pagespeed](https://developers.google.com/speed/pagespeed/insights/) - Web性能检测工具
 - [jsonplaceholder](https://jsonplaceholder.typicode.com/) - 在线mock接口平台
 - [JSON Schema Tool](https://jsonschema.net/) - 从json生成json schema

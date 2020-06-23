@@ -28,6 +28,7 @@
 - [jiumodiray](https://www.jiumodiary.com/) - pdf book download free
 - [js-code-to-svg-flowchart](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/docs/live-editor/index.html) - js code to svg flowchart
 - [jsbench](https://github.com/jsbench/jsbench.github.io) - test js code snippet performance
+- [json2ts](http://json2ts.com/) - convert json to typescript type
 - [pagespeed](https://developers.google.com/speed/pagespeed/insights/) - Web Performance Detection Tool
 - [jsonplaceholder](https://jsonplaceholder.typicode.com/) - Online mock interface platform
 - [JSON Schema Tool](https://jsonschema.net/) - Online json schema generator
