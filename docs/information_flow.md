@@ -55,3 +55,14 @@
 # Health
 
 - [food](http://www.1qibi.com/food/food_index.php) - food health
+
+
+# History
+
+- [AllHistory](https://www.allhistory.com/) - history all in.
+
+# Interesting
+
+- [weavesilk](http://weavesilk.com/) - weavesilk
+- [Word Art](https://wordart.com/create) - word art
+- [articleGenerator](https://suulnnka.github.io/BullshitGenerator/index.html) - generate article by some key words

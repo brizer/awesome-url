@@ -55,4 +55,11 @@
 
 # 健康
 
-- [food](http://www.1qibi.com/food/food_index.php) - 饮食健康
+- [AllHistory](https://www.allhistory.com/) - 一个介绍历史的网站，非常全面，特别是关系图
+
+
+# 趣味性
+
+- [weavesilk](http://weavesilk.com/) - 科幻线路，趣味画图
+- [Word Art](https://wordart.com/create) - 通过输入的英文生成各种各样美丽的图片，增加微软雅黑字体后可以渲染中文
+- [狗屁不通文章生成器](https://suulnnka.github.io/BullshitGenerator/index.html) - 通过关键字生成随意的文章
