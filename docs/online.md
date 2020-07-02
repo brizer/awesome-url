@@ -21,6 +21,7 @@
 - [sequencediagram](https://sequencediagram.org/index.html?initialData=FABwhgTgLglgxjcA7KACAgqSsHLQIS2nkTBVQGEidTyARYdAWgD58AuGJAMwHtgwcWADcwUAKapC+VhU49+gkWMlUKrFnXl8BQmKImoG+ADxMmcrjoAm4pfpWVGZphyv9b9g5OlmtcMAAbQIAjQQBrYE89byNdZUNCdBMXNwUouxjHQnBiXDICahI8OK9HY1Ytd3iHRIyyiTBuCQgpYDpK7UUswwYAZ3A4cXqeyTogA) - generate Sequencediagram chart by the specific syntax
 - [Speedtest](https://www.speedtest.net/) - speed of internet test
 - [ideaLanyus](http://idea.lanyus.com/) - Intellij crack
+- [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io  ![img](https://img.shields.io/github/stars/geongeorge/i-hate-regex)
 - [regex101](https://regex101.com/) - Regular online matching test
 - [regexper](https://regexper.com/) - Regular Expression Flowchart
 - [resource-search](https://www.dalipan.com/) - search resource in yun

@@ -48,6 +48,7 @@
 
 # Question
 
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) - Basic knowledge required for technical interview, Leetcode, computer operating system, computer network, system design, Java, Python, C++ ![img](https://img.shields.io/github/stars/CyC2018/CS-Notes)
 - [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions &amp; Answers....Coding exercise questions are coming soon!! ![img](https://img.shields.io/github/stars/sudheerj/reactjs-interview-questions)
 - [super-resume](https://www.wondercv.com/) - generate resume free
 

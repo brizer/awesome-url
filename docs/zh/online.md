@@ -21,6 +21,7 @@
 - [sequencediagram](https://sequencediagram.org/index.html?initialData=FABwhgTgLglgxjcA7KACAgqSsHLQIS2nkTBVQGEidTyARYdAWgD58AuGJAMwHtgwcWADcwUAKapC+VhU49+gkWMlUKrFnXl8BQmKImoG+ADxMmcrjoAm4pfpWVGZphyv9b9g5OlmtcMAAbQIAjQQBrYE89byNdZUNCdBMXNwUouxjHQnBiXDICahI8OK9HY1Ytd3iHRIyyiTBuCQgpYDpK7UUswwYAZ3A4cXqeyTogA) - 通过特定语法生成时序图
 - [Speedtest](https://www.speedtest.net/) - 测试网速
 - [ideaLanyus](http://idea.lanyus.com/) - Intellij 破解
+- [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - 正则在线工具  ![img](https://img.shields.io/github/stars/geongeorge/i-hate-regex)
 - [regex101](https://regex101.com/) - 正则在线匹配测试
 - [regexper](https://regexper.com/) - 正则表达式流程图
 - [resource-search](https://www.dalipan.com/) - 云盘中搜索资源
