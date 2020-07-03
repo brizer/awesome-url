@@ -7,6 +7,7 @@
 - [github](https://github.com/) - open source code hosting
 - [juejin](https://juejin.im/) - quality technical articles in China
 - [medium](https://medium.com/) - quality technical articles in world
+- [Nodesign.dev | Design less develop more.](https://nodesign.dev/) - no design dev website
 - [stackoverflow](https://stackoverflow.com/) - Problem solving platform
 - [v2ex](https://www.v2ex.com/) - Geek community
 - [zhihu](https://www.zhihu.com/) - Knowledge question and answer platform in China
@@ -38,8 +39,11 @@
 - [design-patterns-JS](https://github.com/fbeline/design-patterns-JS) - All the 23 (GoF) design patterns implemented in Javascript ![img](https://img.shields.io/github/stars/fbeline/design-patterns-JS)
 - [design-patterns-typescript](https://github.com/RefactoringGuru/design-patterns-typescript) - Design Pattern Examples in TypeScript ![img](https://img.shields.io/github/stars/RefactoringGuru/design-patterns-typescript)
 - [javascript.info](https://zh.javascript.info/) - A free website to learning modern javascript.
+- [just-react](https://github.com/BetaSu/just-react) -source analysis of React ![img](https://img.shields.io/github/stars/BetaSu/just-react)
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization to challenge and educate!
 - [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - Cheatsheets for experienced React developers getting started with TypeScript ![img](https://img.shields.io/github/stars/typescript-cheatsheets/react-typescript-cheatsheet)
+- [Python-Core-50-Courses](https://github.com/jackfrued/Python-Core-50-Courses) - 50 courses of Python ![img](https://img.shields.io/github/stars/jackfrued/Python-Core-50-Courses)
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100 day of Python ![img](https://img.shields.io/github/stars/jackfrued/Python-100-Days)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. ![img](https://img.shields.io/github/stars/donnemartin/system-design-primer)
 - [web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 
@@ -66,3 +70,5 @@
 - [weavesilk](http://weavesilk.com/) - weavesilk
 - [Word Art](https://wordart.com/create) - word art
 - [articleGenerator](https://suulnnka.github.io/BullshitGenerator/index.html) - generate article by some key words
+- [backgroundGenerator](https://cc.bjadjty.com/index.php) - name and background generator
+- [PoetryGenerator](https://cts.chazhi.net/) - PoetryGenerator

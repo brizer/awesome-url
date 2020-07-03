@@ -5,6 +5,7 @@
 - [github](https://github.com/) - 开源代码托管
 - [juejin](https://juejin.im/) - 中国的优质技术文章
 - [medium](https://medium.com/) - 世界的优质技术文章
+- [Nodesign.dev | Design less develop more.](https://nodesign.dev/) - 不懂设计的开发人员专用的网站，方便单干，集成了各种好工具
 - [stackoverflow](https://stackoverflow.com/) - 问题解答平台
 - [v2ex](https://www.v2ex.com/) - 极客社区
 - [zhihu](https://www.zhihu.com/) - 中国在线知识问答平台
@@ -36,7 +37,10 @@
 - [design-patterns-JS](https://github.com/fbeline/design-patterns-JS) - javascript版本的设计模式简易demo ![img](https://img.shields.io/github/stars/fbeline/design-patterns-JS)
 - [design-patterns-typescript](https://github.com/RefactoringGuru/design-patterns-typescript) - Typescript版本的设计模式教程 ![img](https://img.shields.io/github/stars/RefactoringGuru/design-patterns-typescript)
 - [javascript.info](https://zh.javascript.info/) - 一个很好的学习现代js基础的免费教程
+- [just-react](https://github.com/BetaSu/just-react) - React技术揭秘，源码阅读分析 ![img](https://img.shields.io/github/stars/BetaSu/just-react)
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 像游戏一样学习git
+- [Python-Core-50-Courses](https://github.com/jackfrued/Python-Core-50-Courses) - Python语言基础50课 ![img](https://img.shields.io/github/stars/jackfrued/Python-Core-50-Courses)
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 ![img](https://img.shields.io/github/stars/jackfrued/Python-100-Days)
 - [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - React和Typescript开发的入门备忘录 ![img](https://img.shields.io/github/stars/typescript-cheatsheets/react-typescript-cheatsheet)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - 系统设计学习之路 ![img](https://img.shields.io/github/stars/donnemartin/system-design-primer)
 - [web-skills](https://github.com/andreasbm/web-skills) - web开发者学习路线及相应资源链接，所有知识点
@@ -63,3 +67,5 @@
 - [weavesilk](http://weavesilk.com/) - 科幻线路，趣味画图
 - [Word Art](https://wordart.com/create) - 通过输入的英文生成各种各样美丽的图片，增加微软雅黑字体后可以渲染中文
 - [狗屁不通文章生成器](https://suulnnka.github.io/BullshitGenerator/index.html) - 通过关键字生成随意的文章
+- [背景图片生成器](https://cc.bjadjty.com/index.php) - 各种背景图片加名字的生成器
+- [藏头诗生成器](https://cts.chazhi.net/) - 藏头诗生成器
