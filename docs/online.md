@@ -11,6 +11,7 @@
 - [hashonline](https://emn178.github.io/online-tools/index.html) - hash transform（sha256 and so on）
 - [ideone](https://ideone.com/) - Supports online editors for multiple languages ​​such as c++ and java
 - [try-freemarker](https://try.freemarker.apache.org/) - freemarker language checker
+- [Modulecounts](http://www.modulecounts.com/) - module count compare
 - [pdf2doc](https://pdf2doc.com/) - pdf file to doc file
 - [plantuml](https://plantuml.com/zh/sequence-diagram) - plantUML demo and api
 - [cssspritegenerator](https://spritegen.website-performance.org/) - css sprite map generator
