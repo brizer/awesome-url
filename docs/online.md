@@ -42,8 +42,11 @@
 - [node-online-editor](https://runkit.com/home) - node online editor
 - [npm-module-dependence](http://npm.broofa.com/) - npm module dependence by map
 - [npm-module-dependence-map](http://npm.anvaka.com/#/) - npm module dependence by brain map
+- [npmcompare](https://npmcompare.com/) - npm compare details
+- [npmsemanticversioncalculator](https://semver.npmjs.com/) - version history of a npm package
 - [npmtrends](https://www.npmtrends.com/) - npm module comparator
 - [Shields.io](https://shields.io/) - open source svg
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - status of your github
 - [vultr](https://www.vultr.com/) - VPS Server
 - [wappalyzer](https://github.com/AliasIO/wappalyzer) - Cross-platform utility that uncovers the technologies used on websites.
 - [web.dev](https://web.dev/measure) - see how well your website performs, launched by Google
