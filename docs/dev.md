@@ -2,6 +2,11 @@
 
 - [zeit](https://zeit.co/dashboard) - based on github/gitlab, deploy project on server free.
 
+## Canvas tools
+
+- [Bigjpg](https://bigjpg.com/) - zoom picture use AI for loseless.
+- [fanke picture](https://kt.fkw.com/) - edit picture online, very nice
+
 ## Dev tools
 
 - [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - Baidu yun download

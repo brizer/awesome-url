@@ -20,6 +20,7 @@
 - [react-cloud-music](https://github.com/sanyuan0704/react-cloud-music) - Netease Music WebAPP based on React hooks + redux + immutable
 - [react-eshop](https://github.com/layverns/react-eshop) - shop website based on react
 - [react-hooks-typescript-realworld](https://github.com/chagweyh/react-hooks-typescript-realworld) - Exemplary real world application built with React Hooks + Typescript ![img](https://img.shields.io/github/stars/chagweyh/react-hooks-typescript-realworld)
+- [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync) ![img](https://img.shields.io/github/stars/kriasoft/react-starter-kit)
 - [webiny-js](https://github.com/webiny/webiny-js) - Serverless CMS (GraphQL + React + Node.js + AWS Lambda)
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - Zhihu Daily App based on React-Native
 

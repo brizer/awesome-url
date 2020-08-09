@@ -2,7 +2,12 @@
 
 - [zeit](https://zeit.co/dashboard) - 基于github或gitlab内容，免费提供服务器和域名部署静态文件
 
-# 开发工具
+## 画图工具
+
+- [Bigjpg](https://bigjpg.com/) - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片
+- [凡科快图](https://kt.fkw.com/) - 在线图片编辑_在线制作图片_在线图片处理软件，非常好用
+
+## 开发工具
 
 - [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - 百度网盘客户端 - Go语言编写，亲测可以用
 - [CodeHub](https://github.com/CodeHubApp/CodeHub) - github的IOS客户端
