@@ -78,6 +78,7 @@
 
 - [axios-hooks](https://github.com/simoneb/axios-hooks) -  React hooks for axios ![img](https://img.shields.io/github/stars/simoneb/axios-hooks)
 - [use-immer](https://github.com/immerjs/use-immer) - Use immer to drive state with a React hooks ![img](https://img.shields.io/github/stars/immerjs/use-immer)
+- [useWorker](https://github.com/alewin/useWorker) - useWorker() - A React Hook for Blocking-Free Background Tasks ![img](https://img.shields.io/github/stars/alewin/useWorker)
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - <g-emoji class="g-emoji" alias="clipboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png">📋</g-emoji> React hooks for forms validation without the hassle，written by typescript
 - [react-use](https://github.com/streamich/react-use) - React Hooks — <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>
 - [beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>

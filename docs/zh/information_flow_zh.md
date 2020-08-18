@@ -12,7 +12,8 @@
 
 # 算法
 
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子。
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - javascript实现各种算法的例子及相关拓展阅读 ![img](https://img.shields.io/github/stars/trekhleb/javascript-algorithms)
 - [leetcode](https://leetcode.com/) - 算法学习平台
 - [leetcode-cn](https://leetcode-cn.com/) - leetcode的中文站点
 - [lintcode](https://www.lintcode.com/) - 算法学习平台
@@ -37,7 +38,7 @@
 - [design-patterns-JS](https://github.com/fbeline/design-patterns-JS) - javascript版本的设计模式简易demo ![img](https://img.shields.io/github/stars/fbeline/design-patterns-JS)
 - [design-patterns-typescript](https://github.com/RefactoringGuru/design-patterns-typescript) - Typescript版本的设计模式教程 ![img](https://img.shields.io/github/stars/RefactoringGuru/design-patterns-typescript)
 - [javascript.info](https://zh.javascript.info/) - 一个很好的学习现代js基础的免费教程
-- [just-react](https://github.com/BetaSu/just-react) - React技术揭秘，源码阅读分析 ![img](https://img.shields.io/github/stars/BetaSu/just-react)
+- [just-react](https://github.com/BetaSu/just-react) - React技术揭秘，源码阅读分析，React源码学习 ![img](https://img.shields.io/github/stars/BetaSu/just-react)
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 像游戏一样学习git
 - [Python-Core-50-Courses](https://github.com/jackfrued/Python-Core-50-Courses) - Python语言基础50课 ![img](https://img.shields.io/github/stars/jackfrued/Python-Core-50-Courses)
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 ![img](https://img.shields.io/github/stars/jackfrued/Python-100-Days)

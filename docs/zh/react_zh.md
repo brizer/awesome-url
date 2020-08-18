@@ -78,6 +78,7 @@
 
 - [axios-hooks](https://github.com/simoneb/axios-hooks) - axios的hooks封装 ![img](https://img.shields.io/github/stars/simoneb/axios-hooks)
 - [use-immer](https://github.com/immerjs/use-immer) - immer的hooks封装 ![img](https://img.shields.io/github/stars/immerjs/use-immer)
+- [useWorker](https://github.com/alewin/useWorker) -  useWorker() - 将内容放到webworker去执行![img](https://img.shields.io/github/stars/alewin/useWorker)
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - 表单相关hooks，由typescript书写
 - [react-use](https://github.com/streamich/react-use) - 一大把react hooks的最佳实践和demo，基于typescript
 - [beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 大量hooks的最佳实践和封装
