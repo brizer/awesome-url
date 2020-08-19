@@ -7,6 +7,10 @@
 - [Bigjpg](https://bigjpg.com/) - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片
 - [凡科快图](https://kt.fkw.com/) - 在线图片编辑_在线制作图片_在线图片处理软件，非常好用
 
+## 低代码
+
+- [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - 可视化配置nginx ![img](https://img.shields.io/github/stars/digitalocean/nginxconfig.io)
+
 ## 开发工具
 
 - [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - 百度网盘客户端 - Go语言编写，亲测可以用
@@ -24,6 +28,7 @@
 
 ## 知识库
 
+- [art-of-readme](https://github.com/noffle/art-of-readme) - 如何写好readme ![img](https://img.shields.io/github/stars/noffle/art-of-readme)
 - [Boostnote](https://github.com/BoostIO/Boostnote/) - 一款mac，windows，linux均可用的markdown编辑器，转为开发者而生，开源的
 - [outline](https://github.com/outline/outline) - 开源的wiki建设工具，支持私有化部署
 

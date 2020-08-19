@@ -7,6 +7,10 @@
 - [Bigjpg](https://bigjpg.com/) - zoom picture use AI for loseless.
 - [fanke picture](https://kt.fkw.com/) - edit picture online, very nice
 
+## Codeless
+
+- [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) generate nginx config - ![img](https://img.shields.io/github/stars/digitalocean/nginxconfig.io)
+
 ## Dev tools
 
 - [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - Baidu yun download
@@ -23,6 +27,7 @@
 - [whatismyipaddress](https://whatismyipaddress.com/) - find my ip address
 
 ## Knowledge
+- [art-of-readme](https://github.com/noffle/art-of-readme) - Things I've learned about writing good READMEs. ![img](https://img.shields.io/github/stars/noffle/art-of-readme)
 - [Boostnote](https://github.com/BoostIO/Boostnote/) - A markdown editor for developers on Mac, Windows and Linux.
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
 
@@ -42,4 +47,3 @@
 - [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - Sitespeed.io is an open source tool that helps you monitor, analyze and optimize your website speed and performance, based on performance best practices advices from the coach and collecting browser metrics using the Navigation Timing API, User Timings and Visual Metrics (FirstVisualChange, SpeedIndex &amp; LastVisualChange).
 
-s

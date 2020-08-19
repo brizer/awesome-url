@@ -24,6 +24,10 @@
 - [webiny-js](https://github.com/webiny/webiny-js) - Serverless CMS系统，基于GraphQL/React/Node.js/AWS Lambda)
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - 基于React-Native的知乎日报
 
+## CLI
+
+- [nwb](https://github.com/insin/nwb) - 一个基本0配置的命令行工具，专供react打包启动等等，用来做组件库等非常方便，有道精品课波塞冬组件库使用之 ![img](https://img.shields.io/github/stars/insin/nwb)
+
 ## 高阶组件
 
 - [recompose](https://github.com/acdlite/recompose) - 高阶组件最佳实践 ![img](https://img.shields.io/github/stars/acdlite/recompose)

@@ -24,6 +24,11 @@
 - [webiny-js](https://github.com/webiny/webiny-js) - Serverless CMS (GraphQL + React + Node.js + AWS Lambda)
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - Zhihu Daily App based on React-Native
 
+
+## CLI
+
+- [nwb](https://github.com/insin/nwb) - A toolkit for React, Preact, Inferno &amp; vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it) ![img](https://img.shields.io/github/stars/insin/nwb)
+
 ## HOC
 
 - [recompose](https://github.com/acdlite/recompose) - A React utility belt for function components and higher-order components. ![img](https://img.shields.io/github/stars/acdlite/recompose)
