@@ -25,9 +25,14 @@
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - Zhihu Daily App based on React-Native
 
 
+## Class
+
+- [React-autobind](https://github.com/cassiozen/React-autobind) - Utility function to Automatically bind methods defined within a component's Class to the current object's lexical `this` instance. ![img](https://img.shields.io/github/stars/cassiozen/React-autobind)
+
 ## CLI
 
 - [nwb](https://github.com/insin/nwb) - A toolkit for React, Preact, Inferno &amp; vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it) ![img](https://img.shields.io/github/stars/insin/nwb)
+- [roadhog](https://github.com/sorrycc/roadhog) - Cli tool for creating react apps, configurable version of create-react-app. ![img](https://img.shields.io/github/stars/sorrycc/roadhog)
 
 ## HOC
 
@@ -46,7 +51,7 @@
 
 ## UI Components
 
-- [ant-design](https://github.com/ant-design/ant-design) - <g-emoji class="g-emoji" alias="rainbow" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f308.png">🌈</g-emoji> A UI Design Language
+- [ant-design](https://github.com/ant-design/ant-design) - A UI Design Language
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile/) - A configurable Mobile UI
 - [bizcharts](https://github.com/alibaba/BizCharts) - React chart component, build by Alibaba
 - [buffer-components](https://github.com/bufferapp/buffer-components) - Buffer's shared collection of React UI components  ![img](https://img.shields.io/github/stars/bufferapp/buffer-components)
@@ -58,8 +63,11 @@
 - [form-render](https://github.com/alibaba/form-render) - <g-emoji class="g-emoji" alias="surfing_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4.png">🏄</g-emoji> generate antdesign by json schema
 - [fulr](https://github.com/Chalarangelo/furl) - React basic components based on Hooks and js
 - [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [qrcode.react](https://github.com/zpao/qrcode.react) - A &lt;QRCode/&gt; component for use with React. ![img](https://img.shields.io/github/stars/zpao/qrcode.react)
+- [react-container-query](https://github.com/react-container-query/react-container-query) -  Modular responsive component ![img](https://img.shields.io/github/stars/react-container-query/react-container-query)
 - [react-copy-to-clipborad](https://github.com/nkbt/react-copy-to-clipboard) - copy component based on copy-to-clipboard
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and drop for react
+- [react-document-title](https://github.com/gaearon/react-document-title) - Declarative, nested, stateful, isomorphic document.title for React ![img](https://img.shields.io/github/stars/gaearon/react-document-title)
 - [react-final-form](https://www.npmjs.com/package/react-final-form) - mini form
 - [react-final-form-hooks](https://github.com/final-form/react-final-form-hooks) - mini form with hooks
 - [react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React

@@ -24,9 +24,14 @@
 - [webiny-js](https://github.com/webiny/webiny-js) - Serverless CMS系统，基于GraphQL/React/Node.js/AWS Lambda)
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - 基于React-Native的知乎日报
 
+## Class
+
+- [React-autobind](https://github.com/cassiozen/React-autobind) - 给class组件绑定this来用 ![img](https://img.shields.io/github/stars/cassiozen/React-autobind)
+
 ## CLI
 
 - [nwb](https://github.com/insin/nwb) - 一个基本0配置的命令行工具，专供react打包启动等等，用来做组件库等非常方便，有道精品课波塞冬组件库使用之 ![img](https://img.shields.io/github/stars/insin/nwb)
+- [roadhog](https://github.com/sorrycc/roadhog) - 可配置的create-react-app，由阿里巴巴出品，路霸 ![img](https://img.shields.io/github/stars/sorrycc/roadhog)
 
 ## 高阶组件
 
@@ -44,7 +49,7 @@
 
 ## UI组件
 
-- [ant-design](https://github.com/ant-design/ant-design) - <g-emoji class="g-emoji" alias="rainbow" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f308.png">🌈</g-emoji> 组件库
+- [ant-design](https://github.com/ant-design/ant-design) - 组件库
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile/) - 移动端组件库
 - [bizcharts](https://github.com/alibaba/BizCharts) - 阿里巴巴开源的React图表组件
 - [buffer-components](https://github.com/bufferapp/buffer-components) - react组件库，基于storybook/react  ![img](https://img.shields.io/github/stars/bufferapp/buffer-components)
@@ -56,8 +61,11 @@
 - [form-render](https://github.com/alibaba/form-render) - <g-emoji class="g-emoji" alias="surfing_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4.png">🏄</g-emoji> 通过json schema生成antdesign
 - [fulr](https://github.com/Chalarangelo/furl) - 基于Hooks和js的React基础组件库
 - [material-ui](https://github.com/mui-org/material-ui) - React组件库，遵循google的Material设计
+- [qrcode.react](https://github.com/zpao/qrcode.react) - 二维码组件 ![img](https://img.shields.io/github/stars/zpao/qrcode.react)
+- [react-container-query](https://github.com/react-container-query/react-container-query) -  react响应式容器组件 ![img](https://img.shields.io/github/stars/react-container-query/react-container-query)
 - [react-copy-to-clipborad](https://github.com/nkbt/react-copy-to-clipboard) - 基于copy-to-clipboard的复制组件
 - [react-dnd](https://github.com/react-dnd/react-dnd) - react的拖放组件
+- [react-document-title](https://github.com/gaearon/react-document-title) - 强大的操作document.title的react组件 ![img](https://img.shields.io/github/stars/gaearon/react-document-title)
 - [react-final-form](https://www.npmjs.com/package/react-final-form) - 迷你表单
 - [react-final-form-hooks](https://github.com/final-form/react-final-form-hooks) - 迷你表单hooks版
 - [react-helmet](https://github.com/nfl/react-helmet) - 文档head管理
