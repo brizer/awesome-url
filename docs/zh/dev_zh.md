@@ -11,6 +11,10 @@
 
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - 可视化配置nginx ![img](https://img.shields.io/github/stars/digitalocean/nginxconfig.io)
 
+## 数据库
+
+- [Yearning](https://github.com/cookieY/Yearning) - <g-emoji class="g-emoji" alias="whale" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png">🐳</g-emoji> SQL审查管理平台，工单系统 ![img](https://img.shields.io/github/stars/cookieY/Yearning)
+
 ## 开发工具
 
 - [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - 百度网盘客户端 - Go语言编写，亲测可以用
@@ -31,6 +35,10 @@
 - [art-of-readme](https://github.com/noffle/art-of-readme) - 如何写好readme ![img](https://img.shields.io/github/stars/noffle/art-of-readme)
 - [Boostnote](https://github.com/BoostIO/Boostnote/) - 一款mac，windows，linux均可用的markdown编辑器，转为开发者而生，开源的
 - [outline](https://github.com/outline/outline) - 开源的wiki建设工具，支持私有化部署
+
+## 运维
+
+- [spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。 ![img](https://img.shields.io/github/stars/openspug/spug)
 
 ## 测试
 

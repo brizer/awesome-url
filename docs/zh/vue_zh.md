@@ -9,6 +9,7 @@
 - [mili](https://github.com/shen100/mili) - mili 是一个开源的社区系统，前端基于vue/iview，后端基于node/typescript/nest/typeorm
 - [NeteaseClounWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - 基于vue的云音乐
 - [quark-h5](https://github.com/huangwei9527/quark-h5) - 基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具
+- [uexam](https://github.com/alvis-u/uexam) - 学之思在线考试系统，支持多种题型：选择题、多选题、判断题、填空题、解答题以及数学公式，包含PC端、小程序端。基于vue/element-ui/vue-element-admin ![img](https://img.shields.io/github/stars/alvis-u/uexam)
 - [vueMusic](https://github.com/xieyezi/vueMusic) - vue做的web音乐App，基于vue/docker/docker-compose/express
 - [vue-fallowFish](https://github.com/LLZUPUP/vue-fallowFish) - <g-emoji class="g-emoji" alias="tropical_fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f420.png">🐠</g-emoji>vue全家桶仿闲鱼部分布局以及功能实现
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - 基于elementui和vue2.0的后台系统
@@ -40,6 +41,7 @@
 - [element](https://github.com/ElemeFE/element) - ElementUI 组件库
     - [源码分析](https://github.com/FunnyLiu/element/tree/readsource)
     - [使用webpack打包组件库]
+- [element-plus](https://github.com/element-plus/element-plus) -  基于Vue3的elementui库 ![img](https://img.shields.io/github/stars/element-plus/element-plus)
 - [element-ui-verify](https://github.com/aweiu/element-ui-verify) - 加强简化elementui的校验
 - [vant](https://github.com/youzan/vant) - vue移动端组件库，基于vue/typescript/jsx/tsx
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - swiper轮播图组件的vue版本

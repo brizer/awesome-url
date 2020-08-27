@@ -11,6 +11,10 @@
 
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) generate nginx config - ![img](https://img.shields.io/github/stars/digitalocean/nginxconfig.io)
 
+## DBA
+
+- [Yearning](https://github.com/cookieY/Yearning) - <g-emoji class="g-emoji" alias="whale" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png">🐳</g-emoji> A most popular sql audit platform for mysql ![img](https://img.shields.io/github/stars/cookieY/Yearning)
+
 ## Dev tools
 
 - [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - Baidu yun download
@@ -30,6 +34,11 @@
 - [art-of-readme](https://github.com/noffle/art-of-readme) - Things I've learned about writing good READMEs. ![img](https://img.shields.io/github/stars/noffle/art-of-readme)
 - [Boostnote](https://github.com/BoostIO/Boostnote/) - A markdown editor for developers on Mac, Windows and Linux.
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
+
+
+## Ops
+
+- [spug](https://github.com/openspug/spug) - Ops platform ![img](https://img.shields.io/github/stars/openspug/spug)
 
 ## Test
 

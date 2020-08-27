@@ -1,5 +1,11 @@
 # Java
 
+## 项目实例
+
+- [mall-swarm](https://github.com/macrozheng/mall-swarm) - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Hoxton &amp; Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。 ![img](https://img.shields.io/github/stars/macrozheng/mall-swarm)
+- [uexam](https://github.com/alvis-u/uexam) - 学之思在线考试系统，支持多种题型：选择题、多选题、判断题、填空题、解答题以及数学公式，包含PC端、小程序端spring-boot/
+spring-boot-security/undertow/postgresql/mysql/redis/mybatis/hikari/
+七牛云存储 ![img](https://img.shields.io/github/stars/alvis-u/uexam)
 
 ## 调试
 

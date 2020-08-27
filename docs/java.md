@@ -1,5 +1,9 @@
 # Java
 
+## Example
+
+- [mall-swarm](https://github.com/macrozheng/mall-swarm) - E-commerces system build by Spring Cloud Hoxton &amp; Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch.  ![img](https://img.shields.io/github/stars/macrozheng/mall-swarm)
+- [uexam](https://github.com/alvis-u/uexam) - Tiku system ![img](https://img.shields.io/github/stars/alvis-u/uexam)
 
 ## Debug
 
