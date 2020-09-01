@@ -45,6 +45,8 @@
 - [react-query](https://github.com/tannerlinsley/react-query) - 请求数据的hooks，配合其他请求库使用 ![img](https://img.shields.io/github/stars/tannerlinsley/react-query)
 - [react-redux](https://www.npmjs.com/package/react-redux) - redux针对react的连接
     - [在realworld项目中使用之](https://github.com/FunnyLiu/react-redux-realworld-example-app/blob/master/src/index.js#L2)
+    - [todolist](https://github.com/FunnyLiu/reduxDemo/blob/master/todolist/app.js)
+    - [源码分析](https://github.com/FunnyLiu/react-redux/tree/readsource)
 - [relay](https://github.com/facebook/relay) - 构建数据驱动react应用的框架
 - [swr](https://github.com/zeit/swr) - 发送请求的hooks方式库，非常重型和创意
 
