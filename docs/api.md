@@ -40,9 +40,12 @@
 - [mongoose](https://mongoosejs.com/) - mongo corresponds to the DAL layer tool
 - [nestjs](https://docs.nestjs.com/) - server side architecture
 - [npm-cli](https://docs.npmjs.com/cli-documentation/) - npm cli document
+- [Redux-Saga](https://redux-saga-in-chinese.js.org/docs/api/) - redux-sage api
 - [rollup-config](https://rollupjs.org/guide/en#big-list-of-options) - rollup configuration
 - [typeorm](https://typeorm.io/#/) - best orm for nodejs
 - [typescript-config](https://www.typescriptlang.org/docs/handbook/compiler-options.html) - Compiler options for typescript
+- [vscode plugin api](https://code.visualstudio.com/api/references/vscode-api) - api list of vscode plugin
+- [vscode plugin configuration](https://code.visualstudio.com/api/references/contribution-points) - config of vscode plugin
 - [Vue](https://vuejs.org/v2/api/index.html) - Vue view
 - [vuecli](https://cli.vuejs.org/config/) - cli for vue
 - [vuepress](https://vuepress.vuejs.org/config/) - static site generator

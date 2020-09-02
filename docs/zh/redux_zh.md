@@ -5,6 +5,14 @@
 - [redux-logger](https://www.npmjs.com/package/redux-logger) - redux的日志中间件
     - [源码分析](https://github.com/FunnyLiu/redux-logger/tree/readsource)
 - [redux-promise-middleware](https://www.npmjs.com/package/redux-promise-middleware) - 异步中间件
+- [redux-saga](https://github.com/redux-saga/redux-saga/) - 强大的异步控制中间件，基于generator ![img](https://img.shields.io/github/stars/redux-saga/redux-saga/)
+    - [源码分析](https://github.com/FunnyLiu/redux-saga/tree/readsource)
+    - [官方异步请求例子](https://github.com/FunnyLiu/redux-saga/blob/readsource/examples/async/README.md#%E8%A7%A3%E8%AF%BB) - aciton/reducer/sagas相互之间配合使用
+    - [官方可以手动中断的倒计时例子](https://github.com/FunnyLiu/redux-saga/blob/readsource/examples/cancellable-counter/README.md#%E8%A7%A3%E8%AF%BB) - 在saga如何中断promise
+    - [官方一个基本的计数器](https://github.com/FunnyLiu/redux-saga/blob/readsource/examples/counter/README.md#%E8%A7%A3%E8%AF%BB)
+    - [官方umd的方式在非react场景中用](https://github.com/FunnyLiu/redux-saga/blob/readsource/examples/counter-vanilla/README.md#%E8%A7%A3%E8%AF%BB)
+    - [官方各种error的表现形式](https://github.com/FunnyLiu/redux-saga/blob/readsource/examples/error-demo/README.md#%E8%A7%A3%E8%AF%BB)
+    - [官方一个小型项目的最佳实践](https://github.com/FunnyLiu/redux-saga/blob/readsource/examples/real-world/README.md#%E8%A7%A3%E8%AF%BB)
 - [redux-thunk](https://www.npmjs.com/package/redux-thunk) - Thunk中间件，使得dispatch可以接收函数而不仅仅的对象
     - [源码分析](https://github.com/FunnyLiu/redux-thunk/tree/readsource)
 

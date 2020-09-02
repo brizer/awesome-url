@@ -27,3 +27,7 @@ spring-boot-security/undertow/postgresql/mysql/redis/mybatis/hikari/
 ## 可用性
 
 - [Sentinel](https://github.com/alibaba/Sentinel) - 面向云原生微服务的高可用流控防护组件，阿里巴巴开源
+
+## Util
+
+- [hutool](https://github.com/looly/hutool) - 各种util合集 ![img](https://img.shields.io/github/stars/looly/hutool)

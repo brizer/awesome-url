@@ -33,6 +33,7 @@
 - [proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [taobaofed](http://taobaofed.org/) - taobao FED
 - [v8](https://v8.dev/docs) - official document of  v8
+- [VS-Code-Extension-Doc-ZH](https://github.com/Liiked/VS-Code-Extension-Doc-ZH) - VS Code plugin dev doc in Chinese ![img](https://img.shields.io/github/stars/Liiked/VS-Code-Extension-Doc-ZH)
 
 # Learning resource
 

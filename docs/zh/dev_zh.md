@@ -40,6 +40,11 @@
 
 - [spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。 ![img](https://img.shields.io/github/stars/openspug/spug)
 
+
+## 插件
+
+- [vscode-extension-samples](https://github.com/Microsoft/vscode-extension-samples) - 微软官方的vscode简单实例合集 ![img](https://img.shields.io/github/stars/Microsoft/vscode-extension-samples)
+
 ## 测试
 
 - [Apache bench](https://httpd.apache.org/docs/2.4/programs/ab.html) - 压力测试工具Apache bench

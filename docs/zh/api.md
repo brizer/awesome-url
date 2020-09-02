@@ -40,9 +40,12 @@
 - [mongoose](https://mongoosejs.com/) - mongo对应DAL层工具
 - [nestjs](https://docs.nestjs.com/) - 服务端架构
 - [npm-cli](https://docs.npmjs.com/cli-documentation/) - npm命令行文档
+- [Redux-Saga](https://redux-saga-in-chinese.js.org/docs/api/) - redux-sage api
 - [rollup-config](https://rollupjs.org/guide/en#big-list-of-options) - rollup配置文件
 - [typeorm](https://typeorm.io/#/) - 最好的node的orm框架
 - [typescript-config](https://www.typescriptlang.org/docs/handbook/compiler-options.html) - typescript的编译参数
+- [vscode插件api](https://code.visualstudio.com/api/references/vscode-api) - vscode插件api列表
+- [vscode插件配置](https://code.visualstudio.com/api/references/contribution-points) - vscode插件配置列表
 - [Vue](https://cn.vuejs.org/v2/api/) - Vue view
 - [vuecli](https://cli.vuejs.org/zh/config/) - vue脚手架工具
 - [vuepress](https://vuepress.vuejs.org/zh/config/) - 静态网站生成器

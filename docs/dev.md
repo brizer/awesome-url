@@ -40,6 +40,10 @@
 
 - [spug](https://github.com/openspug/spug) - Ops platform ![img](https://img.shields.io/github/stars/openspug/spug)
 
+## Plugins
+
+- [vscode-extension-samples](https://github.com/Microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API. ![img](https://img.shields.io/github/stars/Microsoft/vscode-extension-samples)
+
 ## Test
 
 - [Apache bench](https://httpd.apache.org/docs/2.4/programs/ab.html) - Stress test tool Apache bench
