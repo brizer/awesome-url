@@ -9,10 +9,16 @@
 
 - [domutils](https://github.com/fb55/domutils) - Utilities for working with htmlparser2's DOM
 - [google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
+- [jira_clone](https://github.com/oldboyxx/jira_clone) - jira-like tool，based on typescript/express/react/reacthook/postgres ![img](https://img.shields.io/github/stars/oldboyxx/jira_clone)
 - [zan-proxy](https://github.com/youzan/zan-proxy) - An extensible proxy for PC/Mobile/APP developer
 - [react-antd-admin](https://github.com/liuguanhua/react-antd-admin) - admin based on react hooks/typescript/antd/dva
 - [react-use](https://github.com/streamich/react-use) - React Hooks — <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener, Backend is build by Node/Express/Typescript/PostgreSQL
+
+## Cli
+
+- [tsdx](https://github.com/formium/tsdx) - Zero-config CLI for TypeScript package development ![img](https://img.shields.io/github/stars/formium/tsdx)
+
 
 ## Others
 

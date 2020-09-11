@@ -13,6 +13,7 @@
 - [darkreader](https://github.com/darkreader/darkreader) - a tab tool chrome extension, ui based on react hooks and ts.
 - [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [elm-react-native](https://github.com/stoneWeb/elm-react-native) - React Native eleme app
+- [jira_clone](https://github.com/oldboyxx/jira_clone) - jira-like tool，based on typescript/express/react/reacthook/postgres ![img](https://img.shields.io/github/stars/oldboyxx/jira_clone)
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - Electron + React + MobX + JSS NeteaseMusic desktop app
 - [kite](https://github.com/maoxiaoquan/kite) - <g-emoji class="g-emoji" alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji> front end use vue ssr, admin backend use react spa and node, mysql.
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener, FED is build by React/Redux/Styled-components

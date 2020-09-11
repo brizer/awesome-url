@@ -10,6 +10,7 @@
 ## 低代码
 
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - 可视化配置nginx ![img](https://img.shields.io/github/stars/digitalocean/nginxconfig.io)
+- [VvvebJs](https://github.com/givanz/VvvebJs) - 可视化cms系统开源版 ![img](https://img.shields.io/github/stars/givanz/VvvebJs)
 
 ## 数据库
 
@@ -36,6 +37,10 @@
 - [Boostnote](https://github.com/BoostIO/Boostnote/) - 一款mac，windows，linux均可用的markdown编辑器，转为开发者而生，开源的
 - [outline](https://github.com/outline/outline) - 开源的wiki建设工具，支持私有化部署
 
+## 管理工具
+
+- [jira_clone](https://github.com/oldboyxx/jira_clone) - 类似jira的工具，基于typescript/express/react/reacthook/postgres ![img](https://img.shields.io/github/stars/oldboyxx/jira_clone)
+
 ## 运维
 
 - [spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。 ![img](https://img.shields.io/github/stars/openspug/spug)
@@ -44,6 +49,8 @@
 ## 插件
 
 - [vscode-extension-samples](https://github.com/Microsoft/vscode-extension-samples) - 微软官方的vscode简单实例合集 ![img](https://img.shields.io/github/stars/Microsoft/vscode-extension-samples)
+- [vscode-wakatime](https://github.com/wakatime/vscode-wakatime) - 统计编码时间的vscode插件 ![img](https://img.shields.io/github/stars/wakatime/vscode-wakatime)
+    - [源码分析](https://github.com/FunnyLiu/vscode-wakatime/tree/readsource)
 
 ## 测试
 

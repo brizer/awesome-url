@@ -38,6 +38,7 @@
 - [freecodecamp](https://www.freecodecamp.org/) - 前端学习平台，github霸榜项目
 - [design-patterns-JS](https://github.com/fbeline/design-patterns-JS) - javascript版本的设计模式简易demo ![img](https://img.shields.io/github/stars/fbeline/design-patterns-JS)
 - [design-patterns-typescript](https://github.com/RefactoringGuru/design-patterns-typescript) - Typescript版本的设计模式教程 ![img](https://img.shields.io/github/stars/RefactoringGuru/design-patterns-typescript)
+- [explain-git-with-d3](https://github.com/onlywei/explain-git-with-d3) - 通过可视化的方式解释git的原理 ![img](https://img.shields.io/github/stars/onlywei/explain-git-with-d3)
 - [javascript.info](https://zh.javascript.info/) - 一个很好的学习现代js基础的免费教程
 - [just-react](https://github.com/BetaSu/just-react) - React技术揭秘，源码阅读分析，React源码学习 ![img](https://img.shields.io/github/stars/BetaSu/just-react)
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 像游戏一样学习git
@@ -46,6 +47,7 @@
 - [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - React和Typescript开发的入门备忘录 ![img](https://img.shields.io/github/stars/typescript-cheatsheets/react-typescript-cheatsheet)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - 系统设计学习之路 ![img](https://img.shields.io/github/stars/donnemartin/system-design-primer)
 - [web-skills](https://github.com/andreasbm/web-skills) - web开发者学习路线及相应资源链接，所有知识点
+- [understand-nodejs](https://github.com/theanarkh/understand-nodejs) - 通过源码分析nodejs原理 ![img](https://img.shields.io/github/stars/theanarkh/understand-nodejs)
 
 
 # PPT

@@ -10,6 +10,8 @@
 ## Codeless
 
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) generate nginx config - ![img](https://img.shields.io/github/stars/digitalocean/nginxconfig.io)
+- [VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library. ![img](https://img.shields.io/github/stars/givanz/VvvebJs)
+
 
 ## DBA
 
@@ -35,6 +37,9 @@
 - [Boostnote](https://github.com/BoostIO/Boostnote/) - A markdown editor for developers on Mac, Windows and Linux.
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
 
+## Manage
+
+- [jira_clone](https://github.com/oldboyxx/jira_clone) - jira-like tool，based on typescript/express/react/reacthook/postgres ![img](https://img.shields.io/github/stars/oldboyxx/jira_clone)
 
 ## Ops
 
@@ -43,6 +48,8 @@
 ## Plugins
 
 - [vscode-extension-samples](https://github.com/Microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API. ![img](https://img.shields.io/github/stars/Microsoft/vscode-extension-samples)
+- [vscode-wakatime](https://github.com/wakatime/vscode-wakatime) - Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. ![img](https://img.shields.io/github/stars/wakatime/vscode-wakatime)
+    - [source analysis](https://github.com/FunnyLiu/vscode-wakatime/tree/readsource)
 
 ## Test
 
