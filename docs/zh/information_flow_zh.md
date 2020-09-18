@@ -68,6 +68,7 @@
 
 # 趣味性
 
+- [世界地图生成器](https://github.com/Azgaar/Fantasy-Map-Generator) - 世界地图生成器，生成各种不一样的世界地图，充满了想象力 ![img](https://img.shields.io/github/stars/Azgaar/Fantasy-Map-Generator)
 - [weavesilk](http://weavesilk.com/) - 科幻线路，趣味画图
 - [Word Art](https://wordart.com/create) - 通过输入的英文生成各种各样美丽的图片，增加微软雅黑字体后可以渲染中文
 - [狗屁不通文章生成器](https://suulnnka.github.io/BullshitGenerator/index.html) - 通过关键字生成随意的文章

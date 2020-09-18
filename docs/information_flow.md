@@ -71,6 +71,7 @@
 
 # Interesting
 
+- [Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps ![img](https://img.shields.io/github/stars/Azgaar/Fantasy-Map-Generator)
 - [weavesilk](http://weavesilk.com/) - weavesilk
 - [Word Art](https://wordart.com/create) - word art
 - [articleGenerator](https://suulnnka.github.io/BullshitGenerator/index.html) - generate article by some key words
