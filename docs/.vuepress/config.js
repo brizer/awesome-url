@@ -72,7 +72,7 @@ module.exports = {
             },
             {
               title: "Mac Tools App",
-              children: ["/mac"]
+              children: ["/mac","/alfred"]
             },
             {
               title: "Dev Tools",
@@ -133,7 +133,7 @@ module.exports = {
             },
             {
               title: "Mac工具",
-              children: ["/zh/mac_zh"]
+              children: ["/zh/mac_zh","/zh/alfred_zh"]
             },
             {
               title: "开发工具",

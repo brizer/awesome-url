@@ -3,6 +3,8 @@
 - [@babel/core](https://www.npmjs.com/package/@babel/core) - Babel编译核心
 - [@babel/node](https://www.npmjs.com/package/@babel/node) - Babel的node命令行工具，使用babel的配置来执行nodejs文件
 - [@babel/polyfill](https://www.npmjs.com/package/@babel/polyfill) - 浏览器的兼容性
+- [@babel/register](https://www.npmjs.com/package/@babel/register) - 通过API给require增加处理钩子
+    - [被umi使用](https://github.com/FunnyLiu/umi/blob/readsource/packages/utils/src/BabelRegister/BabelRegister.ts#L28)
 - [@babel/runtime](https://www.npmjs.com/package/@babel/runtime) - babel模块的运行时帮助函数集
     - [为什么需要runtime](https://omnipotent-front-end.github.io/library/babel.html#%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81-babel-runtime-%E5%AE%83%E5%92%8C-babel-polyfill%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%EF%BC%9F)
 - [babel-bridge](https://github.com/babel/babel-bridge) - 联通babel-core到@babel/core。 如果你使用的某个包需要babel-core，而你却使用的@babel/core，则你需要它。
