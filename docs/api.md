@@ -13,6 +13,7 @@
 - [express](https://expressjs.com/en/4x/api.html) - express API
 - [git-scm](https://git-scm.com/docs) - git documentation
 - [GitLab API](https://docs.gitlab.com/ee/api/README.html) - api of gitlab
+- [GitLab CI Config](https://docs.gitlab.com/ee/ci/yaml/) - gitlab ci config
 - [html](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - Html element
 - [http-status](https://devdocs.io/http-status/) - status code of http
 - [jest-config](https://jestjs.io/docs/en/configuration) - config of jest
