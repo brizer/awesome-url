@@ -5,6 +5,7 @@
 - [codebeautify](https://codebeautify.org/) - Formatiing tools for all language
 - [codepen](https://codepen.io/) - Front End Online Editor
 - [codeshandbox](https://codesandbox.io/s/) - Front-end online editing tool that can include modules
+- [codota](https://www.codota.com/code/javascript) - search code best practices 
 - [createApp](https://createapp.dev/) - create app by different libs
 - [colorhunt](https://colorhunt.co/) - color
 - [component online Bit](https://bit.dev/) - search component online

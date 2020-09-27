@@ -29,6 +29,10 @@
 - [node-react-docker-compose](https://github.com/mrcoles/node-react-docker-compose) - A reference for running a node server and create-react-app app via docker-compose.
 - [VENoM-Docker](https://github.com/jamesaud/VENoM-Docker) - Vue, Express, Node, Mongo with Docker-compose setup for local development
 
+## k8s
+
+- [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE ![img](https://img.shields.io/github/stars/lensapp/lens)
+
 ## Private Server
 
 - [harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.

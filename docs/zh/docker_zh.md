@@ -28,6 +28,10 @@
 - [node-react-docker-compose](https://github.com/mrcoles/node-react-docker-compose) - node/docker/docker-compose/react前后端分离项目
 - [VENoM-Docker](https://github.com/jamesaud/VENoM-Docker) -vue/node/express/docker/docker-compose项目实例
 
+## K8s
+
+- [lens](https://github.com/lensapp/lens) - k8s本地客户端管理工具，德国大众使用之 ![img](https://img.shields.io/github/stars/lensapp/lens)
+
 ## 私服
 
 - [harbor](https://github.com/goharbor/harbor) - 开源docker私有服方案，网易严选采用
