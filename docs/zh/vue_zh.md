@@ -4,6 +4,7 @@
 
 - [blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) - vue + typescript + element-ui + 装饰器 博客前台
 - [element-pro](https://github.com/qidaizhe11/element-pro) - Vue 版 Ant Design Pro（基于 Element-ui 实现）
+- [genal-chat](https://github.com/genaller/genal-chat) - 聊天室基于nest/typescript/socket.io/vue ![img](https://img.shields.io/github/stars/genaller/genal-chat)
 - [iview-admin](https://github.com/iview/iview-admin) - 基于iview和vue2.0的后台系统
 - [kite](https://github.com/maoxiaoquan/kite) - <g-emoji class="g-emoji" alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji> Kite 前台页面是vue ssr服务端渲染、后台页面是react spa、服务层nodejs、mysql编写的一套多权限内容管理系统
 - [mili](https://github.com/shen100/mili) - mili 是一个开源的社区系统，前端基于vue/iview，后端基于node/typescript/nest/typeorm

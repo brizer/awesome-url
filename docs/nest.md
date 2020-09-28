@@ -3,6 +3,7 @@
 ## Projects
 
 - [ever](https://github.com/ever-co/ever) - Ever® - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
+- [genal-chat](https://github.com/genaller/genal-chat) - 🐱‍🏍阿童木聊天室 nestjs+vue全栈聊天室 前后端分离 typescript一把梭 ![img](https://img.shields.io/github/stars/genaller/genal-chat)
 - [mili](https://github.com/shen100/mili) - mili is a blog system based on vue/iview/node/typescript/nest/typeorm
 - [nestify](https://github.com/ZhiXiao-Lin/nestify) - An enterprise web fullstack framework based on Nest.js ![img](https://img.shields.io/github/stars/ZhiXiao-Lin/nestify)
 - [ng-nest-moon](https://github.com/NG-NEST/ng-nest-moon) - angular/nestjs admin system on RBAC ![img](https://img.shields.io/github/stars/NG-NEST/ng-nest-moon)

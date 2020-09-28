@@ -43,6 +43,11 @@
 
 - [jira_clone](https://github.com/oldboyxx/jira_clone) - 类似jira的工具，基于typescript/express/react/reacthook/postgres ![img](https://img.shields.io/github/stars/oldboyxx/jira_clone)
 
+
+## 在线编辑
+
+- [glot](https://github.com/prasmussen/glot) - 在线编辑多种语言，相关实现均开源 ![img](https://img.shields.io/github/stars/prasmussen/glot)
+
 ## 运维
 
 - [spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。 ![img](https://img.shields.io/github/stars/openspug/spug)

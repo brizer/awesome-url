@@ -4,6 +4,7 @@
 
 - [blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) - vue + typescript + element-ui blog frontend
 - [element-pro](https://github.com/qidaizhe11/element-pro) - Ant Design Pro based on Vue and Element UI
+- [genal-chat](https://github.com/genaller/genal-chat) - 聊天室基于nest/typescript/socket.io/vue ![img](https://img.shields.io/github/stars/genaller/genal-chat)
 - [iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
 - [kite](https://github.com/maoxiaoquan/kite) - <g-emoji class="g-emoji" alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji> front end use vue ssr, admin backend use react spa and node, mysql.
 - [mili](https://github.com/shen100/mili) - mili is a blog system based on vue/iview/node/typescript/nest/typeorm

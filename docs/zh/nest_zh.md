@@ -3,6 +3,7 @@
 ## 项目实例
 
 - [ever](https://github.com/ever-co/ever) - 开源商务平台，由nest构建
+- [genal-chat](https://github.com/genaller/genal-chat) - 聊天室基于nest/typescript/socket.io/vue ![img](https://img.shields.io/github/stars/genaller/genal-chat)
 - [mili](https://github.com/shen100/mili) - mili 是一个开源的社区系统，前端基于vue/iview，后端基于node/typescript/nest/typeorm
 - [nestify](https://github.com/ZhiXiao-Lin/nestify) - 多包管理基于lerna/nestjs的可运行项目 ![img](https://img.shields.io/github/stars/ZhiXiao-Lin/nestify)
 - [ng-nest-moon](https://github.com/NG-NEST/ng-nest-moon) - angular+nestjs 后台管理系统，实现最基本的RBAC权限 ![img](https://img.shields.io/github/stars/NG-NEST/ng-nest-moon)
