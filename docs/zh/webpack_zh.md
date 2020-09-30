@@ -18,6 +18,7 @@
     - [简单的使用less](https://github.com/FunnyLiu/webpackDemo#%E4%BD%BF%E7%94%A8less%E6%9D%A5%E7%AE%A1%E7%90%86%E9%A1%B5%E9%9D%A2%E6%A0%B7%E5%BC%8F-by-demo22_less)
     - [和cssmodule,react一起使用](https://github.com/FunnyLiu/webpackDemo#%E4%BD%BF%E7%94%A8less%E9%80%9A%E8%BF%87css-module%E6%9D%A5%E7%AE%A1%E7%90%86react%E7%BB%84%E4%BB%B6-by-demo23_less_cssmodule)
 - [raw-loader](https://github.com/webpack-contrib/raw-loader) - txt文件转为字符串的loader
+    - [源码分析，最小的loader，适合入门](https://github.com/FunnyLiu/raw-loader/tree/readsource)
 - [style-loader](https://www.npmjs.com/package/style-loader) - 通过style标签将css加到dom中去
 - [ts-loader](https://github.com/TypeStrong/ts-loader) - typescript的loader
 - [url-loader](https://github.com/webpack-contrib/url-loader) - 转换图片文件到base64
@@ -28,6 +29,7 @@
 - [clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin) - 目录清理
 - [copy-webpack-plugin](https://www.npmjs.com/package/copy-webpack-plugin) - 复制文件到生成目录
 - [create-file-webpack](https://github.com/Appius/create-file-webpack) - 在webpack打包过程中创建文件内容
+    - [源码分析，最小的插件，适合入门](https://github.com/FunnyLiu/create-file-webpack/tree/readsource)
     - [可用于生成网站地图sitemap]
 - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin) - 简化html创建和启动服务的插件
 - [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - 分离样式文件，CSS 提取为独立文件，css分离插件

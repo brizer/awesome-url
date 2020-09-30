@@ -64,7 +64,7 @@ module.exports = {
             },
             {
               title: "Language",
-              children: ["/node_modules", "/go"]
+              children: ["/node_modules", "/go","/mobile"]
             },
             {
               title: "Information Flow",
@@ -125,7 +125,7 @@ module.exports = {
             },
             {
               title: "模块包",
-              children: ["/zh/node_modules_zh", "/zh/go_zh"]
+              children: ["/zh/node_modules_zh", "/zh/go_zh","/zh/mobile_zh"]
             },
             {
               title: "信息流",

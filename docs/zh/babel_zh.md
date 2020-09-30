@@ -1,6 +1,7 @@
 # Babel
 
 - [@babel/core](https://www.npmjs.com/package/@babel/core) - Babel编译核心
+- [@babel/generator](https://babeljs.io/docs/en/babel-generator) - 将AST转换成js代码，内置流程的工具
 - [@babel/node](https://www.npmjs.com/package/@babel/node) - Babel的node命令行工具，使用babel的配置来执行nodejs文件
 - [@babel/polyfill](https://www.npmjs.com/package/@babel/polyfill) - 浏览器的兼容性
 - [@babel/register](https://www.npmjs.com/package/@babel/register) - 通过API给require增加处理钩子

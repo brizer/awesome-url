@@ -18,6 +18,7 @@
     - [use less simply](https://github.com/FunnyLiu/webpackDemo#%E4%BD%BF%E7%94%A8less%E6%9D%A5%E7%AE%A1%E7%90%86%E9%A1%B5%E9%9D%A2%E6%A0%B7%E5%BC%8F-by-demo22_less)
     - [use it with css module and react](https://github.com/FunnyLiu/webpackDemo#%E4%BD%BF%E7%94%A8less%E9%80%9A%E8%BF%87css-module%E6%9D%A5%E7%AE%A1%E7%90%86react%E7%BB%84%E4%BB%B6-by-demo23_less_cssmodule)
 - [raw-loader](https://github.com/webpack-contrib/raw-loader) - A loader for webpack that allows importing files as a String
+    - [source analysis](https://github.com/FunnyLiu/raw-loader/tree/readsource)
 - [style-loader](https://www.npmjs.com/package/style-loader) - Add css to dom by style tag
 - [ts-loader](https://github.com/TypeStrong/ts-loader) - ts loader for webpack
 - [url-loader](https://github.com/webpack-contrib/url-loader) - A loader for webpack which transforms files into base64 URIs
@@ -28,6 +29,7 @@
 - [clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin) - A webpack plugin to remove your build folder(s) before building
 - [copy-webpack-plugin](https://www.npmjs.com/package/copy-webpack-plugin) - Copy files to build directory
 - [create-file-webpack](https://github.com/Appius/create-file-webpack) - The simple webpack plugin to create a file with the particular content at the end of the build process
+    - [source analysis](https://github.com/FunnyLiu/create-file-webpack/tree/readsource)
     - [can be used for generate sitemap]
 - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin) - Plugin that simplifies creation of HTML files to serve your bundles
 - [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - Lightweight CSS extraction plugin
