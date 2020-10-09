@@ -27,6 +27,7 @@
 - [ecma](http://www.ecma-international.org/) - ECMA 官网
 - [ECMAScript262](https://tc39.es/ecma262/) - 最新的js规范草案
 - [ECMAScript262-standard](http://www.ecma-international.org/publications/standards/Ecma-262.htm) - 当前的标准js规范
+- [jshistory-cn](https://github.com/doodlewind/jshistory-cn) - 《JavaScript 20 年》中文版 ![img](https://img.shields.io/github/stars/doodlewind/jshistory-cn)
 - [proposals](https://github.com/tc39/proposals) - 即将标准化的js功能
 - [taobaofed](http://taobaofed.org/) - 淘宝FED
 - [v8](https://v8.dev/docs) - v8引擎的官方文档

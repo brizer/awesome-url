@@ -30,6 +30,7 @@
 - [ecma](http://www.ecma-international.org/) - ECMA official website
 - [ECMAScript262](https://tc39.es/ecma262/) - Latest draft js specification
 - [ECMAScript262-standard](http://www.ecma-international.org/publications/standards/Ecma-262.htm) - standard js specification
+- [jshistory-cn](https://github.com/doodlewind/jshistory-cn) - 《JavaScript 20 年》中文版 ![img](https://img.shields.io/github/stars/doodlewind/jshistory-cn)
 - [proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [taobaofed](http://taobaofed.org/) - taobao FED
 - [v8](https://v8.dev/docs) - official document of  v8
