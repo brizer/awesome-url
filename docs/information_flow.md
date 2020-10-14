@@ -38,6 +38,7 @@
 
 # Learning resource
 
+- [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of Java… ![img](https://img.shields.io/github/stars/Asabeneh/30-Days-Of-React)
 - [freecodecamp](https://www.freecodecamp.org/) - FED learning platform
 - [design-patterns-JS](https://github.com/fbeline/design-patterns-JS) - All the 23 (GoF) design patterns implemented in Javascript ![img](https://img.shields.io/github/stars/fbeline/design-patterns-JS)
 - [design-patterns-typescript](https://github.com/RefactoringGuru/design-patterns-typescript) - Design Pattern Examples in TypeScript ![img](https://img.shields.io/github/stars/RefactoringGuru/design-patterns-typescript)
@@ -59,6 +60,7 @@
 
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - Basic knowledge required for technical interview, Leetcode, computer operating system, computer network, system design, Java, Python, C++ ![img](https://img.shields.io/github/stars/CyC2018/CS-Notes)
 - [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions &amp; Answers....Coding exercise questions are coming soon!! ![img](https://img.shields.io/github/stars/sudheerj/reactjs-interview-questions)
+- [remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料 ![img](https://img.shields.io/github/stars/greatghoul/remote-working)
 - [super-resume](https://www.wondercv.com/) - generate resume free
 
 # Health

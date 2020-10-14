@@ -7,6 +7,7 @@
 - [jira_clone](https://github.com/oldboyxx/jira_clone) - 类似jira的工具，基于typescript/express/react/reacthook/postgres ![img](https://img.shields.io/github/stars/oldboyxx/jira_clone)
 - [kite](https://github.com/maoxiaoquan/kite) - <g-emoji class="g-emoji" alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji> Kite 前台页面是vue ssr服务端渲染、后台页面是react spa、服务层nodejs、mysql编写的一套多权限内容管理系统
 - [kutt](https://github.com/thedevs-network/kutt) - 短链服务，后台由Node/Express/Typescript/PostgreSQL构建
+- [proshop_mern](https://github.com/bradtraversy/proshop_mern) - 购物车，基于react/redux/mongo/express ![img](https://img.shields.io/github/stars/bradtraversy/proshop_mern)
 - [vueMusic](https://github.com/xieyezi/vueMusic) - h5音乐软件基于vue/docker/docker-compose/express
 
 ## 中间件

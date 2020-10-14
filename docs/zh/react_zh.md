@@ -18,6 +18,7 @@
 - [jira_clone](https://github.com/oldboyxx/jira_clone) - 类似jira的工具，基于typescript/express/react/reacthook/postgres ![img](https://img.shields.io/github/stars/oldboyxx/jira_clone)
 - [kite](https://github.com/maoxiaoquan/kite) - <g-emoji class="g-emoji" alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji> Kite 前台页面是vue ssr服务端渲染、后台页面是react spa、服务层nodejs、mysql编写的一套多权限内容管理系统
 - [kutt](https://github.com/thedevs-network/kutt) - 免费的短链服务，前端部分由React/Redux/Styled-components组成
+- [proshop_mern](https://github.com/bradtraversy/proshop_mern) - 购物车，基于react/redux/mongo/express ![img](https://img.shields.io/github/stars/bradtraversy/proshop_mern)
 - [react-admin](https://github.com/marmelab/react-admin) - 后台应用解决方案，由react/Material Design构建
 - [react-antd-admin](https://github.com/liuguanhua/react-antd-admin) - 后台前端管理系统，基于react hooks、typescript、antd3、dva及一些特别优秀的开源库实现
 - [react-cloud-music](https://github.com/sanyuan0704/react-cloud-music) - React hooks + redux + immutable打造精美音乐WebApp

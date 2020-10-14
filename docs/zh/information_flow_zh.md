@@ -36,6 +36,7 @@
 
 # 学习资源
 
+- [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - React30天入门教程 ![img](https://img.shields.io/github/stars/Asabeneh/30-Days-Of-React)
 - [freecodecamp](https://www.freecodecamp.org/) - 前端学习平台，github霸榜项目
 - [design-patterns-JS](https://github.com/fbeline/design-patterns-JS) - javascript版本的设计模式简易demo ![img](https://img.shields.io/github/stars/fbeline/design-patterns-JS)
 - [design-patterns-typescript](https://github.com/RefactoringGuru/design-patterns-typescript) - Typescript版本的设计模式教程 ![img](https://img.shields.io/github/stars/RefactoringGuru/design-patterns-typescript)
@@ -59,6 +60,7 @@
 
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++ ![img](https://img.shields.io/github/stars/CyC2018/CS-Notes)
 - [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - ReactJs 相关面试题 ![img](https://img.shields.io/github/stars/sudheerj/reactjs-interview-questions)
+- [remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料 ![img](https://img.shields.io/github/stars/greatghoul/remote-working)
 - [超级简历](https://www.wondercv.com/) - 免费简历生成器
 
 
