@@ -32,6 +32,7 @@
 - [taobaofed](http://taobaofed.org/) - 淘宝FED
 - [v8](https://v8.dev/docs) - v8引擎的官方文档
 - [VS-Code-Extension-Doc-ZH](https://github.com/Liiked/VS-Code-Extension-Doc-ZH) - VS Code插件开发文档-中文版 ![img](https://img.shields.io/github/stars/Liiked/VS-Code-Extension-Doc-ZH)
+- [印记中文 - 深入挖掘国外前端新领域，为中国 Web 前端开发人员提供优质文档！](https://docschina.org/) - 大量中文文档翻译及资源汇总
 
 
 # 学习资源
