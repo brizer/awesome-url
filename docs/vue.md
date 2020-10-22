@@ -18,6 +18,7 @@
 - [vue-mobx-todolist](https://github.com/FunnyLiu/vue-mobx-todolist) - todolist build by vue and mobx
 - [vue-qqmusic](https://github.com/Panda-Hope/vue-qqmusic) - QQMusic web app build by Vue+Mint-Ui
 - [vue-todolist](https://github.com/FunnyLiu/vue-todolist) - todolist of vue, with the one-way data flow and event.
+- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) -  A vue3 style Admin based on Vite vue3.0, vite, ant design vue 2.x, typescript，Efforts to update in progress... ![img](https://img.shields.io/github/stars/anncwb/vue-vben-admin)
 - [X-WebDesktop-Vue](https://github.com/OXOYO/X-WebDesktop-Vue) - The WebDesktop system based on Vue
 
 ## Unit test

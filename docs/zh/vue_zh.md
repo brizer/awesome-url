@@ -18,6 +18,7 @@
 - [vue-mobx-todolist](https://github.com/FunnyLiu/vue-mobx-todolist) - 基于vue/mobx/mobx-vue 来完成todolist，由brizer开发，所有数据交由store管理。
 - [vue-qqmusic](https://github.com/Panda-Hope/vue-qqmusic) - Vue全家桶+Mint-Ui打造高仿QQMusic，搭配详细说明
 - [vue-todolist](https://github.com/FunnyLiu/vue-todolist) - vue的todolist，比官方版靠谱，由brizer开发完成，完全按照单向数据流和事件通信
+- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) -  后台项目，基于vue3/antDesignVue/typescript ![img](https://img.shields.io/github/stars/anncwb/vue-vben-admin)
 - [X-WebDesktop-Vue](https://github.com/OXOYO/X-WebDesktop-Vue) - 基于 Vue &amp; Koa 的 WebDesktop 视窗系统
 
 ## 单元测试
