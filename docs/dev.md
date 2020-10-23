@@ -30,6 +30,7 @@
 - [katacoda](https://www.katacoda.com/learn) - deploy related cloud host operation learning platform
 - [Pock](https://github.com/pigigaldi/Pock) - use Touchbar in real
 - [renovate](https://github.com/marketplace/renovate) - automatically updates npm via Pull Request
+- [SnappySnippet](https://github.com/kdzwinel/SnappySnippet) - Chrome extension that allows easy extraction of CSS and HTML from selected element. ![img](https://img.shields.io/github/stars/kdzwinel/SnappySnippet)
 - [sourcegraph](https://about.sourcegraph.com/) - GUI for github source
 - [whatismyipaddress](https://whatismyipaddress.com/) - find my ip address
 

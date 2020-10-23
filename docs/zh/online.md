@@ -47,6 +47,7 @@
 - [npmcompare](https://npmcompare.com/) - npm包详细信息比较
 - [npmsemanticversioncalculator](https://semver.npmjs.com/) - 一个npm包的版本历史
 - [npmtrends](https://www.npmtrends.com/) - npm模块比较器，可以发现同类型的包
+- [transform](https://transform.tools/html-to-jsx) - 常用转换器如html转成jsx等
 - [Shields.io](https://shields.io/) - 开源库各种图标集合
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - 你的github账号的信息集合
 - [vultr](https://www.vultr.com/) - VPS服务器

@@ -30,6 +30,7 @@
 - [katacoda](https://www.katacoda.com/learn) - 学习部署相关的云主机操作学习平台
 - [Pock](https://github.com/pigigaldi/Pock) - 用上Touchbar
 - [renovate](https://github.com/marketplace/renovate) - 通过pull request自动更新npm依赖
+- [SnappySnippet](https://github.com/kdzwinel/SnappySnippet) - 取出一个dom的完整html及其css的浏览器扩展，用来拷贝dom组件时非常方便，需要本地自己安装 ![img](https://img.shields.io/github/stars/kdzwinel/SnappySnippet)
 - [sourcegraph](https://about.sourcegraph.com/) - github源码阅读可视化界面
 - [whatismyipaddress](https://whatismyipaddress.com/) - 查看我的ip地址
 
