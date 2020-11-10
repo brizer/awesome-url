@@ -18,3 +18,4 @@
 ## 小程序项目实例
 
 - [uexam](https://github.com/alvis-u/uexam) - 学之思在线考试系统，支持多种题型：选择题、多选题、判断题、填空题、解答题以及数学公式，包含PC端、小程序端 ![img](https://img.shields.io/github/stars/alvis-u/uexam)
+- [wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城，微信小程序微店 ![img](https://img.shields.io/github/stars/EastWorld/wechat-app-mall)

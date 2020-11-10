@@ -18,3 +18,4 @@
 ## miniprogram example
 
 - [uexam](https://github.com/alvis-u/uexam) - tiku system ![img](https://img.shields.io/github/stars/alvis-u/uexam)
+- [wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城，微信小程序微店 ![img](https://img.shields.io/github/stars/EastWorld/wechat-app-mall)

@@ -54,6 +54,7 @@
 ## Plugins
 
 - [vscode-extension-samples](https://github.com/Microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API. ![img](https://img.shields.io/github/stars/Microsoft/vscode-extension-samples)
+- [vscode-stories](https://github.com/benawad/vscode-stories) - Stories for VSCode ![img](https://img.shields.io/github/stars/benawad/vscode-stories)
 - [vscode-wakatime](https://github.com/wakatime/vscode-wakatime) - Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. ![img](https://img.shields.io/github/stars/wakatime/vscode-wakatime)
     - [source analysis](https://github.com/FunnyLiu/vscode-wakatime/tree/readsource)
 
