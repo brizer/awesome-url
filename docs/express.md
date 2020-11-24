@@ -18,6 +18,7 @@
     - [use it in a simple CRUD project](https://github.com/FunnyLiu/expressDemo/blob/master/myapp/app.js#L21)
 - [cookie-session](https://github.com/expressjs/cookie-session) - Simple cookie-based session middleware
 - [express-fileupload](https://github.com/richardgirges/express-fileupload) - Simple express file upload middleware that wraps around busboy
+- [express-healthcheck](https://github.com/lennym/express-healthcheck) - Super-simple healthcheck middleware for express ![img](https://img.shields.io/github/stars/lennym/express-healthcheck)
 - [helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
     - [article to descripte it](https://juejin.im/post/5a24fd8f51882509e5438247)
 - [method-override](https://github.com/expressjs/method-override) - Override HTTP verbs.
