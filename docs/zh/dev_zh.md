@@ -70,6 +70,8 @@
 
 ## 架构
 
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse) - 开源大数据分析平台，可以用于用户行为，实时数据，OLAP，阿里巴巴在用 ![img](https://img.shields.io/github/stars/ClickHouse/ClickHouse)
+    - [ClickHouse在手淘流量分析业务实践-InfoQ](https://www.infoq.cn/article/9ddaKIJJaPac9bsDgWmx?utm_source=feedly&utm_medium=article)
 - [dubbokeeper](https://github.com/dubboclub/dubbokeeper) - dubbo服务管理以及监控系统
 - [matomo](https://github.com/matomo-org/matomo) - Matomo是Google Analytics的领先开放替代品，可让您完全控制数据。 分析用户行为，开源可独立部署。
 - [onpremise](https://github.com/getsentry/onpremise) - Sentry 私有化部署工具

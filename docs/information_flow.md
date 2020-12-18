@@ -16,6 +16,7 @@
 # Algorithm
 
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - English version supported! Crack LeetCode, not only how, but also why.
+- [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms) - 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系 ![img](https://img.shields.io/github/stars/sisterAn/JavaScript-Algorithms)
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings ![img](https://img.shields.io/github/stars/trekhleb/javascript-algorithms)
 - [leetcode](https://leetcode.com/) - Algorithm learning platform
 - [leetcode-cn](https://leetcode-cn.com/) - Chinese site of leetcode

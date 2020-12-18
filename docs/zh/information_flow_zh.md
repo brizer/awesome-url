@@ -13,6 +13,7 @@
 # 算法
 
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子。
+- [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms) - 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系 ![img](https://img.shields.io/github/stars/sisterAn/JavaScript-Algorithms)
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - javascript实现各种算法的例子及相关拓展阅读 ![img](https://img.shields.io/github/stars/trekhleb/javascript-algorithms)
 - [leetcode](https://leetcode.com/) - 算法学习平台
 - [leetcode-cn](https://leetcode-cn.com/) - leetcode的中文站点
