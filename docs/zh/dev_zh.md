@@ -56,6 +56,7 @@
 
 ## 插件
 
+- [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - chrome浏览器扩展官方示例集合 ![img](https://img.shields.io/github/stars/GoogleChrome/chrome-extensions-samples)
 - [vscode-extension-samples](https://github.com/Microsoft/vscode-extension-samples) - 微软官方的vscode简单实例合集 ![img](https://img.shields.io/github/stars/Microsoft/vscode-extension-samples)
 - [vscode-stories](https://github.com/benawad/vscode-stories) - 分享vscode代码片段的插件 ![img](https://img.shields.io/github/stars/benawad/vscode-stories)
 - [vscode-wakatime](https://github.com/wakatime/vscode-wakatime) - 统计编码时间的vscode插件 ![img](https://img.shields.io/github/stars/wakatime/vscode-wakatime)

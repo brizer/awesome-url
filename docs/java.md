@@ -9,6 +9,10 @@
 
 - [arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba
 
+## Image
+
+- [zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android ![img](https://img.shields.io/github/stars/zxing/zxing)
+
 ## SDK
 
 - [JustAuth](https://github.com/justauth/JustAuth) -  Login, so easy! ![img](https://img.shields.io/github/stars/justauth/JustAuth)
