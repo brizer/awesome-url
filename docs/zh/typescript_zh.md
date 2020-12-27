@@ -33,4 +33,5 @@
 
 ## 类型
 
+- [type-challenges](https://github.com/type-challenges/type-challenges) - 在线类型挑战题，有大量很好的类型方法 ![img](https://img.shields.io/github/stars/type-challenges/type-challenges)
 - [utility-types](https://github.com/piotrwitek/utility-types) - 一些有用的types的util

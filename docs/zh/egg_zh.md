@@ -12,6 +12,7 @@
 - [egg-vue-webpack-boilerplate](https://github.com/easy-team/egg-vue-webpack-boilerplate) - Egg Vue 服务端渲染
 - [eshop-server](https://github.com/layverns/eshop-server) - 网易严选桌面端网页应用的相关restful api服务器接口，基于egg/mysql/sequelize
 - [examples](https://github.com/eggjs/examples) - 官方各个examples
+- [youdidao-unmanned-shop](https://github.com/lay-zhou/youdidao-unmanned-shop) - 一个完整电商系统包含h5、管理后台和后端，基于egg/typescript/react/taro/graphql ![img](https://img.shields.io/github/stars/lay-zhou/youdidao-unmanned-shop)
 - [zanePerfor](https://github.com/wangweianger/zanePerfor) - 前端性能监控系统,消息队列,高可用,集群等相关架构
 
 

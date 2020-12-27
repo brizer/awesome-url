@@ -11,6 +11,7 @@
 - [egg-vue-webpack-boilerplate](https://github.com/easy-team/egg-vue-webpack-boilerplate) - Egg Vue Server Side Render
 - [eshop-server](https://github.com/layverns/eshop-server) - shop website api baseon egg
 - [examples](https://github.com/eggjs/examples) - Store all egg examples in one place
+- [youdidao-unmanned-shop](https://github.com/lay-zhou/youdidao-unmanned-shop) - youdidao-unmanned-shop ![img](https://img.shields.io/github/stars/lay-zhou/youdidao-unmanned-shop)
 - [zanePerfor](https://github.com/wangweianger/zanePerfor) - web analysis system, build by egg
 
 

@@ -26,6 +26,7 @@
 - [react-hooks-typescript-realworld](https://github.com/chagweyh/react-hooks-typescript-realworld) - real world项目，基于react/hooks/typescript/useReducer，非常不错 ![img](https://img.shields.io/github/stars/chagweyh/react-hooks-typescript-realworld)
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React同构项目模板工程，有道精品课web端基于此 ![img](https://img.shields.io/github/stars/kriasoft/react-starter-kit)
 - [webiny-js](https://github.com/webiny/webiny-js) - Serverless CMS系统，基于GraphQL/React/Node.js/AWS Lambda)
+- [youdidao-unmanned-shop](https://github.com/lay-zhou/youdidao-unmanned-shop) - 一个完整电商系统包含h5、管理后台和后端，基于egg/typescript/react/taro/graphql ![img](https://img.shields.io/github/stars/lay-zhou/youdidao-unmanned-shop)
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - 基于React-Native的知乎日报
 
 ## Class

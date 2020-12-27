@@ -34,4 +34,5 @@
 
 ## Types
 
+- [type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge ![img](https://img.shields.io/github/stars/type-challenges/type-challenges)
 - [utility-types](https://github.com/piotrwitek/utility-types) - Collection of utility types, complementing TypeScript built-in mapped types and aliases (think "lodash" for static types).

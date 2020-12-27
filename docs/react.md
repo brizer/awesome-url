@@ -26,6 +26,7 @@
 - [react-hooks-typescript-realworld](https://github.com/chagweyh/react-hooks-typescript-realworld) - Exemplary real world application built with React Hooks + Typescript ![img](https://img.shields.io/github/stars/chagweyh/react-hooks-typescript-realworld)
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync) ![img](https://img.shields.io/github/stars/kriasoft/react-starter-kit)
 - [webiny-js](https://github.com/webiny/webiny-js) - Serverless CMS (GraphQL + React + Node.js + AWS Lambda)
+- [youdidao-unmanned-shop](https://github.com/lay-zhou/youdidao-unmanned-shop) - youdidao-unmanned-shop ![img](https://img.shields.io/github/stars/lay-zhou/youdidao-unmanned-shop)
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - Zhihu Daily App based on React-Native
 
 
