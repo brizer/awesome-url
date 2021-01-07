@@ -19,6 +19,7 @@
 - [cookie-session](https://github.com/expressjs/cookie-session) - Simple cookie-based session middleware
 - [express-fileupload](https://github.com/richardgirges/express-fileupload) - Simple express file upload middleware that wraps around busboy
 - [express-healthcheck](https://github.com/lennym/express-healthcheck) - Super-simple healthcheck middleware for express ![img](https://img.shields.io/github/stars/lennym/express-healthcheck)
+- [express-rate-limit](https://www.npmjs.com/package/express-rate-limit) - rate-limiting middleware for Express
 - [helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
     - [article to descripte it](https://juejin.im/post/5a24fd8f51882509e5438247)
 - [method-override](https://github.com/expressjs/method-override) - Override HTTP verbs.
@@ -33,5 +34,4 @@
     - [source code analysis of express](https://github.com/FunnyLiu/express/tree/readsource)
 - [express-interceptor](https://github.com/axiomzen/express-interceptor) - A tiny interceptor of responses for Express
 - [express-mung](https://github.com/richardschneider/express-mung) - Express response transformations (or make until no good)
-- [express-rate-limit](https://www.npmjs.com/package/express-rate-limit) - rate-limiting middleware for Express
 - [SwaggerUIExpress](https://www.npmjs.com/package/swagger-ui-express) - A middleware to add swagger document ui to express 
