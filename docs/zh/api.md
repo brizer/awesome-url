@@ -2,6 +2,7 @@
 
 - [AntDesign](https://ant.design/docs/react/introduce-cn) - React UI
 - [AntTask](https://ant.apache.org/manual/) - Apache Ant 任务 API
+- [ApolloClient](https://www.apollographql.com/docs/react/api/core/ApolloClient/#gatsby-focus-wrapper) - Apollo Client文档
 - [babel](https://babeljs.io/docs/en/) - babal 的 API
 - [chrome-extension-manifest](https://developer.chrome.com/extensions/manifest) - chrome扩展的manifest文件配置
 - [devdocs](https://devdocs.io/) - 非常好用的免费API搜索工具

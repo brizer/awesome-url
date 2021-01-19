@@ -2,6 +2,7 @@
 
 - [AntDesign](https://ant.design/docs/react/introduce-cn) - React UI
 - [AntTask](https://ant.apache.org/manual/) - Apache Ant Task API
+- [ApolloClient](https://www.apollographql.com/docs/react/api/core/ApolloClient/#gatsby-focus-wrapper) - apollo client docs
 - [babel](https://babeljs.io/docs/en/) - babal api
 - [chrome-extension-manifest](https://developer.chrome.com/extensions/manifest) - manifest of Chrome extension
 - [devdocs](https://devdocs.io/) - A free API search tool
