@@ -18,6 +18,7 @@
 - [jira_clone](https://github.com/oldboyxx/jira_clone) - jira-like tool，based on typescript/express/react/reacthook/postgres ![img](https://img.shields.io/github/stars/oldboyxx/jira_clone)
 - [kite](https://github.com/maoxiaoquan/kite) - <g-emoji class="g-emoji" alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji> front end use vue ssr, admin backend use react spa and node, mysql.
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener, FED is build by React/Redux/Styled-components
+- [majestic](https://github.com/Raathigesh/majestic) -  Zero config GUI for Jest ![img](https://img.shields.io/github/stars/Raathigesh/majestic)
 - [proshop_mern](https://github.com/bradtraversy/proshop_mern) - Shopping cart built with MERN &amp; Redux ![img](https://img.shields.io/github/stars/bradtraversy/proshop_mern)
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [react-antd-admin](https://github.com/liuguanhua/react-antd-admin) - admin based on react hooks/typescript/antd/dva
