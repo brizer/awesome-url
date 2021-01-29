@@ -4,6 +4,7 @@
 
 - [accounts](https://github.com/accounts-js/accounts) - 鉴权及账号管理模块，基于graphql或restful ![img](https://img.shields.io/github/stars/accounts-js/accounts)
 - [graphqljs](https://github.com/octokit/graphql.js/) - Github的graphQL风格api封装 ![img](https://img.shields.io/github/stars/octokit/graphql.js/)
+- [majestic](https://github.com/Raathigesh/majestic) - Jest的GUI ![img](https://img.shields.io/github/stars/Raathigesh/majestic)
 - [youdidao-unmanned-shop](https://github.com/lay-zhou/youdidao-unmanned-shop) - 一个完整电商系统包含h5、管理后台和后端，基于egg/typescript/react/taro/graphql ![img](https://img.shields.io/github/stars/lay-zhou/youdidao-unmanned-shop)
 
 
@@ -27,3 +28,4 @@
 ## 工具链路
 
 - [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 通过schema生成代码 ![img](https://img.shields.io/github/stars/dotansimha/graphql-code-generator)
+- [type-graphql](https://github.com/MichalLytek/type-graphql) - 通过装饰器和class来创建schema和resolver ![img](https://img.shields.io/github/stars/MichalLytek/type-graphql)
