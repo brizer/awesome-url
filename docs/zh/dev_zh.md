@@ -2,6 +2,16 @@
 
 - [zeit](https://zeit.co/dashboard) - 基于github或gitlab内容，免费提供服务器和域名部署静态文件
 
+
+## 接口管理
+
+- [APIJSON](https://github.com/Tencent/APIJSON) - 腾讯开源的接口管理平台 ![img](https://img.shields.io/github/stars/Tencent/APIJSON)
+- [Eolinker](https://www.eolinker.com/#/?status=link-jump) - 闭源接口管理平台
+- [nei](https://github.com/x-orpheus/nei) - 网易开源NEI 接口管理平台 源代码 ![img](https://img.shields.io/github/stars/x-orpheus/nei)
+- [rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
+- [yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 ![img](https://img.shields.io/github/stars/YMFE/yapi)
+
+
 ## 画图工具
 
 - [Bigjpg](https://bigjpg.com/) - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片
@@ -61,6 +71,10 @@
 - [vscode-stories](https://github.com/benawad/vscode-stories) - 分享vscode代码片段的插件 ![img](https://img.shields.io/github/stars/benawad/vscode-stories)
 - [vscode-wakatime](https://github.com/wakatime/vscode-wakatime) - 统计编码时间的vscode插件 ![img](https://img.shields.io/github/stars/wakatime/vscode-wakatime)
     - [源码分析](https://github.com/FunnyLiu/vscode-wakatime/tree/readsource)
+
+## 代码片段
+
+- [vue-vscode-snippets](https://github.com/sdras/vue-vscode-snippets) - Vue的vscode代码片段扩展 ![img](https://img.shields.io/github/stars/sdras/vue-vscode-snippets)
 
 ## 测试
 

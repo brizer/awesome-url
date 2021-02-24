@@ -2,6 +2,16 @@
 
 - [zeit](https://zeit.co/dashboard) - based on github/gitlab, deploy project on server free.
 
+
+## API
+
+- [APIJSON](https://github.com/Tencent/APIJSON) - A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs. ![img](https://img.shields.io/github/stars/Tencent/APIJSON)
+- [Eolinker](https://www.eolinker.com/#/?status=link-jump) - not free api management
+- [nei](https://github.com/x-orpheus/nei) - NEI 接口管理平台 源代码 ![img](https://img.shields.io/github/stars/x-orpheus/nei)
+- [rap2-delos](https://github.com/thx/rap2-delos) - request management system build by alibaba
+- [yapi](https://github.com/YMFE/yapi) - request management system ![img](https://img.shields.io/github/stars/YMFE/yapi)
+
+
 ## Canvas tools
 
 - [Bigjpg](https://bigjpg.com/) - zoom picture use AI for loseless.
@@ -58,6 +68,10 @@
 - [vscode-stories](https://github.com/benawad/vscode-stories) - Stories for VSCode ![img](https://img.shields.io/github/stars/benawad/vscode-stories)
 - [vscode-wakatime](https://github.com/wakatime/vscode-wakatime) - Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. ![img](https://img.shields.io/github/stars/wakatime/vscode-wakatime)
     - [source analysis](https://github.com/FunnyLiu/vscode-wakatime/tree/readsource)
+
+## Snippets
+
+- [vue-vscode-snippets](https://github.com/sdras/vue-vscode-snippets) - These snippets were built to supercharge my workflow in the most seamless manner possible. ![img](https://img.shields.io/github/stars/sdras/vue-vscode-snippets)
 
 ## Test
 
