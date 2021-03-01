@@ -6,5 +6,5 @@
 - [Parallels](https://www.parallels.cn/)
 - [PicGo](https://github.com/Molunerfinn/PicGo) - Pic upload tools, for github Graph-bed
 - [Thor](https://github.com/gbammc/Thor) - Switch application ASAP
-  
+- [MacWk - 精品mac软件下载](https://www.macwk.com/) - mac app download
 - [makepoluo](https://www.macbl.com/) - mac app download free

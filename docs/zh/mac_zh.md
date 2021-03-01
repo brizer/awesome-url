@@ -6,5 +6,5 @@
 - [Parallels](https://www.parallels.cn/) -  Mac和Windows虚拟化|管理Mac|VDI和RDS解决方案
 - [PicGo](https://github.com/Molunerfinn/PicGo) - 针对github图床的图片上传工具
 - [Thor](https://github.com/gbammc/Thor) - 尽可能快的切换APP
-
+- [MacWk - 精品mac软件下载](https://www.macwk.com/) - macAPP 免费下载
 - [马可菠萝](https://www.macbl.com/) - macAPP 免费下载

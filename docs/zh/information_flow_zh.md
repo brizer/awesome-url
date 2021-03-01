@@ -22,6 +22,7 @@
 
 # 前端
 
+- [bestofjs-webui](https://github.com/bestofjs/bestofjs-webui) -  前端圈各流行的框架和库整理展示 ![img](https://img.shields.io/github/stars/bestofjs/bestofjs-webui)
 - [chrome dev blog](https://web.dev/blog/) - 谷歌开发者团队博客
 - [CNode](https://cnodejs.org/) - NodeJS 中文社区
 - [deno](https://deno.js.cn/) - Deno中文社区
@@ -52,6 +53,15 @@
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - 系统设计学习之路 ![img](https://img.shields.io/github/stars/donnemartin/system-design-primer)
 - [web-skills](https://github.com/andreasbm/web-skills) - web开发者学习路线及相应资源链接，所有知识点
 - [understand-nodejs](https://github.com/theanarkh/understand-nodejs) - 通过源码分析nodejs原理 ![img](https://img.shields.io/github/stars/theanarkh/understand-nodejs)
+
+
+
+# 网盘资源相关
+
+- [大力盘 - 网盘搜索引擎](https://www.dalipan.com/#/)
+- [百度云网盘资源合集 - 玉白盘](https://www.yubaipan.com/search)
+
+
 
 
 # PPT

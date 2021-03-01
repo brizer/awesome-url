@@ -25,6 +25,7 @@
 
 # FED
 
+- [bestofjs-webui](https://github.com/bestofjs/bestofjs-webui) -  A place to find the best components to build amazing web applications. The best of JavaScript! ![img](https://img.shields.io/github/stars/bestofjs/bestofjs-webui)
 - [chrome dev blog](https://web.dev/blog/) - google developer blog
 - [CNode](https://cnodejs.org/) - NodeJS Chinese community
 - [deno](https://deno.js.cn/) - deno chinese community
@@ -54,6 +55,12 @@
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. ![img](https://img.shields.io/github/stars/donnemartin/system-design-primer)
 - [web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [understand-nodejs](https://github.com/theanarkh/understand-nodejs) - source analysis of node ![img](https://img.shields.io/github/stars/theanarkh/understand-nodejs)
+
+
+# NetDist
+
+- [大力盘 - 网盘搜索引擎](https://www.dalipan.com/#/)
+- [百度云网盘资源合集 - 玉白盘](https://www.yubaipan.com/search)
 
 # PPT
 - [from-coder-to-expert](https://github.com/FunnyLiu/from_coder_to_expert) - Many ppt examples of technical architecture, learn to make a speech ppt
