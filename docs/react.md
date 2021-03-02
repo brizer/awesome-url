@@ -124,6 +124,7 @@
     - [a chrome extension based on react hooks and typescript, the ui part of it is worth to learning](https://github.com/darkreader/darkreader)
 - [react-dom](https://www.npmjs.com/package/react-dom) - This package serves as the entry point to the DOM and server renderers for React
 - [react-i18next](https://www.npmjs.com/package/react-i18next) - use i18next in react
+- [react-lifecycle-methods-diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram) - Interactive React Lifecycle Methods diagram. ![img](https://img.shields.io/github/stars/wojtekmaj/react-lifecycle-methods-diagram)
 - [react-media](https://github.com/ReactTraining/react-media) - css media queries
 - [react-rdn](https://github.com/bokuweb/react-rnd) - resizable and draggable component, use hooks api
 - [react-router](https://github.com/ReactTraining/react-router) - router for react

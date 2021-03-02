@@ -124,6 +124,7 @@
     - [基于reacthooks和ts构建的浏览器扩展，部分ui可参考](https://github.com/darkreader/darkreader)
 - [react-dom](https://www.npmjs.com/package/react-dom) - 此包用作React的DOM和服务器呈现器的入口点
 - [react-i18next](https://www.npmjs.com/package/react-i18next) - 在react中使用i18next
+- [react-lifecycle-methods-diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram) - react生命周期图解 ![img](https://img.shields.io/github/stars/wojtekmaj/react-lifecycle-methods-diagram)
 - [react-media](https://github.com/ReactTraining/react-media) - css媒介查询
 - [react-rdn](https://github.com/bokuweb/react-rnd) - 可调整大小和可拖动的组件,使用hooks api
 - [react-router](https://github.com/ReactTraining/react-router) - react的路由组件
