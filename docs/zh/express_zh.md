@@ -21,6 +21,7 @@
 - [express-fileupload](https://github.com/richardgirges/express-fileupload) - 文件上传处理中间件
 - [express-healthcheck](https://github.com/lennym/express-healthcheck) - 极简监控检查中间件 ![img](https://img.shields.io/github/stars/lennym/express-healthcheck)
 - [express-rate-limit](https://www.npmjs.com/package/express-rate-limit) - 速率限制中间件
+- [express-velocity](https://github.com/leeluolee/express-velocity) - 渲染velocity模板 ![img](https://img.shields.io/github/stars/leeluolee/express-velocity)
 - [helmet](https://github.com/helmetjs/helmet) - 通过各种http头保护express应用
     - [描述它的文章](https://juejin.im/post/5a24fd8f51882509e5438247)
 - [method-override](https://github.com/expressjs/method-override) - 复写客户端不支持的http的method如put/delete等，中间件

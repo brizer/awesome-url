@@ -20,6 +20,7 @@
 - [express-fileupload](https://github.com/richardgirges/express-fileupload) - Simple express file upload middleware that wraps around busboy
 - [express-healthcheck](https://github.com/lennym/express-healthcheck) - Super-simple healthcheck middleware for express ![img](https://img.shields.io/github/stars/lennym/express-healthcheck)
 - [express-rate-limit](https://www.npmjs.com/package/express-rate-limit) - rate-limiting middleware for Express
+- [express-velocity](https://github.com/leeluolee/express-velocity) - An express wrap for velocity template ![img](https://img.shields.io/github/stars/leeluolee/express-velocity)
 - [helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
     - [article to descripte it](https://juejin.im/post/5a24fd8f51882509e5438247)
 - [method-override](https://github.com/expressjs/method-override) - Override HTTP verbs.
