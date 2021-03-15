@@ -1,5 +1,8 @@
 # React
 
+## Dev tools
+
+- [react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) - This package allows users to jump to local IDE code directly from browser React component by just a simple click ![img](https://img.shields.io/github/stars/zthxxx/react-dev-inspector)
 
 ## Project examples
 

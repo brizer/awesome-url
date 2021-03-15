@@ -9,6 +9,7 @@
 - [kite](https://github.com/maoxiaoquan/kite) - <g-emoji class="g-emoji" alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji> Kite 前台页面是vue ssr服务端渲染、后台页面是react spa、服务层nodejs、mysql编写的一套多权限内容管理系统
 - [mili](https://github.com/shen100/mili) - mili 是一个开源的社区系统，前端基于vue/iview，后端基于node/typescript/nest/typeorm
 - [NeteaseClounWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - 基于vue的云音乐
+- [OnlineJudge](https://github.com/QingdaoU/OnlineJudge) - 在线编程判断题目系统，基于vue/python ![img](https://img.shields.io/github/stars/QingdaoU/OnlineJudge)
 - [quark-h5](https://github.com/huangwei9527/quark-h5) - 基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具
 - [uexam](https://github.com/alvis-u/uexam) - 学之思在线考试系统，支持多种题型：选择题、多选题、判断题、填空题、解答题以及数学公式，包含PC端、小程序端。基于vue/element-ui/vue-element-admin ![img](https://img.shields.io/github/stars/alvis-u/uexam)
 - [vueMusic](https://github.com/xieyezi/vueMusic) - vue做的web音乐App，基于vue/docker/docker-compose/express

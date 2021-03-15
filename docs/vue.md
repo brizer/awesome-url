@@ -9,6 +9,7 @@
 - [kite](https://github.com/maoxiaoquan/kite) - <g-emoji class="g-emoji" alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji> front end use vue ssr, admin backend use react spa and node, mysql.
 - [mili](https://github.com/shen100/mili) - mili is a blog system based on vue/iview/node/typescript/nest/typeorm
 - [NeteaseClounWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - vue NeteaseCloud
+- [OnlineJudge](https://github.com/QingdaoU/OnlineJudge) - open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com ![img](https://img.shields.io/github/stars/QingdaoU/OnlineJudge)
 - [quark-h5](https://github.com/huangwei9527/quark-h5) - h5 page builder build by koa2 + vue2 + vuex
 - [uexam](https://github.com/alvis-u/uexam) - tiku system ![img](https://img.shields.io/github/stars/alvis-u/uexam)
 - [vueMusic](https://github.com/xieyezi/vueMusic) - music h5 build on vue/docker/docker-compose/express

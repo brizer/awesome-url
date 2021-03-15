@@ -1,6 +1,10 @@
 # React
 
 
+## 开发工具
+
+- [react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) - 从浏览器指定组件跳到编辑器 ![img](https://img.shields.io/github/stars/zthxxx/react-dev-inspector)
+
 ## 项目实例
 
 - [AccountSystem](https://github.com/yvanwangl/AccountSystem) - 基于react/dva/react-router/redux/redux-saga/webpack的库存系统 ![img](https://img.shields.io/github/stars/yvanwangl/AccountSystem)
