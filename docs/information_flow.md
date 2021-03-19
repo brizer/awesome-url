@@ -13,6 +13,7 @@
 - [zhihu](https://www.zhihu.com/) - Knowledge question and answer platform in China
 
 
+
 # Algorithm
 
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - English version supported! Crack LeetCode, not only how, but also why.
@@ -22,6 +23,10 @@
 - [leetcode-cn](https://leetcode-cn.com/) - Chinese site of leetcode
 - [lintcode](https://www.lintcode.com/) - Algorithm learning platform
 
+
+# Career Development
+
+- [duibiao](https://duibiao.info/) - rank of IT company in China
 
 # FED
 
@@ -71,6 +76,11 @@
 - [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions &amp; Answers....Coding exercise questions are coming soon!! ![img](https://img.shields.io/github/stars/sudheerj/reactjs-interview-questions)
 - [remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料 ![img](https://img.shields.io/github/stars/greatghoul/remote-working)
 - [super-resume](https://www.wondercv.com/) - generate resume free
+
+
+# Research
+
+- [online download paper](https://tool.yovisun.com/scihub/)
 
 # Health
 

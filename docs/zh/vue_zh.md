@@ -12,14 +12,21 @@
 - [OnlineJudge](https://github.com/QingdaoU/OnlineJudge) - 在线编程判断题目系统，基于vue/python ![img](https://img.shields.io/github/stars/QingdaoU/OnlineJudge)
 - [quark-h5](https://github.com/huangwei9527/quark-h5) - 基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具
 - [uexam](https://github.com/alvis-u/uexam) - 学之思在线考试系统，支持多种题型：选择题、多选题、判断题、填空题、解答题以及数学公式，包含PC端、小程序端。基于vue/element-ui/vue-element-admin ![img](https://img.shields.io/github/stars/alvis-u/uexam)
+- [VueDemo_Sell_Eleme](https://github.com/SimonZhangITer/VueDemo_Sell_Eleme) - 饿了么基于 vue2 ![img](https://img.shields.io/github/stars/SimonZhangITer/VueDemo_Sell_Eleme)
 - [vueMusic](https://github.com/xieyezi/vueMusic) - vue做的web音乐App，基于vue/docker/docker-compose/express
-- [vue-fallowFish](https://github.com/LLZUPUP/vue-fallowFish) - <g-emoji class="g-emoji" alias="tropical_fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f420.png">🐠</g-emoji>vue全家桶仿闲鱼部分布局以及功能实现
+- [vue-fallowFish](https://github.com/LLZUPUP/vue-fallowFish) - vue全家桶仿闲鱼部分布局以及功能实现
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - 基于elementui和vue2.0的后台系统
     - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/) - 相关文档介绍及生态其他组件工程介绍
+- [vue-h5-template](https://github.com/sunniejs/vue-h5-template) - vue搭建移动端h5开发,基于vue-cli4.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建手机端模板脚手架 ![img](https://img.shields.io/github/stars/sunniejs/vue-h5-template)
+- [vue-meituan](https://github.com/zwStar/vue-meituan) - vue+node+mongodb仿美团外卖点餐系统带支付功能 ![img](https://img.shields.io/github/stars/zwStar/vue-meituan)
 - [vue-mobx-todolist](https://github.com/FunnyLiu/vue-mobx-todolist) - 基于vue/mobx/mobx-vue 来完成todolist，由brizer开发，所有数据交由store管理。
+- [vue-netease-music](https://github.com/sl1673495/vue-netease-music) - 🎵 基于 Vue2、Vue-CLI3 的高仿网易云 mac 客户端播放器（PC） Online Music Player ![img](https://img.shields.io/github/stars/sl1673495/vue-netease-music)
 - [vue-qqmusic](https://github.com/Panda-Hope/vue-qqmusic) - Vue全家桶+Mint-Ui打造高仿QQMusic，搭配详细说明
+- [vue-sell](https://github.com/ustbhuangyi/vue-sell) - Vue.js高仿饿了么外卖App课程源码  ![img](https://img.shields.io/github/stars/ustbhuangyi/vue-sell)
 - [vue-todolist](https://github.com/FunnyLiu/vue-todolist) - vue的todolist，比官方版靠谱，由brizer开发完成，完全按照单向数据流和事件通信
+- [vue-toutiao](https://github.com/hcy1996/vue-toutiao) - vue.js 今日头条 ![img](https://img.shields.io/github/stars/hcy1996/vue-toutiao)
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) -  后台项目，基于vue3/antDesignVue/typescript ![img](https://img.shields.io/github/stars/anncwb/vue-vben-admin)
+- [vue-WeChat](https://github.com/zhaohaodang/vue-WeChat) - 一款基于Vue2.0高仿微信App的单页应用 ![img](https://img.shields.io/github/stars/zhaohaodang/vue-WeChat)
 - [X-WebDesktop-Vue](https://github.com/OXOYO/X-WebDesktop-Vue) - 基于 Vue &amp; Koa 的 WebDesktop 视窗系统
 
 ## 单元测试

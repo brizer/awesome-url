@@ -12,15 +12,27 @@
 - [OnlineJudge](https://github.com/QingdaoU/OnlineJudge) - open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com ![img](https://img.shields.io/github/stars/QingdaoU/OnlineJudge)
 - [quark-h5](https://github.com/huangwei9527/quark-h5) - h5 page builder build by koa2 + vue2 + vuex
 - [uexam](https://github.com/alvis-u/uexam) - tiku system ![img](https://img.shields.io/github/stars/alvis-u/uexam)
+- [VueDemo_Sell_Eleme](https://github.com/SimonZhangITer/VueDemo_Sell_Eleme) - ele by vue2 ![img](https://img.shields.io/github/stars/SimonZhangITer/VueDemo_Sell_Eleme)
 - [vueMusic](https://github.com/xieyezi/vueMusic) - music h5 build on vue/docker/docker-compose/express
 - [vue-fallowFish](https://github.com/LLZUPUP/vue-fallowFish) - <g-emoji class="g-emoji" alias="tropical_fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f420.png">🐠</g-emoji>make fallowFish webapp by vue
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - Vue 2.0 admin management system template based on elementui
     - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/) - Introduction of related documents and other components of the ecology
+- [vue-h5-template](https://github.com/sunniejs/vue-h5-template) - vue搭建移动端开发,基于vue-cli4.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建手机端模板脚手架 ![img](https://img.shields.io/github/stars/sunniejs/vue-h5-template)
+- [vue-meituan](https://github.com/zwStar/vue-meituan) - vue+node+mongodb meituan ![img](https://img.shields.io/github/stars/zwStar/vue-meituan)
 - [vue-mobx-todolist](https://github.com/FunnyLiu/vue-mobx-todolist) - todolist build by vue and mobx
+- [vue-netease-music](https://github.com/sl1673495/vue-netease-music) -（PC） Online Music Player based on vue2/vue-cli ![img](https://img.shields.io/github/stars/sl1673495/vue-netease-music)
 - [vue-qqmusic](https://github.com/Panda-Hope/vue-qqmusic) - QQMusic web app build by Vue+Mint-Ui
+- [vue-sell](https://github.com/ustbhuangyi/vue-sell) - ele app based on vue ![img](https://img.shields.io/github/stars/ustbhuangyi/vue-sell)
 - [vue-todolist](https://github.com/FunnyLiu/vue-todolist) - todolist of vue, with the one-way data flow and event.
+- [vue-toutiao](https://github.com/hcy1996/vue-toutiao) - toutiao based on vue2 ![img](https://img.shields.io/github/stars/hcy1996/vue-toutiao)
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) -  A vue3 style Admin based on Vite vue3.0, vite, ant design vue 2.x, typescript，Efforts to update in progress... ![img](https://img.shields.io/github/stars/anncwb/vue-vben-admin)
+- [vue-WeChat](https://github.com/zhaohaodang/vue-WeChat) - wechat single app based on vue2 ![img](https://img.shields.io/github/stars/zhaohaodang/vue-WeChat)
 - [X-WebDesktop-Vue](https://github.com/OXOYO/X-WebDesktop-Vue) - The WebDesktop system based on Vue
+
+## Project example by vue3
+
+- [newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - mail SPA based on Vue 3.0 + Vue-Router 4.0 + Vuex 4.0 + Vant 3.0。 ![img](https://img.shields.io/github/stars/newbee-ltd/newbee-mall-vue3-app)
+- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) -  A vue3 style Admin based on Vite2, vue3.0, ant-design-vue 2.x, typescript，vuex,vue-router,Efforts to update in progress... ![img](https://img.shields.io/github/stars/anncwb/vue-vben-admin)
 
 ## Unit test
 

@@ -20,6 +20,10 @@
 - [lintcode](https://www.lintcode.com/) - 算法学习平台
 
 
+# 职业发展
+
+- [duibiao](https://duibiao.info/) - 各个大厂职级对标
+
 # 前端
 
 - [bestofjs-webui](https://github.com/bestofjs/bestofjs-webui) -  前端圈各流行的框架和库整理展示 ![img](https://img.shields.io/github/stars/bestofjs/bestofjs-webui)
@@ -75,6 +79,10 @@
 - [remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料 ![img](https://img.shields.io/github/stars/greatghoul/remote-working)
 - [超级简历](https://www.wondercv.com/) - 免费简历生成器
 
+
+# 科研 
+
+- [online download paper](https://tool.yovisun.com/scihub/) - 在线下载ieee等付费论文
 
 # 健康
 
