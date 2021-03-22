@@ -35,10 +35,6 @@
 - [youdidao-unmanned-shop](https://github.com/lay-zhou/youdidao-unmanned-shop) - 一个完整电商系统包含h5、管理后台和后端，基于egg/typescript/react/taro/graphql ![img](https://img.shields.io/github/stars/lay-zhou/youdidao-unmanned-shop)
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - 基于React-Native的知乎日报
 
-## 项目实例-vue3
-
-- [newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城Vue3 版本，技术栈为 Vue 3.0 + Vue-Router 4.0 + Vuex 4.0 + Vant 3.0。 ![img](https://img.shields.io/github/stars/newbee-ltd/newbee-mall-vue3-app)
-- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) -  一个后台系统，基于Vite2, vue3.0, ant-design-vue 2.x, typescript，vuex,vue-router,持续更新中 ![img](https://img.shields.io/github/stars/anncwb/vue-vben-admin)
 
 ## Class
 
@@ -51,6 +47,7 @@
 
 ## 高阶组件
 
+- [react-loadable](https://github.com/jamiebuilds/react-loadable) - 高阶组件用来动态异步加载组件 ![img](https://img.shields.io/github/stars/jamiebuilds/react-loadable)
 - [recompose](https://github.com/acdlite/recompose) - 高阶组件最佳实践 ![img](https://img.shields.io/github/stars/acdlite/recompose)
 
 ## 状态管理

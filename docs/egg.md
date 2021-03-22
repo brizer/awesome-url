@@ -12,6 +12,8 @@
 - [eshop-server](https://github.com/layverns/eshop-server) - shop website api baseon egg
 - [examples](https://github.com/eggjs/examples) - Store all egg examples in one place
 - [ssr](https://github.com/ykfe/ssr) - SSR框架，兼容react/vue/vue3，看起来非常强力 ![img](https://img.shields.io/github/stars/ykfe/ssr)
+    - [code analysis](https://github.com/FunnyLiu/ssr/tree/readsource)
+    - [demo by brizer](https://github.com/FunnyLiu/ssrDemo)
 - [youdidao-unmanned-shop](https://github.com/lay-zhou/youdidao-unmanned-shop) - youdidao-unmanned-shop ![img](https://img.shields.io/github/stars/lay-zhou/youdidao-unmanned-shop)
 - [zanePerfor](https://github.com/wangweianger/zanePerfor) - web analysis system, build by egg
 

@@ -29,6 +29,11 @@
 - [vue-WeChat](https://github.com/zhaohaodang/vue-WeChat) - 一款基于Vue2.0高仿微信App的单页应用 ![img](https://img.shields.io/github/stars/zhaohaodang/vue-WeChat)
 - [X-WebDesktop-Vue](https://github.com/OXOYO/X-WebDesktop-Vue) - 基于 Vue &amp; Koa 的 WebDesktop 视窗系统
 
+## 项目实例-vue3
+
+- [newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城Vue3 版本，技术栈为 Vue 3.0 + Vue-Router 4.0 + Vuex 4.0 + Vant 3.0。 ![img](https://img.shields.io/github/stars/newbee-ltd/newbee-mall-vue3-app)
+- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) -  一个后台系统，基于Vite2, vue3.0, ant-design-vue 2.x, typescript，vuex,vue-router,持续更新中 ![img](https://img.shields.io/github/stars/anncwb/vue-vben-admin)
+
 ## 单元测试
 
 - [jest-serializer-vue](https://github.com/eddyerburgh/jest-serializer-vue) - Jest针对vue的快照序列化工具

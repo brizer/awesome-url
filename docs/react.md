@@ -46,6 +46,7 @@
 
 ## HOC
 
+- [react-loadable](https://github.com/jamiebuilds/react-loadable) - A higher order component for loading components with promises. ![img](https://img.shields.io/github/stars/jamiebuilds/react-loadable)
 - [recompose](https://github.com/acdlite/recompose) - A React utility belt for function components and higher-order components. ![img](https://img.shields.io/github/stars/acdlite/recompose)
 
 ## State manage
