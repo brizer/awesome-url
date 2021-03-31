@@ -31,6 +31,7 @@
 - [create-file-webpack](https://github.com/Appius/create-file-webpack) - 在webpack打包过程中创建文件内容
     - [源码分析，最小的插件，适合入门](https://github.com/FunnyLiu/create-file-webpack/tree/readsource)
     - [可用于生成网站地图sitemap]
+- [hard-source-webpack-plugin](https://github.com/mzgoddard/hard-source-webpack-plugin) - 缓存文件，优化构建速度 ![img](https://img.shields.io/github/stars/mzgoddard/hard-source-webpack-plugin)
 - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin) - 简化html创建和启动服务的插件
 - [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - 分离样式文件，CSS 提取为独立文件，css分离插件
 - [sentry-webpack-plugin](https://github.com/getsentry/sentry-webpack-plugin) - Sentry官方的webpack插件 <a href="https://sentry.io" rel="nofollow">https://sentry.io</a>

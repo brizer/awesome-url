@@ -92,6 +92,10 @@
 - [vuelidate](https://github.com/vuelidate/vuelidate) - 基于数据模型校验表单
 
 
+## SSR
+
+- [vue-server-renderer](https://www.npmjs.com/package/vue-server-renderer) - Vue ssr 渲染， 渲染组件为html
+
 ## 状态管理
 
 

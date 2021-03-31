@@ -31,6 +31,7 @@
 - [create-file-webpack](https://github.com/Appius/create-file-webpack) - The simple webpack plugin to create a file with the particular content at the end of the build process
     - [source analysis](https://github.com/FunnyLiu/create-file-webpack/tree/readsource)
     - [can be used for generate sitemap]
+- [hard-source-webpack-plugin](https://github.com/mzgoddard/hard-source-webpack-plugin) - cache file to reduce the time of building ![img](https://img.shields.io/github/stars/mzgoddard/hard-source-webpack-plugin)
 - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin) - Plugin that simplifies creation of HTML files to serve your bundles
 - [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - Lightweight CSS extraction plugin
 - [sentry-webpack-plugin](https://github.com/getsentry/sentry-webpack-plugin) - Official webpack plugin for Sentry <a href="https://sentry.io" rel="nofollow">https://sentry.io</a>

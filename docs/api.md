@@ -24,6 +24,7 @@
 - [linux command](https://www.runoob.com/linux/linux-command-manual.html) - linux command api
 - [overapi](http://overapi.com/) - API Daquan Navigation
 - [prettier-config](https://prettier.io/docs/en/configuration.html) - prettier beautify code
+- [react](https://reactjs.org/docs/react-api.html) - react api
 - [w3school-css](http://www.w3school.com.cn/cssref/index.asp) - css attribute Daquan
 - [jsdoc](https://jsdoc.app/) - jsdoc API
 - [mathjs-functions](https://mathjs.org/docs/reference/functions.html) - mathjs function api
