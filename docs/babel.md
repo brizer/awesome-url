@@ -21,6 +21,7 @@
 - [@babel/plugin-proposal-class-properties](https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-class-properties) - use properties in class
 - [@babel/plugin-transform-function-name](https://www.npmjs.com/package/@babel/plugin-transform-function-name) - Apply ES2015 function.name semantics to all functions 
 - [@babel/plugin-transform-modules-commonjs](https://www.npmjs.com/package/@babel/plugin-transform-modules-commonjs) - This plugin transforms ES2015 modules to CommonJS.
+- [babel-plugin-bulk-import](https://github.com/madshall/babel-plugin-bulk-import) - Babel plugin for bulk import ![img](https://img.shields.io/github/stars/madshall/babel-plugin-bulk-import)
 - [babel-plugin-import](https://www.npmjs.com/package/babel-plugin-import) - import antd dynamic
 - [babel-plugin-lodash](https://github.com/lodash/babel-plugin-lodash) - Modular Lodash builds without the hassle.
 - [babel-plugin-minify-replace](https://github.com/babel/minify/tree/master/packages/babel-plugin-minify-replace) - replace some string

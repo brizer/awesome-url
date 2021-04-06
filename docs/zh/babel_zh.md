@@ -18,6 +18,7 @@
 - [@babel/plugin-proposal-class-properties](https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-class-properties) - 使用class的属性语法
 - [@babel/plugin-transform-function-name](https://www.npmjs.com/package/@babel/plugin-transform-function-name) - 使用function.name语法的插件
 - [@babel/plugin-transform-modules-commonjs](https://www.npmjs.com/package/@babel/plugin-transform-modules-commonjs) - 将ES2015的模块转为commonjs模块
+- [babel-plugin-bulk-import](https://github.com/madshall/babel-plugin-bulk-import) - glob语法import多文件 ![img](https://img.shields.io/github/stars/madshall/babel-plugin-bulk-import)
 - [babel-plugin-import](https://www.npmjs.com/package/babel-plugin-import) - 动态加载antd
 - [babel-plugin-lodash](https://github.com/lodash/babel-plugin-lodash) - lodash拆分引入的插件，lodash官方提供
 - [babel-plugin-minify-replace](https://github.com/babel/minify/tree/master/packages/babel-plugin-minify-replace) - 转换某些字符串
