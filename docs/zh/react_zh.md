@@ -74,6 +74,7 @@
     - [源码分析](https://github.com/FunnyLiu/chakra-ui/tree/readsource)
 - [draft-js](https://github.com/facebook/draft-js) - 富文本编辑器，由facebook出品
 - [element-react](https://github.com/ElemeFE/element-react) - Element组件的react版本，class风格。
+    - [源码分析](https://github.com/FunnyLiu/element-react/tree/readsource)
 - [fluentui](https://github.com/microsoft/fluentui) - 微软出品的React组件库，基于Typescript/hooks/react ![img](https://img.shields.io/github/stars/microsoft/fluentui)
 - [form-render](https://github.com/alibaba/form-render) - <g-emoji class="g-emoji" alias="surfing_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4.png">🏄</g-emoji> 通过json schema生成antdesign
 - [fulr](https://github.com/Chalarangelo/furl) - 基于Hooks和js的React基础组件库
