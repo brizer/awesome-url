@@ -31,7 +31,7 @@
     - [源码分析](https://github.com/FunnyLiu/koa-views/tree/readsource)
 - [logger](https://github.com/koajs/logger) - 开发风格日志中间件
     - [源码分析](https://github.com/FunnyLiu/logger/tree/readsource)
-- [mount](https://github.com/koajs/mount) - 指定路由挂载koa的app对象或者中间件对象。
+- [mount](https://github.com/koajs/mount) - 指定路由挂载koa的app对象或者中间件对象。可以用来作为koa插件实现。
     - [源码分析](https://github.com/FunnyLiu/mount/tree/readsource)
 - [onerror](https://github.com/koajs/onerror) - 一个koa的错误处理中间件，方式是hack ctx.onerror。
     - [源码分析](https://github.com/FunnyLiu/onerror/tree/readsource)

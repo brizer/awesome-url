@@ -80,6 +80,7 @@
 - [fulr](https://github.com/Chalarangelo/furl) - 基于Hooks和js的React基础组件库
 - [material-ui](https://github.com/mui-org/material-ui) - React组件库，遵循google的Material设计
 - [qrcode.react](https://github.com/zpao/qrcode.react) - 二维码组件 ![img](https://img.shields.io/github/stars/zpao/qrcode.react)
+- [react-circular-progressbar](https://github.com/kevinsqi/react-circular-progressbar) - React环状进度条组件 ![img](https://img.shields.io/github/stars/kevinsqi/react-circular-progressbar)
 - [react-container-query](https://github.com/react-container-query/react-container-query) -  react响应式容器组件 ![img](https://img.shields.io/github/stars/react-container-query/react-container-query)
 - [react-copy-to-clipborad](https://github.com/nkbt/react-copy-to-clipboard) - 基于copy-to-clipboard的复制组件
 - [react-dnd](https://github.com/react-dnd/react-dnd) - react的拖放组件

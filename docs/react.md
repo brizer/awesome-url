@@ -79,6 +79,7 @@
 - [fulr](https://github.com/Chalarangelo/furl) - React basic components based on Hooks and js
 - [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development. Build your own design system, or start with Material Design.
 - [qrcode.react](https://github.com/zpao/qrcode.react) - A &lt;QRCode/&gt; component for use with React. ![img](https://img.shields.io/github/stars/zpao/qrcode.react)
+- [react-circular-progressbar](https://github.com/kevinsqi/react-circular-progressbar) - A circular progressbar component, built with SVG and extensively customizable ![img](https://img.shields.io/github/stars/kevinsqi/react-circular-progressbar)
 - [react-container-query](https://github.com/react-container-query/react-container-query) -  Modular responsive component ![img](https://img.shields.io/github/stars/react-container-query/react-container-query)
 - [react-copy-to-clipborad](https://github.com/nkbt/react-copy-to-clipboard) - copy component based on copy-to-clipboard
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and drop for react
