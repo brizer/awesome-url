@@ -37,7 +37,7 @@
 - [sentry-webpack-plugin](https://github.com/getsentry/sentry-webpack-plugin) - Sentry官方的webpack插件 <a href="https://sentry.io" rel="nofollow">https://sentry.io</a>
 - [size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - ：监控资源体积变化，尽早发现问题
 - [speed-measure-webpack-plugin#readme](https://github.com/stephencookdev/speed-measure-webpack-plugin#readme) - 记录各个loader和插件的耗时，方便排查构建速度
-- [terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) - js最小化 ![img](https://img.shields.io/github/stars/webpack-contrib/terser-webpack-plugin)
+- [terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) - js最小化、多进程开启 ![img](https://img.shields.io/github/stars/webpack-contrib/terser-webpack-plugin)
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - 可视化分析webpack依赖模块大小
 - [webpack-subresource-integrity](https://github.com/waysact/webpack-subresource-integrity) - 使用Subresource Integrity的webbpack插件
 - [write-file-webpack-plugin](https://github.com/gajus/write-file-webpack-plugin) - 使得webpack-dev-server将打包文件写到文件系统中

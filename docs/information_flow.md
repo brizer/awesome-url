@@ -51,6 +51,7 @@
 - [design-patterns-JS](https://github.com/fbeline/design-patterns-JS) - All the 23 (GoF) design patterns implemented in Javascript ![img](https://img.shields.io/github/stars/fbeline/design-patterns-JS)
 - [design-patterns-typescript](https://github.com/RefactoringGuru/design-patterns-typescript) - Design Pattern Examples in TypeScript ![img](https://img.shields.io/github/stars/RefactoringGuru/design-patterns-typescript)
 - [explain-git-with-d3](https://github.com/onlywei/explain-git-with-d3) - Use D3 to visualize simple git branching operations. ![img](https://img.shields.io/github/stars/onlywei/explain-git-with-d3)
+- [git-tips](https://github.com/521xueweihan/git-tips) - Git examples ![img](https://img.shields.io/github/stars/521xueweihan/git-tips)
 - [javascript.info](https://zh.javascript.info/) - A free website to learning modern javascript.
 - [just-react](https://github.com/BetaSu/just-react) -source analysis of React ![img](https://img.shields.io/github/stars/BetaSu/just-react)
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization to challenge and educate!
