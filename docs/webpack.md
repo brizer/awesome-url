@@ -32,6 +32,7 @@
     - [source analysis](https://github.com/FunnyLiu/create-file-webpack/tree/readsource)
     - [can be used for generate sitemap]
 - [hard-source-webpack-plugin](https://github.com/mzgoddard/hard-source-webpack-plugin) - cache file to reduce the time of building ![img](https://img.shields.io/github/stars/mzgoddard/hard-source-webpack-plugin)
+    - [source analysis](https://github.com/FunnyLiu/hard-source-webpack-plugin/tree/readsource)
 - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin) - Plugin that simplifies creation of HTML files to serve your bundles
 - [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - Lightweight CSS extraction plugin
 - [sentry-webpack-plugin](https://github.com/getsentry/sentry-webpack-plugin) - Official webpack plugin for Sentry <a href="https://sentry.io" rel="nofollow">https://sentry.io</a>
@@ -39,6 +40,7 @@
 - [speed-measure-webpack-plugin#readme](https://github.com/stephencookdev/speed-measure-webpack-plugin#readme) - <g-emoji class="g-emoji" alias="stopwatch" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f1.png">⏱</g-emoji> See how fast (or not) your plugins and loaders are, so you can optimise your builds
 - [terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) - Terser Plugin ![img](https://img.shields.io/github/stars/webpack-contrib/terser-webpack-plugin)
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
+- [webpack-manifest-plugin](https://github.com/shellscape/webpack-manifest-plugin) - webpack plugin for generating asset manifests ![img](https://img.shields.io/github/stars/shellscape/webpack-manifest-plugin)
 - [webpack-subresource-integrity](https://github.com/waysact/webpack-subresource-integrity) - Webpack plugin for enabling Subresource Integrity.
 - [write-file-webpack-plugin](https://github.com/gajus/write-file-webpack-plugin) - Forces webpack-dev-server to write bundle files to the file system.
 

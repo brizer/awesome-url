@@ -32,6 +32,7 @@
     - [源码分析，最小的插件，适合入门](https://github.com/FunnyLiu/create-file-webpack/tree/readsource)
     - [可用于生成网站地图sitemap]
 - [hard-source-webpack-plugin](https://github.com/mzgoddard/hard-source-webpack-plugin) - 缓存文件，优化构建速度 ![img](https://img.shields.io/github/stars/mzgoddard/hard-source-webpack-plugin)
+    - [源码分析](https://github.com/FunnyLiu/hard-source-webpack-plugin/tree/readsource)
 - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin) - 简化html创建和启动服务的插件
 - [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - 分离样式文件，CSS 提取为独立文件，css分离插件
 - [sentry-webpack-plugin](https://github.com/getsentry/sentry-webpack-plugin) - Sentry官方的webpack插件 <a href="https://sentry.io" rel="nofollow">https://sentry.io</a>
@@ -39,6 +40,7 @@
 - [speed-measure-webpack-plugin#readme](https://github.com/stephencookdev/speed-measure-webpack-plugin#readme) - 记录各个loader和插件的耗时，方便排查构建速度
 - [terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) - js最小化、多进程开启 ![img](https://img.shields.io/github/stars/webpack-contrib/terser-webpack-plugin)
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - 可视化分析webpack依赖模块大小
+- [webpack-manifest-plugin](https://github.com/shellscape/webpack-manifest-plugin) - 生成静态资源manifest的插件 ![img](https://img.shields.io/github/stars/shellscape/webpack-manifest-plugin)
 - [webpack-subresource-integrity](https://github.com/waysact/webpack-subresource-integrity) - 使用Subresource Integrity的webbpack插件
 - [write-file-webpack-plugin](https://github.com/gajus/write-file-webpack-plugin) - 使得webpack-dev-server将打包文件写到文件系统中
 
