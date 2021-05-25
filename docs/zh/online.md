@@ -51,6 +51,7 @@
 - [transform](https://transform.tools/html-to-jsx) - 常用转换器如html转成jsx等
 - [Shields.io](https://shields.io/) - 开源库各种图标集合
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - 你的github账号的信息集合
+- [github-memory](https://githubmemory.com/@brizer) - github个人动态汇总，切换用户名即可获取全部动态详情
 - [vultr](https://www.vultr.com/) - VPS服务器
 - [wappalyzer](https://github.com/AliasIO/wappalyzer) - 判断一个web网站用了什么技术栈的在线查询工具
 - [web.dev](https://web.dev/measure) - 由谷歌推出的检测网站性能和体验的测试工具
