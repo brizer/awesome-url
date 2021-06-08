@@ -33,6 +33,7 @@
     - [source analysis](https://github.com/FunnyLiu/egg-multipart/tree/readsource)
 - [egg-onerror](https://github.com/eggjs/egg-onerror) - error handler for egg
     - [source analysis](https://github.com/FunnyLiu/egg-onerror/tree/readsource)
+- [egg-mysql](https://github.com/eggjs/egg-mysql) - MySQL plugin for egg ![img](https://img.shields.io/github/stars/eggjs/egg-mysql)
 - [egg-router](https://github.com/eggjs/egg-router) - router for eggjs, fork from koa-router with some additional features
     - [source analysis](https://github.com/FunnyLiu/egg-router/tree/readsource)
 - [egg-schedule](https://github.com/eggjs/egg-schedule) - Schedule plugin for egg

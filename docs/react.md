@@ -4,6 +4,10 @@
 
 - [react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) - This package allows users to jump to local IDE code directly from browser React component by just a simple click ![img](https://img.shields.io/github/stars/zthxxx/react-dev-inspector)
 
+## Performance
+
+- [why-did-you-render#readme](https://github.com/welldone-software/why-did-you-render#readme) - why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.) ![img](https://img.shields.io/github/stars/welldone-software/why-did-you-render#readme)
+
 ## Project examples
 
 - [AccountSystem](https://github.com/yvanwangl/AccountSystem) - An account system build by react/dva/react-router/redux/redux-saga/webpack ![img](https://img.shields.io/github/stars/yvanwangl/AccountSystem)
@@ -92,6 +96,7 @@
 - [react-keep-alive](https://github.com/StructureBuilder/react-keep-alive) - A component that maintains component state and avoids repeated re-rendering.
 - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - Monaco Editor for React.
 - [react-tippy](https://www.npmjs.com/package/react-tippy) - a tippy component
+- [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data ![img](https://img.shields.io/github/stars/bvaughn/react-virtualized)
 - [uform](https://github.com/alibaba/uform) - ⚡React High Performance Form (JSON Schema Form) Solution For Enterprise.
 - [uiw](https://github.com/uiwjs/uiw) - <g-emoji class="g-emoji" alias="atom_symbol" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/269b.png">⚛️</g-emoji><a class="user-mention" data-hovercard-type="organization" data-hovercard-url="/orgs/uiwjs/hovercard" href="https://github.com/uiwjs">@uiwjs</a> A high quality UI Toolkit, A Component Library for React 16+.
 

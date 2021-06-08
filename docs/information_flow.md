@@ -75,6 +75,7 @@
 
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - Basic knowledge required for technical interview, Leetcode, computer operating system, computer network, system design, Java, Python, C++ ![img](https://img.shields.io/github/stars/CyC2018/CS-Notes)
 - [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions &amp; Answers....Coding exercise questions are coming soon!! ![img](https://img.shields.io/github/stars/sudheerj/reactjs-interview-questions)
+- [react-resume-site](https://github.com/hua1995116/react-resume-site) - resume written by markdown ![img](https://img.shields.io/github/stars/hua1995116/react-resume-site)
 - [remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料 ![img](https://img.shields.io/github/stars/greatghoul/remote-working)
 - [super-resume](https://www.wondercv.com/) - generate resume free
 

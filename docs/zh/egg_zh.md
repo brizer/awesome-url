@@ -20,6 +20,7 @@
 
 
 
+
 ## 插件
 
 - [egg-cookies](https://github.com/eggjs/egg-cookies) - egg的cookie模块，egg内部集成
@@ -33,6 +34,7 @@
     - [源码分析](https://github.com/FunnyLiu/egg-multipart/tree/readsource)
 - [egg-onerror](https://github.com/eggjs/egg-onerror) - egg的错误处理，egg内部集成
     - [源码分析](https://github.com/FunnyLiu/egg-onerror/tree/readsource)
+- [egg-mysql](https://github.com/eggjs/egg-mysql) - 官方mysql插件，一个最简单的插件 ![img](https://img.shields.io/github/stars/eggjs/egg-mysql)
 - [egg-router](https://github.com/eggjs/egg-router) - eggjs的router，从koa-router中fork出来，增加了些功能。被egg-core依赖。
     - [源码分析](https://github.com/FunnyLiu/egg-router/tree/readsource)
 - [egg-schedule](https://github.com/eggjs/egg-schedule) - egg的定时任务插件，egg内部集成

@@ -13,3 +13,4 @@
 
 - [ng-devui](https://github.com/DevCloudFE/ng-devui) - 华为云DevCloud，基于Angular的企业级前端组件库；DevUI components based on Angular ![img](https://img.shields.io/github/stars/DevCloudFE/ng-devui)
 - [ng-nest](https://github.com/NG-NEST/ng-nest) - NG-NEST 是一个开源的 Web 应用程序框架，基于 Angular 和 Nest ，主要用于研发企业级中后台产品 ![img](https://img.shields.io/github/stars/NG-NEST/ng-nest)
+- [ngx-virtual-scroller](https://github.com/rintoj/ngx-virtual-scroller) - 无限虚拟滚动列表 ![img](https://img.shields.io/github/stars/rintoj/ngx-virtual-scroller)

@@ -5,6 +5,10 @@
 
 - [react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) - 从浏览器指定组件跳到编辑器 ![img](https://img.shields.io/github/stars/zthxxx/react-dev-inspector)
 
+## 性能
+
+- [why-did-you-render#readme](https://github.com/welldone-software/why-did-you-render#readme) - 知道react为什么重新render，方便排查性能 ![img](https://img.shields.io/github/stars/welldone-software/why-did-you-render#readme)
+
 ## 项目实例
 
 - [AccountSystem](https://github.com/yvanwangl/AccountSystem) - 基于react/dva/react-router/redux/redux-saga/webpack的库存系统 ![img](https://img.shields.io/github/stars/yvanwangl/AccountSystem)
@@ -93,6 +97,7 @@
 - [react-keep-alive](https://github.com/StructureBuilder/react-keep-alive) - keep-alive的react实现，基于React.createPortal API
 - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - vscode编辑器组件monaco的react版
 - [react-tippy](https://www.npmjs.com/package/react-tippy) - 一个提示组件
+- [react-virtualized](https://github.com/bvaughn/react-virtualized) - 虚拟无限滚动列表 ![img](https://img.shields.io/github/stars/bvaughn/react-virtualized)
 - [uform](https://github.com/alibaba/uform) - React表单方案，配合antdesign
 - [uiw](https://github.com/uiwjs/uiw) - <g-emoji class="g-emoji" alias="atom_symbol" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/269b.png">⚛️</g-emoji><a class="user-mention" data-hovercard-type="organization" data-hovercard-url="/orgs/uiwjs/hovercard" href="https://github.com/uiwjs">@uiwjs</a> 组件库，基于React 16+，Class 风格.
 

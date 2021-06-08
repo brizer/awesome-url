@@ -73,6 +73,7 @@
 - [vue-trend](https://github.com/QingWei-Li/vue-trend) - 趋势图组件
 - [vue-video-player](https://github.com/surmon-china/vue-video-player) - 播放器组件，基于videojs ![img](https://img.shields.io/github/stars/surmon-china/vue-video-player)
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - 无限滚动组件
+- [vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list) - 无限滚动列表组件 ![img](https://img.shields.io/github/stars/tangbc/vue-virtual-scroll-list)
 - [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue拖拽组件，基于Sortable.js
 - [vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - 暗黑风格组件库，基于rollup
 - [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker) - 日期选择器组件
