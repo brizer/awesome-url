@@ -22,6 +22,7 @@
 
 - [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [docker-laravel-vuejs](https://github.com/gliterd/docker-laravel-vuejs) - <g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">🌟</g-emoji> <g-emoji class="g-emoji" alias="dart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png">🎯</g-emoji> <g-emoji class="g-emoji" alias="newspaper" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f0.png">📰</g-emoji> Dockerized Blog + Forum + REST API + App using Laravel, Vue.js
+- [docker-pm2](https://github.com/keymetrics/docker-pm2) -  Official Docker Image for PM2 runtime ![img](https://img.shields.io/github/stars/keymetrics/docker-pm2)
 - [docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
 - [best practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) - best practices in official docker website
 - [node-docker-good-defaults](https://github.com/BretFisher/node-docker-good-defaults) - sample node app for Docker examples

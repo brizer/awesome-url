@@ -27,6 +27,7 @@
 - [egg-development](https://github.com/eggjs/egg-development) - egg plugin for development
     - [source analysis](https://github.com/FunnyLiu/egg-development/tree/readsource)
 - [egg-grpc](https://github.com/eggjs/egg-grpc) - communicate plugin by gRPC
+- [egg-healthy](https://github.com/eggjs/egg-healthy) - Liveness and Readiness health check for egg application ![img](https://img.shields.io/github/stars/eggjs/egg-healthy)
 - [egg-i18n](https://github.com/eggjs/egg-i18n) - i18n plugin for egg
 - [egg-jsonp](https://github.com/eggjs/egg-jsonp) - jsonp support for egg, with security check inside
 - [egg-multipart](https://github.com/eggjs/egg-multipart) - multipart plugin for egg

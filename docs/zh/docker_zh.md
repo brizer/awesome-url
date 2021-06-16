@@ -21,6 +21,7 @@
 
 - [dejavu](https://github.com/appbaseio/dejavu) - 针对es的ui查询页面，基于class风格react/docker/docker-compose/elasticsearch
 - [docker-laravel-vuejs](https://github.com/gliterd/docker-laravel-vuejs) - docker/docker-compose/vue/php/mysql项目实例
+- [docker-pm2](https://github.com/keymetrics/docker-pm2) -  PM2的官方镜像，多版本多平台，书写dockerfile可以参考 ![img](https://img.shields.io/github/stars/keymetrics/docker-pm2)
 - [docs](https://github.com/docker-library/docs) - 各个官方镜像
 - [best practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) - 官网列出的最佳实践
 - [node-docker-good-defaults](https://github.com/BretFisher/node-docker-good-defaults) - node/docker/docker-compose基本应用

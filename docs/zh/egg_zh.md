@@ -28,6 +28,7 @@
 - [egg-development](https://github.com/eggjs/egg-development) - egg的开发插件，egg内部集成
     - [源码分析](https://github.com/FunnyLiu/egg-development/tree/readsource)
 - [egg-grpc](https://github.com/eggjs/egg-grpc) - gRPC通信插件
+- [egg-healthy](https://github.com/eggjs/egg-healthy) - 官方提供的健康检查插件，很好用 ![img](https://img.shields.io/github/stars/eggjs/egg-healthy)
 - [egg-i18n](https://github.com/eggjs/egg-i18n) - egg的国际化插件，egg内部集成
 - [egg-jsonp](https://github.com/eggjs/egg-jsonp) - egg的jsonp插件，egg内部集成
 - [egg-multipart](https://github.com/eggjs/egg-multipart) - egg的multipart插件，处理文件上传，egg内部集成
