@@ -23,6 +23,8 @@
 ## Others
 
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - typescript type definitions for third party library
+- [mini-typescript](https://github.com/sandersn/mini-typescript) - A miniature model of the Typescript compiler, intended to teach the structure of the real Typescript compiler ![img](https://img.shields.io/github/stars/sandersn/mini-typescript)
+    - [source analysis](https://github.com/FunnyLiu/mini-typescript/tree/readsource)
 - [ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [ts-node](https://www.npmjs.com/package/ts-node) - Typescript execution
     - [source analysis](https://github.com/FunnyLiu/ts-node/tree/readsource)

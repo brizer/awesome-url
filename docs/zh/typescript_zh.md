@@ -22,6 +22,8 @@
 ## 其他
 
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - 针对第三方库的typescript类型定义
+- [mini-typescript](https://github.com/sandersn/mini-typescript) - 迷你版tsc的实现，可以用来了解typescript编译过程 ![img](https://img.shields.io/github/stars/sandersn/mini-typescript)
+    - [源码分析](https://github.com/FunnyLiu/mini-typescript/tree/readsource)
 - [ts-morph](https://github.com/dsherret/ts-morph) - 解析ts为抽象语法树
 - [ts-node](https://www.npmjs.com/package/ts-node) - Typescript 执行器
     - [源码分析](https://github.com/FunnyLiu/ts-node/tree/readsource)
