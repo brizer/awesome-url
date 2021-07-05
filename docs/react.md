@@ -145,6 +145,7 @@
 - [react-media](https://github.com/ReactTraining/react-media) - css media queries
 - [react-rdn](https://github.com/bokuweb/react-rnd) - resizable and draggable component, use hooks api
 - [react-router](https://github.com/ReactTraining/react-router) - router for react
+- [react-router-config](https://www.npmjs.com/package/react-router-config) - manage router as config
 - [react-router-dom](https://github.com/ReactTraining/react-router) - dom for react-router
 - [react-static](https://github.com/nozzle/react-static) - static site generator for React
 - [remax](https://github.com/remaxjs/remax) - build mini program by react/typescript

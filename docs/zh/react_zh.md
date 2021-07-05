@@ -17,7 +17,7 @@
 - [blog-react](https://github.com/biaochenxuying/blog-react) - react + Ant Design 博客前台
 - [blog-react-admin](https://github.com/biaochenxuying/blog-react-admin) - react + ant design 博客后台
 - [blog-web](https://github.com/immisso/blog-web) - 这是一个react/hooks/ant/umi/dva搭建的博客网站 ![img](https://img.shields.io/github/stars/immisso/blog-web)
-- [client.creatorsdaily.com](https://github.com/creatorsdaily/client.creatorsdaily.com) - 基于react hooks的前端项目 创造者日报
+- [client.creatorsdaily.com](https://github.com/creatorsdaily/client.creatorsdaily.com) - 基于react hooks/next的前端项目 创造者日报
 - [darkreader](https://github.com/darkreader/darkreader) - 基于reacthooks和ts构建的浏览器扩展，部分ui可参考
 - [dejavu](https://github.com/appbaseio/dejavu) - 针对es的ui查询页面，基于class风格react/docker/docker-compose/elasticsearch
 - [elm-react-native](https://github.com/stoneWeb/elm-react-native) - React Native 饿了么APP
@@ -149,6 +149,7 @@
 - [react-media](https://github.com/ReactTraining/react-media) - css媒介查询
 - [react-rdn](https://github.com/bokuweb/react-rnd) - 可调整大小和可拖动的组件,使用hooks api
 - [react-router](https://github.com/ReactTraining/react-router) - react的路由组件
+- [react-router-config](https://www.npmjs.com/package/react-router-config) - 以配置的方式管理router
 - [react-router-dom](https://github.com/ReactTraining/react-router) - react-router的dom绑定
 - [react-static](https://github.com/nozzle/react-static) - 基于React的静态网站生成器
 - [remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建小程序
