@@ -4,6 +4,12 @@
 
 - [react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) - This package allows users to jump to local IDE code directly from browser React component by just a simple click ![img](https://img.shields.io/github/stars/zthxxx/react-dev-inspector)
 
+
+## Error
+
+- [react-error-boundary](https://github.com/bvaughn/react-error-boundary) - Simple reusable React error boundary component ![img](https://img.shields.io/github/stars/bvaughn/react-error-boundary)
+    - [source analysis](https://github.com/FunnyLiu/react-error-boundary/tree/readsource)
+
 ## Performance
 
 - [why-did-you-render#readme](https://github.com/welldone-software/why-did-you-render#readme) - why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.) ![img](https://img.shields.io/github/stars/welldone-software/why-did-you-render#readme)

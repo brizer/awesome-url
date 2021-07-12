@@ -83,6 +83,11 @@
     - [源码分析](https://github.com/FunnyLiu/vuetify/tree/readsource)
 - [vxe-table](https://github.com/xuliangzhan/vxe-table) - <g-emoji class="g-emoji" alias="dolphin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f42c.png">🐬</g-emoji> 表格解决方案
 
+
+## 组件vue3
+
+- [naive-ui](https://github.com/TuSimple/naive-ui) - vue3组件库，基于vue3/Typescript/vite ![img](https://img.shields.io/github/stars/TuSimple/naive-ui)
+
 ## 指令
 
 - [vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll) - 无限滚动指令，饿了么出品。

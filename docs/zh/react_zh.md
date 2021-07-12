@@ -5,6 +5,11 @@
 
 - [react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) - 从浏览器指定组件跳到编辑器 ![img](https://img.shields.io/github/stars/zthxxx/react-dev-inspector)
 
+
+## 异常
+
+- [react-error-boundary](https://github.com/bvaughn/react-error-boundary) - 错误边界封装，可以手动捕获，方便异步 ![img](https://img.shields.io/github/stars/bvaughn/react-error-boundary)
+    - [源码分析](https://github.com/FunnyLiu/react-error-boundary/tree/readsource)
 ## 性能
 
 - [why-did-you-render#readme](https://github.com/welldone-software/why-did-you-render#readme) - 知道react为什么重新render，方便排查性能 ![img](https://img.shields.io/github/stars/welldone-software/why-did-you-render#readme)

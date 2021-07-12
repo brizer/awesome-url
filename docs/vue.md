@@ -82,6 +82,12 @@
     - [source analysis](https://github.com/FunnyLiu/vuetify/tree/readsource)
 - [vxe-table](https://github.com/xuliangzhan/vxe-table) - <g-emoji class="g-emoji" alias="dolphin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f42c.png">🐬</g-emoji> vxe-table vue 
 
+
+## Components-vue3
+
+- [naive-ui](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow. ![img](https://img.shields.io/github/stars/TuSimple/naive-ui)
+
+
 ## Directive
 
 - [vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll) - An infinite scroll directive for vue.js
