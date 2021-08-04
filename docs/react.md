@@ -92,6 +92,7 @@
 - [form-render](https://github.com/alibaba/form-render) - <g-emoji class="g-emoji" alias="surfing_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4.png">🏄</g-emoji> generate antdesign by json schema
 - [fulr](https://github.com/Chalarangelo/furl) - React basic components based on Hooks and js
 - [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [pro-components](https://github.com/ant-design/pro-components) -  Use Ant Design like a Pro! ![img](https://img.shields.io/github/stars/ant-design/pro-components)
 - [qrcode.react](https://github.com/zpao/qrcode.react) - A &lt;QRCode/&gt; component for use with React. ![img](https://img.shields.io/github/stars/zpao/qrcode.react)
 - [react-circular-progressbar](https://github.com/kevinsqi/react-circular-progressbar) - A circular progressbar component, built with SVG and extensively customizable ![img](https://img.shields.io/github/stars/kevinsqi/react-circular-progressbar)
 - [react-container-query](https://github.com/react-container-query/react-container-query) -  Modular responsive component ![img](https://img.shields.io/github/stars/react-container-query/react-container-query)
@@ -126,6 +127,7 @@
 - [useWorker](https://github.com/alewin/useWorker) - useWorker() - A React Hook for Blocking-Free Background Tasks ![img](https://img.shields.io/github/stars/alewin/useWorker)
 - [react-cool-virtual](https://github.com/wellyshen/react-cool-virtual) -  A tiny React hook for rendering large datasets like a breeze. ![img](https://img.shields.io/github/stars/wellyshen/react-cool-virtual)
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - <g-emoji class="g-emoji" alias="clipboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png">📋</g-emoji> React hooks for forms validation without the hassle，written by typescript
+- [react-hooks-worker](https://github.com/dai-shi/react-hooks-worker) - React custom hooks for web workers ![img](https://img.shields.io/github/stars/dai-shi/react-hooks-worker)
 - [react-use](https://github.com/streamich/react-use) - React Hooks — <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>
 - [beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>
 

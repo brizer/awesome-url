@@ -110,6 +110,7 @@ module.exports = {
                 "/zh/jquery_zh",
                 "/zh/koa_zh",
                 "/zh/kubernetes_zh",
+                "/zh/laya_zh",
                 "/zh/lint_zh",
                 "/zh/nest_zh",
                 "/zh/nuxt_zh",

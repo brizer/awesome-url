@@ -108,6 +108,7 @@
 - [mobx-vue](https://github.com/mobxjs/mobx-vue) - 连接vue和mobx
     - [自己基于此实现todolist](https://github.com/FunnyLiu/vue-todolist)
     - [源码分析](https://github.com/FunnyLiu/mobx-vue/tree/readsource)
+- [vuex-orm](https://github.com/vuex-orm/vuex-orm) - 抽出model的概念，并类似ORM一样衔接vuex ![img](https://img.shields.io/github/stars/vuex-orm/vuex-orm)
 
 ## 其他
 

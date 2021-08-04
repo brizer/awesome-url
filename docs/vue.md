@@ -106,6 +106,7 @@
 - [mobx-vue](https://github.com/mobxjs/mobx-vue) - <g-emoji class="g-emoji" alias="dragon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f409.png">🐉</g-emoji> Vue bindings for MobX
     - [todolist build by id, created by brizer](https://github.com/FunnyLiu/vue-todolist)
     - [source analysis](https://github.com/FunnyLiu/mobx-vue/tree/readsource)
+- [vuex-orm](https://github.com/vuex-orm/vuex-orm) - The Vuex plugin to enable Object-Relational Mapping access to the Vuex Store. ![img](https://img.shields.io/github/stars/vuex-orm/vuex-orm)
 
 ## Others
 
