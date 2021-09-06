@@ -2,6 +2,7 @@
 
 ## Examples
 
+- [ignite](https://github.com/infinitered/ignite) - Infinite Red's cutting edge React Native project boilerplate, along with a CLI, component/model generators, and more! ![img](https://img.shields.io/github/stars/infinitered/ignite)
 - [react-native-example](https://github.com/FunnyLiu/react-native-example) - some examples for react-native
 
 ## CLI

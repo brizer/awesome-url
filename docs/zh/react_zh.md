@@ -77,6 +77,12 @@
 - [relay](https://github.com/facebook/relay) - 构建数据驱动react应用的框架
 - [swr](https://github.com/zeit/swr) - 发送请求的hooks方式库，非常重型和创意
 
+
+## 测试
+
+- [react-testing-library](https://github.com/testing-library/react-testing-library) - React配套的单元测试库 ![img](https://img.shields.io/github/stars/testing-library/react-testing-library)
+
+
 ## UI组件
 
 - [ant-design](https://github.com/ant-design/ant-design) - 组件库
@@ -133,6 +139,7 @@
 - [react-hooks-worker](https://github.com/dai-shi/react-hooks-worker) - 封装webworker的hooks ![img](https://img.shields.io/github/stars/dai-shi/react-hooks-worker)
 - [react-use](https://github.com/streamich/react-use) - 一大把react hooks的最佳实践和demo，基于typescript
 - [beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 大量hooks的最佳实践和封装
+- [use-screenshot](https://github.com/fayeed/use-screenshot) - 截屏hook ![img](https://img.shields.io/github/stars/fayeed/use-screenshot)
 
 ## 其他
 

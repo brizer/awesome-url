@@ -2,6 +2,7 @@
 
 ## 实例
 
+- [ignite](https://github.com/infinitered/ignite) - 比较火的RN模板示例 ![img](https://img.shields.io/github/stars/infinitered/ignite)
 - [react-native-example](https://github.com/FunnyLiu/react-native-example) - 一些react-native的例子，brizer开发
 
 ## 命令行工具
