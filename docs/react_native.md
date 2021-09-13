@@ -8,8 +8,10 @@
 ## CLI
 
 - [expo-cli](https://github.com/expo/expo-cli) - Tools for making Expo apps
+- [flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers. ![img](https://img.shields.io/github/stars/facebook/flipper)
 - [react-native-cli](https://www.npmjs.com/package/react-native-cli) - cli for react-native-cli
 - [react-native-web](https://github.com/necolas/react-native-web) - React Native for Web
+
 
 ## UI
 
