@@ -36,6 +36,8 @@
     - [源码分析](https://github.com/FunnyLiu/hard-source-webpack-plugin/tree/readsource)
 - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin) - 简化html创建和启动服务的插件
 - [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - 分离样式文件，CSS 提取为独立文件，css分离插件
+- [offline-package-webpack-plugin](https://github.com/mcuking/offline-package-webpack-plugin) - 将打包后的文件压缩到一个zip中，并将文件内容生成json ![img](https://img.shields.io/github/stars/mcuking/offline-package-webpack-plugin)
+ - [源码分析](https://github.com/FunnyLiu/offline-package-webpack-plugin/tree/readsource)
 - [sentry-webpack-plugin](https://github.com/getsentry/sentry-webpack-plugin) - Sentry官方的webpack插件 <a href="https://sentry.io" rel="nofollow">https://sentry.io</a>
 - [size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - ：监控资源体积变化，尽早发现问题
 - [speed-measure-webpack-plugin#readme](https://github.com/stephencookdev/speed-measure-webpack-plugin#readme) - 记录各个loader和插件的耗时，方便排查构建速度

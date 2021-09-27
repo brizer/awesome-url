@@ -36,6 +36,8 @@
     - [source analysis](https://github.com/FunnyLiu/hard-source-webpack-plugin/tree/readsource)
 - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin) - Plugin that simplifies creation of HTML files to serve your bundles
 - [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - Lightweight CSS extraction plugin
+- [offline-package-webpack-plugin](https://github.com/mcuking/offline-package-webpack-plugin) - Webpack plugin helps compress static resources (such as js, css, png...) into a zip package, with a resource mapping json file in it. ![img](https://img.shields.io/github/stars/mcuking/offline-package-webpack-plugin)
+ - [source analysis](https://github.com/FunnyLiu/offline-package-webpack-plugin/tree/readsource)
 - [sentry-webpack-plugin](https://github.com/getsentry/sentry-webpack-plugin) - Official webpack plugin for Sentry <a href="https://sentry.io" rel="nofollow">https://sentry.io</a>
 - [size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
 - [speed-measure-webpack-plugin#readme](https://github.com/stephencookdev/speed-measure-webpack-plugin#readme) - <g-emoji class="g-emoji" alias="stopwatch" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f1.png">⏱</g-emoji> See how fast (or not) your plugins and loaders are, so you can optimise your builds

@@ -49,6 +49,7 @@
 - [npmsemanticversioncalculator](https://semver.npmjs.com/) - version history of a npm package
 - [npmtrends](https://www.npmtrends.com/) - npm module comparator
 - [Shields.io](https://shields.io/) - open source svg
+- [React Native Shadow Generator](https://ethercreative.github.io/react-native-shadow-generator/) - rn box shadow generator
 - [transform](https://transform.tools/html-to-jsx) - transform some web source
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - status of your github
 - [github-memory](https://githubmemory.com/@brizer) - github person information.
