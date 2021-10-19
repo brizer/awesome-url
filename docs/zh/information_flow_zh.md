@@ -23,6 +23,7 @@
 # 职业发展
 
 - [duibiao](https://duibiao.info/) - 各个大厂职级对标
+- [WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) - 国内各互联网公司工作作息表 ![img](https://img.shields.io/github/stars/WorkerLivesMatter/WorkingTime)
 
 # 前端
 
