@@ -73,6 +73,10 @@
 # PPT
 - [from-coder-to-expert](https://github.com/FunnyLiu/from_coder_to_expert) - 非常多技术架构的例子，学习制作演讲型的ppt
 
+# Product
+
+- [七麦数据](https://www.qimai.cn/) - app评价、排名等ASO相关信息
+
 # 面试问答
 
 

@@ -15,8 +15,10 @@
 
 - [expo-cli](https://github.com/expo/expo-cli) - 方便的查看工具，react-native默认cli，简介方便
 - [flipper](https://github.com/facebook/flipper) - Facebook出品的桌面调试工具，RN可以用 ![img](https://img.shields.io/github/stars/facebook/flipper)
+- [react-native-bundle-visualizer](https://github.com/IjzerenHein/react-native-bundle-visualizer) - 查看rn打包文件大小  ![img](https://img.shields.io/github/stars/IjzerenHein/react-native-bundle-visualizer)
 - [react-native-cli](https://www.npmjs.com/package/react-native-cli) - react-native官方cli，需要xcode和android studios.
 - [react-native-web](https://github.com/necolas/react-native-web) - 将react-native组件转为web运行
+
 
 ## 组件
 
@@ -32,3 +34,4 @@
 ## Util
 
 - [async-storage#readme](https://github.com/react-native-async-storage/async-storage#readme) - 异步存储库，支持native和h5 ![img](https://img.shields.io/github/stars/react-native-async-storage/async-storage#readme)
+- [react-native-cameraroll](https://github.com/react-native-cameraroll/react-native-cameraroll) - 读取相册和图片库 ![img](https://img.shields.io/github/stars/react-native-cameraroll/react-native-cameraroll)

@@ -18,6 +18,7 @@
 
 - [expo-cli](https://github.com/expo/expo-cli) - Tools for making Expo apps
 - [flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers. ![img](https://img.shields.io/github/stars/facebook/flipper)
+- [react-native-bundle-visualizer](https://github.com/IjzerenHein/react-native-bundle-visualizer) - See what packages are increasing your react-native bundle size  ![img](https://img.shields.io/github/stars/IjzerenHein/react-native-bundle-visualizer)
 - [react-native-cli](https://www.npmjs.com/package/react-native-cli) - cli for react-native-cli
 - [react-native-web](https://github.com/necolas/react-native-web) - React Native for Web
 
@@ -37,3 +38,4 @@
 ## Util
 
 - [async-storage#readme](https://github.com/react-native-async-storage/async-storage#readme) - An asynchronous, persistent, key-value storage system for React Native. ![img](https://img.shields.io/github/stars/react-native-async-storage/async-storage#readme)
+- [react-native-cameraroll](https://github.com/react-native-cameraroll/react-native-cameraroll) - CameraRoll is a react-native native module that provides access to the local camera roll or photo library. ![img](https://img.shields.io/github/stars/react-native-cameraroll/react-native-cameraroll)
