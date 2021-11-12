@@ -52,6 +52,7 @@
 - [git-tips](https://github.com/521xueweihan/git-tips) - Git的奇技淫巧 ![img](https://img.shields.io/github/stars/521xueweihan/git-tips)
 - [javascript.info](https://zh.javascript.info/) - 一个很好的学习现代js基础的免费教程
 - [just-react](https://github.com/BetaSu/just-react) - React技术揭秘，源码阅读分析，React源码学习 ![img](https://img.shields.io/github/stars/BetaSu/just-react)
+- [v17.0.1](https://github.com/7kms/react-illustration-series/tree/v17.0.1) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚. ![img](https://img.shields.io/github/stars/7kms/react-illustration-series/tree/v17.0.1)
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 像游戏一样学习git
 - [Python-Core-50-Courses](https://github.com/jackfrued/Python-Core-50-Courses) - Python语言基础50课 ![img](https://img.shields.io/github/stars/jackfrued/Python-Core-50-Courses)
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 ![img](https://img.shields.io/github/stars/jackfrued/Python-100-Days)
