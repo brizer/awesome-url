@@ -10,10 +10,15 @@
 
 - [wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for WeChat Individual Account, Powered by TypeScript, Docker ![img](https://img.shields.io/github/stars/wechaty/wechaty)
 
+
+
+
 ## miniprogram
 
+- [miniprogram-ci](https://www.npmjs.com/package/miniprogram-ci) - upload your code to wechat in ci
 - [wepy](https://github.com/Tencent/wepy) - ui components by tencent ![img](https://img.shields.io/github/stars/Tencent/wepy)
 - [weui-wxss](https://github.com/Tencent/weui-wxss/) - A UI library by WeChat official design team, includes the most useful widgets/modules. ![img](https://img.shields.io/github/stars/Tencent/weui-wxss/)
+
 
 ## miniprogram example
 
