@@ -61,6 +61,7 @@
 - [Python-Core-50-Courses](https://github.com/jackfrued/Python-Core-50-Courses) - 50 courses of Python ![img](https://img.shields.io/github/stars/jackfrued/Python-Core-50-Courses)
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100 day of Python ![img](https://img.shields.io/github/stars/jackfrued/Python-100-Days)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. ![img](https://img.shields.io/github/stars/donnemartin/system-design-primer)
+- [Web](https://github.com/qianguyihao/Web) -  ![img](https://img.shields.io/github/stars/qianguyihao/Web)
 - [web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [understand-nodejs](https://github.com/theanarkh/understand-nodejs) - source analysis of node ![img](https://img.shields.io/github/stars/theanarkh/understand-nodejs)
 

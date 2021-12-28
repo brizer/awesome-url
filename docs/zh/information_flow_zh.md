@@ -58,6 +58,7 @@
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 ![img](https://img.shields.io/github/stars/jackfrued/Python-100-Days)
 - [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - React和Typescript开发的入门备忘录 ![img](https://img.shields.io/github/stars/typescript-cheatsheets/react-typescript-cheatsheet)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - 系统设计学习之路 ![img](https://img.shields.io/github/stars/donnemartin/system-design-primer)
+- [Web](https://github.com/qianguyihao/Web) - 前端入门全量教程从css到react都有 ![img](https://img.shields.io/github/stars/qianguyihao/Web)
 - [web-skills](https://github.com/andreasbm/web-skills) - web开发者学习路线及相应资源链接，所有知识点
 - [understand-nodejs](https://github.com/theanarkh/understand-nodejs) - 通过源码分析nodejs原理 ![img](https://img.shields.io/github/stars/theanarkh/understand-nodejs)
 
