@@ -20,6 +20,8 @@
 - [react-native-web](https://github.com/necolas/react-native-web) - 将react-native组件转为web运行
 
 
+
+
 ## 组件
 
 - [react-native-lightbox](https://github.com/oblador/react-native-lightbox) - 全屏蒙层查看器，适合图片查看详情
@@ -31,7 +33,11 @@
 - [react-native-elements](https://github.com/react-native-elements/react-native-elements) - 评分非常高的组件库 ![img](https://img.shields.io/github/stars/react-native-elements/react-native-elements)
 
 
+## 图片相关
+
+- [react-native-view-shot](https://github.com/gre/react-native-view-shot) - 对比html2canvas的海报库 ![img](https://img.shields.io/github/stars/gre/react-native-view-shot)
+
 ## Util
 
-- [async-storage#readme](https://github.com/react-native-async-storage/async-storage#readme) - 异步存储库，支持native和h5 ![img](https://img.shields.io/github/stars/react-native-async-storage/async-storage#readme)
+- [async-storage](https://github.com/react-native-async-storage/async-storage#readme) - 异步存储库，支持native和h5 ![img](https://img.shields.io/github/stars/react-native-async-storage/async-storage#readme)
 - [react-native-cameraroll](https://github.com/react-native-cameraroll/react-native-cameraroll) - 读取相册和图片库 ![img](https://img.shields.io/github/stars/react-native-cameraroll/react-native-cameraroll)
