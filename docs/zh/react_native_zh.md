@@ -35,6 +35,7 @@
 
 ## 图片相关
 
+- [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 网络图片缓存库 ![img](https://img.shields.io/github/stars/DylanVann/react-native-fast-image)
 - [react-native-view-shot](https://github.com/gre/react-native-view-shot) - 对比html2canvas的海报库 ![img](https://img.shields.io/github/stars/gre/react-native-view-shot)
 
 ## Util

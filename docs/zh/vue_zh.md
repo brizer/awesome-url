@@ -88,6 +88,12 @@
 
 - [naive-ui](https://github.com/TuSimple/naive-ui) - vue3组件库，基于vue3/Typescript/vite ![img](https://img.shields.io/github/stars/TuSimple/naive-ui)
 
+
+
+## 组合API
+
+- [vueuse](https://github.com/vueuse/vueuse) - 一大堆组合API比如useLocalStorage等 ![img](https://img.shields.io/github/stars/vueuse/vueuse)
+
 ## 指令
 
 - [vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll) - 无限滚动指令，饿了么出品。
