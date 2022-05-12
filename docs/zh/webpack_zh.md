@@ -21,6 +21,7 @@
 - [raw-loader](https://github.com/webpack-contrib/raw-loader) - txt文件转为字符串的loader
     - [源码分析，最小的loader，适合入门](https://github.com/FunnyLiu/raw-loader/tree/readsource)
 - [style-loader](https://www.npmjs.com/package/style-loader) - 通过style标签将css加到dom中去
+- [svg-sprite-loader](https://github.com/JetBrains/svg-sprite-loader) - svg图标切割loader，用来更加方便的使用svg图标  ![img](https://img.shields.io/github/stars/JetBrains/svg-sprite-loader)
 - [ts-loader](https://github.com/TypeStrong/ts-loader) - typescript的loader
 - [url-loader](https://github.com/webpack-contrib/url-loader) - 转换图片文件到base64
 - [vue-loader](https://github.com/vuejs/vue-loader) - vue文件的loader

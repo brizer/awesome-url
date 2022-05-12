@@ -38,6 +38,7 @@
 - [git-history](https://github.com/pomber/git-history/) - 动画展示文件修改记录
 - [icons8](https://icons8.cn/icons) - 免费的SVG和PNG图标制作
 - [katacoda](https://www.katacoda.com/learn) - 学习部署相关的云主机操作学习平台
+- [nasc-vscode-mac-touchbar](https://github.com/on2-dev/nasc-vscode-mac-touchbar) - vscode touchbar插件，省略很多快捷键  ![img](https://img.shields.io/github/stars/on2-dev/nasc-vscode-mac-touchbar)
 - [Pock](https://github.com/pigigaldi/Pock) - 用上Touchbar
 - [renovate](https://github.com/marketplace/renovate) - 通过pull request自动更新npm依赖
 - [SnappySnippet](https://github.com/kdzwinel/SnappySnippet) - 取出一个dom的完整html及其css的浏览器扩展，用来拷贝dom组件时非常方便，需要本地自己安装 ![img](https://img.shields.io/github/stars/kdzwinel/SnappySnippet)
@@ -54,6 +55,10 @@
 
 - [jira_clone](https://github.com/oldboyxx/jira_clone) - 类似jira的工具，基于typescript/express/react/reacthook/postgres ![img](https://img.shields.io/github/stars/oldboyxx/jira_clone)
 
+
+## 网络相关
+
+- [frp](https://github.com/fatedier/frp) - 基于go实现的内网传统工具 ![img](https://img.shields.io/github/stars/fatedier/frp)
 
 ## 在线编辑
 
