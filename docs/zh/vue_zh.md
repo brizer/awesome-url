@@ -31,6 +31,7 @@
 
 ## 项目实例-vue3
 
+- [vue3-ts-vite](https://github.com/cool-team-official/cool-admin-vue/tree/vue3-ts-vite) - 后台管理系统，基于midway.js 2.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue  ![img](https://img.shields.io/github/stars/cool-team-official/cool-admin-vue/tree/vue3-ts-vite)
 - [newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城Vue3 版本，技术栈为 Vue 3.0 + Vue-Router 4.0 + Vuex 4.0 + Vant 3.0。 ![img](https://img.shields.io/github/stars/newbee-ltd/newbee-mall-vue3-app)
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) -  一个后台系统，基于Vite2, vue3.0, ant-design-vue 2.x, typescript，vuex,vue-router,持续更新中 ![img](https://img.shields.io/github/stars/anncwb/vue-vben-admin)
 
