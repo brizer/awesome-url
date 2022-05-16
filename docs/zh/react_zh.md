@@ -110,7 +110,7 @@
 - [react-document-title](https://github.com/gaearon/react-document-title) - 强大的操作document.title的react组件 ![img](https://img.shields.io/github/stars/gaearon/react-document-title)
 - [react-final-form](https://www.npmjs.com/package/react-final-form) - 迷你表单
 - [react-final-form-hooks](https://github.com/final-form/react-final-form-hooks) - 迷你表单hooks版
-- [react-helmet](https://github.com/nfl/react-helmet) - 文档head管理
+- [react-helmet](https://github.com/nfl/react-helmet) - 文档head管理，一般用作服务端渲染时的seo用
 - [react-infinite-scroller](https://github.com/CassetteRocks/react-infinite-scroller) - 无限滑动组件
 - [react-json-view](https://github.com/mac-s-g/react-json-view) - json查看和编辑组件，找了好久唯一一个通用性和设计强点的存储json编辑
 - [react-keep-alive](https://github.com/StructureBuilder/react-keep-alive) - keep-alive的react实现，基于React.createPortal API

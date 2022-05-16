@@ -67,6 +67,7 @@
 ## 运维
 
 - [spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。 ![img](https://img.shields.io/github/stars/openspug/spug)
+- [zadig](https://github.com/koderover/zadig) -  开源分布式持续交付产品，类似轻量级的流水线 ![img](https://img.shields.io/github/stars/koderover/zadig/blob/main/README-zh-CN.md)
 
 
 ## 插件
