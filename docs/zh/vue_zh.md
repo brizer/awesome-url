@@ -31,6 +31,7 @@
 
 ## 项目实例-vue3
 
+- [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开发的一套后台管理框架 ![img](https://img.shields.io/github/stars/HalseySpicy/Geeker-Admin)
 - [vue-manage-system](https://github.com/lin-xin/vue-manage-system) - vue3 element-plus 后台管理系统 ![img](https://img.shields.io/github/stars/lin-xin/vue-manage-system)
 - [vue3-ts-vite](https://github.com/cool-team-official/cool-admin-vue/tree/vue3-ts-vite) - 后台管理系统，基于midway.js 2.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue  ![img](https://img.shields.io/github/stars/cool-team-official/cool-admin-vue/tree/vue3-ts-vite)
 - [newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城Vue3 版本，技术栈为 Vue 3.0 + Vue-Router 4.0 + Vuex 4.0 + Vant 3.0。 ![img](https://img.shields.io/github/stars/newbee-ltd/newbee-mall-vue3-app)
@@ -60,7 +61,6 @@
     - [使用webpack打包组件库]
 - [element-plus](https://github.com/element-plus/element-plus) -  基于Vue3的elementui库 ![img](https://img.shields.io/github/stars/element-plus/element-plus)
 - [element-ui-verify](https://github.com/aweiu/element-ui-verify) - 加强简化elementui的校验
-- [vant](https://github.com/youzan/vant) - vue移动端组件库，基于vue/typescript/jsx/tsx
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - swiper轮播图组件的vue版本
 - [vue-clipboard2](https://github.com/Inndy/vue-clipboard2) - 剪切板组件
 - [vue-color](https://github.com/xiaokaike/vue-color) - 颜色选择组件
@@ -88,9 +88,12 @@
 
 ## 组件vue3
 
+- [arco-design-vue](https://github.com/arco-design/arco-design-vue) - vue3组件库，字节出品，基于vue3/Typescript  ![img](https://img.shields.io/github/stars/arco-design/arco-design-vue)
+- [element-plus](https://github.com/element-plus/element-plus) - vue3组件库，基于vue3/Typescript ![img](https://img.shields.io/github/stars/element-plus/element-plus)
 - [naive-ui](https://github.com/TuSimple/naive-ui) - vue3组件库，基于vue3/Typescript/vite ![img](https://img.shields.io/github/stars/TuSimple/naive-ui)
-
-
+- [nutui](https://github.com/jdf2e/nutui) - vue3组件库，京东出品，专注于移动端 ![img](https://img.shields.io/github/stars/jdf2e/nutui)
+- [tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next) - vue3组件库，腾讯出品，基于vue3/Typescript ![img](https://img.shields.io/github/stars/Tencent/tdesign-vue-next)
+- [vant](https://github.com/youzan/vant) - vue移动端组件库，有赞出品，专注于移动端，基于vue/typescript/jsx/tsx
 
 ## 组合API
 

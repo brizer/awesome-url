@@ -50,6 +50,7 @@
 - [design-patterns-typescript](https://github.com/RefactoringGuru/design-patterns-typescript) - Typescript版本的设计模式教程 ![img](https://img.shields.io/github/stars/RefactoringGuru/design-patterns-typescript)
 - [explain-git-with-d3](https://github.com/onlywei/explain-git-with-d3) - 通过可视化的方式解释git的原理 ![img](https://img.shields.io/github/stars/onlywei/explain-git-with-d3)
 - [git-tips](https://github.com/521xueweihan/git-tips) - Git的奇技淫巧 ![img](https://img.shields.io/github/stars/521xueweihan/git-tips)
+- [go-togoer](https://www.topgoer.com/) - go中文入门学习文档
 - [javascript.info](https://zh.javascript.info/) - 一个很好的学习现代js基础的免费教程
 - [just-react](https://github.com/BetaSu/just-react) - React技术揭秘，源码阅读分析，React源码学习 ![img](https://img.shields.io/github/stars/BetaSu/just-react)
 - [v17.0.1](https://github.com/7kms/react-illustration-series/tree/v17.0.1) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚. ![img](https://img.shields.io/github/stars/7kms/react-illustration-series/tree/v17.0.1)
@@ -61,7 +62,7 @@
 - [Web](https://github.com/qianguyihao/Web) - 前端入门全量教程从css到react都有 ![img](https://img.shields.io/github/stars/qianguyihao/Web)
 - [web-skills](https://github.com/andreasbm/web-skills) - web开发者学习路线及相应资源链接，所有知识点
 - [understand-nodejs](https://github.com/theanarkh/understand-nodejs) - 通过源码分析nodejs原理 ![img](https://img.shields.io/github/stars/theanarkh/understand-nodejs)
-
+- [mini-vue](https://github.com/cuixiaorui/mini-vue) -  vue3源码最小集合，方便学习 ![img](https://img.shields.io/github/stars/cuixiaorui/mini-vue)
 
 
 # 网盘资源相关

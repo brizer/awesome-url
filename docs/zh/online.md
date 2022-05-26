@@ -45,6 +45,7 @@
 - [node-online-editor](https://runkit.com/home) - node在线编辑器
 - [npm-module-dependence](http://npm.broofa.com/) - 通过图分析npm模块依赖
 - [npm-module-dependence-map](http://npm.anvaka.com/#/) - 通过脑图分析npm模块依赖
+- [dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - 工程内单文件依赖树展示，有对应的vscode插件，非常方便 ![img](https://img.shields.io/github/stars/sverweij/dependency-cruiser)
 - [npmcompare](https://npmcompare.com/) - npm包详细信息比较
 - [npmsemanticversioncalculator](https://semver.npmjs.com/) - 一个npm包的版本历史
 - [npmtrends](https://www.npmtrends.com/) - npm模块比较器，可以发现同类型的包
@@ -53,6 +54,7 @@
 - [rn蓝湖样式转换器](https://brizer.github.io/static/html/rn-css.html) - rn样式蓝湖转化器
 - [transform](https://transform.tools/html-to-jsx) - 常用转换器如html转成jsx等
 - [Shields.io](https://shields.io/) - 开源库各种图标集合
+- [star-history](https://github.com/bytebase/star-history) - 开源库点赞数量趋势图 ![img](https://img.shields.io/github/stars/bytebase/star-history)
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - 你的github账号的信息集合
 - [github-memory](https://githubmemory.com/@brizer) - github个人动态汇总，切换用户名即可获取全部动态详情
 - [vultr](https://www.vultr.com/) - VPS服务器

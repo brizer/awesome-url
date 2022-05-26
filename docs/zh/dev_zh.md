@@ -87,6 +87,7 @@
 - [Apache bench](https://httpd.apache.org/docs/2.4/programs/ab.html) - 压力测试工具Apache bench
     - [配合node内建profiling进行性能排查](https://nodejs.org/zh-cn/docs/guides/simple-profiling/)
 - [cnwml](https://www.cnwml.com/free-sms-online/12055094535.html) - 美国电话用于验证码测试
+- [metersphere](https://github.com/metersphere/metersphere) - 一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试 ![img](https://img.shields.io/github/stars/metersphere/metersphere)
 - [pdflibr](https://pdflibr.com) - 中国电话用于验证码测试
 
 ## 架构
