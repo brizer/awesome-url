@@ -32,6 +32,7 @@
 ## 项目实例-vue3
 
 - [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开发的一套后台管理框架 ![img](https://img.shields.io/github/stars/HalseySpicy/Geeker-Admin)
+- [PPTist](https://github.com/pipipi-pikachu/PPTist) - ppt在线版，基于vue3、typescript ![img](https://img.shields.io/github/stars/pipipi-pikachu/PPTist)
 - [vue-manage-system](https://github.com/lin-xin/vue-manage-system) - vue3 element-plus 后台管理系统 ![img](https://img.shields.io/github/stars/lin-xin/vue-manage-system)
 - [vue3-ts-vite](https://github.com/cool-team-official/cool-admin-vue/tree/vue3-ts-vite) - 后台管理系统，基于midway.js 2.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue  ![img](https://img.shields.io/github/stars/cool-team-official/cool-admin-vue/tree/vue3-ts-vite)
 - [newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城Vue3 版本，技术栈为 Vue 3.0 + Vue-Router 4.0 + Vuex 4.0 + Vant 3.0。 ![img](https://img.shields.io/github/stars/newbee-ltd/newbee-mall-vue3-app)
@@ -71,6 +72,7 @@
 - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - 无限滚动加载组件
 - [vue-json-csv](https://github.com/Belphemur/vue-json-csv) - json变csv文件下载。
 - [vue-notification](https://github.com/euvl/vue-notification) - 通知条组件
+- [vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) - 无缝滚动动画列表组件 ![img](https://img.shields.io/github/stars/chenxuan0000/vue-seamless-scroll)
 - [vue-slider-component](https://github.com/NightCatSama/vue-slider-component) - 滑动条组件
 - [vue-trend](https://github.com/QingWei-Li/vue-trend) - 趋势图组件
 - [vue-video-player](https://github.com/surmon-china/vue-video-player) - 播放器组件，基于videojs ![img](https://img.shields.io/github/stars/surmon-china/vue-video-player)
@@ -106,6 +108,7 @@
 ## 插件
 
 - [vue-moment](https://www.npmjs.com/package/vue-moment) - 简便 Moment.js 过滤器
+- [v-hotkey](https://github.com/Dafrok/v-hotkey) - 快捷键监听的指令，方便注册快捷键回调，做了对应的绑定和解绑 ![img](https://img.shields.io/github/stars/Dafrok/v-hotkey)
 - [vuelidate](https://github.com/vuelidate/vuelidate) - 基于数据模型校验表单
 
 
