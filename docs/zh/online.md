@@ -8,6 +8,7 @@
 - [codeshandbox](https://codesandbox.io/s/) - 可以包含模块的前端在线编辑工具
 - [codota](https://www.codota.com/code/javascript) - 搜索最佳实践，AI编程
 - [colorhunt](https://colorhunt.co/) - 配色、思考、在线
+- [color](https://tool.chinaz.com/tools/use) - 网站配色参考
 - [component online Bit](https://bit.dev/) - 在线查找组件，各种框架都有
 - [createApp](https://createapp.dev/) - 选择不同框架库创建项目的脚手架
 - [graphviz-online](http://viz-js.com/) - 在线 graphviz 解析
