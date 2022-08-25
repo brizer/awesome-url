@@ -4,6 +4,7 @@
 ## 开发工具
 
 - [react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) - 从浏览器指定组件跳到编辑器 ![img](https://img.shields.io/github/stars/zthxxx/react-dev-inspector)
+- [remotion](https://github.com/remotion-dev/remotion) - 通过写react来创造视频 ![img](https://img.shields.io/github/stars/remotion-dev/remotion)
 
 
 ## 异常

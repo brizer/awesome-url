@@ -62,6 +62,7 @@
     - [使用webpack打包组件库]
 - [element-plus](https://github.com/element-plus/element-plus) -  基于Vue3的elementui库 ![img](https://img.shields.io/github/stars/element-plus/element-plus)
 - [element-ui-verify](https://github.com/aweiu/element-ui-verify) - 加强简化elementui的校验
+- [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - vue拓展组件，非常好用，可视化表单使用之 ![img](https://img.shields.io/github/stars/SortableJS/Vue.Draggable)
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - swiper轮播图组件的vue版本
 - [vue-clipboard2](https://github.com/Inndy/vue-clipboard2) - 剪切板组件
 - [vue-color](https://github.com/xiaokaike/vue-color) - 颜色选择组件
