@@ -11,6 +11,7 @@
 - [color](https://tool.chinaz.com/tools/use) - 网站配色参考
 - [component online Bit](https://bit.dev/) - 在线查找组件，各种框架都有
 - [createApp](https://createapp.dev/) - 选择不同框架库创建项目的脚手架
+- [Crx4Chrome](https://www.crx4chrome.com/) - 一个在国内下载chrome扩展的好地方，感恩
 - [graphviz-online](http://viz-js.com/) - 在线 graphviz 解析
 - [hashonline](https://emn178.github.io/online-tools/index.html) - hash 转换（sha256等等）
 - [ideone](https://ideone.com/) - 支持c++，java等多种语言的在线编辑器
