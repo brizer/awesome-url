@@ -3,6 +3,7 @@
 ## 项目实例
 
 - [blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) - vue + typescript + element-ui + 装饰器 博客前台
+- [easy-flow](https://github.com/BiaoChengLiu/easy-flow) - 一个流程平台，拖拉拽的绝佳案例 ![img](https://img.shields.io/github/stars/BiaoChengLiu/easy-flow)
 - [element-pro](https://github.com/qidaizhe11/element-pro) - Vue 版 Ant Design Pro（基于 Element-ui 实现）
 - [genal-chat](https://github.com/genaller/genal-chat) - 聊天室基于nest/typescript/socket.io/vue ![img](https://img.shields.io/github/stars/genaller/genal-chat)
 - [iview-admin](https://github.com/iview/iview-admin) - 基于iview和vue2.0的后台系统
