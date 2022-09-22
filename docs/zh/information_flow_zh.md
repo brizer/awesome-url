@@ -79,6 +79,7 @@
 # Product
 
 - [七麦数据](https://www.qimai.cn/) - app评价、排名等ASO相关信息
+- [设计导航 - 精选最好的设计网站大全](http://hao.shejidaren.com/index.html) - 产品设计界的大全集，导航大全
 
 # 面试问答
 
