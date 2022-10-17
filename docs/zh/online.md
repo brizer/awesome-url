@@ -71,4 +71,5 @@
 - [user agent parser](https://developers.whatismybrowser.com/useragents/parse/) - 解析user-agent，在线网站
 - [zlib](https://b-ok.cc/) - pdf电子书随便下载
 - [在线英文缩略词查询 | 国际英文缩写查询工具](https://www.abbreviationfinder.org/cn/) - 英文缩写含义搜索
+- [Method Draw Vector Editor](https://editor.method.ac/) - svg在线编辑器
 
