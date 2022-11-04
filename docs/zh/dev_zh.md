@@ -9,6 +9,7 @@
 - [Eolinker](https://www.eolinker.com/#/?status=link-jump) - 闭源接口管理平台
 - [nei](https://github.com/x-orpheus/nei) - 网易开源NEI 接口管理平台 源代码 ![img](https://img.shields.io/github/stars/x-orpheus/nei)
 - [rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
+- [showdoc](https://github.com/star7th/showdoc) - runapi，showdoc相辅相成的可以私有化管理数据源的简单api文档工具 ![img](https://img.shields.io/github/stars/star7th/showdoc)
 - [yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 ![img](https://img.shields.io/github/stars/YMFE/yapi)
 
 
@@ -19,10 +20,14 @@
 
 ## 低代码
 
-- [codefun](https://code.fun/) - 视觉稿转h5、vue、react、小程序、rn等等
+- [codefun](https://code.fun/) - 视觉稿转h5、vue、react、小程序、rn等等，是商业化解决方案
+- [Deco - 设计稿一键生成多端代码](https://deco-preview.jd.com/) - 京东 sketch 设计稿转各平台代码，Deco 做的比 Picasso 更完善，内部版本实现了编辑器，支持 flex 布局计算，组件标注、通过 AI 算法实现了通过聚类来自动分组、通过推理引擎生成语义化的 className 等，编辑器甚至还支持了逻辑层的处理，可以生成完整的前端代码。
 - [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - 可视化cms，专注h5，基于umi/node/react/hooks ![img](https://img.shields.io/github/stars/MrXujiang/h5-Dooring)
+- [图像大厨imgcook](https://www.imgcook.com/) - 淘宝的设计稿转代码的工具，支持 figma、sketch、psd，甚至还支持图片。除了通过插件上传数据外，也可以直接上传设计稿文件。imgcook 支持的设计稿类型比较多，甚至支持从图片来提取信息，也提供了编辑器功能可以做一些人工干预，功能还是比较全面的。
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - 可视化配置nginx ![img](https://img.shields.io/github/stars/digitalocean/nginxconfig.io)
+- [Picasso](https://github.com/wuba/Picasso) - 58同城 Picasso 没有使用 AI 算法，只是做了 sketch 设计稿数据到 DSL 的转换，处理了下分组和布局转换，同时支持绝对定位和 flex 布局，然后打印成各种代码。没有支持编辑器、也没有做 className 的处理，对组件标注的支持也不好 ![img](https://img.shields.io/github/stars/wuba/Picasso)
 - [VvvebJs](https://github.com/givanz/VvvebJs) - 可视化cms系统开源版 ![img](https://img.shields.io/github/stars/givanz/VvvebJs)
+- [vipshop/ams: AMS是基于 Vue.js 和 Element组件库、通过JSON配置来快速搭建管理后台的一整套前端解决方案](https://github.com/vipshop/ams) - vue的模块、api资源配置解决方案，类似网易飞哥那套config/module，由唯品会大前端团队出品
 
 
 ## 数据库
@@ -69,6 +74,7 @@
 
 - [spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。 ![img](https://img.shields.io/github/stars/openspug/spug)
 - [zadig](https://github.com/koderover/zadig) -  开源分布式持续交付产品，类似轻量级的流水线 ![img](https://img.shields.io/github/stars/koderover/zadig/blob/main/README-zh-CN.md)
+- [easy-flow](https://gitee.com/xiaoka2017/easy-flow) - 在线工作流编排
 
 
 ## 插件

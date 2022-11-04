@@ -61,6 +61,7 @@
 - [element](https://github.com/ElemeFE/element) - ElementUI 组件库
     - [源码分析](https://github.com/FunnyLiu/element/tree/readsource)
     - [使用webpack打包组件库]
+- [xiaocheng555/el-table-virtual-scroll: 基于Element-UI的Table 组件开发的虚拟滚动组件，支持动态高度，解决数据量大时滚动卡顿的问题。](https://github.com/xiaocheng555/el-table-virtual-scroll) - element-ui的虚拟表格解决方案，亲测非常好用，值得一试
 - [element-plus](https://github.com/element-plus/element-plus) -  基于Vue3的elementui库 ![img](https://img.shields.io/github/stars/element-plus/element-plus)
 - [element-ui-verify](https://github.com/aweiu/element-ui-verify) - 加强简化elementui的校验
 - [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - vue拓展组件，非常好用，可视化表单使用之 ![img](https://img.shields.io/github/stars/SortableJS/Vue.Draggable)
@@ -69,13 +70,16 @@
 - [vue-color](https://github.com/xiaokaike/vue-color) - 颜色选择组件
 - [vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders) - 骨架屏组件
 - [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - 拖拽组件
+- [vue-drag-resize](https://github.com/kirillmurashov/vue-drag-resize) - 拖动、大小、形状变化组件 ![img](https://img.shields.io/github/stars/kirillmurashov/vue-drag-resize)
 - [vue-chartjs](https://github.com/apertureless/vue-chartjs) - echart的vue包装图表组件
 - [vue-form-making](https://github.com/GavinZhuLei/vue-form-making) - 基于Vue的表单设计器，依赖组件，但是json格式可以参考
 - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - 无限滚动加载组件
 - [vue-json-csv](https://github.com/Belphemur/vue-json-csv) - json变csv文件下载。
 - [vue-notification](https://github.com/euvl/vue-notification) - 通知条组件
+- [vue-pipeline](https://github.com/jinfang134/vue-pipeline/blob/master/demo/App.vue) - vue的流水线组件，类似jenkins但是功能稍弱 ![img](https://img.shields.io/github/stars/jinfang134/vue-pipeline/blob/master/demo/App.vue)
 - [vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) - 无缝滚动动画列表组件 ![img](https://img.shields.io/github/stars/chenxuan0000/vue-seamless-scroll)
 - [vue-slider-component](https://github.com/NightCatSama/vue-slider-component) - 滑动条组件
+- [vue-super-flow](https://github.com/caohuatao/vue-super-flow) - 流程图组件，流水线组件，工作流组件，拖拉拽这种 ![img](https://img.shields.io/github/stars/caohuatao/vue-super-flow)
 - [vue-trend](https://github.com/QingWei-Li/vue-trend) - 趋势图组件
 - [vue-video-player](https://github.com/surmon-china/vue-video-player) - 播放器组件，基于videojs ![img](https://img.shields.io/github/stars/surmon-china/vue-video-player)
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - 无限滚动组件
@@ -101,7 +105,8 @@
 
 ## 组合API
 
-- [vueuse](https://github.com/vueuse/vueuse) - 一大堆组合API比如useLocalStorage等 ![img](https://img.shields.io/github/stars/vueuse/vueuse)
+- [vuejs/composition-api: Composition API plugin for Vue 2](https://github.com/vuejs/composition-api) - 想在vue2的项目中用vue3语法吗，用这个就对了。
+- [vueuse](https://github.com/vueuse/vueuse) - 一大堆组合API比如useLocalStorage等, vue2/vue3均可用 ![img](https://img.shields.io/github/stars/vueuse/vueuse)
 
 ## 指令
 
@@ -118,6 +123,12 @@
 
 - [vue-server-renderer](https://www.npmjs.com/package/vue-server-renderer) - Vue ssr 渲染， 渲染组件为html
 
+## 工程化架构解决方案
+
+- [Avue](https://avuejs.com/) - vue2/vue3业务组件库的一系列参考
+- [WeBankFinTech/fes.js: Fes.js 是一个基于 Vue 3 好用的前端应用解决方案。以约定、配置化、组件化的设计思想，让用户仅仅关心用组件搭建页面内容。技术曲线平缓，上手也简单。在经过多个项目中打磨后趋于稳定。丰富的 Vue 3 生态 和 Fes.js 插件，让业务开发更加简单快捷~](https://github.com/WeBankFinTech/fes.js) - 基于vue3的前端工程化解决方案
+- [vipshop/ams: AMS是基于 Vue.js 和 Element组件库、通过JSON配置来快速搭建管理后台的一整套前端解决方案](https://github.com/vipshop/ams) - vue的模块、api资源配置解决方案，类似网易飞哥那套config/module，由唯品会大前端团队出品
+
 ## 状态管理
 
 
@@ -125,6 +136,8 @@
     - [自己基于此实现todolist](https://github.com/FunnyLiu/vue-todolist)
     - [源码分析](https://github.com/FunnyLiu/mobx-vue/tree/readsource)
 - [vuex-orm](https://github.com/vuex-orm/vuex-orm) - 抽出model的概念，并类似ORM一样衔接vuex ![img](https://img.shields.io/github/stars/vuex-orm/vuex-orm)
+
+
 
 ## 其他
 
@@ -148,6 +161,7 @@
 - [vue-calendar-component](https://www.npmjs.com/package/vue-calendar-component) - 一个日历组件
 - [vue-class-component](https://github.com/vuejs/vue-class-component) - 用于编写class风格的vue组件的装饰器
 - [vue-cli](https://github.com/vuejs/vue-cli) - Vue的官方脚手架工具
+- [vue-fit-next](https://github.com/pasBone/vue-fit-next) - 一个大屏可视化自适应工具集合的vue指令, 具有拖拽、缩放、入场出场动画等功能  ![img](https://img.shields.io/github/stars/pasBone/vue-fit-next)
 - [vue-form-generator](https://github.com/vue-generators/vue-form-generator) - 通过schema生成表单
 - [vue-instantsearch](https://github.com/algolia/vue-instantsearch) - 构建Vue的搜索组件
 - [vue-lazyload](https://www.npmjs.com/package/vue-lazyload) - 懒加载图片
