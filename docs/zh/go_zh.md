@@ -16,6 +16,7 @@
 
 - [cli](https://github.com/cli/cli) - Github官方命令行cli工具
 - [gosu](https://github.com/tianon/gosu) - 替代sudo的go命令gosu
+- [g](https://github.com/voidint/g) - go版本的nvm，用来切换go的版本 ![img](https://img.shields.io/github/stars/voidint/g)
 
 ## 文件处理
 
