@@ -17,6 +17,7 @@
 - [cli](https://github.com/cli/cli) - Github官方命令行cli工具
 - [gosu](https://github.com/tianon/gosu) - 替代sudo的go命令gosu
 - [g](https://github.com/voidint/g) - go版本的nvm，用来切换go的版本 ![img](https://img.shields.io/github/stars/voidint/g)
+- [lazygit](https://github.com/jesseduffield/lazygit) - 一个git命令行工具，非常方便，部分场景可以让你不再需要开启sourcetree ![img](https://img.shields.io/github/stars/jesseduffield/lazygit#usage)
 
 ## 文件处理
 

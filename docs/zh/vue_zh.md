@@ -34,6 +34,7 @@
 
 - [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开发的一套后台管理框架 ![img](https://img.shields.io/github/stars/HalseySpicy/Geeker-Admin)
 - [PPTist](https://github.com/pipipi-pikachu/PPTist) - ppt在线版，基于vue3、typescript ![img](https://img.shields.io/github/stars/pipipi-pikachu/PPTist)
+- [vue3-bigData](https://github.com/biubiubiu01/vue3-bigData) - 大屏适配项目，基于vue3和echart ![img](https://img.shields.io/github/stars/biubiubiu01/vue3-bigData)
 - [vue-manage-system](https://github.com/lin-xin/vue-manage-system) - vue3 element-plus 后台管理系统 ![img](https://img.shields.io/github/stars/lin-xin/vue-manage-system)
 - [vue3-ts-vite](https://github.com/cool-team-official/cool-admin-vue/tree/vue3-ts-vite) - 后台管理系统，基于midway.js 2.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue  ![img](https://img.shields.io/github/stars/cool-team-official/cool-admin-vue/tree/vue3-ts-vite)
 - [newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城Vue3 版本，技术栈为 Vue 3.0 + Vue-Router 4.0 + Vuex 4.0 + Vant 3.0。 ![img](https://img.shields.io/github/stars/newbee-ltd/newbee-mall-vue3-app)

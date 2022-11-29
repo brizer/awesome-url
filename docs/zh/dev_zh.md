@@ -72,13 +72,16 @@
 
 ## 运维
 
+- [hertzbeat](https://github.com/dromara/hertzbeat) - 国产监控平台，提供saas和私有化部署方案，监控数据库、网络、服务器、云原生等 ![img](https://img.shields.io/github/stars/dromara/hertzbeat)
 - [spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。 ![img](https://img.shields.io/github/stars/openspug/spug)
 - [zadig](https://github.com/koderover/zadig) -  开源分布式持续交付产品，类似轻量级的流水线 ![img](https://img.shields.io/github/stars/koderover/zadig/blob/main/README-zh-CN.md)
 - [easy-flow](https://gitee.com/xiaoka2017/easy-flow) - 在线工作流编排
 
 
+
 ## 插件
 
+- [automa](https://github.com/AutomaApp/automa) - 浏览器扩展，用于自动化执行一些网页操作 ![img](https://img.shields.io/github/stars/AutomaApp/automa)
 - [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - chrome浏览器扩展官方示例集合 ![img](https://img.shields.io/github/stars/GoogleChrome/chrome-extensions-samples)
 - [vscode-extension-samples](https://github.com/Microsoft/vscode-extension-samples) - 微软官方的vscode简单实例合集 ![img](https://img.shields.io/github/stars/Microsoft/vscode-extension-samples)
 - [vscode-stories](https://github.com/benawad/vscode-stories) - 分享vscode代码片段的插件 ![img](https://img.shields.io/github/stars/benawad/vscode-stories)
@@ -87,6 +90,7 @@
 
 ## 代码片段
 
+- [cssfx](https://github.com/jolaleye/cssfx) - 一些关于按钮、loadding样式的代码片段 ![img](https://img.shields.io/github/stars/jolaleye/cssfx)
 - [vue-vscode-snippets](https://github.com/sdras/vue-vscode-snippets) - Vue的vscode代码片段扩展 ![img](https://img.shields.io/github/stars/sdras/vue-vscode-snippets)
 
 ## 测试

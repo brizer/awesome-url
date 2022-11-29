@@ -22,6 +22,7 @@
 - [koa](https://koajs.com/#context) - koa
 - [lerna](https://lerna.js.org/) - lerna api
 - [linux command](https://www.runoob.com/linux/linux-command-manual.html) - linux命令大全
+- [nginx-config](https://dunwu.github.io/nginx-tutorial/#/nginx-configuration) - nginx 配置大全
 - [overapi](http://overapi.com/) - API大全导航
 - [prettier-config](https://prettier.io/docs/en/configuration.html) - prettier代码美化
 - [react](https://reactjs.org/docs/react-api.html) - react api
