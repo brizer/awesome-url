@@ -3,6 +3,7 @@
 ## 例子
 
 - [go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目 ![img](https://img.shields.io/github/stars/go-admin-team/go-admin)
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。 ![img](https://img.shields.io/github/stars/flipped-aurora/gin-vue-admin)
 
 ## 客户端
 
@@ -21,8 +22,8 @@
 
 ## 文件处理
 
+- [excelize](https://github.com/qax-os/excelize) - go里面处理excel的 ![img](https://img.shields.io/github/stars/qax-os/excelize)
 - [node-prune](https://github.com/tj/node-prune) - 删除node_modules中不必要文件（md、ts等等）
-
 
 ## 监控
 

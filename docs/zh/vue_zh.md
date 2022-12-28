@@ -15,6 +15,7 @@
 - [uexam](https://github.com/alvis-u/uexam) - 学之思在线考试系统，支持多种题型：选择题、多选题、判断题、填空题、解答题以及数学公式，包含PC端、小程序端。基于vue/element-ui/vue-element-admin ![img](https://img.shields.io/github/stars/alvis-u/uexam)
 - [VueDemo_Sell_Eleme](https://github.com/SimonZhangITer/VueDemo_Sell_Eleme) - 饿了么基于 vue2 ![img](https://img.shields.io/github/stars/SimonZhangITer/VueDemo_Sell_Eleme)
 - [vueMusic](https://github.com/xieyezi/vueMusic) - vue做的web音乐App，基于vue/docker/docker-compose/express
+- [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 图片编辑器，类似网易的智图产品 ![img](https://img.shields.io/github/stars/nihaojob/vue-fabric-editor)
 - [vue-fallowFish](https://github.com/LLZUPUP/vue-fallowFish) - vue全家桶仿闲鱼部分布局以及功能实现
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - 基于elementui和vue2.0的后台系统
     - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/) - 相关文档介绍及生态其他组件工程介绍
@@ -33,6 +34,7 @@
 ## 项目实例-vue3
 
 - [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开发的一套后台管理框架 ![img](https://img.shields.io/github/stars/HalseySpicy/Geeker-Admin)
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。 ![img](https://img.shields.io/github/stars/flipped-aurora/gin-vue-admin)
 - [PPTist](https://github.com/pipipi-pikachu/PPTist) - ppt在线版，基于vue3、typescript ![img](https://img.shields.io/github/stars/pipipi-pikachu/PPTist)
 - [vue3-bigData](https://github.com/biubiubiu01/vue3-bigData) - 大屏适配项目，基于vue3和echart ![img](https://img.shields.io/github/stars/biubiubiu01/vue3-bigData)
 - [vue-manage-system](https://github.com/lin-xin/vue-manage-system) - vue3 element-plus 后台管理系统 ![img](https://img.shields.io/github/stars/lin-xin/vue-manage-system)
