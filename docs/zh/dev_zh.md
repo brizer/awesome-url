@@ -30,6 +30,10 @@
 - [vipshop/ams: AMS是基于 Vue.js 和 Element组件库、通过JSON配置来快速搭建管理后台的一整套前端解决方案](https://github.com/vipshop/ams) - vue的模块、api资源配置解决方案，类似网易飞哥那套config/module，由唯品会大前端团队出品
 
 
+## 数据处理
+
+- [Taier](https://github.com/DTStack/Taier) - 开源的大数据平台，类似网易猛犸 ![img](https://img.shields.io/github/stars/DTStack/Taier)
+
 ## 数据库
 
 - [Yearning](https://github.com/cookieY/Yearning) - <g-emoji class="g-emoji" alias="whale" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png">🐳</g-emoji> SQL审查管理平台，工单系统 ![img](https://img.shields.io/github/stars/cookieY/Yearning)

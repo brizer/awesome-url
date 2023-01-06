@@ -44,6 +44,7 @@
 - [speed-measure-webpack-plugin#readme](https://github.com/stephencookdev/speed-measure-webpack-plugin#readme) - 记录各个loader和插件的耗时，方便排查构建速度
 - [terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) - js最小化、多进程开启 ![img](https://img.shields.io/github/stars/webpack-contrib/terser-webpack-plugin)
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - 可视化分析webpack依赖模块大小
+- [webpack-deadcode-plugin](https://github.com/MQuy/webpack-deadcode-plugin) - 分析webpack打包的文件中，哪些文件是死代码，不需要被依赖进去 ![img](https://img.shields.io/github/stars/MQuy/webpack-deadcode-plugin)
 - [webpack-manifest-plugin](https://github.com/shellscape/webpack-manifest-plugin) - 生成静态资源manifest的插件 ![img](https://img.shields.io/github/stars/shellscape/webpack-manifest-plugin)
 - [webpack-subresource-integrity](https://github.com/waysact/webpack-subresource-integrity) - 使用Subresource Integrity的webbpack插件
 - [write-file-webpack-plugin](https://github.com/gajus/write-file-webpack-plugin) - 使得webpack-dev-server将打包文件写到文件系统中

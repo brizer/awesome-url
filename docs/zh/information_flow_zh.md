@@ -52,6 +52,7 @@
 - [git-tips](https://github.com/521xueweihan/git-tips) - Git的奇技淫巧 ![img](https://img.shields.io/github/stars/521xueweihan/git-tips)
 - [gopher](https://github.com/yongxinz/gopher) - go学习教程大全集 ![img](https://img.shields.io/github/stars/yongxinz/gopher)
 - [go-togoer](https://www.topgoer.com/) - go中文入门学习文档
+- [bestJavaer](https://github.com/crisxuan/bestJavaer) - java学习教程大全集，总结的也很好 ![img](https://img.shields.io/github/stars/crisxuan/bestJavaer)
 - [javascript.info](https://zh.javascript.info/) - 一个很好的学习现代js基础的免费教程
 - [just-react](https://github.com/BetaSu/just-react) - React技术揭秘，源码阅读分析，React源码学习 ![img](https://img.shields.io/github/stars/BetaSu/just-react)
 - [v17.0.1](https://github.com/7kms/react-illustration-series/tree/v17.0.1) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚. ![img](https://img.shields.io/github/stars/7kms/react-illustration-series/tree/v17.0.1)

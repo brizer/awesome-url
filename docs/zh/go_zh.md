@@ -24,6 +24,7 @@
 
 - [excelize](https://github.com/qax-os/excelize) - go里面处理excel的 ![img](https://img.shields.io/github/stars/qax-os/excelize)
 - [node-prune](https://github.com/tj/node-prune) - 删除node_modules中不必要文件（md、ts等等）
+- [viper](https://github.com/spf13/viper) - 各种配置文件比如yaml、json、xml等的通用解决方案 ![img](https://img.shields.io/github/stars/spf13/viper)
 
 ## 监控
 
