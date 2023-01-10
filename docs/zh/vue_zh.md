@@ -37,9 +37,13 @@
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。 ![img](https://img.shields.io/github/stars/flipped-aurora/gin-vue-admin)
 - [PPTist](https://github.com/pipipi-pikachu/PPTist) - ppt在线版，基于vue3、typescript ![img](https://img.shields.io/github/stars/pipipi-pikachu/PPTist)
 - [vue3-bigData](https://github.com/biubiubiu01/vue3-bigData) - 大屏适配项目，基于vue3和echart ![img](https://img.shields.io/github/stars/biubiubiu01/vue3-bigData)
+- [vue3-music](https://github.com/SmallRuralDog/vue3-music) - 基于 Vue 3 + TypeScript + Vite + Pinia + Vueuse 开发的音乐播放器，界面模仿QQ音乐 Mac 客户端，支持黑夜模式。 ![img](https://img.shields.io/github/stars/SmallRuralDog/vue3-music)
 - [vue-manage-system](https://github.com/lin-xin/vue-manage-system) - vue3 element-plus 后台管理系统 ![img](https://img.shields.io/github/stars/lin-xin/vue-manage-system)
+- [vue3-composition-admin](https://github.com/RainManGO/vue3-composition-admin) - 管理端模板解决方案，它基于 Vue3、TypeScript、Vuex、Vue Router、Element plus，项目都是以 composition api 风格编写 ![img](https://img.shields.io/github/stars/RainManGO/vue3-composition-admin)
 - [vue3-ts-vite](https://github.com/cool-team-official/cool-admin-vue/tree/vue3-ts-vite) - 后台管理系统，基于midway.js 2.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue  ![img](https://img.shields.io/github/stars/cool-team-official/cool-admin-vue/tree/vue3-ts-vite)
 - [newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城Vue3 版本，技术栈为 Vue 3.0 + Vue-Router 4.0 + Vuex 4.0 + Vant 3.0。 ![img](https://img.shields.io/github/stars/newbee-ltd/newbee-mall-vue3-app)
+- [vue-next-admin](https://github.com/lyt-Top/vue-next-admin) - 基于 Vue3.x + Typescript + Vite + Element plus + Vuex 等，适配手机、平板、PC 的后台开源免费模板库 ![img](https://img.shields.io/github/stars/lyt-Top/vue-next-admin)
+- [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - 开源免费且开箱即用的中后台管理系统模版（兼容移动端）。使用 Vue3 + Vite + Element Plus、TypeScript + Pinia + Tailwindcss 等主流技术开发 ![img](https://img.shields.io/github/stars/xiaoxian521/vue-pure-admin)
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) -  一个后台系统，基于Vite2, vue3.0, ant-design-vue 2.x, typescript，vuex,vue-router,持续更新中 ![img](https://img.shields.io/github/stars/anncwb/vue-vben-admin)
 
 ## 单元测试
@@ -67,6 +71,7 @@
 - [xiaocheng555/el-table-virtual-scroll: 基于Element-UI的Table 组件开发的虚拟滚动组件，支持动态高度，解决数据量大时滚动卡顿的问题。](https://github.com/xiaocheng555/el-table-virtual-scroll) - element-ui的虚拟表格解决方案，亲测非常好用，值得一试
 - [element-plus](https://github.com/element-plus/element-plus) -  基于Vue3的elementui库 ![img](https://img.shields.io/github/stars/element-plus/element-plus)
 - [element-ui-verify](https://github.com/aweiu/element-ui-verify) - 加强简化elementui的校验
+- [menujs](https://github.com/GitHub-Laziji/menujs) - vue2的右键菜单组件，可以嵌套，还不错 ![img](https://img.shields.io/github/stars/GitHub-Laziji/menujs)
 - [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - vue拓展组件，非常好用，可视化表单使用之 ![img](https://img.shields.io/github/stars/SortableJS/Vue.Draggable)
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - swiper轮播图组件的vue版本
 - [vue-clipboard2](https://github.com/Inndy/vue-clipboard2) - 剪切板组件
