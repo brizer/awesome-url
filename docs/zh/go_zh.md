@@ -16,9 +16,11 @@
 ## 命令行工具
 
 - [cli](https://github.com/cli/cli) - Github官方命令行cli工具
+- [gocui](https://github.com/jroimartin/gocui) - 命令行终端ui，被lazygit使用。支持键盘事件处理、鼠标事件处理、布局管理、滚动窗口等功能 ![img](https://img.shields.io/github/stars/jroimartin/gocui)
 - [gosu](https://github.com/tianon/gosu) - 替代sudo的go命令gosu
 - [g](https://github.com/voidint/g) - go版本的nvm，用来切换go的版本 ![img](https://img.shields.io/github/stars/voidint/g)
 - [lazygit](https://github.com/jesseduffield/lazygit) - 一个git命令行工具，非常方便，部分场景可以让你不再需要开启sourcetree ![img](https://img.shields.io/github/stars/jesseduffield/lazygit#usage)
+- [dive](https://github.com/wagoodman/dive) - 用来剖析一个镜像的内容，韬老鼎力推荐 ![img](https://img.shields.io/github/stars/wagoodman/dive)
 
 ## 文件处理
 

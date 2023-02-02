@@ -48,6 +48,7 @@
 - [freecodecamp](https://www.freecodecamp.org/) - 前端学习平台，github霸榜项目
 - [design-patterns-JS](https://github.com/fbeline/design-patterns-JS) - javascript版本的设计模式简易demo ![img](https://img.shields.io/github/stars/fbeline/design-patterns-JS)
 - [design-patterns-typescript](https://github.com/RefactoringGuru/design-patterns-typescript) - Typescript版本的设计模式教程 ![img](https://img.shields.io/github/stars/RefactoringGuru/design-patterns-typescript)
+- [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - 各种语言的设计模式，应有尽有 ![img](https://img.shields.io/github/stars/DovAmir/awesome-design-patterns)
 - [explain-git-with-d3](https://github.com/onlywei/explain-git-with-d3) - 通过可视化的方式解释git的原理 ![img](https://img.shields.io/github/stars/onlywei/explain-git-with-d3)
 - [git-tips](https://github.com/521xueweihan/git-tips) - Git的奇技淫巧 ![img](https://img.shields.io/github/stars/521xueweihan/git-tips)
 - [gopher](https://github.com/yongxinz/gopher) - go学习教程大全集 ![img](https://img.shields.io/github/stars/yongxinz/gopher)
@@ -79,10 +80,11 @@
 # PPT
 - [from-coder-to-expert](https://github.com/FunnyLiu/from_coder_to_expert) - 非常多技术架构的例子，学习制作演讲型的ppt
 
-# Product
+# 产品设计
 
 - [七麦数据](https://www.qimai.cn/) - app评价、排名等ASO相关信息
 - [设计导航 - 精选最好的设计网站大全](http://hao.shejidaren.com/index.html) - 产品设计界的大全集，导航大全
+- [爱给网_音效配乐_3D模型_视频素材_免费下载](https://www.aigei.com/) - 各种素材免费下载比如图片、音频、视频等
 
 # 面试问答
 

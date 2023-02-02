@@ -25,6 +25,7 @@
 - [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - 可视化cms，专注h5，基于umi/node/react/hooks ![img](https://img.shields.io/github/stars/MrXujiang/h5-Dooring)
 - [图像大厨imgcook](https://www.imgcook.com/) - 淘宝的设计稿转代码的工具，支持 figma、sketch、psd，甚至还支持图片。除了通过插件上传数据外，也可以直接上传设计稿文件。imgcook 支持的设计稿类型比较多，甚至支持从图片来提取信息，也提供了编辑器功能可以做一些人工干预，功能还是比较全面的。
 - [码匠 - 快速开发内部系统](https://majiang.co/) - 商业化的低代码平台
+- [lowcode-engine](https://github.com/alibaba/lowcode-engine) - 阿里巴巴低代码引擎，一个编辑页（可扩展UI+物料+出码逻辑），然后其他人可以扩展后，基于此做不同业务场景低代码平台 ![img](https://img.shields.io/github/stars/alibaba/lowcode-engine)
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - 可视化配置nginx ![img](https://img.shields.io/github/stars/digitalocean/nginxconfig.io)
 - [Picasso](https://github.com/wuba/Picasso) - 58同城 Picasso 没有使用 AI 算法，只是做了 sketch 设计稿数据到 DSL 的转换，处理了下分组和布局转换，同时支持绝对定位和 flex 布局，然后打印成各种代码。没有支持编辑器、也没有做 className 的处理，对组件标注的支持也不好 ![img](https://img.shields.io/github/stars/wuba/Picasso)
 - [VvvebJs](https://github.com/givanz/VvvebJs) - 可视化cms系统开源版 ![img](https://img.shields.io/github/stars/givanz/VvvebJs)
@@ -33,6 +34,7 @@
 
 ## 数据处理
 
+- [dinky](https://github.com/DataLinkDC/dinky) -开源的大数据平台，类似网易猛犸 ![img](https://img.shields.io/github/stars/DataLinkDC/dinky)
 - [Taier](https://github.com/DTStack/Taier) - 开源的大数据平台，类似网易猛犸 ![img](https://img.shields.io/github/stars/DTStack/Taier)
 
 ## 数据库
@@ -91,7 +93,8 @@
 
 ## 插件
 
-- [automa](https://github.com/AutomaApp/automa) - 浏览器扩展，用于自动化执行一些网页操作 ![img](https://img.shields.io/github/stars/AutomaApp/automa)
+- [automa](https://github.com/AutomaApp/automa) - 浏览器扩展，用于自动化执行一些网页操作，UI自动化 ![img](https://img.shields.io/github/stars/AutomaApp/automa)
+- [selenium-ide](https://github.com/seleniumhq/selenium-ide) - 浏览器扩展，用于自动化执行一些网页操作，UI自动化 ![img](https://img.shields.io/github/stars/seleniumhq/selenium-ide)
 - [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - chrome浏览器扩展官方示例集合 ![img](https://img.shields.io/github/stars/GoogleChrome/chrome-extensions-samples)
 - [vscode-extension-samples](https://github.com/Microsoft/vscode-extension-samples) - 微软官方的vscode简单实例合集 ![img](https://img.shields.io/github/stars/Microsoft/vscode-extension-samples)
 - [vscode-stories](https://github.com/benawad/vscode-stories) - 分享vscode代码片段的插件 ![img](https://img.shields.io/github/stars/benawad/vscode-stories)
