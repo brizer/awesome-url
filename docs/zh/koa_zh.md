@@ -1,12 +1,13 @@
 # Koa
 
 ## 项目实例
-
+- [console](https://github.com/kubesphere/console) - kubesphere的前端项目，基于koa和react，前后端分离开发、统一部署的一个方案。将打包后的文件映射为mainfest，再通过koa-views去挨个渲染到index模板 ![img](https://img.shields.io/github/stars/kubesphere/console)
 - [examples](https://github.com/koajs/examples) - Koa官方example合集
 - [koa-knex-realworld-example](https://github.com/gothinkster/koa-knex-realworld-example) - koa构建的real-world项目
 - [nodejs-koa-blog](https://github.com/liangfengbo/nodejs-koa-blog) - Node.js + Koa2 + MySQL + Vue.js 实战开发一套完整个人博客项目网站
 - [outline](https://github.com/outline/outline) - 文档和知识管理，服务端基于koa。
 - [strapi](https://github.com/strapi/strapi/) - <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> 开源cms系统，构建node应用和api
+
 
 ## 中间件
 

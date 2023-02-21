@@ -110,6 +110,7 @@
 - [nutui](https://github.com/jdf2e/nutui) - vue3组件库，京东出品，专注于移动端 ![img](https://img.shields.io/github/stars/jdf2e/nutui)
 - [tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next) - vue3组件库，腾讯出品，基于vue3/Typescript ![img](https://img.shields.io/github/stars/Tencent/tdesign-vue-next)
 - [vant](https://github.com/youzan/vant) - vue移动端组件库，有赞出品，专注于移动端，基于vue/typescript/jsx/tsx
+- [vue-count-to](https://github.com/xiaofan9/vue-count-to) - vue-count-to的同时支持vue3和vue2的版本 ![img](https://img.shields.io/github/stars/xiaofan9/vue-count-to)
 
 ## 组合API
 
