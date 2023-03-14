@@ -1,5 +1,11 @@
 # 信息流
 
+# AI
+
+- [Futurepedia - The Largest AI Tools Directory | Home](https://www.futurepedia.io/) - 大量AI工具的合集，chatGPT只是其中一个
+- [Character.AI - World RPG](https://beta.character.ai/) - 一个非常有趣的AI聊天工具，可以和各种各样的人或者事物聊天，每个人都有自己的性格
+- [DALL·E 2 Explained from OpenAI on Vimeo](https://player.vimeo.com/video/692375454) - openAI出品的文字生成图片、图片生成图片工具
+
 # 通用
 
 - [github](https://github.com/) - 开源代码托管

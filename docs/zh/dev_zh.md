@@ -2,6 +2,11 @@
 
 - [zeit](https://zeit.co/dashboard) - 基于github或gitlab内容，免费提供服务器和域名部署静态文件
 
+## DevOps
+
+- [onedev](https://github.com/theonedev/onedev) - 开源DevOps平台 ![img](https://img.shields.io/github/stars/theonedev/onedev)
+- [laf](https://github.com/labring/laf) - 开源的Serverless平台 ![img](https://img.shields.io/github/stars/labring/laf)
+- [ledge](https://github.com/phodal/ledge) - DEVOPS相关的知识库，非常全面，如果吸收了非常有帮助 ![img](https://img.shields.io/github/stars/phodal/ledge)
 
 ## 接口管理
 
@@ -17,6 +22,17 @@
 
 - [Bigjpg](https://bigjpg.com/) - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片
 - [凡科快图](https://kt.fkw.com/) - 在线图片编辑_在线制作图片_在线图片处理软件，非常好用
+
+## AI画图工具
+
+- [Image Upscaler Online – AI 放大照片而不损失质量](https://www.vidmore.com/zh/image-upscaler/) - 让图片变更清晰
+- [wombo.art](https://dream.ai/create) - 免费的画图工具，通过文字来画图
+- [phtotokit](https://photokit.com/) - 一键抠图、AI移除、在线图片编辑
+
+
+## AI视频
+
+- [BibiGPT](https://github.com/JimmyLv/BibiGPT) - 利用gpt来实现对哔哩哔哩、YouTube等视频内容的分析、提取、总结 ![img](https://img.shields.io/github/stars/JimmyLv/BibiGPT)
 
 ## 低代码
 
@@ -103,8 +119,10 @@
 
 ## 代码片段
 
+- [component-party](https://github.com/matschik/component-party) - 一个在不同场景下，比较各种前端框架的代码风格，非常有意义，尤其针对vue3和vue2 ![img](https://img.shields.io/github/stars/matschik/component-party)
 - [cssfx](https://github.com/jolaleye/cssfx) - 一些关于按钮、loadding样式的代码片段 ![img](https://img.shields.io/github/stars/jolaleye/cssfx)
 - [vue-vscode-snippets](https://github.com/sdras/vue-vscode-snippets) - Vue的vscode代码片段扩展 ![img](https://img.shields.io/github/stars/sdras/vue-vscode-snippets)
+
 
 ## 测试
 
@@ -119,6 +137,9 @@
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - 开源大数据分析平台，可以用于用户行为，实时数据，OLAP，阿里巴巴在用 ![img](https://img.shields.io/github/stars/ClickHouse/ClickHouse)
     - [ClickHouse在手淘流量分析业务实践-InfoQ](https://www.infoq.cn/article/9ddaKIJJaPac9bsDgWmx?utm_source=feedly&utm_medium=article)
 - [dubbokeeper](https://github.com/dubboclub/dubbokeeper) - dubbo服务管理以及监控系统
+- [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe) - ABtest平台 ![img](https://img.shields.io/github/stars/FeatureProbe/FeatureProbe)
+- [jumpserver](https://github.com/jumpserver/jumpserver) - 开源堡垒机，4A规范 ![img](https://img.shields.io/github/stars/jumpserver/jumpserver)
+- [landscape](https://github.com/cncf/landscape) - 云原生的中间件大合集，非常全面 ![img](https://img.shields.io/github/stars/cncf/landscape)
 - [matomo](https://github.com/matomo-org/matomo) - Matomo是Google Analytics的领先开放替代品，可让您完全控制数据。 分析用户行为，开源可独立部署。
 - [onpremise](https://github.com/getsentry/onpremise) - Sentry 私有化部署工具
 - [sentry](https://github.com/getsentry/sentry) - Sentry是跨平台语言的性能监控平台。开源可独立部署。

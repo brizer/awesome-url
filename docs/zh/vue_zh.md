@@ -100,7 +100,10 @@
 - [vuetify](https://github.com/vuetifyjs/vuetify) - vue的组件库，基于typscript/webpack开发的
     - [源码分析](https://github.com/FunnyLiu/vuetify/tree/readsource)
 - [vxe-table](https://github.com/xuliangzhan/vxe-table) - <g-emoji class="g-emoji" alias="dolphin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f42c.png">🐬</g-emoji> 表格解决方案
-
+- [vue-flowchart-editor](https://github.com/jnoodle/vue-flowchart-editor) - 基于G6和vue2的流程图编辑器，带左侧、中间、右侧表单 ![img](https://img.shields.io/github/stars/jnoodle/vue-flowchart-editor)
+- [vue-super-flow](https://github.com/caohuatao/vue-super-flow) - 基于vue2的流程图组件，功能相对薄弱些 ![img](https://img.shields.io/github/stars/caohuatao/vue-super-flow)
+- [vue-x6-flow](https://github.com/MyButifullyLife/vue-x6-flow) - 就有G6和vue2的流程图编辑器、是个工程，相对定制性强点，而且模块简单，值得参考 ![img](https://img.shields.io/github/stars/MyButifullyLife/vue-x6-flow)
+    - [FunnyLiu/vue-x6-flow](https://github.com/FunnyLiu/vue-x6-flow) -  本人改为左右布局后的效果![img](https://img.shields.io/github/stars/FunnyLiu/vue-x6-flow)
 
 ## 组件vue3
 
@@ -111,6 +114,7 @@
 - [tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next) - vue3组件库，腾讯出品，基于vue3/Typescript ![img](https://img.shields.io/github/stars/Tencent/tdesign-vue-next)
 - [vant](https://github.com/youzan/vant) - vue移动端组件库，有赞出品，专注于移动端，基于vue/typescript/jsx/tsx
 - [vue-count-to](https://github.com/xiaofan9/vue-count-to) - vue-count-to的同时支持vue3和vue2的版本 ![img](https://img.shields.io/github/stars/xiaofan9/vue-count-to)
+- [vue-flow](https://github.com/bcakmakoglu/vue-flow) - 流水线画板组件，只支持vue3 ![img](https://img.shields.io/github/stars/bcakmakoglu/vue-flow)
 
 ## 组合API
 
