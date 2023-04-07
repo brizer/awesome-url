@@ -128,7 +128,7 @@ module.exports = {
             },
             {
               title: "模块包",
-              children: ["/zh/node_modules_zh", "/zh/go_zh","/zh/mobile_zh"]
+              children: ["/zh/node_modules_zh", "/zh/go_zh","/zh/python_zh","/zh/mobile_zh"]
             },
             {
               title: "信息流",

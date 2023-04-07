@@ -20,6 +20,7 @@
 
 ## 画图工具
 
+- [AI产品大全](https://17yongai.com/) - AI产品大全
 - [Bigjpg](https://bigjpg.com/) - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片
 - [凡科快图](https://kt.fkw.com/) - 在线图片编辑_在线制作图片_在线图片处理软件，非常好用
 
@@ -28,11 +29,24 @@
 - [Image Upscaler Online – AI 放大照片而不损失质量](https://www.vidmore.com/zh/image-upscaler/) - 让图片变更清晰
 - [wombo.art](https://dream.ai/create) - 免费的画图工具，通过文字来画图
 - [phtotokit](https://photokit.com/) - 一键抠图、AI移除、在线图片编辑
-
+- [paint-by-text](https://github.com/replicate/paint-by-text) - 通过文字来改图，自测可以精细化，还不错，功能类似playgroundai.com ![img](https://img.shields.io/github/stars/replicate/paint-by-text)
 
 ## AI视频
 
 - [BibiGPT](https://github.com/JimmyLv/BibiGPT) - 利用gpt来实现对哔哩哔哩、YouTube等视频内容的分析、提取、总结 ![img](https://img.shields.io/github/stars/JimmyLv/BibiGPT)
+
+## AI文本
+
+- [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - chatgpt的中文prompts合集，可以参考 ![img](https://img.shields.io/github/stars/PlexPt/awesome-chatgpt-prompts-zh)
+- [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - 和chatgpt功能长相一模一样的镜像站，需要自己token ![img](https://img.shields.io/github/stars/yuezk/chatgpt-mirror)
+- [unstructured](https://github.com/Unstructured-IO/unstructured) - 从pdf、html等文件获取到AI可以识别的文本 ![img](https://img.shields.io/github/stars/Unstructured-IO/unstructured)
+
+
+## AI开发者工具
+
+- [notionAI](https://www.notion.so/Getting-Started-f985a41975a04fc5bd4a58a3c1046ec1) - notion AI，写文章必备
+- [phind](https://www.phind.com/) - 轻量级gpt工具，可以用来做gpt的事情，需要科学
+
 
 ## 低代码
 
