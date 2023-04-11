@@ -28,6 +28,7 @@
 
 - [Image Upscaler Online – AI 放大照片而不损失质量](https://www.vidmore.com/zh/image-upscaler/) - 让图片变更清晰
 - [wombo.art](https://dream.ai/create) - 免费的画图工具，通过文字来画图
+- [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - 在Mac上跑stableDiffusiton ![img](https://img.shields.io/github/stars/godly-devotion/MochiDiffusion)
 - [phtotokit](https://photokit.com/) - 一键抠图、AI移除、在线图片编辑
 - [paint-by-text](https://github.com/replicate/paint-by-text) - 通过文字来改图，自测可以精细化，还不错，功能类似playgroundai.com ![img](https://img.shields.io/github/stars/replicate/paint-by-text)
 
@@ -38,14 +39,18 @@
 ## AI文本
 
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - chatgpt的中文prompts合集，可以参考 ![img](https://img.shields.io/github/stars/PlexPt/awesome-chatgpt-prompts-zh)
+- [ChatDOC](https://chatdoc.com/chatdoc/#/upload) - 基于AI来针对PDF文件提问，特别适合看简历之类的
 - [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - 和chatgpt功能长相一模一样的镜像站，需要自己token ![img](https://img.shields.io/github/stars/yuezk/chatgpt-mirror)
+- [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna) - 羊驼模型的中文版，启动支持了谷歌云的一键部署方案，非常方便 ![img](https://img.shields.io/github/stars/Facico/Chinese-Vicuna)
 - [unstructured](https://github.com/Unstructured-IO/unstructured) - 从pdf、html等文件获取到AI可以识别的文本 ![img](https://img.shields.io/github/stars/Unstructured-IO/unstructured)
 
 
 ## AI开发者工具
 
+- [chatgpt-sites](https://github.com/lzwme/chatgpt-sites) - 中国可以用的chatgpt网站 ![img](https://img.shields.io/github/stars/lzwme/chatgpt-sites)
 - [notionAI](https://www.notion.so/Getting-Started-f985a41975a04fc5bd4a58a3c1046ec1) - notion AI，写文章必备
 - [phind](https://www.phind.com/) - 轻量级gpt工具，可以用来做gpt的事情，需要科学
+
 
 
 ## 低代码

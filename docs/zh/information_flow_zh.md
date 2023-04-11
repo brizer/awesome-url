@@ -64,7 +64,9 @@
 - [just-react](https://github.com/BetaSu/just-react) - React技术揭秘，源码阅读分析，React源码学习 ![img](https://img.shields.io/github/stars/BetaSu/just-react)
 - [v17.0.1](https://github.com/7kms/react-illustration-series/tree/v17.0.1) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚. ![img](https://img.shields.io/github/stars/7kms/react-illustration-series/tree/v17.0.1)
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 像游戏一样学习git
+- [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 机器学习的入门教程，非常全面，全英文 ![img](https://img.shields.io/github/stars/microsoft/ML-For-Beginners)
 - [nginx-tutorial](https://github.com/dunwu/nginx-tutorial) - nginx中文极简教程，用来学习nginx ![img](https://img.shields.io/github/stars/dunwu/nginx-tutorial)
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 如何问出好的prompt，AI user必备 ![img](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide)
 - [Python-Core-50-Courses](https://github.com/jackfrued/Python-Core-50-Courses) - Python语言基础50课 ![img](https://img.shields.io/github/stars/jackfrued/Python-Core-50-Courses)
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 ![img](https://img.shields.io/github/stars/jackfrued/Python-100-Days)
 - [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - React和Typescript开发的入门备忘录 ![img](https://img.shields.io/github/stars/typescript-cheatsheets/react-typescript-cheatsheet)
