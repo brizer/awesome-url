@@ -175,6 +175,7 @@
 - [vue-class-component](https://github.com/vuejs/vue-class-component) - 用于编写class风格的vue组件的装饰器
 - [vue-cli](https://github.com/vuejs/vue-cli) - Vue的官方脚手架工具
 - [vue-fit-next](https://github.com/pasBone/vue-fit-next) - 一个大屏可视化自适应工具集合的vue指令, 具有拖拽、缩放、入场出场动画等功能  ![img](https://img.shields.io/github/stars/pasBone/vue-fit-next)
+- [v-scale-screen](https://github.com/Alfred-Skyblue/v-scale-screen) - 基于scale来适配大屏项目的vue指令，同时兼容vue3和vue2 ![img](https://img.shields.io/github/stars/Alfred-Skyblue/v-scale-screen)
 - [vue-form-generator](https://github.com/vue-generators/vue-form-generator) - 通过schema生成表单
 - [vue-instantsearch](https://github.com/algolia/vue-instantsearch) - 构建Vue的搜索组件
 - [vue-lazyload](https://www.npmjs.com/package/vue-lazyload) - 懒加载图片

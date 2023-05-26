@@ -8,12 +8,14 @@
 
 ## 机器人工具
 
+- [koishi](https://github.com/koishijs/koishi) - 天机器人框架，支持QQ、Telegram、飞书、Discord等平台 ![img](https://img.shields.io/github/stars/koishijs/koishi)
 - [wechaty](https://github.com/wechaty/wechaty) - 基于typescript的机器人 ![img](https://img.shields.io/github/stars/wechaty/wechaty)
 
 
 
 ## 小程序
 
+- [自研小程序引擎最快的方案](https://www.finclip.com/) - 通过FinClip来自研小程序引擎，应该是最快的方案，小程序容器技术
 - [miniprogram-ci](https://www.npmjs.com/package/miniprogram-ci) - 在ci提交代码给微信，直接完成小程序上传
 - [wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架，不再紧紧是一个组件维度了，腾讯官方出品 ![img](https://img.shields.io/github/stars/Tencent/wepy)
 - [weui-wxss](https://github.com/Tencent/weui-wxss/) - 微信小程序组件库 ![img](https://img.shields.io/github/stars/Tencent/weui-wxss/)

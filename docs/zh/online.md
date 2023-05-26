@@ -17,6 +17,7 @@
 - [ideone](https://ideone.com/) - 支持c++，java等多种语言的在线编辑器
 - [try-freemarker](https://try.freemarker.apache.org/) - freemarker语言校验器
 - [Modulecounts](http://www.modulecounts.com/) - 各个不同包管理器模块数量比较
+- [photoshoponline](https://www.photopea.com/) - 在线ps，在线Photoshop，非常方便，非常靠谱，可以打开psd、sketch、ai、xd、图片等多种文件类型
 - [pdf2doc](https://pdf2doc.com/) - pdf文件转doc文件
 - [plantuml](https://plantuml.com/zh/sequence-diagram) - plantUML的例子和语法
 - [cssspritegenerator](https://spritegen.website-performance.org/) - css雪碧图生成器

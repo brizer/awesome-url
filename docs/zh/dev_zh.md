@@ -24,45 +24,74 @@
 - [Bigjpg](https://bigjpg.com/) - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片
 - [凡科快图](https://kt.fkw.com/) - 在线图片编辑_在线制作图片_在线图片处理软件，非常好用
 
+## AI大合集
+
+- [ai-collection](https://github.com/ai-collection/ai-collection) - 各种AI工具大合集，数都数不完，各种方面都有 ![img](https://img.shields.io/github/stars/ai-collection/ai-collection)
+
 ## AI画图工具
 
+- [ClipDrop](https://clipdrop.co/) - Stable Diffusion推出的商业版图片编辑网站，很多免费功能
 - [Image Upscaler Online – AI 放大照片而不损失质量](https://www.vidmore.com/zh/image-upscaler/) - 让图片变更清晰
 - [wombo.art](https://dream.ai/create) - 免费的画图工具，通过文字来画图
 - [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - 在Mac上跑stableDiffusiton ![img](https://img.shields.io/github/stars/godly-devotion/MochiDiffusion)
+- [OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - mid和sd的提示词可视化生成器，非常方便 ![img](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio)
 - [phtotokit](https://photokit.com/) - 一键抠图、AI移除、在线图片编辑
 - [paint-by-text](https://github.com/replicate/paint-by-text) - 通过文字来改图，自测可以精细化，还不错，功能类似playgroundai.com ![img](https://img.shields.io/github/stars/replicate/paint-by-text)
+- [segment-anything](https://github.com/facebookresearch/segment-anything) - 抠图神器，Facebook出品，有在线地址，可以非常方便 ![img](https://img.shields.io/github/stars/facebookresearch/segment-anything)
 
 ## AI视频
 
 - [BibiGPT](https://github.com/JimmyLv/BibiGPT) - 利用gpt来实现对哔哩哔哩、YouTube等视频内容的分析、提取、总结 ![img](https://img.shields.io/github/stars/JimmyLv/BibiGPT)
 
+
 ## AI文本
 
+- [AgentGPT](https://github.com/reworkd/AgentGPT) - 自问自答无止境的gpt，需要用自己的token才能执行完全，否则只能几句就没了 ![img](https://img.shields.io/github/stars/reworkd/AgentGPT)
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - chatgpt的中文prompts合集，可以参考 ![img](https://img.shields.io/github/stars/PlexPt/awesome-chatgpt-prompts-zh)
 - [ChatDOC](https://chatdoc.com/chatdoc/#/upload) - 基于AI来针对PDF文件提问，特别适合看简历之类的
+- [docsgpt](https://github.com/arc53/docsgpt) - 类似chatdoc，也是将文本进行训练进行提问 ![img](https://img.shields.io/github/stars/arc53/docsgpt)
 - [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - 和chatgpt功能长相一模一样的镜像站，需要自己token ![img](https://img.shields.io/github/stars/yuezk/chatgpt-mirror)
 - [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna) - 羊驼模型的中文版，启动支持了谷歌云的一键部署方案，非常方便 ![img](https://img.shields.io/github/stars/Facico/Chinese-Vicuna)
-- [unstructured](https://github.com/Unstructured-IO/unstructured) - 从pdf、html等文件获取到AI可以识别的文本 ![img](https://img.shields.io/github/stars/Unstructured-IO/unstructured)
+- [FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - 可以非常方便部署的gpt，apache出品的模型，没有道德限制 ![img](https://img.shields.io/github/stars/ohmplatform/FreedomGPT)
+- [LlamaChat](https://github.com/alexrozanski/LlamaChat) - 可以直接运行在Mac上的大语言模型对话客户端，基于羊驼那几个model  ![img](https://img.shields.io/github/stars/alexrozanski/LlamaChat)
+- [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - 一个类似chatgpt的开源工具，目前还比较低智 ![img](https://img.shields.io/github/stars/LAION-AI/Open-Assistant)
+- [unstructured](https://github.com/Unstructured-IO/unstructured) - 从pdf、html等文件获取到AI可以识别的文本，是一个库，给开发用的 ![img](https://img.shields.io/github/stars/Unstructured-IO/unstructured)
+- [vault-ai](https://github.com/pashpashpash/vault-ai) - 类似chatdoc，但是需要openai的token，可以参考其实现 ![img](https://img.shields.io/github/stars/pashpashpash/vault-ai)
 
 
 ## AI开发者工具
 
 - [chatgpt-sites](https://github.com/lzwme/chatgpt-sites) - 中国可以用的chatgpt网站 ![img](https://img.shields.io/github/stars/lzwme/chatgpt-sites)
+- [LocalAI](https://github.com/go-skynet/LocalAI) - 本地部署各种模型的AI，需要本地部署是非常耗费资源的 ![img](https://img.shields.io/github/stars/go-skynet/LocalAI)
 - [notionAI](https://www.notion.so/Getting-Started-f985a41975a04fc5bd4a58a3c1046ec1) - notion AI，写文章必备
 - [phind](https://www.phind.com/) - 轻量级gpt工具，可以用来做gpt的事情，需要科学
 
+## AI数字人
+
+- [来画-动画和数字人智能生成平台](https://www.laihua.com/) - AI数字人，一个国产的
 
 
 ## 低代码
 
+- [amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种后台页面，百度维护 ![img](https://img.shields.io/github/stars/baidu/amis)
+- [appsmith](https://github.com/appsmithorg/appsmith) - 用于构建管理面板、内部工具和仪表板等，允许拖放 UI 组件来构建页面，通过连接到任何 API、数据库或 GraphQL 源，并使用 JavaScript 语言编写逻辑，可以在短时间内创建内部应用程序 ![img](https://img.shields.io/github/stars/appsmithorg/appsmith)
 - [codefun](https://code.fun/) - 视觉稿转h5、vue、react、小程序、rn等等，是商业化解决方案
 - [Deco - 设计稿一键生成多端代码](https://deco-preview.jd.com/) - 京东 sketch 设计稿转各平台代码，Deco 做的比 Picasso 更完善，内部版本实现了编辑器，支持 flex 布局计算，组件标注、通过 AI 算法实现了通过聚类来自动分组、通过推理引擎生成语义化的 className 等，编辑器甚至还支持了逻辑层的处理，可以生成完整的前端代码。
+- [dooring-electron-lowcode](https://github.com/H5-Dooring/dooring-electron-lowcode) - H5落地页最佳实践。技术栈以react和typescript为主， 后台采用nodejs开发, electron作为桌面端基础方案 ![img](https://img.shields.io/github/stars/H5-Dooring/dooring-electron-lowcode)
+- [gods-pen](https://github.com/ymm-tech/gods-pen) - 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。 ![img](https://img.shields.io/github/stars/ymm-tech/gods-pen)
 - [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - 可视化cms，专注h5，基于umi/node/react/hooks ![img](https://img.shields.io/github/stars/MrXujiang/h5-Dooring)
 - [图像大厨imgcook](https://www.imgcook.com/) - 淘宝的设计稿转代码的工具，支持 figma、sketch、psd，甚至还支持图片。除了通过插件上传数据外，也可以直接上传设计稿文件。imgcook 支持的设计稿类型比较多，甚至支持从图片来提取信息，也提供了编辑器功能可以做一些人工干预，功能还是比较全面的。
 - [码匠 - 快速开发内部系统](https://majiang.co/) - 商业化的低代码平台
 - [lowcode-engine](https://github.com/alibaba/lowcode-engine) - 阿里巴巴低代码引擎，一个编辑页（可扩展UI+物料+出码逻辑），然后其他人可以扩展后，基于此做不同业务场景低代码平台 ![img](https://img.shields.io/github/stars/alibaba/lowcode-engine)
+- [lowcode-demo](https://github.com/alibaba/lowcode-demo) - lowcode-engine低代码引擎的demo集合 ![img](https://img.shields.io/github/stars/alibaba/lowcode-demo)
+- [luban-h5](https://github.com/ly525/luban-h5) - 类似易企秀的H5制作、建站工具、可视化搭建系统.基于vue/strapi ![img](https://img.shields.io/github/stars/ly525/luban-h5)
+- [mometa](https://github.com/imcuttle/mometa) - 并不是传统主流的低代码平台（如 amis），mometa 是面向研发、代码可视设计编辑平台，更像是 dreamweaver、gui的可视编辑 工具。借助它，我们可以获得所见即所得的可视编辑开发体验 ![img](https://img.shields.io/github/stars/imcuttle/mometa)
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - 可视化配置nginx ![img](https://img.shields.io/github/stars/digitalocean/nginxconfig.io)
 - [Picasso](https://github.com/wuba/Picasso) - 58同城 Picasso 没有使用 AI 算法，只是做了 sketch 设计稿数据到 DSL 的转换，处理了下分组和布局转换，同时支持绝对定位和 flex 布局，然后打印成各种代码。没有支持编辑器、也没有做 className 的处理，对组件标注的支持也不好 ![img](https://img.shields.io/github/stars/wuba/Picasso)
+- [quark-h5](https://github.com/huangwei9527/quark-h5) - 基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具
+- [shida](https://github.com/tnfe/shida) - 视频可视化搭建项目，开发者可以通过拖拽就可以快速地生产一个短视频，使用方式就像易企秀或百度 H5 等 h5 低代码平台一样。shida的后端视频合成部分是基于FFCreator进行开发的，FFCreator 是一个基于 node.js 的轻量、灵活的短视频加工库，只需要添加几张图片或视频片段再加一段背景音乐，就可以快速生成一个很酷的视频短片 ![img](https://img.shields.io/github/stars/tnfe/shida)
+- [tmagic-editor](https://github.com/Tencent/tmagic-editor) - 腾讯技术中心出品的一款开源低代码框架，能够实现零代码/低代码生成页面 ， 可以快速搭建可视化页面生产平台，让非技术人员可以通过拖拽和配置，自助生成H5页面、PC页面、TV页面 ![img](https://img.shields.io/github/stars/Tencent/tmagic-editor)
+- [vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - vue3.x + vite2.x + vant + element-plus H5移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具 ![img](https://img.shields.io/github/stars/buqiyuan/vite-vue3-lowcode)
 - [VvvebJs](https://github.com/givanz/VvvebJs) - 可视化cms系统开源版 ![img](https://img.shields.io/github/stars/givanz/VvvebJs)
 - [vipshop/ams: AMS是基于 Vue.js 和 Element组件库、通过JSON配置来快速搭建管理后台的一整套前端解决方案](https://github.com/vipshop/ams) - vue的模块、api资源配置解决方案，类似网易飞哥那套config/module，由唯品会大前端团队出品
 
@@ -153,6 +182,7 @@
 
 ## 架构
 
+- [alldata](https://github.com/alldatacenter/alldata) - 一个比较给力的大数据平台，主要是开源免费啊 ![img](https://img.shields.io/github/stars/alldatacenter/alldata)
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - 开源大数据分析平台，可以用于用户行为，实时数据，OLAP，阿里巴巴在用 ![img](https://img.shields.io/github/stars/ClickHouse/ClickHouse)
     - [ClickHouse在手淘流量分析业务实践-InfoQ](https://www.infoq.cn/article/9ddaKIJJaPac9bsDgWmx?utm_source=feedly&utm_medium=article)
 - [dubbokeeper](https://github.com/dubboclub/dubbokeeper) - dubbo服务管理以及监控系统
