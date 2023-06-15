@@ -43,6 +43,9 @@
 
 - [BibiGPT](https://github.com/JimmyLv/BibiGPT) - 利用gpt来实现对哔哩哔哩、YouTube等视频内容的分析、提取、总结 ![img](https://img.shields.io/github/stars/JimmyLv/BibiGPT)
 
+## AI音频
+
+- [wukong-robot](https://github.com/wzpan/wukong-robot) - 可以衔接音响和AI之间的工具 ![img](https://img.shields.io/github/stars/wzpan/wukong-robot)
 
 ## AI文本
 
@@ -61,6 +64,7 @@
 
 ## AI开发者工具
 
+- [chainlit](https://github.com/Chainlit/chainlit) - 快速完成基于gpt的UI开发，可以衔接langchain ![img](https://img.shields.io/github/stars/Chainlit/chainlit)
 - [chatgpt-sites](https://github.com/lzwme/chatgpt-sites) - 中国可以用的chatgpt网站 ![img](https://img.shields.io/github/stars/lzwme/chatgpt-sites)
 - [LocalAI](https://github.com/go-skynet/LocalAI) - 本地部署各种模型的AI，需要本地部署是非常耗费资源的 ![img](https://img.shields.io/github/stars/go-skynet/LocalAI)
 - [notionAI](https://www.notion.so/Getting-Started-f985a41975a04fc5bd4a58a3c1046ec1) - notion AI，写文章必备
@@ -140,7 +144,7 @@
 
 ## 网络相关
 
-- [frp](https://github.com/fatedier/frp) - 基于go实现的内网传统工具 ![img](https://img.shields.io/github/stars/fatedier/frp)
+- [frp](https://github.com/fatedier/frp) - 基于go实现的内网穿透工具 ![img](https://img.shields.io/github/stars/fatedier/frp)
 
 ## 在线编辑
 

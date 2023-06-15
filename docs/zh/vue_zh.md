@@ -74,6 +74,7 @@
 - [menujs](https://github.com/GitHub-Laziji/menujs) - vue2的右键菜单组件，可以嵌套，还不错 ![img](https://img.shields.io/github/stars/GitHub-Laziji/menujs)
 - [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - vue拓展组件，非常好用，可视化表单使用之 ![img](https://img.shields.io/github/stars/SortableJS/Vue.Draggable)
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - swiper轮播图组件的vue版本
+- [vue-beautiful-chat](https://github.com/mattmezza/vue-beautiful-chat) - 一个vue2生态的聊天组件，非常轻量级，适合做大模型对话 ![img](https://img.shields.io/github/stars/mattmezza/vue-beautiful-chat)
 - [vue-clipboard2](https://github.com/Inndy/vue-clipboard2) - 剪切板组件
 - [vue-color](https://github.com/xiaokaike/vue-color) - 颜色选择组件
 - [vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders) - 骨架屏组件
