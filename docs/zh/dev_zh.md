@@ -7,6 +7,7 @@
 - [onedev](https://github.com/theonedev/onedev) - 开源DevOps平台 ![img](https://img.shields.io/github/stars/theonedev/onedev)
 - [laf](https://github.com/labring/laf) - 开源的Serverless平台 ![img](https://img.shields.io/github/stars/labring/laf)
 - [ledge](https://github.com/phodal/ledge) - DEVOPS相关的知识库，非常全面，如果吸收了非常有帮助 ![img](https://img.shields.io/github/stars/phodal/ledge)
+- [建木: 建木是一个面向DevOps领域的极易扩展的开源无代码(图形化)/低代码(GitOps)工具。可以帮助用户轻松编排各种DevOps流程并分发到不同平台执行。](https://gitee.com/jianmu-dev/jianmu) - 一个可视化编排的流水线引擎功能平台，做DevOps的可以参考其实现及交互
 
 ## 接口管理
 
@@ -27,6 +28,7 @@
 ## AI大合集
 
 - [ai-collection](https://github.com/ai-collection/ai-collection) - 各种AI工具大合集，数都数不完，各种方面都有 ![img](https://img.shields.io/github/stars/ai-collection/ai-collection)
+- [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 中文大模型相关信息合集 ![img](https://img.shields.io/github/stars/HqWu-HITCS/Awesome-Chinese-LLM)
 
 ## AI画图工具
 
@@ -42,6 +44,7 @@
 ## AI视频
 
 - [BibiGPT](https://github.com/JimmyLv/BibiGPT) - 利用gpt来实现对哔哩哔哩、YouTube等视频内容的分析、提取、总结 ![img](https://img.shields.io/github/stars/JimmyLv/BibiGPT)
+- [roop](https://github.com/s0md3v/roop) - 一键替换视频中人脸的功能。使用过程非常简单吗，只需要准要准备两张人脸（需要换的和需要被换的）照片，一个视频，就能轻松实现人脸的替换。 ![img](https://img.shields.io/github/stars/s0md3v/roop)
 
 ## AI音频
 
@@ -52,10 +55,14 @@
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - 自问自答无止境的gpt，需要用自己的token才能执行完全，否则只能几句就没了 ![img](https://img.shields.io/github/stars/reworkd/AgentGPT)
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - chatgpt的中文prompts合集，可以参考 ![img](https://img.shields.io/github/stars/PlexPt/awesome-chatgpt-prompts-zh)
 - [ChatDOC](https://chatdoc.com/chatdoc/#/upload) - 基于AI来针对PDF文件提问，特别适合看简历之类的
+- [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - 中文法律大模型 ![img](https://img.shields.io/github/stars/PKU-YuanGroup/ChatLaw)
+- [chatpdf](https://github.com/austin2035/chatpdf/) -  一个类似chatpdf的文档工具，基于openAI，可以自己私有部署 ![img](https://img.shields.io/github/stars/austin2035/chatpdf/)
 - [docsgpt](https://github.com/arc53/docsgpt) - 类似chatdoc，也是将文本进行训练进行提问 ![img](https://img.shields.io/github/stars/arc53/docsgpt)
 - [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - 和chatgpt功能长相一模一样的镜像站，需要自己token ![img](https://img.shields.io/github/stars/yuezk/chatgpt-mirror)
 - [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna) - 羊驼模型的中文版，启动支持了谷歌云的一键部署方案，非常方便 ![img](https://img.shields.io/github/stars/Facico/Chinese-Vicuna)
 - [FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - 可以非常方便部署的gpt，apache出品的模型，没有道德限制 ![img](https://img.shields.io/github/stars/ohmplatform/FreedomGPT)
+- [freegpt-webui](https://github.com/ramonvc/freegpt-webui) - 基于gpt4free的UI页面 ![img](https://img.shields.io/github/stars/ramonvc/freegpt-webui)
+- [gpt4free](https://github.com/xtekky/gpt4free) - 通过逆向工程，利用第三方网站的API来免费使用chatGPT，不需要OpenAI的密钥 ![img](https://img.shields.io/github/stars/xtekky/gpt4free)
 - [LlamaChat](https://github.com/alexrozanski/LlamaChat) - 可以直接运行在Mac上的大语言模型对话客户端，基于羊驼那几个model  ![img](https://img.shields.io/github/stars/alexrozanski/LlamaChat)
 - [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - 一个类似chatgpt的开源工具，目前还比较低智 ![img](https://img.shields.io/github/stars/LAION-AI/Open-Assistant)
 - [unstructured](https://github.com/Unstructured-IO/unstructured) - 从pdf、html等文件获取到AI可以识别的文本，是一个库，给开发用的 ![img](https://img.shields.io/github/stars/Unstructured-IO/unstructured)
@@ -66,14 +73,17 @@
 
 - [chainlit](https://github.com/Chainlit/chainlit) - 快速完成基于gpt的UI开发，可以衔接langchain ![img](https://img.shields.io/github/stars/Chainlit/chainlit)
 - [chatgpt-sites](https://github.com/lzwme/chatgpt-sites) - 中国可以用的chatgpt网站 ![img](https://img.shields.io/github/stars/lzwme/chatgpt-sites)
+- [dify](https://github.com/langgenius/dify) - 一个ai平台dify，可以自己进行训练集上下文和对外暴露ui、接口等功能。目前基于openai，但是可以通过api-for-open-llm替换为开源大模型的接口，再基于部署的开源大模型来完成全套体验 ![img](https://img.shields.io/github/stars/langgenius/dify)
+- [langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - 手动自己搭建本地知识库，本地CPU模式非常卡，而且会出现gugugu的问题，暂时不知道原因 ![img](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM)
 - [LocalAI](https://github.com/go-skynet/LocalAI) - 本地部署各种模型的AI，需要本地部署是非常耗费资源的 ![img](https://img.shields.io/github/stars/go-skynet/LocalAI)
 - [notionAI](https://www.notion.so/Getting-Started-f985a41975a04fc5bd4a58a3c1046ec1) - notion AI，写文章必备
 - [phind](https://www.phind.com/) - 轻量级gpt工具，可以用来做gpt的事情，需要科学
+- [quivr](https://github.com/StanGirard/quivr) - 又一个类似dify、chatpdf的开源工具，可以私有化部署，只能基于openAI ![img](https://img.shields.io/github/stars/StanGirard/quivr)
 
 ## AI数字人
 
 - [来画-动画和数字人智能生成平台](https://www.laihua.com/) - AI数字人，一个国产的
-
+- [Fay](https://github.com/TheRamU/Fay) - 数字人开源项目，国产 ![img](https://img.shields.io/github/stars/TheRamU/Fay)
 
 ## 低代码
 

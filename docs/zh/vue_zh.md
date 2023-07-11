@@ -81,6 +81,7 @@
 - [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - 拖拽组件
 - [vue-drag-resize](https://github.com/kirillmurashov/vue-drag-resize) - 拖动、大小、形状变化组件 ![img](https://img.shields.io/github/stars/kirillmurashov/vue-drag-resize)
 - [vue-chartjs](https://github.com/apertureless/vue-chartjs) - echart的vue包装图表组件
+- [vue-danmaku](https://github.com/hellodigua/vue-danmaku) - 基于vue的弹幕组件，vue2、vue3均支持 ![img](https://img.shields.io/github/stars/hellodigua/vue-danmaku)
 - [vue-form-making](https://github.com/GavinZhuLei/vue-form-making) - 基于Vue的表单设计器，依赖组件，但是json格式可以参考
 - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - 无限滚动加载组件
 - [vue-json-csv](https://github.com/Belphemur/vue-json-csv) - json变csv文件下载。

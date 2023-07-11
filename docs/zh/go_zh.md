@@ -19,6 +19,7 @@
 - [cobra](https://github.com/spf13/cobra) - go的cli框架，k8s、docker等知名工具均基于此 ![img](https://img.shields.io/github/stars/spf13/cobra)
 - [gocui](https://github.com/jroimartin/gocui) - 命令行终端ui，被lazygit使用。支持键盘事件处理、鼠标事件处理、布局管理、滚动窗口等功能 ![img](https://img.shields.io/github/stars/jroimartin/gocui)
 - [gosu](https://github.com/tianon/gosu) - 替代sudo的go命令gosu
+- [go-nunu/nunu: A CLI tool for building Go applications.](https://github.com/go-nunu/nunu) - 一个go语言的脚手架，应用层，类似vue-cli的定位，一些生态选项可以参考
 - [g](https://github.com/voidint/g) - go版本的nvm，用来切换go的版本 ![img](https://img.shields.io/github/stars/voidint/g)
 - [lazygit](https://github.com/jesseduffield/lazygit) - 一个git命令行工具，非常方便，部分场景可以让你不再需要开启sourcetree ![img](https://img.shields.io/github/stars/jesseduffield/lazygit#usage)
 - [open-golang](https://github.com/skratchdot/open-golang) - 打开文件或浏览器，比官方库多了各个平台的兼容性，官方库需要自己适配不同的API ![img](https://img.shields.io/github/stars/skratchdot/open-golang)
