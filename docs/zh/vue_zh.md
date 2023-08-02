@@ -40,6 +40,7 @@
 - [vue3-music](https://github.com/SmallRuralDog/vue3-music) - 基于 Vue 3 + TypeScript + Vite + Pinia + Vueuse 开发的音乐播放器，界面模仿QQ音乐 Mac 客户端，支持黑夜模式。 ![img](https://img.shields.io/github/stars/SmallRuralDog/vue3-music)
 - [vue-manage-system](https://github.com/lin-xin/vue-manage-system) - vue3 element-plus 后台管理系统 ![img](https://img.shields.io/github/stars/lin-xin/vue-manage-system)
 - [vue3-composition-admin](https://github.com/RainManGO/vue3-composition-admin) - 管理端模板解决方案，它基于 Vue3、TypeScript、Vuex、Vue Router、Element plus，项目都是以 composition api 风格编写 ![img](https://img.shields.io/github/stars/RainManGO/vue3-composition-admin)
+- [vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) - vue3 composition typescript vite pinia版本的realworld ![img](https://img.shields.io/github/stars/mutoe/vue3-realworld-example-app)
 - [vue3-ts-vite](https://github.com/cool-team-official/cool-admin-vue/tree/vue3-ts-vite) - 后台管理系统，基于midway.js 2.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue  ![img](https://img.shields.io/github/stars/cool-team-official/cool-admin-vue/tree/vue3-ts-vite)
 - [newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城Vue3 版本，技术栈为 Vue 3.0 + Vue-Router 4.0 + Vuex 4.0 + Vant 3.0。 ![img](https://img.shields.io/github/stars/newbee-ltd/newbee-mall-vue3-app)
 - [vue-next-admin](https://github.com/lyt-Top/vue-next-admin) - 基于 Vue3.x + Typescript + Vite + Element plus + Vuex 等，适配手机、平板、PC 的后台开源免费模板库 ![img](https://img.shields.io/github/stars/lyt-Top/vue-next-admin)
@@ -120,8 +121,10 @@
 
 ## 组合API
 
+- [swrv](https://github.com/Kong/swrv) - swr的vue版本，支持vue2和vue3 ![img](https://img.shields.io/github/stars/Kong/swrv)
 - [vuejs/composition-api: Composition API plugin for Vue 2](https://github.com/vuejs/composition-api) - 想在vue2的项目中用vue3语法吗，用这个就对了。
 - [vueuse](https://github.com/vueuse/vueuse) - 一大堆组合API比如useLocalStorage等, vue2/vue3均可用 ![img](https://img.shields.io/github/stars/vueuse/vueuse)
+
 
 ## 指令
 

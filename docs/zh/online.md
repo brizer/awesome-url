@@ -18,6 +18,7 @@
 - [try-freemarker](https://try.freemarker.apache.org/) - freemarker语言校验器
 - [Modulecounts](http://www.modulecounts.com/) - 各个不同包管理器模块数量比较
 - [photoshoponline](https://www.photopea.com/) - 在线ps，在线Photoshop，非常方便，非常靠谱，可以打开psd、sketch、ai、xd、图片等多种文件类型
+- [poster-design](https://github.com/palxiao/poster-design) - 在线海报图片生成器，非常方便，做图片比如文章配图什么的 ![img](https://img.shields.io/github/stars/palxiao/poster-design)
 - [pdf2doc](https://pdf2doc.com/) - pdf文件转doc文件
 - [plantuml](https://plantuml.com/zh/sequence-diagram) - plantUML的例子和语法
 - [cssspritegenerator](https://spritegen.website-performance.org/) - css雪碧图生成器
@@ -74,4 +75,4 @@
 - [zlib](https://b-ok.cc/) - pdf电子书随便下载
 - [在线英文缩略词查询 | 国际英文缩写查询工具](https://www.abbreviationfinder.org/cn/) - 英文缩写含义搜索
 - [Method Draw Vector Editor](https://editor.method.ac/) - svg在线编辑器
-
+- [File Converter - FreeConvert.com](https://www.freeconvert.com/) - 直接将你的png变为符合iconfont格式的svg图片，注意最好设置颜色为2，也就是单色，否则容易出现模糊的情况

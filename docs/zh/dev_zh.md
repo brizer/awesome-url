@@ -197,6 +197,7 @@
 ## 架构
 
 - [alldata](https://github.com/alldatacenter/alldata) - 一个比较给力的大数据平台，主要是开源免费啊 ![img](https://img.shields.io/github/stars/alldatacenter/alldata)
+- [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - 云原生时代混沌工程的重大利器，故障演练 ![img](https://img.shields.io/github/stars/chaos-mesh/chaos-mesh)
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - 开源大数据分析平台，可以用于用户行为，实时数据，OLAP，阿里巴巴在用 ![img](https://img.shields.io/github/stars/ClickHouse/ClickHouse)
     - [ClickHouse在手淘流量分析业务实践-InfoQ](https://www.infoq.cn/article/9ddaKIJJaPac9bsDgWmx?utm_source=feedly&utm_medium=article)
 - [dubbokeeper](https://github.com/dubboclub/dubbokeeper) - dubbo服务管理以及监控系统
@@ -207,6 +208,7 @@
 - [onpremise](https://github.com/getsentry/onpremise) - Sentry 私有化部署工具
 - [sentry](https://github.com/getsentry/sentry) - Sentry是跨平台语言的性能监控平台。开源可独立部署。
 - [sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - Sitespeed.io是一个开源工具，性能监控，可以帮助您监控，分析和优化您的网站速度和性能，基于来自教练的性能最佳实践建议以及使用Navigation Timing API，用户计时和可视指标收集浏览器指标（FirstVisualChange，SpeedIndex） ＆amp; LastVisualChange）。
+- [webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - 前端埋点系统，前后端均开源可私有化部署 ![img](https://img.shields.io/github/stars/a597873885/webfunny_monitor)
 - [weblate](https://github.com/WeblateOrg/weblate) - web翻译平台，配合国际化使用 ![img](https://img.shields.io/github/stars/WeblateOrg/weblate)
 
 

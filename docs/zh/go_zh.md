@@ -57,6 +57,10 @@
 - [vugu](https://github.com/vugu/vugu) - UI库基于Go+WebAssembly
 
 
+## Util
+
+- [fx](https://github.com/uber-go/fx) - 依赖注入框架 ![img](https://img.shields.io/github/stars/uber-go/fx)
+
 ## Web
 
 - [gin](https://github.com/gin-gonic/gin) - web框架.
