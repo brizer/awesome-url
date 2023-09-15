@@ -74,6 +74,7 @@
 - [chainlit](https://github.com/Chainlit/chainlit) - 快速完成基于gpt的UI开发，可以衔接langchain ![img](https://img.shields.io/github/stars/Chainlit/chainlit)
 - [chatgpt-sites](https://github.com/lzwme/chatgpt-sites) - 中国可以用的chatgpt网站 ![img](https://img.shields.io/github/stars/lzwme/chatgpt-sites)
 - [dify](https://github.com/langgenius/dify) - 一个ai平台dify，可以自己进行训练集上下文和对外暴露ui、接口等功能。目前基于openai，但是可以通过api-for-open-llm替换为开源大模型的接口，再基于部署的开源大模型来完成全套体验 ![img](https://img.shields.io/github/stars/langgenius/dify)
+- [Knit：专业的 Prompt 管理和调试工具](https://mp.weixin.qq.com/s/MSNOmEp1d-NmGFcmFSIMwQ) - 一个免费的，用来调试prompt的工具
 - [langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - 手动自己搭建本地知识库，本地CPU模式非常卡，而且会出现gugugu的问题，暂时不知道原因 ![img](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM)
 - [LocalAI](https://github.com/go-skynet/LocalAI) - 本地部署各种模型的AI，需要本地部署是非常耗费资源的 ![img](https://img.shields.io/github/stars/go-skynet/LocalAI)
 - [notionAI](https://www.notion.so/Getting-Started-f985a41975a04fc5bd4a58a3c1046ec1) - notion AI，写文章必备

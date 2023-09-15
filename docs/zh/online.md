@@ -1,6 +1,7 @@
 # 在线工具
 
 - [AES online](https://tool.lami.fun/jiami/aes) - AES在线加解密
+- [AIDesign](https://ailogo.qq.com/guide/brandname) - AI生成LOGO图片，是相当的给力啊
 - [ASCIIFlow Infinity](http://asciiflow.com/) - 在bash和md中的流程图
 - [Bash Online](https://www.tutorialspoint.com/execute_bash_online.php) - 在线执行bash
 - [codebeautify](https://codebeautify.org/) - 全语言格式化工具
@@ -57,6 +58,7 @@
 - [npmsemanticversioncalculator](https://semver.npmjs.com/) - 一个npm包的版本历史
 - [npmtrends](https://www.npmtrends.com/) - npm模块比较器，可以发现同类型的包
 - [Openbase: choose the right package every time](https://openbase.com/) - 开源包比较分析器
+- [Open-Source UI elements - made with CSS](https://uiverse.io/) - 很多惊艳的样式，动画，button、switch、checkbox、input、form、card等。做炫酷的时候值得一看
 - [React Native Shadow Generator](https://ethercreative.github.io/react-native-shadow-generator/) - rn 盒阴影生成器
 - [rn蓝湖样式转换器](https://brizer.github.io/static/html/rn-css.html) - rn样式蓝湖转化器
 - [transform](https://transform.tools/html-to-jsx) - 常用转换器如html转成jsx等
@@ -72,7 +74,8 @@
 - [typescript-playground](https://www.typescriptlang.org/play/index.html) - Typescript和原生js对比，在线
 - [unpkg](https://unpkg.com/) - 所有前端资源所有版本的在线cdn
 - [user agent parser](https://developers.whatismybrowser.com/useragents/parse/) - 解析user-agent，在线网站
-- [zlib](https://b-ok.cc/) - pdf电子书随便下载
 - [在线英文缩略词查询 | 国际英文缩写查询工具](https://www.abbreviationfinder.org/cn/) - 英文缩写含义搜索
 - [Method Draw Vector Editor](https://editor.method.ac/) - svg在线编辑器
 - [File Converter - FreeConvert.com](https://www.freeconvert.com/) - 直接将你的png变为符合iconfont格式的svg图片，注意最好设置颜色为2，也就是单色，否则容易出现模糊的情况
+- [Yesicon - 精选全球高品质、开源、免费的矢量图标库](https://yesicon.app/) - icon图标搜索站，作者利用ChatGPT翻译了Iconify的18万个图标名，可以方便的中文搜索。
+- [Vue.js Examples](https://vuejsexamples.com/) - 大量Vue相关的示例，范围了各种范围

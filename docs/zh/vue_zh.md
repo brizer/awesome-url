@@ -33,12 +33,15 @@
 
 ## 项目实例-vue3
 
+- [antdv-pro](https://github.com/antdv-pro/antdv-pro) - 基于vue3、vite4、antdesign-vue、typescript、pnpm、unocss、pinia的中后台工程 ![img](https://img.shields.io/github/stars/antdv-pro/antdv-pro)
 - [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开发的一套后台管理框架 ![img](https://img.shields.io/github/stars/HalseySpicy/Geeker-Admin)
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。 ![img](https://img.shields.io/github/stars/flipped-aurora/gin-vue-admin)
 - [PPTist](https://github.com/pipipi-pikachu/PPTist) - ppt在线版，基于vue3、typescript ![img](https://img.shields.io/github/stars/pipipi-pikachu/PPTist)
 - [vue3-bigData](https://github.com/biubiubiu01/vue3-bigData) - 大屏适配项目，基于vue3和echart ![img](https://img.shields.io/github/stars/biubiubiu01/vue3-bigData)
 - [vue3-music](https://github.com/SmallRuralDog/vue3-music) - 基于 Vue 3 + TypeScript + Vite + Pinia + Vueuse 开发的音乐播放器，界面模仿QQ音乐 Mac 客户端，支持黑夜模式。 ![img](https://img.shields.io/github/stars/SmallRuralDog/vue3-music)
+- [Vue.js Examples](https://vuejsexamples.com/) - 大量Vue相关的示例，范围了各种范围
 - [vue-manage-system](https://github.com/lin-xin/vue-manage-system) - vue3 element-plus 后台管理系统 ![img](https://img.shields.io/github/stars/lin-xin/vue-manage-system)
+- [vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - 基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板 ![img](https://img.shields.io/github/stars/zclzone/vue-naive-admin)
 - [vue3-composition-admin](https://github.com/RainManGO/vue3-composition-admin) - 管理端模板解决方案，它基于 Vue3、TypeScript、Vuex、Vue Router、Element plus，项目都是以 composition api 风格编写 ![img](https://img.shields.io/github/stars/RainManGO/vue3-composition-admin)
 - [vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) - vue3 composition typescript vite pinia版本的realworld ![img](https://img.shields.io/github/stars/mutoe/vue3-realworld-example-app)
 - [vue3-ts-vite](https://github.com/cool-team-official/cool-admin-vue/tree/vue3-ts-vite) - 后台管理系统，基于midway.js 2.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue  ![img](https://img.shields.io/github/stars/cool-team-official/cool-admin-vue/tree/vue3-ts-vite)
@@ -66,6 +69,7 @@
 - [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - UI库，都是jsx组件的方式，由阿里巴巴开发
     - [源码分析](https://github.com/FunnyLiu/ant-design-vue/tree/readsource)
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - Bootstrap和Vue的结合，通过render函数，但是不是jsx，基于rollup
+- [drag-table](https://github.com/wangdaoo/drag-table) - elementui表格行和列的拖拽功能demo，基于sortablejs，还挺好用的 ![img](https://img.shields.io/github/stars/wangdaoo/drag-table)
 - [element](https://github.com/ElemeFE/element) - ElementUI 组件库
     - [源码分析](https://github.com/FunnyLiu/element/tree/readsource)
     - [使用webpack打包组件库]
@@ -124,6 +128,7 @@
 - [swrv](https://github.com/Kong/swrv) - swr的vue版本，支持vue2和vue3 ![img](https://img.shields.io/github/stars/Kong/swrv)
 - [vuejs/composition-api: Composition API plugin for Vue 2](https://github.com/vuejs/composition-api) - 想在vue2的项目中用vue3语法吗，用这个就对了。
 - [vueuse](https://github.com/vueuse/vueuse) - 一大堆组合API比如useLocalStorage等, vue2/vue3均可用 ![img](https://img.shields.io/github/stars/vueuse/vueuse)
+- [vue-demi](https://github.com/vueuse/vue-demi) - 想同时兼容vue2和vue3的库，可以使用这个来完成，这也是vueuse兼容vue2&vue3的解决方案 ![img](https://img.shields.io/github/stars/vueuse/vue-demi)
 
 
 ## 指令
@@ -155,6 +160,10 @@
     - [源码分析](https://github.com/FunnyLiu/mobx-vue/tree/readsource)
 - [vuex-orm](https://github.com/vuex-orm/vuex-orm) - 抽出model的概念，并类似ORM一样衔接vuex ![img](https://img.shields.io/github/stars/vuex-orm/vuex-orm)
 
+
+## Vite
+
+- [vite-plugin-node-polyfills](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - vite中使用了node的最佳伴侣，试了很多这个最靠谱 ![img](https://img.shields.io/github/stars/davidmyersdev/vite-plugin-node-polyfills)
 
 
 ## 其他
