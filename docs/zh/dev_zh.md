@@ -80,6 +80,7 @@
 - [notionAI](https://www.notion.so/Getting-Started-f985a41975a04fc5bd4a58a3c1046ec1) - notion AI，写文章必备
 - [phind](https://www.phind.com/) - 轻量级gpt工具，可以用来做gpt的事情，需要科学
 - [quivr](https://github.com/StanGirard/quivr) - 又一个类似dify、chatpdf的开源工具，可以私有化部署，只能基于openAI ![img](https://img.shields.io/github/stars/StanGirard/quivr)
+- [v0.dev by Vercel Labs](https://v0.dev/) - 通过AI来完成UI组件的样式设计，甚至直接生成代码
 
 ## AI数字人
 

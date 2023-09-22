@@ -2,6 +2,7 @@
 
 - [AES online](https://tool.lami.fun/jiami/aes) - AES在线加解密
 - [AIDesign](https://ailogo.qq.com/guide/brandname) - AI生成LOGO图片，是相当的给力啊
+- [AiShort (ChatGPT Shortcut) - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！标签筛选、关键词搜索和一键复制 Prompts | AiShort(ChatGPT Shortcut)-Tag filtering, keyword search, and one-click copy prompts](https://www.aishort.top/) - prompt提示词大全，可自定义、可收藏
 - [ASCIIFlow Infinity](http://asciiflow.com/) - 在bash和md中的流程图
 - [Bash Online](https://www.tutorialspoint.com/execute_bash_online.php) - 在线执行bash
 - [codebeautify](https://codebeautify.org/) - 全语言格式化工具
@@ -13,6 +14,7 @@
 - [component online Bit](https://bit.dev/) - 在线查找组件，各种框架都有
 - [createApp](https://createapp.dev/) - 选择不同框架库创建项目的脚手架
 - [Crx4Chrome](https://www.crx4chrome.com/) - 一个在国内下载chrome扩展的好地方，感恩
+- [echoserver: A simple echo server for testing HTTP clients.](https://echoserver.dev/) - 一个用来测试http的工具，可以通过参数自定义响应体和响应头，非常方便，适合测试
 - [graphviz-online](http://viz-js.com/) - 在线 graphviz 解析，流程图画图
 - [hashonline](https://emn178.github.io/online-tools/index.html) - hash 转换（sha256等等）
 - [ideone](https://ideone.com/) - 支持c++，java等多种语言的在线编辑器

@@ -97,6 +97,7 @@
 - [buffer-components](https://github.com/bufferapp/buffer-components) - react组件库，基于storybook/react  ![img](https://img.shields.io/github/stars/bufferapp/buffer-components)
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - 基于javascript/hooks/react/lerna/storybook的ui组件库
     - [源码分析](https://github.com/FunnyLiu/chakra-ui/tree/readsource)
+- [ChatUI](https://github.com/alibaba/ChatUI) - 聊天组件，阿里巴巴出品，看起来不错，开箱即用 ![img](https://img.shields.io/github/stars/alibaba/ChatUI)
 - [draft-js](https://github.com/facebook/draft-js) - 富文本编辑器，由facebook出品
 - [element-react](https://github.com/ElemeFE/element-react) - Element组件的react版本，class风格。
     - [源码分析](https://github.com/FunnyLiu/element-react/tree/readsource)
