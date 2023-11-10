@@ -18,6 +18,7 @@
 - [自研小程序引擎最快的方案](https://www.finclip.com/) - 通过FinClip来自研小程序引擎，应该是最快的方案，小程序容器技术
 - [miniprogram-ci](https://www.npmjs.com/package/miniprogram-ci) - 在ci提交代码给微信，直接完成小程序上传
 - [wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架，不再紧紧是一个组件维度了，腾讯官方出品 ![img](https://img.shields.io/github/stars/Tencent/wepy)
+- [westore](https://github.com/Tencent/westore) - 腾讯推出的小程序分层框架，适用于大中型小程序项目的可维护性提升 ![img](https://img.shields.io/github/stars/Tencent/westore)
 - [weui-wxss](https://github.com/Tencent/weui-wxss/) - 微信小程序组件库 ![img](https://img.shields.io/github/stars/Tencent/weui-wxss/)
 
 ## 小程序项目实例

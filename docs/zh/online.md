@@ -38,6 +38,7 @@
 - [regexper](https://regexper.com/) - 正则表达式流程图
 - [Regex Vis](https://regex-vis.com/) - 在线正则流程图，类似regexper
 - [resource-search](https://www.dalipan.com/) - 云盘中搜索资源
+- [it-tools](https://github.com/CorentinTh/it-tools) - 各种开发工具比如json格式化，加解密hash等 ![img](https://img.shields.io/github/stars/CorentinTh/it-tools)
 - [sql-translator](https://github.com/whoiskatrin/sql-translator) - sql生成器，通过AI生成SQL语句 ![img](https://img.shields.io/github/stars/whoiskatrin/sql-translator)
 - [javascripting](https://www.javascripting.com/) - 查看前端框架
 - [jiumodiray](https://www.jiumodiary.com/) - pdf电子书免费下载

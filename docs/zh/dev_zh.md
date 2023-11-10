@@ -4,6 +4,7 @@
 
 ## DevOps
 
+- [DevOps](https://github.com/Pradumnasaraf/DevOps) - 一个DevOps相关生态的教程 ![img](https://img.shields.io/github/stars/Pradumnasaraf/DevOps)
 - [onedev](https://github.com/theonedev/onedev) - 开源DevOps平台 ![img](https://img.shields.io/github/stars/theonedev/onedev)
 - [laf](https://github.com/labring/laf) - 开源的Serverless平台 ![img](https://img.shields.io/github/stars/labring/laf)
 - [ledge](https://github.com/phodal/ledge) - DEVOPS相关的知识库，非常全面，如果吸收了非常有帮助 ![img](https://img.shields.io/github/stars/phodal/ledge)
@@ -28,10 +29,12 @@
 ## AI大合集
 
 - [ai-collection](https://github.com/ai-collection/ai-collection) - 各种AI工具大合集，数都数不完，各种方面都有 ![img](https://img.shields.io/github/stars/ai-collection/ai-collection)
-- [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 中文大模型相关信息合集 ![img](https://img.shields.io/github/stars/HqWu-HITCS/Awesome-Chinese-LLM)
+- [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 中文大模型相关信息合集，各种垂直领域大模型 ![img](https://img.shields.io/github/stars/HqWu-HITCS/Awesome-Chinese-LLM)
+- [CLUE](https://github.com/CLUEbenchmark/CLUE) - 支持中文的大模型评测排行榜 ![img](https://img.shields.io/github/stars/CLUEbenchmark/CLUE)
 
 ## AI画图工具
 
+- [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI画图网站大全 ![img](https://img.shields.io/github/stars/hua1995116/awesome-ai-painting)
 - [ClipDrop](https://clipdrop.co/) - Stable Diffusion推出的商业版图片编辑网站，很多免费功能
 - [Image Upscaler Online – AI 放大照片而不损失质量](https://www.vidmore.com/zh/image-upscaler/) - 让图片变更清晰
 - [wombo.art](https://dream.ai/create) - 免费的画图工具，通过文字来画图
@@ -151,12 +154,17 @@
 
 ## 网关
 
+- [higress](https://github.com/alibaba/higress) - 阿里巴巴出品的云原生网关，基于ingress、enovy，支持全链路灰度，阿里巴巴商业MSE的开源版本 ![img](https://img.shields.io/github/stars/alibaba/higress)
 - [kong](https://github.com/Kong/kong) - API网关，比较通用，支持各种服务端 ![img](https://img.shields.io/github/stars/Kong/kong)
 - [spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway) - Spring全家桶里的API网关 ![img](https://img.shields.io/github/stars/spring-cloud/spring-cloud-gateway)
 
 ## 网络相关
 
 - [frp](https://github.com/fatedier/frp) - 基于go实现的内网穿透工具 ![img](https://img.shields.io/github/stars/fatedier/frp)
+
+## 安全
+
+- [SafeLine](https://github.com/chaitin/SafeLine) - 一款开源的web应用防火墙 ![img](https://img.shields.io/github/stars/chaitin/SafeLine)
 
 ## 在线编辑
 
@@ -174,8 +182,10 @@
 ## 插件
 
 - [automa](https://github.com/AutomaApp/automa) - 浏览器扩展，用于自动化执行一些网页操作，UI自动化 ![img](https://img.shields.io/github/stars/AutomaApp/automa)
+- [create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext) - 一个创建浏览器扩展的脚手架，各种前端框架均支持 ![img](https://img.shields.io/github/stars/guocaoyi/create-chrome-ext)
 - [selenium-ide](https://github.com/seleniumhq/selenium-ide) - 浏览器扩展，用于自动化执行一些网页操作，UI自动化 ![img](https://img.shields.io/github/stars/seleniumhq/selenium-ide)
 - [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - chrome浏览器扩展官方示例集合 ![img](https://img.shields.io/github/stars/GoogleChrome/chrome-extensions-samples)
+- [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - 一个基于chatgpt的vscode插件，功能非常全面，可以用来借鉴 ![img](https://img.shields.io/github/stars/gencay/vscode-chatgpt)
 - [vscode-extension-samples](https://github.com/Microsoft/vscode-extension-samples) - 微软官方的vscode简单实例合集 ![img](https://img.shields.io/github/stars/Microsoft/vscode-extension-samples)
 - [vscode-stories](https://github.com/benawad/vscode-stories) - 分享vscode代码片段的插件 ![img](https://img.shields.io/github/stars/benawad/vscode-stories)
 - [vscode-wakatime](https://github.com/wakatime/vscode-wakatime) - 统计编码时间的vscode插件 ![img](https://img.shields.io/github/stars/wakatime/vscode-wakatime)

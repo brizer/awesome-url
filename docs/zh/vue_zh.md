@@ -149,6 +149,7 @@
 ## 工程化架构解决方案
 
 - [Avue](https://avuejs.com/) - vue2/vue3业务组件库的一系列参考
+- [learning-vue3](https://github.com/chengpeiquan/learning-vue3) - 一个讲vue3的好系列教程，非常给力，一本书完全开源 ![img](https://img.shields.io/github/stars/chengpeiquan/learning-vue3)
 - [WeBankFinTech/fes.js: Fes.js 是一个基于 Vue 3 好用的前端应用解决方案。以约定、配置化、组件化的设计思想，让用户仅仅关心用组件搭建页面内容。技术曲线平缓，上手也简单。在经过多个项目中打磨后趋于稳定。丰富的 Vue 3 生态 和 Fes.js 插件，让业务开发更加简单快捷~](https://github.com/WeBankFinTech/fes.js) - 基于vue3的前端工程化解决方案
 - [vipshop/ams: AMS是基于 Vue.js 和 Element组件库、通过JSON配置来快速搭建管理后台的一整套前端解决方案](https://github.com/vipshop/ams) - vue的模块、api资源配置解决方案，类似网易飞哥那套config/module，由唯品会大前端团队出品
 
