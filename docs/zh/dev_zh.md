@@ -43,11 +43,14 @@
 - [phtotokit](https://photokit.com/) - 一键抠图、AI移除、在线图片编辑
 - [paint-by-text](https://github.com/replicate/paint-by-text) - 通过文字来改图，自测可以精细化，还不错，功能类似playgroundai.com ![img](https://img.shields.io/github/stars/replicate/paint-by-text)
 - [segment-anything](https://github.com/facebookresearch/segment-anything) - 抠图神器，Facebook出品，有在线地址，可以非常方便 ![img](https://img.shields.io/github/stars/facebookresearch/segment-anything)
+- [Wonder3D](https://github.com/xxlong0/Wonder3D) - 2D图片变成3D模型 ![img](https://img.shields.io/github/stars/xxlong0/Wonder3D)
 
 ## AI视频
 
 - [BibiGPT](https://github.com/JimmyLv/BibiGPT) - 利用gpt来实现对哔哩哔哩、YouTube等视频内容的分析、提取、总结 ![img](https://img.shields.io/github/stars/JimmyLv/BibiGPT)
 - [roop](https://github.com/s0md3v/roop) - 一键替换视频中人脸的功能。使用过程非常简单吗，只需要准要准备两张人脸（需要换的和需要被换的）照片，一个视频，就能轻松实现人脸的替换。 ![img](https://img.shields.io/github/stars/s0md3v/roop)
+- [video-retalking](https://github.com/OpenTalker/video-retalking) - 给视频和音频，得到新视频，改变人的发言和口型 ![img](https://img.shields.io/github/stars/OpenTalker/video-retalking)
+
 
 ## AI音频
 
@@ -76,6 +79,7 @@
 
 - [chainlit](https://github.com/Chainlit/chainlit) - 快速完成基于gpt的UI开发，可以衔接langchain ![img](https://img.shields.io/github/stars/Chainlit/chainlit)
 - [chatgpt-sites](https://github.com/lzwme/chatgpt-sites) - 中国可以用的chatgpt网站 ![img](https://img.shields.io/github/stars/lzwme/chatgpt-sites)
+- [cody](https://github.com/sourcegraph/cody) - SourceGraph 出品的基于当前代码库的AI问答机器人，有利于编程 ![img](https://img.shields.io/github/stars/sourcegraph/cody)
 - [dify](https://github.com/langgenius/dify) - 一个ai平台dify，可以自己进行训练集上下文和对外暴露ui、接口等功能。目前基于openai，但是可以通过api-for-open-llm替换为开源大模型的接口，再基于部署的开源大模型来完成全套体验 ![img](https://img.shields.io/github/stars/langgenius/dify)
 - [Knit：专业的 Prompt 管理和调试工具](https://mp.weixin.qq.com/s/MSNOmEp1d-NmGFcmFSIMwQ) - 一个免费的，用来调试prompt的工具
 - [langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - 手动自己搭建本地知识库，本地CPU模式非常卡，而且会出现gugugu的问题，暂时不知道原因 ![img](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM)
@@ -83,6 +87,7 @@
 - [notionAI](https://www.notion.so/Getting-Started-f985a41975a04fc5bd4a58a3c1046ec1) - notion AI，写文章必备
 - [phind](https://www.phind.com/) - 轻量级gpt工具，可以用来做gpt的事情，需要科学
 - [quivr](https://github.com/StanGirard/quivr) - 又一个类似dify、chatpdf的开源工具，可以私有化部署，只能基于openAI ![img](https://img.shields.io/github/stars/StanGirard/quivr)
+- [screenshot-to-code](https://github.com/abi/screenshot-to-code) - 使用gpt4，从一个图片自动生成html ![img](https://img.shields.io/github/stars/abi/screenshot-to-code)
 - [v0.dev by Vercel Labs](https://v0.dev/) - 通过AI来完成UI组件的样式设计，甚至直接生成代码
 
 ## AI数字人

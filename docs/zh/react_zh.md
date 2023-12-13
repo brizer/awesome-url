@@ -120,6 +120,7 @@
 - [react-infinite-scroller](https://github.com/CassetteRocks/react-infinite-scroller) - 无限滑动组件
 - [react-json-view](https://github.com/mac-s-g/react-json-view) - json查看和编辑组件，找了好久唯一一个通用性和设计强点的存储json编辑
 - [react-keep-alive](https://github.com/StructureBuilder/react-keep-alive) - keep-alive的react实现，基于React.createPortal API
+- [react-login-page](https://github.com/uiwjs/react-login-page) - React构建的登录组件，开箱即用 ![img](https://img.shields.io/github/stars/uiwjs/react-login-page)
 - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - vscode编辑器组件monaco的react版
 - [react-tippy](https://www.npmjs.com/package/react-tippy) - 一个提示组件
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - 虚拟无限滚动列表 ![img](https://img.shields.io/github/stars/bvaughn/react-virtualized)

@@ -19,6 +19,7 @@
 # 算法
 
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子。
+- [hello-algo](https://github.com/krahets/hello-algo) - 一个介绍算法的非常全量的教程，包含各种语言和各种算法的图解 ![img](https://img.shields.io/github/stars/krahets/hello-algo)
 - [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms) - 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系 ![img](https://img.shields.io/github/stars/sisterAn/JavaScript-Algorithms)
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - javascript实现各种算法的例子及相关拓展阅读 ![img](https://img.shields.io/github/stars/trekhleb/javascript-algorithms)
 - [leetcode](https://leetcode.com/) - 算法学习平台
@@ -66,9 +67,11 @@
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 像游戏一样学习git
 - [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 机器学习的入门教程，非常全面，全英文 ![img](https://img.shields.io/github/stars/microsoft/ML-For-Beginners)
 - [nginx-tutorial](https://github.com/dunwu/nginx-tutorial) - nginx中文极简教程，用来学习nginx ![img](https://img.shields.io/github/stars/dunwu/nginx-tutorial)
+- [Patterns.dev](https://www.patterns.dev/#patterns) - 关于js、react、vue的一些设计模式和编码技巧，还是非常好的。
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 如何问出好的prompt，AI user必备 ![img](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide)
 - [Python-Core-50-Courses](https://github.com/jackfrued/Python-Core-50-Courses) - Python语言基础50课 ![img](https://img.shields.io/github/stars/jackfrued/Python-Core-50-Courses)
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 ![img](https://img.shields.io/github/stars/jackfrued/Python-100-Days)
+- [qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 英语、编程API，键盘训练，有点类似金山打字通，既可以联练习键盘又可以练习英文 ![img](https://img.shields.io/github/stars/RealKai42/qwerty-learner)
 - [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - React和Typescript开发的入门备忘录 ![img](https://img.shields.io/github/stars/typescript-cheatsheets/react-typescript-cheatsheet)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - 系统设计学习之路 ![img](https://img.shields.io/github/stars/donnemartin/system-design-primer)
 - [system-design-101](https://github.com/ByteByteGoHq/system-design-101) - 系统设计的好文章，以面试题的角度出发理解系统设计的一些知识点 ![img](https://img.shields.io/github/stars/ByteByteGoHq/system-design-101)

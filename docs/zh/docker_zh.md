@@ -33,6 +33,7 @@
 
 - [lens](https://github.com/lensapp/lens) - k8s本地客户端管理工具，德国大众使用之 ![img](https://img.shields.io/github/stars/lensapp/lens)
 - [k9s](https://github.com/derailed/k9s) - 命令行工具，管理k8s集群里的信息 ![img](https://img.shields.io/github/stars/derailed/k9s)
+- [kwok](https://github.com/kubernetes-sigs/kwok) - kubectl和k8s的mock版，可以用来专门熟悉k8s命令行操作 ![img](https://img.shields.io/github/stars/kubernetes-sigs/kwok)
 
 ## 私服
 
