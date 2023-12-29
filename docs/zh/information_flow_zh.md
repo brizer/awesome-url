@@ -53,6 +53,7 @@
 
 - [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - React30天入门教程 ![img](https://img.shields.io/github/stars/Asabeneh/30-Days-Of-React)
 - [freecodecamp](https://www.freecodecamp.org/) - 前端学习平台，github霸榜项目
+- [deep-into-node?tab=readme-ov-file](https://github.com/yjhjstz/deep-into-node?tab=readme-ov-file) - 深入理解ode系列 ![img](https://img.shields.io/github/stars/yjhjstz/deep-into-node?tab=readme-ov-file)
 - [design-patterns-JS](https://github.com/fbeline/design-patterns-JS) - javascript版本的设计模式简易demo ![img](https://img.shields.io/github/stars/fbeline/design-patterns-JS)
 - [design-patterns-typescript](https://github.com/RefactoringGuru/design-patterns-typescript) - Typescript版本的设计模式教程 ![img](https://img.shields.io/github/stars/RefactoringGuru/design-patterns-typescript)
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - 各种语言的设计模式，应有尽有 ![img](https://img.shields.io/github/stars/DovAmir/awesome-design-patterns)

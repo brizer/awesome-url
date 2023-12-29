@@ -21,6 +21,7 @@
 - [gosu](https://github.com/tianon/gosu) - 替代sudo的go命令gosu
 - [go-nunu/nunu: A CLI tool for building Go applications.](https://github.com/go-nunu/nunu) - 一个go语言的脚手架，应用层，类似vue-cli的定位，一些生态选项可以参考
 - [g](https://github.com/voidint/g) - go版本的nvm，用来切换go的版本 ![img](https://img.shields.io/github/stars/voidint/g)
+- [huh](https://github.com/charmbracelet/huh) - 终端表单控件，类似node里的inquirer ![img](https://img.shields.io/github/stars/charmbracelet/huh)
 - [lazygit](https://github.com/jesseduffield/lazygit) - 一个git命令行工具，非常方便，部分场景可以让你不再需要开启sourcetree ![img](https://img.shields.io/github/stars/jesseduffield/lazygit#usage)
 - [open-golang](https://github.com/skratchdot/open-golang) - 打开文件或浏览器，比官方库多了各个平台的兼容性，官方库需要自己适配不同的API ![img](https://img.shields.io/github/stars/skratchdot/open-golang)
 - [dive](https://github.com/wagoodman/dive) - 用来剖析一个镜像的内容，韬老鼎力推荐 ![img](https://img.shields.io/github/stars/wagoodman/dive)
